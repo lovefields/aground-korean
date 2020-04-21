@@ -2595,7 +2595,7 @@
 		<text id="shirt">셔츠 색:</text>
 		<text id="pants">바지 색:</text>
 		<text id="hair_style">머리 모양:</text>
-		<text id="shirt_style">셔츠 종류:</text>
+		<text id="shirt_style">셔츠 스타일:</text>
 		<text id="beard_style">수염:</text>
 		<text id="fur">Fur Color:</text>
 	</section>
@@ -2622,8 +2622,8 @@
 		<text id="custom">Custom</text>
 	</section>
 	<section id="offsets">
-		<text id="open">Open</text>
-		<text id="closed">Closed</text>
+		<text id="open">당당</text>
+		<text id="closed">수줍</text>
 	</section>
 	<section id="difficulty">
 		<text id="easiest">Easiest</text>
