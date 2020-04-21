@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<lang id="ko_KR" name="Korean" version="2.0.5" font="font/Dotum.fnt">
+<lang id="ko_KR" name="한국어" version="2.0.5" font="font/Dotum.fnt">
 	<section id="common">
 		<text id="mods">모드</text>
 		<text id="sub_pen">Sub Pen</text>
@@ -130,7 +130,7 @@
 		<text id="empty">공란</text>
 		<text id="empty_slot">&lt; 공란 &gt;</text>
 		<text id="corrupt_slot">Corrupted Slot</text>
-		<text id="overwrite">Are you sure you wish to overwrite this slot?</text>
+		<text id="overwrite">정말로 덮어쓸건가요?</text>
 		<text id="none">없음</text>
 		<text id="addition_slots">Fields:</text>
 		<text id="placed">{item} placed.</text>
@@ -211,7 +211,7 @@
 		<text id="random">랜덤</text>
 		<text id="efficiency">Efficiency</text>
 		<text id="victory">Victory!</text>
-		<text id="item_found">New Item Discovered!</text>
+		<text id="item_found">새로운 아이템 발견!</text>
 		<text id="more">+{count} More...</text>
 		<text id="dismantle_tip">To build this structure, you need to move or remove overlapping structures. You can do this using [item=dismantle] from your inventory.</text>
 		<text id="delete_save">Are you sure you wish to delete this slot?</text>
@@ -291,7 +291,7 @@
 		<text id="unequip">장비해제</text>
 		<text id="fire">Fire</text>
 		<text id="eat">Eat</text>
-		<text id="loot">Loot Corpse</text>
+		<text id="loot">시체 뒤지기</text>
 		<text id="feed">Feed</text>
 		<text id="feed_all">Feed All</text>
 		<text id="fuel_all">Fuel All</text>
@@ -678,8 +678,8 @@
 		<text id="magic_box">Magic Box</text>
 		<text id="cloth">Cloth</text>
 		<text id="net">Net</text>
-		<text id="berries">Berries</text>
-		<text id="red_berries">Red Berries</text>
+		<text id="berries">열매</text>
+		<text id="red_berries">빨간 열매</text>
 		<text id="ice_berries">Ice Berries</text>
 		<text id="health_potion">Health Potion</text>
 		<text id="stamina_potion">Stamina Potion</text>
@@ -1529,7 +1529,7 @@
 		<text id="monoliths">wants to activate all the [color=770000]Monoliths[/color].</text>
 		<text id="colony_ship">wants to repair a [color=770000]Colony Ship[/color].</text>
 		<text id="hut">폭풍을 피할수 있도록 [color=550000]오두막[/color]을 수리하세요.</text>
-		<text id="storehouse">wants to build a [color=550000]Storehouse[/color].</text>
+		<text id="storehouse">가 [color=550000]창고[/color]를 지으려 합니다.</text>
 		<text id="storehouse2">Build a [color=550000]Storehouse[/color] to store all your items.</text>
 		<text id="smelter">wants a [color=550000]Smelter[/color] to refine ores.</text>
 		<text id="workshop">wants a [color=550000]Workshop[/color] to create metal tools.</text>
@@ -1644,11 +1644,11 @@
 		<text id="homeworld1">Will there be lots of food there?</text>
 		<text id="homeworld2">You bet!</text>
 		<text id="homeworld3">Then I’m off! See you there!</text>
-		<text id="intro">You really expect to be able to survive here? It’s hopeless, man.</text>
-		<text id="introduce1">You’re good at building right? What if we built something to store the resources and food we gather?</text>
-		<text id="introduce2">Hmph. I guess with [var=quest.storehouse.wood] [item=wood] and [var=quest.storehouse.berries] [item=berries] I might be able to make a decent [color=770000]Storehouse[/color].</text>
-		<text id="accept1">Alright! I can find that, no problem.</text>
-		<text id="accept2">Take this [item=stone_axe], if you’re so gung-ho.</text>
+		<text id="intro">당신 정말로 여기서 살아남을 수 있다고 생각하오? 가망이 없소.</text>
+		<text id="introduce1">당신은 솜씨좋은 건축가 아니에요? 우리가 자원과 식량을 보관할 수있는 건축물을 짓는게 어떨까요?</text>
+		<text id="introduce2">에휴. [item=wood] [var=quest.storehouse.wood]개와 [item=berries] [var=quest.storehouse.berries]개가 있다면 [color=770000]창고[/color]를 제대로 만들 수 있을 것 같소.</text>
+		<text id="accept1">좋아! 제가 모아주죠, 문제 없어요.</text>
+		<text id="accept2">[item=stone_axe]을(를) 받으시오, 그렇게 열정적 이라면 한번 해보시오.</text>
 		<text id="stamina">I'm exhausted. You look tired too. We should rest in the [color=770000]Hut[/color] to save the game and restore our [tile=stamina] [color=006600]Stamina[/color].</text>
 		<text id="wood">How's my old [item=stone_axe]? I bet it could chop down a tree by hitting [key=attack] next to one.</text>
 		<text id="hint1">All items go into your inventory when you collect them. You can check it by hitting [key=inventory].</text>
@@ -1940,11 +1940,11 @@
 		<text id="homeworld">We’re setting up a new colony for humanity on {area}!</text>
 		<text id="storm1">너무 추워…[pause=1] 그리고 지쳣어…[pause=1] 쉴곳이 필요해, 하지만 이곳엔 아무것도 없어 그래도 떨어진 목재들이 보여!</text>
 		<text id="storm3">[item=wood]을(를) 간신히 짊어지고 있어! 이동하려면 [tile=stamina] [color=006600]기력[/color]이 많이 들거야, 하지만 난 여기서 멈출수 없어, 난 쉴곳을 찾아야해!</text>
-		<text id="hut1">이게 무슨 건물이지? 누군가 쉴곳을 만들다가 멈춘것 같아. [var=quest.hut.wood] [item=wood]가 있으면 완공할 수 있겟는데?</text>
+		<text id="hut1">이게 무슨 건물이지? 누군가 쉴곳을 만들다가 멈춘것 같아. [item=wood] [var=quest.hut.wood]개가 있으면 완공할 수 있겟는데?</text>
 		<text id="hut2">I have {count} of [var=quest.hut.wood] [item=wood] needed to finish this [color=770000]Hut[/color]. 더 많은 나무가 필요해.</text>
-		<text id="hut3">[item=wood] {added}개를 [color=770000]오두막[/color]에 사용했다. {remaining}개르 더 모아서 완성하자!</text>
-		<text id="storehouse1">This axe could come in handy. With it I could probably build a [color=770000]Storehouse[/color] to store the resources I gather.</text>
-		<text id="storehouse2">I bet I could make a storehouse with [var=quest.storehouse.wood] [item=wood] and [var=quest.storehouse.berries] [item=berries].</text>
+		<text id="hut3">[item=wood] {added}개를 [color=770000]오두막[/color]에 사용했다. {remaining}개를 모아서 완성하자!</text>
+		<text id="storehouse1">이 도끼는 [color=770000]창고[/color]를 지을수 있는 재료를 얻기에 유용하다.</text>
+		<text id="storehouse2">[item=wood] [var=quest.storehouse.wood]개와 [item=berries] [var=quest.storehouse.berries]개가 있으면 창고를 지을수 있다고 확신한다.</text>
 		<text id="storehouse3">Alright! Let’s get this storehouse built!</text>
 		<text id="storehouse4">Perfect. Now I can avoid getting tired out from carrying too much.</text>
 		<text id="dock1">I wonder if the thief was telling the truth about other survivors?</text>
@@ -2305,15 +2305,15 @@
 		<text id="nav7">This is why we were willing to sacrifice everything for strength... from the day we landed on this planet, a confrontation with them became inevitable.</text>
 	</section>
 	<section id="scene.hut">
-		<text id="first1">Not bad at all... I wonder who began building this structure... and why they stopped. It looks pretty recent...</text>
-		<text id="first2">Help…[pause=4] please…[pause=4] shelter…</text>
-		<text id="first3">Someone is outside! Can I trust them?</text>
-		<text id="first4">Thank you. I owe you my life. I had all but given up hope - I was too tired and hungry to finish this shelter. But what do we do now?</text>
-		<text id="first5">For now, we stay warm and dry.</text>
-		<text id="first6">But what about after that? How will we survive on this deserted island?</text>
-		<text id="first7">Is there even any point? We’re stuck here, there’s no going back.</text>
-		<text id="first8">At least we can try. Maybe life here won’t be as bad as you think it will.</text>
-		<text id="first9">Please…[pause=4] help…</text>
+		<text id="first1">꽤 나쁘지 않군... 누가 이 건물을 짓기 시작한건지 궁금하다... 그리고 그들은 왜 멈춘거지. 최근에 지으려 한것 같은데...</text>
+		<text id="first2">도와주세요…[pause=4] 안에 없어요?[pause=4]</text>
+		<text id="first3">누군가 밖에 있다! 그를 들일까?</text>
+		<text id="first4">고마워요. 당신은 내 생명의 은인이오. 나는 거의 포기 직전이었다오- 난 너무 지치고 배고파서 이 오두막을 완공하지 못했소. 하지만 이제 우리는 뭘하죠?</text>
+		<text id="first5">일단은, 여기서 몸을 따뜻하게 하고 물기를 말리죠.</text>
+		<text id="first6">하지만 그 다음은? 어떻게 이 무인도에서 사람남겟소?</text>
+		<text id="first7">뾰족한 수라도 있소? 우리는 여기 같혀서 돌아갈수가 없단말이오.</text>
+		<text id="first8">뭐라도 시도할수 있겟죠. 이 섬에서의 생활이 당신이 생각하는 것 보다 나쁘지 않을 수 있습니다.</text>
+		<text id="first9">제발…[pause=4] 도와주세요…</text>
 		<text id="second1">… so when I arrived here I just started digging and didn’t even realize there was a storm.</text>
 		<text id="second2">But I’m glad you’re here. I was getting tired of eating dirt, and there’s nothing like a warm fire after a long day underground.</text>
 		<text id="second3">Do you think there are more survivors out there?</text>
