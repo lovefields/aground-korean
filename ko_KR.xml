@@ -620,7 +620,7 @@
 		<text id="advanced_net">Advanced Net</text>
 		
 		<text id="drone_factory_upgrade">Drone Factory Upgrade</text>
-		<text id="wood">나무</text>
+		<text id="wood">목재</text>
 		<text id="coal">석탄</text>
 		<text id="iron">철광석</text>
 		<text id="quartz">Quartz</text>
@@ -1266,9 +1266,9 @@
 		<text id="summon_dragon">Summon Dragon</text>
 	</section>
 	<section id="object.tooltip">
-		<text id="bush">Pick Berries</text>
+		<text id="bush">열매 따기</text>
 		<text id="tree">Chop Tree</text>
-		<text id="enemy">Attack</text>
+		<text id="enemy">공격</text>
 		<text id="collect">{item} 수집</text>
 		<text id="open">{item} 열기</text>
 		<text id="harvest">{item} 수확</text>
@@ -1320,7 +1320,7 @@
 		<text id="use_missing">Cannot use {weapon} without {item}.</text>
 		<text id="werewolf_vehicle">These {item} are too clumsy to operate a vehicle!</text>
 		<text id="operation_table_inhuman">The [color=770000]Surgery Lab[/color] cannot turn non-humans into cyborgs.</text>
-		<text id="weight">Over Carrying Capacity!</text>
+		<text id="weight">너무 무겁게 짊어지고 있습니다!</text>
 		<text id="stamina">Out of Stamina, Losing Health!</text>
 		<text id="oxygen">Out of Oxygen, Losing Health!</text>
 		<text id="crush">Below Dive Depth, Losing Health!</text>
@@ -1938,11 +1938,11 @@
 		<text id="no_translate">There is nothing here to translate.</text>
 		<text id="static">There's nothing but static...</text>
 		<text id="homeworld">We’re setting up a new colony for humanity on {area}!</text>
-		<text id="storm1">너무 추워…[pause=1] 그리고 지쳣어…[pause=1] 쉴곳이 필요해, 하지만 이곳엔 아무것도 없어 그래도 떨어진 나뭇가지들이 보여!</text>
+		<text id="storm1">너무 추워…[pause=1] 그리고 지쳣어…[pause=1] 쉴곳이 필요해, 하지만 이곳엔 아무것도 없어 그래도 떨어진 목재들이 보여!</text>
 		<text id="storm3">[item=wood]을(를) 간신히 짊어지고 있어! 이동하려면 [tile=stamina] [color=006600]기력[/color]이 많이 들거야, 하지만 난 여기서 멈출수 없어, 난 쉴곳을 찾아야해!</text>
 		<text id="hut1">이게 무슨 건물이지? 누군가 쉴곳을 만들다가 멈춘것 같아. [var=quest.hut.wood] [item=wood]가 있으면 완공할 수 있겟는데?</text>
 		<text id="hut2">I have {count} of [var=quest.hut.wood] [item=wood] needed to finish this [color=770000]Hut[/color]. 더 많은 나무가 필요해.</text>
-		<text id="hut3">[item=wood] {added}개를 [color=770000]오두막[/color]에 사용했다. {remaining}개를 써서 완성하자!</text>
+		<text id="hut3">[item=wood] {added}개를 [color=770000]오두막[/color]에 사용했다. {remaining}개르 더 모아서 완성하자!</text>
 		<text id="storehouse1">This axe could come in handy. With it I could probably build a [color=770000]Storehouse[/color] to store the resources I gather.</text>
 		<text id="storehouse2">I bet I could make a storehouse with [var=quest.storehouse.wood] [item=wood] and [var=quest.storehouse.berries] [item=berries].</text>
 		<text id="storehouse3">Alright! Let’s get this storehouse built!</text>
