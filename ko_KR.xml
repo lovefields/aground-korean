@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <lang id="ko_KR" name="Korean" version="2.0.5" font="font/Dotum.fnt">
 	<section id="common">
+		<text id="modes">모드</text>
 		<text id="sub_pen">Sub Pen</text>
 		<text id="airport">Airport</text>
 		<text id="house">House</text>
@@ -123,7 +124,7 @@
 		<text id="move">Move</text>
 		<text id="newgame">새 게임</text>
 		<text id="continue">이어하기</text>
-		<text id="options">옵션</text>
+		<text id="options">설정</text>
 		<text id="exit">나가기</text>
 		<text id="forums">Community</text>
 		<text id="empty">공란</text>
@@ -201,10 +202,10 @@
 		<text id="save_prompt_magic">This is the end of the demo for the Magic Path. Would you like to save?</text>
 		<text id="save_prompt_science">This is the end of the demo for the Science Path. Would you like to save?</text>
 		<text id="credits">크레딧</text>
-		<text id="order">Buy Game!</text>
-		<text id="reset">Reset</text>
+		<text id="order">게임 구매!</text>
+		<text id="reset">초기화</text>
 		<text id="exit_water">Climb Ashore</text>
-		<text id="no_ask">Don't ask again</text>
+		<text id="no_ask">다시 묻지마.</text>
 		<text id="out_of_date">[color=ff2222]ATTN![/color] Update {version} is now available!</text>
 		<text id="select_dir">Select a Direction:\n\n[key=left][key=up][key=down][key=right]</text>
 		<text id="random">Random</text>
@@ -2418,24 +2419,24 @@
 		<text id="depths">A habitable planet considered for the Unoiks project but rejected because of a lack of landmass and distance from Earth.</text>
 	</section>
 	<section id="options">
-		<text id="options">Options</text>
+		<text id="options">설정</text>
 		<text id="paused">Game Paused</text>
-		<text id="music">Music Vol:</text>
-		<text id="sfx">SFX Vol:</text>
-		<text id="fullscreen">Fullscreen:</text>
-		<text id="textspeed">Text Speed:</text>
-		<text id="language">Language:</text>
-		<text id="gameplay">Gameplay Options</text>
-		<text id="ui">UI Options</text>
-		<text id="controls">Controls</text>
+		<text id="music">배경음:</text>
+		<text id="sfx">효과음:</text>
+		<text id="fullscreen">전체화면:</text>
+		<text id="textspeed">글 속도:</text>
+		<text id="language">언어:</text>
+		<text id="gameplay">플레이 설정</text>
+		<text id="ui">UI 설정</text>
+		<text id="controls">조작</text>
 		<text id="achievements">업적</text>
 		<text id="title">Return to Title</text>
-		<text id="back">Back</text>
+		<text id="back">뒤로</text>
 		<text id="quitgame">Do you wish to return to the title screen? Any unsaved progress will be lost.</text>
-		<text id="keyboard">Keyboard</text>
-		<text id="controller">Controller</text>
-		<text id="import">Import Save</text>
-		<text id="export">Export Save</text>
+		<text id="keyboard">키보드</text>
+		<text id="controller">컨트롤러</text>
+		<text id="import">세이브파일 가저오기</text>
+		<text id="export">세이브파일 내보내기</text>
 		<text id="import_save">Can only import files on Title Screen.</text>
 		<text id="import_html5">To import: drag .asav file into game window, then select a slot to place the save.</text>
 		<text id="file_import">Select a save file to import.</text>
@@ -2445,7 +2446,7 @@
 		<text id="auto_heal">Auto-eat health healing food?</text>
 		<text id="auto_stamina">Auto-eat stamina healing food?</text>
 		<text id="max_overweight">Overweight Limit:</text>
-		<text id="notifications">Notifications:</text>
+		<text id="notifications">알림:</text>
 		<text id="show_all">Show All</text>
 		<text id="hide_queue">Hide Bottom</text>
 		<text id="hide_element">Hide Element</text>
@@ -2469,7 +2470,7 @@
 		<text id="auto_collect">Auto Collect items.</text>
 		<text id="hotkey_switch">Switch Equipment hotkeys.</text>
 		<text id="storehouse_priority">Prioritize Storehouse Inventory.</text>
-		<text id="difficulty">Difficulty:</text>
+		<text id="difficulty">난이도:</text>
 	</section>
 	<section id="option.descriptions">
 		<text id="auto_heal">When enabled, if you're about to run out of health, you will automatically eat a health healing food (if available) from your inventory instead of dying.</text>
@@ -2489,28 +2490,28 @@
 		<text id="storehouse_priority">Add/remove items to/from the storehouse by default, instead of the player's inventory.</text>
 	</section>
 	<section id="controls">
-		<text id="left">Left:</text>
-		<text id="right">Right:</text>
-		<text id="up">Up:</text>
-		<text id="down">Down:</text>
-		<text id="select">Action:</text>
-		<text id="cancel">Cancel:</text>
-		<text id="inventory">Items:</text>
-		<text id="quest">Quests:</text>
-		<text id="equipment">Equipment:</text>
-		<text id="attack">Attack:</text>
-		<text id="defend">Defend:</text>
-		<text id="device">Device:</text>
-		<text id="hotkey1">Hotkey 1:</text>
-		<text id="hotkey2">Hotkey 2:</text>
-		<text id="hotkey3">Hotkey 3:</text>
-		<text id="hotkey4">Hotkey 4:</text>
-		<text id="hotkey5">Hotkey 5:</text>
-		<text id="hotkey6">Hotkey 6:</text>
-		<text id="hotkey7">Hotkey 7:</text>
-		<text id="hotkey8">Hotkey 8:</text>
-		<text id="mute">Mute:</text>
-		<text id="chat">Chat:</text>
+		<text id="left">왼쪽:</text>
+		<text id="right">오른쪽:</text>
+		<text id="up">위:</text>
+		<text id="down">아래:</text>
+		<text id="select">행동:</text>
+		<text id="cancel">취소:</text>
+		<text id="inventory">아이템:</text>
+		<text id="quest">퀘스트:</text>
+		<text id="equipment">장비:</text>
+		<text id="attack">공격:</text>
+		<text id="defend">방어:</text>
+		<text id="device">기기:</text>
+		<text id="hotkey1">단축키 1:</text>
+		<text id="hotkey2">단축키 2:</text>
+		<text id="hotkey3">단축키 3:</text>
+		<text id="hotkey4">단축키 4:</text>
+		<text id="hotkey5">단축키 5:</text>
+		<text id="hotkey6">단축키 6:</text>
+		<text id="hotkey7">단축키 7:</text>
+		<text id="hotkey8">단축키 8:</text>
+		<text id="mute">음소거:</text>
+		<text id="chat">대화:</text>
 	</section>
 	<section id="cloud">
 		<text id="login">Aground Cloud Login\nAground Cloud is an optional service that will sync your save files across all versions of the game.</text>
