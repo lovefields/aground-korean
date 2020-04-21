@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <mod>
-    <name>Russian Translation</name>
-    <description>Adds russian language</description>
-    <author>Brillzidge</author>
+    <name>Korean</name>
+    <description>Adds Korean language</description>
+    <author>Lovefield</author>
     <version>1.0.0</version>
     <init>
-      <include id="lang.xml" />
+      <include id="ko_kr.xml" includeRoot="true" />
     </init>
 </mod>
