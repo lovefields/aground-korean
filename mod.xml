@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<mod>
+    <name>Russian Translation</name>
+    <description>Adds russian language</description>
+    <author>Brillzidge</author>
+    <version>1.0.0</version>
+    <init>
+      <include id="lang.xml" />
+    </init>
+</mod>
