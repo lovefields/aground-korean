@@ -208,7 +208,7 @@
 		<text id="no_ask">다시 묻지마.</text>
 		<text id="out_of_date">[color=ff2222]ATTN![/color] Update {version} is now available!</text>
 		<text id="select_dir">Select a Direction:\n\n[key=left][key=up][key=down][key=right]</text>
-		<text id="random">Random</text>
+		<text id="random">랜덤</text>
 		<text id="efficiency">Efficiency</text>
 		<text id="victory">Victory!</text>
 		<text id="item_found">New Item Discovered!</text>
@@ -2519,9 +2519,9 @@
 		<text id="login_fail">Incorrect username or password.</text>
 		<text id="connect_fail">Cloud sync failed to connect.</text>
 		<text id="sync_fail">Sync Failed!</text>
-		<text id="button_login">Login to Aground Cloud</text>
+		<text id="button_login">Aground 클라우드에 로그인하기</text>
 		<text id="button_logout">Logout of Aground Cloud</text>
-		<text id="not_logged_in">Not logged into Aground Cloud</text>
+		<text id="not_logged_in">Aground 클라우드에 로그인되어있지 않습니다</text>
 		<text id="logged_in">Logged in as: {username}</text>
 		<text id="username">Username:</text>
 		<text id="password">Password:</text>
@@ -2588,37 +2588,37 @@
 		<text id="colony_ship">Colony Ship</text>
 	</section>
 	<section id="create.character">
-		<text id="title">Create Character</text>
-		<text id="skin">Skin Color:</text>
-		<text id="hair">Hair Color:</text>
-		<text id="eyes">Eye Color:</text>
-		<text id="shirt">Shirt Color:</text>
-		<text id="pants">Pant Color:</text>
-		<text id="hair_style">Hair Style:</text>
-		<text id="shirt_style">Shirt Style:</text>
-		<text id="beard_style">Facial Hair:</text>
+		<text id="title">캐릭터 생성</text>
+		<text id="skin">피부색:</text>
+		<text id="hair">머리색:</text>
+		<text id="eyes">눈 색:</text>
+		<text id="shirt">셔츠 색:</text>
+		<text id="pants">바지 색:</text>
+		<text id="hair_style">머리 모양:</text>
+		<text id="shirt_style">셔츠 종류:</text>
+		<text id="beard_style">수염:</text>
 		<text id="fur">Fur Color:</text>
 	</section>
 	<section id="colors">
-		<text id="black">Black</text>
-		<text id="brown">Brown</text>
-		<text id="dbrown">Dark Brown</text>
-		<text id="lbrown">Light Brown</text>
-		<text id="blue">Blue</text>
-		<text id="dblue">Dark Blue</text>
-		<text id="lblue">Light Blue</text>
-		<text id="green">Green</text>
-		<text id="lgreen">Light Green</text>
-		<text id="red">Red</text>
-		<text id="yellow">Yellow</text>
-		<text id="orange">Orange</text>
-		<text id="pink">Pink</text>
-		<text id="purple">Purple</text>
-		<text id="white">White</text>
-		<text id="gray">Gray</text>
-		<text id="teal">Teal</text>
-		<text id="blond">Blond</text>
-		<text id="dblond">Dark Blond</text>
+		<text id="black">검정</text>
+		<text id="brown">갈색</text>
+		<text id="dbrown">고동색</text>
+		<text id="lbrown">연갈색</text>
+		<text id="blue">파랑</text>
+		<text id="dblue">남색</text>
+		<text id="lblue">하늘색</text>
+		<text id="green">녹색</text>
+		<text id="lgreen">연두색</text>
+		<text id="red">빨강</text>
+		<text id="yellow">노랑</text>
+		<text id="orange">주황</text>
+		<text id="pink">분홍</text>
+		<text id="purple">보라</text>
+		<text id="white">흰색</text>
+		<text id="gray">회색</text>
+		<text id="teal">청록색</text>
+		<text id="blond">금발</text>
+		<text id="dblond">어두운 금발</text>
 		<text id="custom">Custom</text>
 	</section>
 	<section id="offsets">
