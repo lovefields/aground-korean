@@ -131,7 +131,7 @@
 		<text id="empty_slot">&lt; 공란 &gt;</text>
 		<text id="corrupt_slot">Corrupted Slot</text>
 		<text id="overwrite">Are you sure you wish to overwrite this slot?</text>
-		<text id="none">None</text>
+		<text id="none">없음</text>
 		<text id="addition_slots">Fields:</text>
 		<text id="placed">{item} placed.</text>
 		<text id="level_up">레벨 업!</text>
@@ -2595,7 +2595,7 @@
 		<text id="shirt">셔츠 색:</text>
 		<text id="pants">바지 색:</text>
 		<text id="hair_style">머리 모양:</text>
-		<text id="shirt_style">셔츠 스타일:</text>
+		<text id="shirt_style">셔츠 단추:</text>
 		<text id="beard_style">수염:</text>
 		<text id="fur">Fur Color:</text>
 	</section>
@@ -2622,8 +2622,8 @@
 		<text id="custom">Custom</text>
 	</section>
 	<section id="offsets">
-		<text id="open">당당</text>
-		<text id="closed">수줍</text>
+		<text id="open">풀기</text>
+		<text id="closed">잠그기</text>
 	</section>
 	<section id="difficulty">
 		<text id="easiest">Easiest</text>
