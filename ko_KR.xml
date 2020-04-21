@@ -285,10 +285,10 @@
 		<text id="cast">Cast</text>
 		<text id="drop">Discard</text>
 		<text id="place">Place</text>
-		<text id="use">Use</text>
-		<text id="craft">Craft</text>
-		<text id="equip">Equip</text>
-		<text id="unequip">Unequip</text>
+		<text id="use">사용</text>
+		<text id="craft">만들기</text>
+		<text id="equip">장비</text>
+		<text id="unequip">장비해제</text>
 		<text id="fire">Fire</text>
 		<text id="eat">Eat</text>
 		<text id="loot">Loot Corpse</text>
@@ -297,11 +297,11 @@
 		<text id="fuel_all">Fuel All</text>
 		<text id="repair_all">Repair All</text>
 		<text id="collect">Collect</text>
-		<text id="open">Open</text>
+		<text id="open">열기</text>
 		<text id="carve">Carve</text>
 		<text id="switch">Switch</text>
 		<text id="transform">Transform</text>
-		<text id="repair">Repair</text>
+		<text id="repair">수리</text>
 		<text id="rename">Rename</text>
 		<text id="fill">Fill</text>
 		<text id="synthesize">Synthesize</text>
@@ -620,11 +620,11 @@
 		<text id="advanced_net">Advanced Net</text>
 		
 		<text id="drone_factory_upgrade">Drone Factory Upgrade</text>
-		<text id="wood">Wood</text>
-		<text id="coal">Coal</text>
-		<text id="iron">Iron Ore</text>
+		<text id="wood">나무</text>
+		<text id="coal">석탄</text>
+		<text id="iron">철광석</text>
 		<text id="quartz">Quartz</text>
-		<text id="gold">Gold Ore</text>
+		<text id="gold">금광석</text>
 		<text id="diamond">Diamond</text>
 		<text id="sulfur">Sulfur</text>
 		<text id="oil">Raw Oil</text>
@@ -633,25 +633,25 @@
 		<text id="iron_bar">Iron Bar</text>
 		<text id="steel_bar">Steel Bar</text>
 		<text id="gold_bar">Gold Bar</text>
-		<text id="meat">Meat</text>
+		<text id="meat">고기</text>
 		<text id="fruit">Apples</text>
 		<text id="wheat">Wheat</text>
-		<text id="eggs">Eggs</text>
-		<text id="milk">Milk</text>
-		<text id="sugar">Sugar</text>
+		<text id="eggs">달걀</text>
+		<text id="milk">우유</text>
+		<text id="sugar">설탕</text>
 		<text id="steak">Steak</text>
-		<text id="bread">Bread</text>
-		<text id="pie">Pie</text>
-		<text id="pancakes">Pancakes</text>
-		<text id="hamburger">Hamburger</text>
-		<text id="cheese">Cheese</text>
-		<text id="pizza">Pizza</text>
-		<text id="omelette">Omelette</text>
-		<text id="cheeseburger">Cheeseburger</text>
-		<text id="cake">Cake</text>
+		<text id="bread">빵</text>
+		<text id="pie">파이</text>
+		<text id="pancakes">팬케이크</text>
+		<text id="hamburger">햄버거</text>
+		<text id="cheese">치즈</text>
+		<text id="pizza">피자</text>
+		<text id="omelette">오믈렛</text>
+		<text id="cheeseburger">치즈버거</text>
+		<text id="cake">케이크</text>
 		<text id="candy_apple">Candy Apple</text>
 		<text id="dragonblood">Dragonblood</text>
-		<text id="stone_axe">Stone Axe</text>
+		<text id="stone_axe">돌 도끼</text>
 		<text id="stone_pickaxe">Stone Pick</text>
 		<text id="broken_pickaxe">Broken Pick</text>
 		<text id="coin_purse">Coin Purse</text>
@@ -662,14 +662,14 @@
 		<text id="steel_sword">Steel Sword</text>
 		<text id="steel_armor">Steel Armor</text>
 		<text id="titanium_armor">Great Armor</text>
-		<text id="bow">Bow</text>
+		<text id="bow">활</text>
 		<text id="recurve_bow">Recurve Bow</text>
-		<text id="arrow">Arrow</text>
+		<text id="arrow">화살</text>
 		<text id="ice_arrow">Ice Arrow</text>
 		<text id="fire_arrow">Fire Arrow</text>
 		<text id="water_arrow">Water Arrow</text>
 		<text id="drain_arrow">Drain Arrow</text>
-		<text id="backpack">Backpack</text>
+		<text id="backpack">배낭</text>
 		<text id="mega_backpack">Super Pack</text>
 		<text id="ultra_backpack">Ultra Pack</text>
 		<text id="magic_pickaxe">Magic Pick</text>
@@ -712,7 +712,7 @@
 		<text id="cotton">Cotton</text>
 		<text id="pumpkin">Pumpkin</text>
 		<text id="chicken">Chicken</text>
-		<text id="cow">Cow</text>
+		<text id="cow">소</text>
 		<text id="fishing_rod">Fishing Rod</text>
 		<text id="toothfish">Toothfish</text>
 		<text id="rockfish">Rockfish</text>
@@ -1269,10 +1269,10 @@
 		<text id="bush">Pick Berries</text>
 		<text id="tree">Chop Tree</text>
 		<text id="enemy">Attack</text>
-		<text id="collect">Collect {item}</text>
-		<text id="open">Open {item}</text>
-		<text id="harvest">Harvest {item}</text>
-		<text id="use">Use {item}</text>
+		<text id="collect">{item} 수집</text>
+		<text id="open">{item} 열기</text>
+		<text id="harvest">{item} 수확</text>
+		<text id="use">{item} 사용</text>
 	</section>
 	<section id="equipment">
 		<text id="weapon">Dominant Hand:</text>
@@ -1447,11 +1447,11 @@
 		<text id="monoliths">Ancient Ruins</text>
 		<text id="activate_monoliths">Activate Monoliths</text>
 		<text id="colony_ship">Old Wrecks</text>
-		<text id="new">New Quest!</text>
+		<text id="new">새로운 미션!</text>
 		<text id="none">You have no quests at this time.</text>
 		<text id="unknown_reqs">???</text>
-		<text id="requires">-- Requirements --</text>
-		<text id="complete">-- Complete --</text>
+		<text id="requires">-- 요구사항 --</text>
+		<text id="complete">-- 완료됨 --</text>
 		<text id="hut">Repair Hut</text>
 		<text id="storehouse">창고 짓기</text>
 		<text id="storehouse2">창고 짓기</text>
@@ -1528,7 +1528,7 @@
 		<text id="submersible">wants to build a [object=submersible] to explore the depths.</text>
 		<text id="monoliths">wants to activate all the [color=770000]Monoliths[/color].</text>
 		<text id="colony_ship">wants to repair a [color=770000]Colony Ship[/color].</text>
-		<text id="hut">Repair the incomplete [color=550000]Hut[/color] to shelter from the storm.</text>
+		<text id="hut">폭풍을 피할수 있도록 [color=550000]오두막[/color]을 수리하세요.</text>
 		<text id="storehouse">wants to build a [color=550000]Storehouse[/color].</text>
 		<text id="storehouse2">Build a [color=550000]Storehouse[/color] to store all your items.</text>
 		<text id="smelter">wants a [color=550000]Smelter[/color] to refine ores.</text>
@@ -1938,11 +1938,11 @@
 		<text id="no_translate">There is nothing here to translate.</text>
 		<text id="static">There's nothing but static...</text>
 		<text id="homeworld">We’re setting up a new colony for humanity on {area}!</text>
-		<text id="storm1">So cold…[pause=1] and tired…[pause=1] I need shelter, but there’s nothing around here but fallen branches!</text>
-		<text id="storm3">I can barely hold all this [item=wood]! It'll take more [tile=stamina] [color=006600]Stamina[/color] to move now, but I can't stop here, I need to find shelter!</text>
-		<text id="hut1">What is this structure? It looks like someone stopped in the middle of making a shelter. I bet I could finish it with [var=quest.hut.wood] [item=wood].</text>
-		<text id="hut2">I have {count} of [var=quest.hut.wood] [item=wood] needed to finish this [color=770000]Hut[/color]. I need to gather more fallen branches.</text>
-		<text id="hut3">I dropped off {added} [item=wood] at the [color=770000]Hut[/color]. I need {remaining} more to finish it!</text>
+		<text id="storm1">너무 추워…[pause=1] 그리고 지쳣어…[pause=1] 쉴곳이 필요해, 하지만 이곳엔 아무것도 없어 그래도 떨어진 나뭇가지들이 보여!</text>
+		<text id="storm3">[item=wood]을(를) 간신히 짊어지고 있어! 이동하려면 [tile=stamina] [color=006600]기력[/color]이 많이 들거야, 하지만 난 여기서 멈출수 없어, 난 쉴곳을 찾아야해!</text>
+		<text id="hut1">이게 무슨 건물이지? 누군가 쉴곳을 만들다가 멈춘것 같아. [var=quest.hut.wood] [item=wood]가 있으면 완공할 수 있겟는데?</text>
+		<text id="hut2">I have {count} of [var=quest.hut.wood] [item=wood] needed to finish this [color=770000]Hut[/color]. 더 많은 나무가 필요해.</text>
+		<text id="hut3">[item=wood] {added}개를 [color=770000]오두막[/color]에 사용했다. {remaining}개를 써서 완성하자!</text>
 		<text id="storehouse1">This axe could come in handy. With it I could probably build a [color=770000]Storehouse[/color] to store the resources I gather.</text>
 		<text id="storehouse2">I bet I could make a storehouse with [var=quest.storehouse.wood] [item=wood] and [var=quest.storehouse.berries] [item=berries].</text>
 		<text id="storehouse3">Alright! Let’s get this storehouse built!</text>
