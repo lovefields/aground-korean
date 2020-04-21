@@ -1,36 +1,86 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<lang id="ko_KR" name="Korean" version="2.0.5" font="font/DOCGothic.fnt">
+<lang id="ko_KR" name="Korean" version="2.0.5" font="font/Dotum.fnt">
 	<section id="common">
+		<text id="sub_pen">Sub Pen</text>
+		<text id="airport">Airport</text>
+		<text id="house">House</text>
+		<text id="operation_table">Surgery Lab</text>
+		<text id="advanced_lab">Advanced Lab</text>
+		<text id="nuclear_plant">Nuclear Plant</text>
+		<text id="teleportal">Teleportal</text>
+		<text id="contact_list">Contact List</text>
+		<text id="add_contact">Added {npc} to your contact list!</text>
+		<text id="calling">Calling {npc}...</text>
+		<text id="incoming_call">Call from {npc}...</text>
+		<text id="coming_soon">Coming Soon!</text>
+		<text id="save_prompt_magic">This is the end of the Magic Path for the current update. Would you like to save?</text>
+		<text id="save_prompt_science">This is the end of the Science Path for the current update. Would you like to save?</text>
+		<text id="modifier">Modifier:</text>
+		<text id="bunker">Bunker</text>
+		<text id="bunker_kitchen">Bunker Kitchen</text>
+		<text id="bunker_depot">Bunker Depot</text>
+		<text id="hydroponics">Hydroponics</text>
+		<text id="bunker_factory">Bunker Factory</text>
+		<text id="bunker_farm">Bunker Farm</text>
+		<text id="earth_lab">Drone Factory</text>
+		<text id="vending_machine">Vending Machine</text>
+		<text id="blueprint_printer">Blueprint Printer</text>
+		<text id="paper_maker">Polymer Assembler</text>
+		<text id="particle_accelerator">Particle Accelerator</text>
+		<text id="interstellar_teleportal">Interstellar Teleportal</text>
+		
+		<text id="station.module.small">Small Station Module</text>
+		<text id="station.module.large">Large Station Module</text>
+		<text id="station.module.connector">Connector Station Module</text>
+		<text id="station.dock">Spaceship Dock</text>
+		<text id="station.module.xlarge">X-Large Station Module</text>
+		
+		<text id="rations_per_hit">Rations per Hit:</text>
+		<text id="full_heal">Health and Stamina fully restored.</text>
+		
+		<text id="terraformer">Terraformer</text>
+		<text id="exo_factory">Exo Factory</text>
+		
+		<text id="research_item">Research {item}</text>
+		<text id="research_complete">{item} research complete!\nRecipe added to {structure}.</text>
+		
+		<text id="spirit_storehouse">Spirit Storage</text>
+		<text id="space_house">Space House</text>
+		
+		<text id="quit_minigame">Would you like to stop playing this minigame?</text>
+		<text id="new_highscore">[tile=sticky] New Highscore!</text>
+		
+		<text id="depths.monolith">Monolith</text>
 		<text id="blocked">Blocked!</text>
 		<text id="resist">{element} Resist!</text>
 		<text id="effective">{element} Effective!</text>
-		<text id="miss">Miss!</text>
+		<text id="miss">빗나감!</text>
 		<text id="dodged">Dodged!</text>
-		<text id="critical_hit">Critical Hit!</text>
+		<text id="critical_hit">치명타!</text>
 		<text id="no_effect">No Effect</text>
-		<text id="save">Game Saved</text>
-		<text id="del_save">Save Deleted</text>
+		<text id="save">게임저장</text>
+		<text id="del_save">저장 지우기</text>
 		<text id="save_corrupt">Save corrupted! This could be because the player is in an area that doesn't exist in this version.</text>
 		<text id="save_incomplete">Save incomplete - some objects/items/areas may be missing. This is usually because you are missing a mod or the save is from a different version of the game.</text>
 		<text id="fuel">Fuel</text>
 		<text id="add_fuel">Add Fuel</text>
 		<text id="add_rations">Add Rations</text>
 		<text id="add_feed">Add Feed</text>
-		<text id="all">All</text>
-		<text id="equipment">Equipment</text>
+		<text id="all">ALL</text>
+		<text id="equipment">장비</text>
 		<text id="capacity">Carry:</text>
-		<text id="health">Health:</text>
-		<text id="stamina">Stamina:</text>
+		<text id="health">체력:</text>
+		<text id="stamina">기력:</text>
 		<text id="health_short">HP</text>
 		<text id="defense_short">DEF</text>
 		<text id="power">Power</text>
-		<text id="oxygen">Oxygen</text>
-		<text id="ok">Ok</text>
-		<text id="cancel">Cancel</text>
-		<text id="yes">Yes</text>
-		<text id="no">No</text>
-		<text id="accept">Accept</text>
-		<text id="reject">Reject</text>
+		<text id="oxygen">산소</text>
+		<text id="ok">확인</text>
+		<text id="cancel">취소</text>
+		<text id="yes">네</text>
+		<text id="no">아니요</text>
+		<text id="accept">허용</text>
+		<text id="reject">거절</text>
 		<text id="sell">Sell</text>
 		<text id="buy">Buy</text>
 		<text id="drop_item">How many would you like to throw away?</text>
@@ -71,22 +121,22 @@
 		<text id="stamina_per_hit">Stamina per Hit:</text>
 		<text id="stamina_per_use">Stamina per Use:</text>
 		<text id="move">Move</text>
-		<text id="newgame">New Game</text>
-		<text id="continue">Continue</text>
-		<text id="options">Options</text>
-		<text id="exit">Exit</text>
+		<text id="newgame">새 게임</text>
+		<text id="continue">이어하기</text>
+		<text id="options">옵션</text>
+		<text id="exit">나가기</text>
 		<text id="forums">Community</text>
-		<text id="empty">Empty</text>
-		<text id="empty_slot">&lt; Empty Slot &gt;</text>
+		<text id="empty">공란</text>
+		<text id="empty_slot">&lt; 공란 &gt;</text>
 		<text id="corrupt_slot">Corrupted Slot</text>
 		<text id="overwrite">Are you sure you wish to overwrite this slot?</text>
 		<text id="none">None</text>
 		<text id="addition_slots">Fields:</text>
 		<text id="placed">{item} placed.</text>
-		<text id="level_up">Level Up!</text>
+		<text id="level_up">레벨 업!</text>
 		<text id="level">Level:</text>
 		<text id="experience">Exp:</text>
-		<text id="hotkey">Select Item</text>
+		<text id="hotkey">아이템 선택</text>
 		<text id="set_hotkey">Set Hotkey:</text>
 		<text id="retry">Retry</text>
 		<text id="title">Title</text>
@@ -150,7 +200,7 @@
 		<text id="set_time">What time would you like to make it (24-hour format)?</text>
 		<text id="save_prompt_magic">This is the end of the demo for the Magic Path. Would you like to save?</text>
 		<text id="save_prompt_science">This is the end of the demo for the Science Path. Would you like to save?</text>
-		<text id="credits">Credits</text>
+		<text id="credits">크레딧</text>
 		<text id="order">Buy Game!</text>
 		<text id="reset">Reset</text>
 		<text id="exit_water">Climb Ashore</text>
@@ -190,6 +240,7 @@
 		<text id="oxygen">Oxygen</text>
 		<text id="time">{mod} for {time}s</text>
 		<text id="max">{mod} ({current}/{max})</text>
+		<text id="spellcast">Spellcasting</text>
 	</section>
 	<section id="stat.descriptions">
 		<text id="health">How many hits you can take before dying.</text>
@@ -210,6 +261,7 @@
 		<text id="bargaining">Increases the sell cost of items.</text>
 		<text id="trap">Increases catch rate for nets.</text>
 		<text id="oxygen">Increases how long you can survive without breathing.</text>
+		<text id="spellcast">Reduces the stamina cost of spells.</text>
 	</section>
 	<section id="skill">
 		<text id="allocate">Allocate Skill Points</text>
@@ -217,6 +269,19 @@
 		<text id="max">[color=770000]Skill Maxed</text>
 	</section>
 	<section id="actions">
+		<text id="inspect">Inspect</text>
+		<text id="rest_bed">Rest in Bed</text>
+		<text id="unlock">Unlock Door</text>
+		<text id="rest_quarters">Rest in Crew Quarters</text>
+		<text id="bind_spellbook">Bind Spellbook</text>
+		<text id="airlock">Operate Airlock</text>
+		<text id="take_power_core">Uninstall Power Core</text>
+		<text id="put_power_core">Install Power Core</text>
+		<text id="turn_on">Turn On</text>
+		<text id="turn_off">Turn Off</text>
+		<text id="exit_ship">Exit Ship</text>
+		<text id="exit_station">Exit Station</text>
+		<text id="cast">Cast</text>
 		<text id="drop">Discard</text>
 		<text id="place">Place</text>
 		<text id="use">Use</text>
@@ -257,6 +322,303 @@
 		<text id="merge_coins">Combine Coins</text>
 	</section>
 	<section id="item.names">
+		<text id="pearl">Pearl</text>
+		<text id="fin">Fin</text>
+		<text id="ship_parts">Hi-Tech Parts</text>
+		<text id="power_core_parts">Power Core Parts</text>
+		<text id="power_core">Power Core</text>
+		<text id="torpedo">Torpedo</text>
+		<text id="ice_torpedo">Ice Torpedo</text>
+		<text id="fire_torpedo">Heat Torpedo</text>
+		<text id="water_torpedo">Water Torpedo</text>
+		<text id="torpedo_launcher">Torpedo Launcher</text>
+		<text id="factory_upgrade">Factory Upgrade</text>
+		<text id="airport_blueprint">Airport Blueprint</text>
+		<text id="jeep_gun">SUV Mounted Gun</text>
+		<text id="jet_gun">Jet Mounted Gun</text>
+		<text id="missile">Missile</text>
+		<text id="ice_missile">Ice Missile</text>
+		<text id="fire_missile">Fire Missile</text>
+		<text id="water_missile">Water Missile</text>
+		<text id="nuke">Nuclear Missile</text>
+		<text id="missile_launcher">Missile Launcher</text>
+		<text id="com_device">Com Device</text>
+		<text id="rocket_launcher">Rocket Launcher</text>
+		<text id="generator">Generator</text>
+		<text id="ink">Ink</text>
+		<text id="jet_engine">Jet Engine Upgrade</text>
+		<text id="battery_unit">Battery Unit</text>
+		<text id="solar_generator">Solar Generator</text>
+		<text id="nuclear_generator">Nuclear Generator</text>
+		<text id="hut_upgrade">House Blueprint</text>
+		<text id="house_kitchen">House Kitchen Blueprint</text>
+		<text id="rice">Rice</text>
+		<text id="cooking_oil">Cooking Oil</text>
+		<text id="fried_rice">Fried Rice</text> 
+		<text id="bacon">Bacon</text>
+		<text id="fried_chicken">Fried Chicken</text>
+		<text id="fried_eel">Fried Eel</text>
+		<text id="ice_cream">Ice Cream</text>
+		<text id="sushi">Sushi</text>
+		<text id="rice_seed">Rice Seeds</text>
+		<text id="cable">Cable</text>
+		<text id="clock">Clock</text>
+		<text id="water_pump">Pump Pack</text>
+		<text id="nuclear_plant_blueprint">Nuclear Plant Blueprint</text>
+		<text id="operation_table_blueprint">Surgery Lab Blueprint</text>
+		<text id="sub_pen_blueprint">Sub Pen Blueprint</text>
+		<text id="patrol_boat_gun">Patrol Boat Gun</text>
+		<text id="patrol_boat_launcher">Patrol Boat Launcher</text>
+		<text id="advanced_lab_blueprint">Advanced Lab Blueprint</text>
+		<text id="teleportal_blueprint">Teleportal Blueprint</text>
+		<text id="laser_drill">Laser Drill</text>
+		<text id="energy_shield">Energy Shield</text>
+		<text id="antigrav_pack">Anti-grav Pack</text>
+		<text id="space_armor">Space Armor</text>
+		<text id="space_helm">Space Helm</text>
+		<text id="laser_gun">Laser Gun</text>
+		<text id="worker_bot">Worker Bot</text>
+		<text id="war_bot">War Bot</text>
+		
+		<text id="earth_trap">Earth Trap</text>
+		<text id="fire_trap">Fire Trap</text>
+		<text id="water_trap">Water Trap</text>
+		<text id="ice_trap">Ice Trap</text>
+		<text id="plant_trap">Plant Trap</text>
+		<text id="enchanted_net">Enchanted Net</text>
+		
+		<text id="fire_bird">Cockatrice</text>
+		<text id="crawler">Crawler</text>
+		<text id="icer">Icer</text>
+		<text id="shark">Shark</text>
+		<text id="fire_boar">Fire Boar</text>
+		<text id="yeti">Yeti</text>
+		<text id="shadow_cat">Panther</text>
+		
+		<text id="forge_seed">Forge Seed</text>
+		<text id="synthesizer_seed">Synthesizer Seed</text>
+		<text id="time_manipulator_seed">Time Manipulator Seed</text>
+		<text id="growth_seed">Vine Copse Seed</text>
+		<text id="evolution_seed">Evolution Seed</text>
+		<text id="coral_pen_seed">Coral Pen Seed</text>
+		<text id="house_seed">Magic House Seed</text>
+		<text id="house_seed2">Evo Magic House Seed</text>
+		
+		<text id="water_helm">Water Helm</text>
+		<text id="coral_bow">Coral Bow</text>
+		<text id="coral_sword">Coral Sword</text>
+		<text id="helium_pack">Helium Pack</text>
+		<text id="evo_shard">Evolution Shard</text>
+		<text id="evo_gem">Evolution Gem</text>
+		<text id="blue_claw">Blue Claw</text>
+		<text id="clam_gun">Clam Gun</text>
+		
+		<text id="fish_scale">Fish Scale</text>
+		<text id="fire_book">Book of Flame</text>
+		<text id="water_book">Book of Splash</text>
+		<text id="plant_book">Book of Vines</text>
+		<text id="earth_book">Book of Stone</text>
+		<text id="ice_book">Book of Frost</text>
+		<text id="teleport_book">Book of Return</text>
+		<text id="water_barrier_book">Book of Absorption</text>
+		<text id="plant_feed_book">Book of Recovery</text>
+		<text id="summon_golem_book">Book of Summoning</text>
+		<text id="time_book">Book of Time</text>
+		<text id="light_book">Book of Light</text>
+		<text id="heal_book">Book of Healing</text>
+		<text id="shield_book">Book of Shielding</text>
+		
+		<text id="meteor_book">Book of Meteor</text>
+		<text id="flood_book">Book of Flood</text>
+		<text id="growth_book">Book of Growth</text>
+		<text id="spikes_book">Book of Spikes</text>
+		<text id="tornado_book">Book of Tornado</text>
+		
+		<text id="scale_fish">Scale Fish</text>
+		<text id="snaptopus">Snaptopus</text>
+		<text id="minotaur">Minotaur</text>
+		<text id="queen_drill">Queen Drill</text>
+		<text id="revitalize_potion">Revitalizing Potion</text>
+		
+		<text id="wand">Magic Wand</text>
+		<text id="flying_broom">Flying Broom</text>
+		<text id="robes">Robes</text>
+		<text id="witch_hat">Witch Hat</text>
+		<text id="black_cat">Black Cat</text>
+		<text id="pumpkin_helm">Pumpkin Helm</text>
+		<text id="scale_mail">Scale Mail</text>
+		
+		<text id="ladder">Steel Ladder</text>
+		<text id="walkway">Steel Walkway</text>
+		<text id="grass_walkway">Grassy Walkway</text>
+		
+		<text id="bunker_blueprint">Bunker Blueprint</text>
+		<text id="bunker_kitchen_blueprint">Bunker Kitchen Blueprint</text>
+		<text id="bunker_depot_blueprint">Bunker Depot Blueprint</text>
+		<text id="hydroponics_blueprint">Hydroponics Blueprint</text>
+		<text id="bunker_factory_blueprint">Bunker Factory Blueprint</text>
+		<text id="bunker_farm_blueprint">Bunker Farm Blueprint</text>
+		<text id="earth_lab_blueprint">Drone Factory Blueprint</text>
+		<text id="vending_machine_blueprint">Vending Machine Blueprint</text>
+		
+		<text id="small_module_blueprint">Small Module Blueprint</text>
+		<text id="large_module_blueprint">Large Module Blueprint</text>
+		<text id="connector_module_blueprint">Connector Module Blueprint</text>
+		<text id="station_dock_blueprint">Ship Dock Blueprint</text>
+		<text id="xlarge_module_blueprint">X-Large Module Blueprint</text>
+		
+		<text id="exotic_matter">Exotic Matter</text>
+		<text id="magnegem">Magnegem</text>
+		<text id="chromium">Chromium</text>
+		<text id="o2_canister">O2 Canister</text>
+		<text id="fighter.cannon">Plasma Cannon</text>
+		<text id="fighter.gun">Plasma Gun</text>
+		<text id="fighter.launcher">Antimatter Launcher</text>
+		<text id="antimatter_missile">Antimatter Missile</text>
+		<text id="o2_generator_blueprint">O2 Generator Blueprint</text>
+		<text id="jumpship">Jumpship</text>
+		
+		<text id="dragon_ship.cannon">Heavy Fire</text>
+		<text id="dragon_ship.gun">Rapid Fire</text>
+		<text id="dragon_ship.burst">Burst Fire</text>
+		<text id="mini_synthesizer">Mini Synthesizer</text>
+		
+		<text id="dragon_backpack">Dragon Ship Heart</text>
+		
+		<text id="steel_fence">Steel Fence</text>
+		<text id="ai_core">AI Core</text>
+		<text id="keycard">Keycard</text>
+		<text id="keycard1">Professor's Keycard</text>
+		<text id="disabled_keycard">Disabled Keycard</text>
+		
+		<text id="spacefarer">Automated Suit</text>
+		<text id="drone.ship">Drone Ship</text>
+		<text id="drone.drill">Drone Drill</text>
+		<text id="drone.sub">Drone Sub</text>
+		<text id="drone.scout">Drone Scout</text>
+		<text id="drone_control">Drone Controller</text>
+		
+		<text id="blueprint_paper">Polymer Paper</text>
+		<text id="blueprint_printer_blueprint">Blueprint Printer Blueprint</text>
+		<text id="paper_maker_blueprint">Polymer Assembler Blueprint</text>
+		<text id="particle_accelerator_blueprint">Particle Accelerator B.P.</text>
+		<text id="interstellar_teleportal_blueprint">Interstellar Teleportal B.P.</text>
+		<text id="brilliant_potion">Brilliant Potion</text>
+		
+		<text id="hq_library_seed">HQ Library Seed</text>
+		<text id="hq_factory_seed">HQ Dragon Chamber Seed</text>
+		<text id="hq_growth_seed">HQ Talon Copse Seed</text>
+		
+		<text id="cyborg_plate">Cyborg Plate</text>
+		<text id="cyborg_visor">Cyborg Visor</text>
+		<text id="cyborg_railgun">Cyborg Railgun</text>
+		<text id="cyborg_chainsaw">Cyborg Chainsaw</text>
+		<text id="cyborg_core">Cyborg Power Core</text>
+		<text id="exo_armor">Exotic Armor</text>
+		<text id="stealth_helm">Stealth Helm</text>
+		<text id="exo_drill">Exotic Drill</text>
+		<text id="exo_gun">Exotic Gun</text>
+		<text id="exo_sword">Exotic Sword</text>
+		<text id="exo_pack">Exotic Pack</text>
+		
+		<text id="alien_locator">Alien Locator</text>
+		
+		<text id="exo_fighter">Exo Fighter</text>
+		<text id="exo_mech">Exo Mech</text>
+		<text id="exo_mech.chainsaw">Exo Mech Chainsaw</text>
+		<text id="exo_mech.gun">Exo Mech Gun</text>
+		<text id="exo_shields">Exo Shield Generator</text>
+		<text id="exo_mech.light">Light Emitter</text>
+		<text id="dragomech">Dragomech</text>
+		
+		<text id="terraformer_blueprint">Terraformer Blueprint</text>
+		<text id="exo_factory_blueprint">Exo Factory Blueprint</text>
+		
+		<text id="alien_heart">Alien Heart</text>
+		<text id="carapace">Carapace</text>
+		
+		<text id="hoarder_gun">Hoarder Magnum</text>
+		<text id="hoarder_shield">Hoarder Shield</text>
+		<text id="hoarder_armor">Hoarder Suit</text>
+		<text id="hoarder_hat">Hoarder Helm</text>
+		<text id="hoarder_backpack">Hoarder Backpack</text>
+		
+		<text id="translation_book">Book of Translation</text>
+		<text id="magne_queen_drill">Amethyst Queen Drill</text>
+		<text id="coral_farm_seed">Coral Farm Seed</text>
+		<text id="staff">Magic Staff</text>
+		<text id="venatrix_seed">Spirit Tree Seed</text>
+		<text id="storehouse_seed">Spirit Storehouse Seed</text>
+		<text id="spirit_arrow">Spirit Arrow</text>
+		<text id="spirit_fox_helm">Spirit Fox Helm</text>
+		<text id="spirit_fish">Spirit Fish</text>
+		<text id="spirit_robes">Spirit Robes</text>
+		<text id="spirit_glaive">Spirit Glaive</text>
+		<text id="spirit_gem2">Evo Spirit Gem</text>
+		<text id="spirit_chest">Spirit Chest</text>
+		<text id="spirit_orb">Spirit Orb</text>
+		<text id="dragon_seed">Dragon Seed</text>
+		<text id="magic_wyrm">Amethyst Wyrm</text>
+		<text id="magnewyrm">Magnewyrm</text>
+		<text id="magnetrap">Magnetrap</text>
+		<text id="element_table">Element Table</text>
+		<text id="magnestone">Magnestone</text>
+		<text id="mars_fish">Stygian</text>
+		<text id="carapace_armor">Carapace Armor</text>
+		<text id="ilaser_trap">Laser Trap</text>
+		<text id="ftl_broom">Interstellar Broom</text>
+		
+		<text id="house_upgrade">Space House Blueprint</text>
+		<text id="sci_light_blueprint">Electric Lamp Blueprint</text>
+		<text id="weap_market_blueprint">Weapon Market Blueprint</text>
+		<text id="mineral_market_blueprint">Mineral Market Blueprint</text>
+		<text id="cafeteria_blueprint">Cafeteria Blueprint</text>
+		
+		<text id="earth_key">Golem Key</text>
+		<text id="megolemech">Megolemech</text>
+		<text id="mega_earth_armor">Mega Earth Armor</text>
+		<text id="mega_earth_helm">Mega Earth Helm</text>
+		<text id="mega_earth_axe">Mega Earth Axe</text>
+		
+		<text id="arcade1_blueprint">Shooter Arcade Blueprint</text>
+		<text id="arcade2_blueprint">Platformer Arcade Blueprint</text>
+		
+		<text id="shovel2">Chromium Shovel</text>
+		
+		<text id="meat_tree_seed">Meat Tree Seed</text>
+		<text id="werewolf_paws">Paws</text>
+		<text id="werewolf_claws">Claws</text>
+		<text id="dexterous_paws">Dexterous Paws</text>
+		<text id="werewolf_body">Werewolf Body</text>
+		<text id="werewolf_heal_body">Healing Werewolf Body</text>
+		<text id="werewolf_stealth_body">Stealth Werewolf Body</text>
+		<text id="werewolf_head">Werewolf Head</text>
+		<text id="werewolf_cunning_head">Cunning Werewolf Head</text>
+		<text id="werewolf_ferocious_head">Ferocious Werewolf Head</text>
+		<text id="dino_dna">Dino DNA</text>
+		<text id="werewolf_claws_dna">Claws DNA</text>
+		<text id="dexterous_paws_dna">Dexterous Paws DNA</text>
+		<text id="werewolf_heal_body_dna">Healing Body DNA</text>
+		<text id="werewolf_stealth_body_dna">Stealth Body DNA</text>
+		<text id="werewolf_cunning_head_dna">Cunning Head DNA</text>
+		<text id="werewolf_ferocious_head_dna">Ferocious Head DNA</text>
+		<text id="acid_raptor">Acid Raptor</text>
+		
+		<text id="moissanite">Moissanite</text>
+		<text id="bone_shard">Bone Shard</text>
+		<text id="crystal_shard">Crystal Frond</text>
+		<text id="monolith_seed">Monolith Seed</text>
+		<text id="beacon_book">Book of Beacons</text>
+		<text id="torpedo2">Mega Torpedo</text>
+		<text id="ice_torpedo2">Mega Ice Torpedo</text>
+		<text id="fire_torpedo2">Mega Heat Torpedo</text>
+		<text id="water_torpedo2">Mega Water Torpedo</text>
+		<text id="sonar">Sonar</text>
+		<text id="dragon_armor2">Draconian Armor</text>
+		
+		<text id="advanced_net">Advanced Net</text>
+		
+		<text id="drone_factory_upgrade">Drone Factory Upgrade</text>
 		<text id="wood">Wood</text>
 		<text id="coal">Coal</text>
 		<text id="iron">Iron Ore</text>
@@ -410,11 +772,11 @@
 		<text id="water_sword">Water Sword</text>
 		<text id="plant_sword">Plant Sword</text>
 		<text id="drain_sword">Drain Sword</text>
-        <text id="ice_axe">Ice Axe</text>
-        <text id="fire_axe">Fire Axe</text>
-        <text id="water_axe">Water Axe</text>
-        <text id="plant_axe">Plant Axe</text>
-        <text id="drain_axe">Drain Axe</text>
+		<text id="ice_axe">Ice Axe</text>
+		<text id="fire_axe">Fire Axe</text>
+		<text id="water_axe">Water Axe</text>
+		<text id="plant_axe">Plant Axe</text>
+		<text id="drain_axe">Drain Axe</text>
 		<text id="goggles">Spirit Goggles</text>
 		<text id="furnace">Furnace</text>
 		<text id="campfire">Campfire</text>
@@ -481,6 +843,68 @@
 		<text id="purple_tree_seed">Purple Tree Seed</text>
 	</section>
 	<section id="item.descriptions">
+		<text id="com_device">Communicate with anyone in your contact list.</text>
+		<text id="powerplant">Powers structures.</text>
+		<text id="clock">Shows the time of day.</text>
+		<text id="cable">Connects generators to buildings.</text>
+		<text id="pump">Drains water around you.</text>
+		<text id="cost_per_tile">{value} per tile.</text>
+		<text id="block_stamina">Blocks damage with [tile=stamina] [color=006600]Stamina[/color].</text>
+		<text id="block_power">Blocks damage with [tile=power] [color=444400]Power[/color].</text>
+		<text id="omnidirectional">Blocks attacks from all directions.</text>
+		<text id="blockIgnoreArmor">Blocks all attacks, even spirit ones.</text>
+		<text id="patrol_boat">A faster, stronger boat that can mount weapons.</text>
+		<text id="sub">Explore the depths of the ocean!</text>
+		<text id="jet">Fly the skies!</text>
+		<text id="jeep">A battery powered ATV!</text>
+		<text id="bigdrill">A large drill vehicle that makes mining a breeze!</text>
+		<text id="worker_bot_builder">Builds blueprints faster and gathers [item=wood].</text>
+		<text id="worker_bot_miner">Mines ores underground with a mining power of 4.</text>
+		<text id="worker_bot_farmer">Tends farms and gathers crops.</text>
+		<text id="patrol_bot">Patrols left and right, shooting enemies with a powerful laser gun.</text>
+		<text id="nuke">Causes a powerful nuclear explosion on hit.</text>
+		<text id="element_trap">4x capture against {element}.</text>
+		<text id="teleport_book">Returns you to dungeon exits or resting places.</text>
+		<text id="water_barrier_book">Creates a magical barrier that water cannot pass through.\nCan also be cast to remove barriers.</text>
+		<text id="plant_feed_book">Feeds and re-enchants equipment and familiars.</text>
+		<text id="summon_golem_book">Summons a [item=golem] familiar.</text>
+		<text id="time_book">Allows you to change the time of day.</text>
+		<text id="light_book">Creates a temporary orb of light that follows you.</text>
+		<text id="heal_book">Creates a temporary healing circle that heals 5 [tile=health] [color=770000]Health[/color] per second.</text>
+		<text id="boost_stat">[tile=stat.{stat}] [text=stats.{stat}]: +{value}</text>
+		<text id="jumpship">A barebones FTL spacecraft created from salvaged wreckage.</text>
+		<text id="dragon_ship.burst">Fires 5 projectiles at once.</text>
+		<text id="jump">Can travel between planets.</text>
+		<text id="fence_underground">Keeps enemies out.\nCan be placed underground.</text>
+		<text id="drone_control">Allows you to take control of drones you have built anywhere (in any system).</text>
+		
+		<text id="meteor_book">Calls down 10 powerful fireballs that fall randomly around you.</text>
+		<text id="flood_book">Creates a dangerous storm that deals damage over time to nearby enemies.</text>
+		<text id="growth_book">Grows a large plant with draining vines and flowers that spawn deadly spores.</text>
+		<text id="spikes_book">Impales nearby enemies with 6 deadly earth spikes.</text>
+		<text id="tornado_book">Creates an icy tornado that hunts down enemies.</text>
+		
+		<text id="auto_fire">Automatically fires at enemies once every second unless attack is disabled.</text>
+		
+		<text id="alien_locator">Detects alien technology, adding an indicator next to planets in the star nav.</text>
+		
+		<text id="alien_heart">It couldn't still be beating... could it?</text>
+		
+		<text id="use_item">Uses: {item}</text>
+		
+		<text id="translation_book">Translates speech between languages.</text>
+		<text id="coral_farm_seed">Plants a farm that can harvest from [color=770000]Coral Pens[/color] and [color=770000]Wyrm Pens[/color] on the same island.</text>
+		<text id="staff">Can bind to spellbooks to cast them.</text>
+		<text id="venatrix_seed">Plants a spirit tree.</text>
+		<text id="exo_shields">Produces shields from [item=exotic_matter].</text>
+		
+		<text id="storehouse_seed">Plants a storehouse that can store and retrieve items from the spirit void.</text>
+		
+		<text id="earth_key">What could it open?</text>
+		<text id="werewolf_ferocious_head">Lets out a terrifying roar when the ability hotkey is hit while equipped.</text>
+		<text id="dexterous_paws_dna">Evolves [item=dexterous_paws] on Werewolves that can handle any equipment.</text>
+		<text id="beacon_book">Creates a beacon that the [item=teleport_book] will take you to.</text>
+		<text id="sonar">Detects nearby objects and obstacles.</text>
 		<text id="boat">Sail the World.</text>
 		<text id="fence">Keeps enemies out.</text>
 		<text id="furnace">Smelts ore.</text>
@@ -536,6 +960,47 @@
 		<text id="hammer">Builds blueprints on hit.</text>
 	</section>
 	<section id="achievement.names">
+		<text id="sub">Submersive</text>
+		<text id="jeep">Off-roading</text>
+		<text id="jet">Jet Setter</text>
+		<text id="com_station">FTL Signals</text>
+		<text id="fighter">Space Ready</text>
+		<text id="kraken">The Depths</text>
+		<text id="hut_upgrade">Remodeling</text>
+		<text id="life_pod">Salvager</text>
+		<text id="clam_pearl">Semi-precious</text>
+		<text id="pirates">Crossbones</text>
+		<text id="worker_bot">Automation</text>
+		<text id="growth">Cultivation</text>
+		<text id="spellbook">Magician</text>
+		<text id="evo_gem">Evolution</text>
+		<text id="ice_boss">The Storm</text>
+		<text id="dragon_ship">Dragon Ship</text>
+		<text id="witch">Dark Sorcery</text>
+		<text id="space_station">Space Station</text>
+		<text id="bombardment">Planet Defender</text>
+		<text id="drones">Take Control</text>
+		<text id="research">Study Anywhere</text>
+		<text id="alien_locator">Enemy Detector</text>
+		<text id="dragomech">Dragon Mech?</text>
+		<text id="colony">Another Colony</text>
+		<text id="alien_cruiser">Big Isn't Better</text>
+		<text id="exo_set">Magic of Science</text>
+		<text id="cyborg2">Super Cyborg</text>
+		<text id="terraformer">New Earth</text>
+		<text id="museum">Collector</text>
+		<text id="exo_pilot">Ready to Fly</text>
+		<text id="virus">Microbiology</text>
+		<text id="nursery_crab">Genocide</text>
+		<text id="final_boss">Final Boss</text>
+		<text id="free_ship">Breaker of Chains</text>
+		<text id="spirit_portal">Another World</text>
+		<text id="spirit_tree">Ghost Thumb</text>
+		<text id="hq_structures">Turning Traitor</text>
+		<text id="master_spellcaster">Master Spellcaster</text>
+		<text id="magne_queen_drill">Ultimate Wyrm Drill</text>
+		<text id="splicer">Non GMO</text>
+		<text id="draconian_wizard">Depths of Madness</text>
 		<text id="hut">Shelter</text>
 		<text id="boar">Instant Meat</text>
 		<text id="storehouse">Infinite Space</text>
@@ -583,6 +1048,47 @@
 		<text id="golemech">Statue Smasher</text>
 	</section>
 	<section id="achievement.descriptions">
+		<text id="sub">Build a [color=ff2222]Submarine[/color].</text>
+		<text id="jeep">Build a [color=ff2222]SUV[/color].</text>
+		<text id="jet">Build a [color=ff2222]Jet[/color].</text>
+		<text id="com_station">Build the [color=ff2222]Com Station[/color].</text>
+		<text id="fighter">Repair the [color=ff2222]Fighter Escort[/color] ship.</text>
+		<text id="kraken">Defeat the [color=ff2222]Kraken[/color].</text>
+		<text id="hut_upgrade">Upgrade your [color=ff2222]Hut[/color].</text>
+		<text id="life_pod">Discover a [color=ff2222]Life Pod[/color].</text>
+		<text id="clam_pearl">Collect a [color=ff2222]Pearl[/color].</text>
+		<text id="pirates">Complete the [color=ff2222]Pirates[/color] quest.</text>
+		<text id="worker_bot">Build any type of [color=ff2222]Worker Bot[/color].</text>
+		<text id="growth">Activate the [color=ff2222]Vine Copse[/color].</text>
+		<text id="spellbook">Craft your first [color=ff2222]Spellbook[/color].</text>
+		<text id="evo_gem">Forge an [color=ff2222]Evolution Gem[/color].</text>
+		<text id="ice_boss">Defeat the [color=ff2222]Hail Storm[/color].</text>
+		<text id="dragon_ship">Evolve a [color=ff2222]Dragon Ship[/color]!</text>
+		<text id="witch">Obtain a full set of witch equipment.</text>
+		<text id="space_station">Build your first [color=ff2222]Space Station[/color].</text>
+		<text id="bombardment">End the [color=ff2222]Alien Bombardment[/color].</text>
+		<text id="drones">Disable the rogue [color=ff2222]Drones[/color].</text>
+		<text id="research">Build the [color=ff2222]Mobile Research Lab[/color].</text>
+		<text id="alien_locator">Research the [color=ff2222]Alien Locator[/color].</text>
+		<text id="dragomech">Defeat a [color=ff2222]Dragomech[/color].</text>
+		<text id="colony">Find the [color=ff2222]Colony World[/color].</text>
+		<text id="alien_cruiser">Defeat an [color=ff2222]Enemy Cruiser[/color].</text>
+		<text id="exo_set">Obtain a full set of [color=ff2222]Exotic Matter[/color] equipment.</text>
+		<text id="cyborg2">Install a full set of upgraded Cyborg gear.</text>
+		<text id="terraformer">Build the [color=ff2222]Terraformer[/color].</text>
+		<text id="museum">Complete the [color=ff2222]Museum[/color].</text>
+		<text id="exo_pilot">Build an [color=ff2222]Exo Fighter[/color] for the [color=ff2222]Pilot[/color].</text>
+		<text id="virus">Launch a virus to breach the [color=ff2222]Enemy HQ[/color].</text>
+		<text id="nursery_crab">Defeat the [color=ff2222]Alien Nursery[/color].</text>
+		<text id="final_boss">Defeat the [color=ff2222]Enemy HQ[/color]'s Heart.</text>
+		<text id="free_ship">Free an [color=ff2222]Enemy Dragon Ship[/color].</text>
+		<text id="spirit_portal">Create a [color=ff2222]Spirit Portal[/color].</text>
+		<text id="spirit_tree">Plant a [color=ff2222]Spirit Tree[/color].</text>
+		<text id="hq_structures">Bribe the [color=ff2222]Enemy HQ[/color]'s structures.</text>
+		<text id="master_spellcaster">Craft every [color=ff2222]Spellbook[/color] in game.</text>
+		<text id="magne_queen_drill">Craft an [color=ff2222]Amethyst Queen Drill[/color].</text>
+		<text id="splicer">Defeat the [color=ff2222]Splicer[/color].</text>
+		<text id="draconian_wizard">Defeat the [color=ff2222]Dishonored One[/color].</text>
 		<text id="hut">Repair the [color=ff2222]Hut[/color].</text>
 		<text id="boar">Defeat a [color=ff2222]Boar[/color].</text>
 		<text id="storehouse">Build the [color=ff2222]Storehouse[/color].</text>
@@ -630,6 +1136,39 @@
 		<text id="golemech">Defeat the [color=ff2222]Golemech[/color].</text>
 	</section>
 	<section id="structure">
+		<text id="rice">Rice Field</text>
+		<text id="teleport">Teleport to:</text>
+		<text id="uproot">Uproot</text>
+		<text id="evo_chamber">Evolution Chamber</text>
+		<text id="fish.library">Library</text>
+		<text id="growth">Activate the Vine Copse.</text>
+		<text id="drag_factory_ruins">I wonder what these strange ruins do...</text>
+		<text id="too_cold">The [color=770000]Dragon Ship Factory[/color] is too frozen to use...</text>
+		<text id="sleep_day">Sleep until Day</text>
+		<text id="sleep_night">Sleep until Night</text>
+		<text id="o2_generator">O2 Generator</text>
+		<text id="unlock">Would you like to use a {item} to unlock this door?</text>
+		<text id="missing_key">You need a {item} to unlock this door.</text>
+		<text id="cost">Cost</text>
+		<text id="research_lab">Research Lab</text>
+		<text id="researchers">Researchers:</text>
+		<text id="coral_pen">Coral Pen</text>
+		<text id="coral_farm">Coral Farm</text>
+		<text id="alien_hq.library">HQ Library</text>
+		<text id="alien_hq.factory">HQ Dragon Chamber</text>
+		<text id="alien_hq.growth">HQ Talon Copse</text>
+		<text id="magic_forge">Forge</text>
+		<text id="growth_name">Vine Copse</text>
+		<text id="magic_house2">Magic House</text>
+		<text id="evo_house">Evo Magic House</text>
+		<text id="sci.light">Electric Lamp</text>
+		<text id="colony.weaps_market">AI Weapon Market</text>
+		<text id="colony.mineral_market">AI Mineral Market</text>
+		<text id="colony.cafeteria2">AI Cafeteria</text>
+		<text id="research.arcade">Arcade</text>
+		<text id="repair_colony_ship">Would you like to repair the [color=770000]Colony Ship[/color] with the following resources?</text>
+		<text id="colony.drone_factory">Colony Ship Drone Factory</text>
+		<text id="ask_uproot">Would you like to uproot this structure?</text>
 		<text id="wheat">Wheat Field</text>
 		<text id="orchard">Orchard</text>
 		<text id="sugar">Sugar Field</text>
@@ -666,6 +1205,27 @@
 		<text id="synthesizer">Activate the Synthesizer.</text>
 	</section>
 	<section id="structure.tooltip">
+		<text id="check_logs">Read Life-Pod Logs</text>
+		<text id="manage_cargo">Manage Cargo</text>
+		<text id="manage_ship">Manage Ship</text>
+		<text id="advanced_lab">Craft in Advanced Lab</text>
+		<text id="inspect">Inspect Structure</text>
+		<text id="fish.market">Trade with Fish Merchant</text>
+		<text id="fish.library">Craft Spellbooks</text>
+		<text id="evolve_dragon">Evolve Elder Dragon</text>
+		<text id="evolve">Evolve</text>
+		<text id="rest">Rest</text>
+		<text id="spaceship">Board Spaceship</text>
+		<text id="oxygen">Refill Oxygen</text>
+		<text id="portal">Enter Portal</text>
+		<text id="spaceship_inv">Transfer Items to Spaceship</text>
+		<text id="sub_inv">Transfer Items to Submarine</text>
+		<text id="change_equip">Install Equipment</text>
+		<text id="cafeteria">Order from Cafeteria</text>
+		<text id="change_modifier">Change Vehicle Modifier</text>
+		<text id="spirit_storehouse">Manage Spirit Storage</text>
+		<text id="watch">Watch</text>
+		<text id="couch">Rest on Couch</text>
 		<text id="hut">Rest in Hut</text>
 		<text id="storehouse">Enter Storehouse</text>
 		<text id="workshop">Craft in Workshop</text>
@@ -725,6 +1285,7 @@
 		<text id="engine">Engine:</text>
 		<text id="vanity">Select a vanity item to change your appearance without changing your actual equipment.</text>
 		<text id="vanity_fail">You cannot set a vanity item for this slot.</text>
+		<text id="defend">Subsystem:</text>
 	</section>
 	<section id="capture">
 		<text id="caught">Caught!</text>
@@ -732,6 +1293,32 @@
 		<text id="almost">Almost!</text>
 	</section>
 	<section id="warning">
+		<text id="no_power_core">You have no [item=power_core]s to install!</text>
+		<text id="not_powered_house">You rest in the house, but there was no power.</text>
+		<text id="laser_gun">The [item=laser_gun] has overheated!</text>
+		<text id="teleport_fail">There is no dungeon exit or resting place to return to here!</text>
+		<text id="teleport_blocked">There's a barrier stopping you from teleporting.</text>
+		<text id="build_orbit">This structure must be built in orbit.</text>
+		<text id="no_build_orbit">This structure cannot be built in orbit.</text>
+		<text id="dismantle_module">Are you sure you want to dismantle this module? Everything inside it will be lost if you do.</text>
+		<text id="drag_ship_factory">There is already a [color=770000]Dragon Ship[/color] in this factory!</text>
+		<text id="spaceship_exit">Are you sure you wish to leave this ship? You will not be able to return to this height with your current equipment.</text>
+		<text id="sub_exit">Are you sure you wish to leave this sub? The water pressure at this depth will damage you with your current equipment.</text>
+		<text id="station_exit">Are you sure you wish to leave this space station? You will fall out of orbit with your current equipment.</text>
+		<text id="no_spaceship">There is no spaceship here.</text>
+		<text id="no_sub">There is no submarine here.</text>
+		<text id="no_jump">You cannot jump to this planet with your current equipment.</text>
+		<text id="planet_damage">Cannot land on this planet! Getting too close causes damage!</text>
+		<text id="planet_closed">Cannot leave this planet - it is sealed!</text>
+		<text id="cast_ground">This can only be cast on or underground.</text>
+		<text id="no_vehicle_equip">There is no vehicle here you can install equipment on.</text>
+		<text id="no_vehicle_modify">There is no vehicle here you can modify.</text>
+		<text id="factory_vehicle_equip">You can only install equipment for this vehicle in the [color=770000]Exo Factory[/color].</text>
+		<text id="dismantle_cafeteria">Let's not dismantle the colony's cafeteria...</text>
+		<text id="leave_alien_hq">The Enemy HQ is being sealed! If you leave now, you won't be able to return this way. Are you sure you wish to leave?</text>
+		<text id="use_missing">Cannot use {weapon} without {item}.</text>
+		<text id="werewolf_vehicle">These {item} are too clumsy to operate a vehicle!</text>
+		<text id="operation_table_inhuman">The [color=770000]Surgery Lab[/color] cannot turn non-humans into cyborgs.</text>
 		<text id="weight">Over Carrying Capacity!</text>
 		<text id="stamina">Out of Stamina, Losing Health!</text>
 		<text id="oxygen">Out of Oxygen, Losing Health!</text>
@@ -739,7 +1326,7 @@
 		<text id="growing">Still Growing! Come back later.</text>
 		<text id="additions">No addition slots remaining!</text>
 		<text id="durability">Too damaged to use!</text>
-		<text id="focus">Click for Focus</text>
+		<text id="focus">클릭해서 활성화 시키세요</text>
 		<text id="ingredients">You do not have enough ingredients.</text>
 		<text id="place_surface">You cannot place this object below the surface.</text>
 		<text id="place_overlap">You cannot place objects on top of objects.</text>
@@ -807,6 +1394,58 @@
 		<text id="no_power">I can't believe the [color=770000]Power Plant[/color] isn't working! How can I do business like this?</text>
 	</section>
 	<section id="quests">
+		<text id="water_cave">Water Cave</text>
+		<text id="find_water_cave">Find Water Cave</text>
+		<text id="ship_parts">Ship Parts</text>
+		<text id="com_station">Build Com Station</text>
+		<text id="highest_mountain">Reach Summit</text>
+		<text id="repair_escort">Repair Escort Ship</text>
+		<text id="pirates">Defeat Pirates</text>
+		<text id="go_east">Study Magic</text>
+		<text id="find_magic2">Go east.</text>
+		<text id="plant_boss">Defeat the Cultivator</text>
+		<text id="ice_boss">Defeat the Storm</text>
+		<text id="cultivator">The Vine Copse</text>
+		<text id="dragon_ship">Evolve Dragon Ship</text>
+		<text id="floating_island">Find Floating Dragon Island</text>
+		<text id="coral_pen">Coral Pen</text>
+		<text id="revitalize_dragon">Revitalize Dragon</text>
+		<text id="witch_potion">The Sea Witch</text>
+		<text id="wand">Your First Wand</text>
+		<text id="sushi">Fish Food</text>
+		<text id="power_core">To Space!</text>
+		<text id="bombardment">End the Siege</text>
+		<text id="bomber">Destroy Enemy Bomber</text>
+		<text id="bunker">Mysterious Ores</text>
+		<text id="station">Exotic Matter</text>
+		<text id="keycard">Drone Access</text>
+		<text id="professor">Survivors</text>
+		<text id="find_professor">Find Professor</text>
+		<text id="research_lab">Study the Stars</text>
+		<text id="brilliant_potion">Secret Potion</text>
+		<text id="locate_hq">Research Time!</text>
+		<text id="exo_fighter">Time to Fly!</text>
+		<text id="virus">Virus Key</text>
+		<text id="exo_factory">Exo Factory</text>
+		<text id="launch_virus">Launch Virus</text>
+		<text id="alien_hq">Return to Enemy HQ</text>
+		<text id="defeat_cruisers">Destroy or Disable Cruisers</text>
+		<text id="cyborg2">Cyborg Carapace</text>
+		<text id="exiled">Their Secrets</text>
+		<text id="find_exiled">Find Exiled</text>
+		<text id="activate_hq_structures">A Magical Deal</text>
+		<text id="spirit_hq">Spirit Path</text>
+		<text id="spirit_portal">Dragon Talk</text>
+		<text id="magne_queen_drill">To The Leader</text>
+		<text id="splicer">Genes Spliced!</text>
+		<text id="werewolf_claws">Sharpen Claws</text>
+		<text id="werewolf_body">Physical Training</text>
+		<text id="acid_raptors">Acid Raptors</text>
+		<text id="drill_beetles">Drill Beetles</text>
+		<text id="submersible">Unfathomable</text>
+		<text id="monoliths">Ancient Ruins</text>
+		<text id="activate_monoliths">Activate Monoliths</text>
+		<text id="colony_ship">Old Wrecks</text>
 		<text id="new">New Quest!</text>
 		<text id="none">You have no quests at this time.</text>
 		<text id="unknown_reqs">???</text>
@@ -850,6 +1489,44 @@
 		<text id="minecart">Laying Rails</text>
 	</section>
 	<section id="quest.description">
+		<text id="water_cave">want to find a cave to build a [object=sub] in.</text>
+		<text id="ship_parts">want you to find [item=ship_parts] underwater.</text>
+		<text id="com_station">wants to build a [color=770000]Com Station[/color] to contact survivors.</text>
+		<text id="repair_escort">want to repair the broken [color=770000]Fighter Escort[/color] ship.</text>
+		<text id="pirates">wants to deal with the pirates east of [color=770000]Sunset Haven[/color].</text>
+		<text id="go_east">wants you to learn magic before THEY come.</text>
+		<text id="cultivator">wants you to activate the [color=770000]Vine Copse[/color].</text>
+		<text id="dragon_ship">wants to evolve an [object=fly_ancient_dragon] into a ship.</text>
+		<text id="coral_pen">wants to experiment with fish and coral.</text>
+		<text id="revitalize_dragon">can help revitalize the [object=ancient_dragon_npc].</text>
+		<text id="witch_potion">wants a potion to fix her aching back.</text>
+		<text id="wand">wants you to evolve a piece of wood.</text>
+		<text id="sushi">wants to teach you how to make [item=sushi].</text>
+		<text id="power_core">The spaceship needs a [item=power_core] to fly.</text>
+		<text id="bombardment">want you to destroy the enemy [color=770000]Bomber[/color].</text>
+		<text id="bunker">Ore Merchant wants to find rare ores on the innermost planet.</text>
+		<text id="station">Ore Merchant will help build a space station for [item=exotic_matter].</text>
+		<text id="keycard">wants to find a keycard to access the drone control room.</text>
+		<text id="professor">wants to know if the [color=770000]Professor[/color] is still alive.</text>
+		<text id="research_lab">wants to build a [color=770000]Mobile Research Lab[/color].</text>
+		<text id="brilliant_potion">wants to create a [item=brilliant_potion].</text>
+		<text id="locate_hq">wants to research an [item=alien_locator].</text>
+		<text id="exo_fighter">needs an [item=exo_fighter] to pilot.</text>
+		<text id="virus">wants to research a virus to breach the enemy HQ.</text>
+		<text id="exo_factory">wants to improve the factory to build [item=exo_drill]s.</text>
+		<text id="launch_virus">wants to launch the virus on the enemy HQ.</text>
+		<text id="cyborg2">want to research cyborg upgrades.</text>
+		<text id="exiled">suggests you seek [color=770000]The Exiled[/color] on Mars.</text>
+		<text id="activate_hq_structures">The HQ structures will make a deal to reveal their secrets.</text>
+		<text id="spirit_hq">will create a path to the enemy HQ for enough [color=770000][tile=spirit anim=spirit] Spirit[/color].</text>
+		<text id="spirit_portal">wants you to learn about magic from [color=770000]Dragon Ship[/color]s.</text>
+		<text id="magne_queen_drill">will help you craft a [item=magne_queen_drill].</text>
+		<text id="splicer">suggests you get [color=770000]Splicer[/color] to unsplice your genes.</text>
+		<text id="werewolf_claws">wants you to gather food and gain [item=werewolf_claws].</text>
+		<text id="werewolf_body">wants you to get used to your [item=werewolf_body].</text>
+		<text id="submersible">wants to build a [object=submersible] to explore the depths.</text>
+		<text id="monoliths">wants to activate all the [color=770000]Monoliths[/color].</text>
+		<text id="colony_ship">wants to repair a [color=770000]Colony Ship[/color].</text>
 		<text id="hut">Repair the incomplete [color=550000]Hut[/color] to shelter from the storm.</text>
 		<text id="storehouse">wants to build a [color=550000]Storehouse[/color].</text>
 		<text id="storehouse2">Build a [color=550000]Storehouse[/color] to store all your items.</text>
@@ -886,6 +1563,29 @@
 		<text id="minecart">wants to set up a [item=minecart] to make mining easier.</text>
 	</section>
 	<section id="vehicle">
+		<text id="submarine">Submarine</text>
+		<text id="jeep">SUV</text>
+		<text id="jet">Jet</text>
+		<text id="bigdrill">Boring Machine</text>
+		<text id="patrol_boat">Patrol Boat</text>
+		<text id="damage_bonus">Damage Bonus</text>
+		<text id="fly_ship">Alright... lets see if this ship will fly!</text>
+		<text id="ancient_dragon">Elder Dragon</text>
+		<text id="golemech">Golemech</text>
+		<text id="wyrm_queen">Wyrm Queen</text>
+		<text id="lifepod">Lifepod</text>
+		<text id="no_power_cores">You have no [item=power_core]s installed...</text>
+		<text id="not_enough_cores">Cannot operate: {count} of {total} [item=power_core]s installed.</text>
+		<text id="power_core">Perfect! Now I just need to install this [item=power_core] and see if the ship will fly!</text>
+		<text id="jump_cost">Would you like to jump to {planet} for the following cost?</text>
+		<text id="jump">Jump</text>
+		<text id="evolve">Evolve Weapon</text>
+		<text id="select_drone">Select Drone</text>
+		<text id="area">Area: {area}</text>
+		<text id="position">Position: {x}, {y}</text>
+		<text id="default_engine">Base Engine</text>
+		<text id="pack_up_item">Are you sure you wish to pack up this {item}?</text>
+		<text id="submersible">Submersible</text>
 		<text id="dismount">Dismount</text>
 		<text id="vehicle">Vehicle</text>
 		<text id="fly">Move up to fly.</text>
@@ -901,6 +1601,27 @@
 		<text id="in_use">Unable to operate vehicle: another player is already operating it!</text>
 	</section>
 	<section id="npc">
+		<text id="mirrows">Mirrows</text>
+		<text id="worker_bot.builder">Builder Bot</text>
+		<text id="worker_bot.miner">Miner Bot</text>
+		<text id="worker_bot.farmer">Farmer Bot</text>
+		<text id="patrol_bot">Patrol Bot</text>
+		<text id="ancient_dragon_npc">Elder Dragon</text>
+		<text id="fish_merchant">Fish Merchant</text>
+		<text id="fish_librarian">Fish Librarian</text>
+		<text id="fish_villager">Fish Villager</text>
+		<text id="sea_witch">Sea Witch</text>
+		<text id="scavenger">Scavenger</text>
+		<text id="scavenger_hidden">Unknown</text>
+		<text id="professor">Professor</text>
+		<text id="president">CaptAIn</text>
+		<text id="pilot">Pilot</text>
+		<text id="curator">Curator</text>
+		<text id="exiled">Exiled</text>
+		<text id="spirit_guide">Spirit</text>
+		<text id="unnature.ranger">Ranger</text>
+		<text id="unnature.splicer">Splicer</text>
+		<text id="depths.explorer">Explorer</text>
 		<text id="talk">Talk</text>
 		<text id="grab">Grab</text>
 		<text id="builder">Builder</text>
@@ -914,6 +1635,14 @@
 		<text id="fisherman">Fisherman</text>
 	</section>
 	<section id="builder">
+		<text id="no_alchemist1">What is this place?</text>
+		<text id="no_alchemist2">I'm not sure... I followed some glowing orbs of light, and they led me here. It seems safe from the bombardment, but there's not much here...</text>
+		<text id="bombardment">Just when I thought it couldn't get any worse... Let me just crawl into a cave... oh wait, I'm already in one!</text>
+		<text id="win1">The war is over?! Then let’s get out of this cave! I can’t wait to see the sun again!</text>
+		<text id="win2">This calls for a celebration! Time to make some [item=pizza]!</text>
+		<text id="homeworld1">Will there be lots of food there?</text>
+		<text id="homeworld2">You bet!</text>
+		<text id="homeworld3">Then I’m off! See you there!</text>
 		<text id="intro">You really expect to be able to survive here? It’s hopeless, man.</text>
 		<text id="introduce1">You’re good at building right? What if we built something to store the resources and food we gather?</text>
 		<text id="introduce2">Hmph. I guess with [var=quest.storehouse.wood] [item=wood] and [var=quest.storehouse.berries] [item=berries] I might be able to make a decent [color=770000]Storehouse[/color].</text>
@@ -943,6 +1672,14 @@
 		<text id="farm">Man, I'm hungry. I hope you get that [color=770000]Farm[/color] finished soon!</text>
 	</section>
 	<section id="farmer">
+		<text id="bombardment">I really can't think of anything positive to say... if we're going to be attacked no matter where we go, we should've just stayed on Earth and died with our planet.</text>
+		<text id="bombardment2">The bomber may be gone, but now that they know we're here, more will be coming. We might as well make the best of our new underground base!</text>
+		<text id="win1">See, I told you it wasn’t the end of the world! As long as there’s life, there’s hope!</text>
+		<text id="win2">I never would’ve guessed it when we crash landed here, but this planet has really started to feel like a home. Not just a place we can live, but a place we want to live.</text>
+		<text id="win3">It’ll take a lot of work to get this planet back to what it was in its glory days, but I’m up for the challenge!</text>
+		<text id="win4">We’ll need a [color=770000]Terraformer[/color] if we want to make this land fertile again.</text>
+		<text id="homeworld1">Excellent, with so few of us left, we have to stick together!</text>
+		<text id="homeworld2">I’ll head there now, I’ll bet they could use someone who knows a thing or two about plants!</text>
 		<text id="introduce1">Boy am I glad to see you. Here I was thinkin’ I was all alone, just one old man in an empty world.</text>
 		<text id="introduce2">I still got some life in these old bones and I reckon I could help you out. Farming’s my trade, and we all need some good food to keep us going.</text>
 		<text id="introduce3">How about we build a barn and get a [color=770000]Farm[/color] up and runnin’?</text>
@@ -972,6 +1709,13 @@
 		<text id="sign2">Use this here [item=area_name_sign] to change the name of this island!</text>
 	</section>
 	<section id="miner">
+		<text id="bombardment">This cave is weird... it's so large and empty, not a single thing to mine!</text>
+		<text id="win1">The threat is over? Then it’s time to leave this cave and return to the surface to celebrate! Not that I plan to spend much time actually on the surface…</text>
+		<text id="win2">Remember to mention that it was me who gave you your first [item=stone_pickaxe] when you get famous for saving the human race!</text>
+		<text id="win3">I think it’s time to upgrade this old pickaxe. If you build a [color=770000]Space House[/color] here, I can exchange this one for an [color=770000]Energy Pickaxe[/color]!</text>
+		<text id="homeworld1">Ooh, one of the colony worlds! I bet there are all kinds of strange new things to dig up there!</text>
+		<text id="homeworld2">You know, I actually miss Earth. I’m sure it will be tough to live on after being bombed, but think of all the underground ruins I will be able to uncover there!</text>
+		<text id="homeworld3">I’ll catch the next ship and meet you there!</text>
 		<text id="introduce1">Oh, hey. Didn’t realize there were other survivors.</text>
 		<text id="introduce2">I’ve been underground - there’s way more to this place than meets the eye.</text>
 		<text id="introduce3">I’ve got an extra pickaxe if you want to check it out too.</text>
@@ -1001,6 +1745,11 @@
 		<text id="minecart3">Here, I placed the [item=minecart] and a small [item=rail] system! You can expand it and move [item=rail]s using a [item=crowbar] to pry them up!</text>
 	</section>
 	<section id="trader">
+		<text id="bombardment">What am I going to do with all this [tile=gold_bar.ico] [color=770000]Gold[/color] now?</text>
+		<text id="win1">They are finally gone? Then let’s get back to business!</text>
+		<text id="win2">I love that we’re using their planet as our homeworld. It’s like stealing from the dead!</text>
+		<text id="win3">I love having humanity congregate on one planet… more potential targets for me!</text>
+		<text id="homeworld1">The more people, the more business for me! I’m off!</text>
 		<text id="steal">A [item={item}] was stolen from the [color=770000]Storehouse[/color]!</text>
 		<text id="caught">The thief was caught red-handed!</text>
 		<text id="introduce1">It's hard enough surviving here without someone stealing our stuff!</text>
@@ -1033,6 +1782,34 @@
 		<text id="shipping5">The items are on their way - you should see them there the next time you visit. Let me know if there are any other items you'd like to ship, and a pleasure doing business with you!</text>
 	</section>
 	<section id="alchemist">
+		<text id="east1">What have we done? Now they will return, and unless we do something soon, we will all die.</text>
+		<text id="east2">Our only hope is to learn more about their magic, either to be powerful enough to defeat them or to find their weaknesses.</text>
+		<text id="east3">For now, we have two clues. One is the evolution chamber the Old One left behind. It can’t be a coincidence it was hiding it.</text>
+		<text id="east4">Now that the Old One’s strong magical signal is gone, I’m detecting another signal away to the east. There must be another island with even more secrets hidden than this one!</text>
+		<text id="east5">I almost thought the Alchemist might just be here. But no. Of course not…</text>
+		<text id="east6">It looks like he left a note: “The secrets of magic must lie further east…”</text>
+		<text id="east7">He didn’t give me a lot to work with. But, it’s a start - I should go east, and try to learn more about that weird chamber that appeared when the Old One died.</text>
+		<text id="east8">I have learned everything I can here. I will return to the laboratory to see if I can uncover anything else before they return...</text>
+		<text id="return_lab">I think we've learned everything we can on this island. I will return to my laboratory and see if I can uncover anything else using what we learned here...</text>
+		<text id="spellbook1">Some fish taught you how to write down spells as spellbooks? That is incredible! Let me try to make one myself!</text>
+		<text id="spellbook2">It worked! Here, try this [item=heal_book]! I also wrote down the recipe if you want to make more at the fish library!</text>
+		<text id="bombardment1">Ah, welcome! I have restored this cave's enchantment and brought the others here, it is now the perfect hiding place.</text>
+		<text id="bombardment2">I sheltered in this cave for years the last time they were hunting for me. It is quite safe.</text>
+		<text id="bombardment3">But, unless we want to wait for them to give up thinking we are dead or fled, we must continue our research and gain enough magical power to destroy them!</text>
+		<text id="bombardment4">Here, take these [tile=blueprint.ico] [color=770000]Blueprint[/color]s, they may aid you in our quest!</text>
+		<text id="evo_chamber">Strange... this structure appeared when the [color=770000]Old One[/color] died... I wonder what it does?</text>
+		<text id="brilliant_potion1">I have been studying the ancient carvings, looking for new potion recipes... and the strangest thing happened! A new recipe that wasn't there yesterday suddenly appeared on the stones!</text>
+		<text id="brilliant_potion2">It must be special, it's even called a [item=brilliant_potion]. We must make it at once!</text>
+		<text id="brilliant_potion3">I have made the potion - but I still have no idea what it does. You might as well drink it and find out!</text>
+		<text id="brilliant_potion4">I also added the recipe to the lab if you want to make more.</text>
+		<text id="brilliant_potion5">I feel strange... my entire body is tingling... the potion must have done something...</text>
+		<text id="carapace1">It is done! I have thoroughly studied the carapace armor protecting the enemy, and have designed a [item=carapace_armor] that can fit humans!</text>
+		<text id="carapace2">I think you will agree that it was well worth the wait! The recipe has been added to the [color=770000]Laboratory[/color]! If it gets damaged, you can repair it with [item=blood_gem]s.</text>
+		<text id="carapace3">What? You thought I'd just be here muttering about nested carapace forever?</text>
+		<text id="win1">They are defeated? Then I can continue my magic research on this planet unimpeded!</text>
+		<text id="win2">That is good to hear. But, I will stay here. There are still many secrets of magic to uncover, and after being here so long, I can’t imagine leaving this planet.</text>
+		<text id="win3">You have done it?! You have finally defeated them? I hope you made good use of the magic secrets we discovered!</text>
+		<text id="win4">They have caused such pain and death… my fellow scouts will never return… but, at least those magic-hoarding tentacle monsters will never again hurt anyone.</text>
 		<text id="introduce1">There is more to this planet than meets the eye. I have been doing experiments, and I believe I have discovered magic!</text>
 		<text id="introduce2">I am in need of more materials. If you come across a [item=wyrm], slay it and give me its [item=dragonblood] and I will make sure you are rewarded.</text>
 		<text id="lab1">I knew it! This is the secret! I must set up a laboratory immediately!</text>
@@ -1147,6 +1924,19 @@
 		<text id="battle">Stand back! This fight is not for the inexperienced!</text>
 	</section>
 	<section id="player">
+		<text id="escort_ship">Looks like the wreckage of one of the escort ships. It's pretty broken up,  but the damage isn't too bad... Maybe the [object=mirrows] can fix it?</text>
+		<text id="escort_ship2">Looks like the wreckage of one of the escort ships. It's pretty broken up,  but the damage isn't too bad...</text>
+		<text id="go_east">I made an [item=evo_gem], but it looks like there's a lot more to learn about magic. I better see what this new island holds...</text>
+		<text id="burned">The structure is ruined. Would you like to dismantle it?</text>
+		<text id="abandoned">This market is abandoned. Would you like to dismantle it?</text>
+		<text id="witch_hut">This is a weird looking hut... I wonder if someone... or something lives here?</text>
+		<text id="no_signal">There's no response from the [item=com_device]...</text>
+		<text id="storehouse_burned">A message was left behind... it looks like all the items were moved to a bunker before the structure was destroyed!</text>
+		<text id="inn_burned">The inn is destroyed... and a corpse is clutching a message: "Head to the [color=770000]Colony Ship[/color]'s cargo hold, in the desert to the west."</text>
+		<text id="use_translation_book">Would you like to use the [item=translation_book] to translate?</text>
+		<text id="no_translate">There is nothing here to translate.</text>
+		<text id="static">There's nothing but static...</text>
+		<text id="homeworld">We’re setting up a new colony for humanity on {area}!</text>
 		<text id="storm1">So cold…[pause=1] and tired…[pause=1] I need shelter, but there’s nothing around here but fallen branches!</text>
 		<text id="storm3">I can barely hold all this [item=wood]! It'll take more [tile=stamina] [color=006600]Stamina[/color] to move now, but I can't stop here, I need to find shelter!</text>
 		<text id="hut1">What is this structure? It looks like someone stopped in the middle of making a shelter. I bet I could finish it with [var=quest.hut.wood] [item=wood].</text>
@@ -1181,6 +1971,17 @@
 		<text id="lurker_empty">Thank you for your business. Sorry, no refunds.</text>
 	</section>
 	<section id="hunter">
+		<text id="bombardment">I hate to say it, but I think the only way we're getting out of this mess is by teaming up with the [object=mirrows]. They should be to the west where the main ship crashed.</text>
+		<text id="bombardment2">While I don't agree with their methods, perhaps the [object=mirrows] were right. Now that they know we're here, we're going to need to fight to survive.</text>
+		<text id="bombardment3">I can't believe the [object=mirrows] sacrificed themselves for us. That doesn't feel like them at all... Now who's going to continue the fight against them?</text>
+		<text id="research1">You have a [color=770000]Mobile Research Lab[/color]? I'll have you know that I was a highly respected researcher back on Earth. I think it's time to take out the old lab coat!</text>
+		<text id="research2">It feels like forever since I last wore this coat. I think I'll miss being a hunter...</text>
+		<text id="research3">But, [item=bow]s and [item=arrow]s will have no effect against them - if we are going to survive, we're going to need to work together to invent new weapons!</text>
+		<text id="win1">Sounds like you had quite the fight! I wish I could’ve been there to help!</text>
+		<text id="win2">It’s strange, even though I only became a hunter because we crash landed on their homeworld and I could go back to being a scientist now… I realized I prefer this life.</text>
+		<text id="win3">I guess in a way, I have them to thank for helping me find myself.</text>
+		<text id="win4">Excellent! I’ll take my bow and arrows and head over immediately!</text>
+		<text id="werewolf">Don’t scare me like that!! If I still had my [item=bow], I might’ve shot an arrow before I realized it was you!</text>
 		<text id="tent1">I shouldn't rest in some random person's tent!</text>
 		<text id="tent2">This must be the [object=hunter]'s tent. I should leave it alone.</text>
 		<text id="intro1">Hey, you! Did you see me take down that boar?</text>
@@ -1224,6 +2025,54 @@
 		<text id="wolf7">You can have the [item=wolf] follow you by using the [color=770000]Familiar[/color] slot in your [color=770000]Equipment[/color] window.</text>
 	</section>
 	<section id="mechanic">
+		<text id="hut_upgrade1">You want to remodel the structures on your island? I suppose I can help you out.</text>
+		<text id="hut_upgrade2">Here are some blueprints to make upgrades. You'll need power for these upgraded structures, so make sure you can supply power before you upgrade them!</text>
+		<text id="com_device">Oh hey, is that a [item=com_device]? I have one too, let me give you my contact info!</text>
+		<text id="car_factory1">I heard you were looking for [item=ship_parts]... if you find some, we could definitely use them to improve the [color=550000]Factory[/color]!</text>
+		<text id="car_factory2">Here, I can give you my [tile=blueprint.ico] [color=770000]Blueprint[/color]s for the factory upgrade!</text>
+		<text id="car_factory3">Don't forget that the factory needs power, so only build it where you have a [color=770000]Power Plant[/color] or [item=generator].</text>
+		<text id="sub_tip1">When riding the [object=sub], keep track of its [tile=power] [color=444400]Power[/color] and [tile=oxygen] [color=ffffff]Oxygen[/color] if you don't want to end up going for a swim!</text>
+		<text id="sub_tip2">You can bring some extra [item=battery default=Batteries] to recharge the [object=sub] while travelling by hitting [key=equipment].</text>
+		<text id="sub_tip3">The [object=sub] can carry more weight than you can, but it still has a limit. Check the [object=sub]'s inventory by hitting [key=inventory], as it can't move if overweight.</text>
+		<text id="sub_tip4">Did you know you can use hotkeys to repair the [object=sub]? Just set [item=titanium] to a hotkey and use it while riding the [object=sub]!</text>
+		<text id="make_ship_parts">If you need more [item=ship_parts], I upgraded the [color=770000]Factory[/color] to be able to manufacture them. The process is inefficient with our current technology, but it could be helpful!</text>
+		<text id="build_com1">I wonder if we could use [item=ship_parts] to contact Earth and the other colony worlds... maybe see if there are other survivors out there?</text>
+		<text id="build_com2">Awesome! Once you have [item=ship_parts], head to the highest mountain you can then give me a call and we can set it up!</text>
+		<text id="build_com2.1">You need a way to call me? Here, try this [item=com_device]!</text>
+		<text id="build_com3">You're at the summit? I'll be right there - I think I know where I can borrow a [object=jet]!</text>
+		<text id="build_com4">... and that should do it! Unfortunately, I gotta jet, but give it a try and see if you can find anyone!</text>
+		<text id="build_com5">That's a great location for the [color=770000]Com Station[/color]! Just bring the [item=ship_parts] there and we can set it up!</text>
+		<text id="build_com6">Hmm, that location isn't high enough for the [color=770000]Com Station[/color]... We'll need to place it at the top of the tallest peak on the planet.</text>
+		<text id="build_com7">It looks like you're at the summit of the tallest mountain on this planet! If you can get [item=ship_parts] up there, give me a call and we can set up the [color=770000]Com Station[/color]!</text>
+		<text id="com_station1">Inputting data for {planet}.[pause=1].[pause=1].[pause=1] Calibrating.[pause=1].[pause=1].[pause=1] Searching for signals.[pause=1].[pause=1].[pause=1].[pause=1].[pause=1].[pause=1]</text>
+		<text id="com_station_incoming">Incoming signal detected from {planet}.[pause=1].[pause=1].[pause=1] Calibrating.[pause=1].[pause=1].[pause=1]</text>
+		<text id="com_station2">[color=770000]Error:[/color] No signals found!</text>
+		<text id="com_station2.5">Located distress beacon. No other signals found, FTL communication impossible.</text>
+		<text id="com_station3">Well? Did it work? What did you find?</text>
+		<text id="com_station4">Only a distress beacon, most likely set off during the attack... no other signals on Earth...</text>
+		<text id="com_station5">So Earth really was wiped out... if there are survivors there, they no longer have access to FTL communications.</text>
+		<text id="com_station6">But some of the colony worlds must have survived! If we can input their coordinates into the [color=770000]Com Station[/color], we can search for signals!</text>
+		<text id="com_station_self">It's receiving a signal! Oh, it connected to itself, that's not very helpful...</text>
+		<text id="teleportal1">I finished studying the pirates' base, and it looks like they landed at the crash site of the research bay!</text>
+		<text id="teleportal2">I looked through the logs and was able to finish one of the in-progress designs!</text>
+		<text id="teleportal3">I bet these [tile=teleportal.ico] [color=770000]Teleportals[/color] will be quite useful for getting around!</text>
+		<text id="bombardment">Those [object=mirrows] think this bunker will last for years, but not without lots of maintenance! Of course they don't offer to help me keep everything up and running!</text>
+		<text id="bombardment2">I can't believe they bombed their own planet! We're all okay though, we're hiding in the [color=770000]Colony Ship[/color]'s cargo area.</text>
+		<text id="bombardment3">We never got along...[pause=1] and they were terrible parents...[pause=1] I never thought losing them would hurt so much...[pause=1]</text>
+		<text id="bombardment4">Those aliens are going to pay! I'll teach them not to mess with humanity!</text>
+		<text id="research1">So this ship is the last best hope for mankind? Not bad - we'll be going up against them in style!</text>
+		<text id="research2">I'm not sure how much help I'll be with research, but I'll definitely do my best to keep this ship running smoothly!</text>
+		<text id="research_lab">You built a [color=770000]Mobile Research Lab[/color]? I might not be a great researcher, but if you bring it closer I'll board it and make sure it's in tip top condition!</text>
+		<text id="win1">The war is won, but if humanity is to survive, we need to bring all the survivors together and hope there’s enough of us left that we won’t die out!</text>
+		<text id="win2">Try using the [color=770000]Com Station[/color] on The Heights to locate other colony worlds!</text>
+		<text id="win3">I think we’re going to thrive here! A few more years, and this will become the new capital of humanity as we spread out across the stars once more!</text>
+		<text id="win4">It’s been a lot of work, but this colony is starting to resemble a real human city with all of the modern amenities!</text>
+		<text id="win5">We’ve even set up a shuttle service to transport stranded survivors to this planet. If you meet anyone, make sure to tell them about it!</text>
+		<text id="win6">That is exactly what we need to survive! I just hope there are enough survivors left…</text>
+		<text id="win7">I’m sure they could use my help! I’ll head out right away!</text>
+		<text id="werewolf">Don’t expect me to be surprised every time you wander off and return looking completely different!</text>
+		<text id="colony_ship1">What do you think of repairing those crashed [color=770000]Colony Ship[/color]s? They would take a lot of resources to repair, but they could be useful.</text>
+		<text id="colony_ship2">Bring the resources to a [color=770000]Colony Ship[/color] to repair it!</text>
 		<text id="introduce1">It’s totally fried! This is awful!</text>
 		<text id="introduce2">What happened?</text>
 		<text id="introduce3">The Mirrows tried to re-route the power and almost blew the whole thing up!</text>
@@ -1278,6 +2127,13 @@
 		<text id="sleep">Don't you know what time it is? I'm sure whatever you need can wait until morning...</text>
 	</section>
 	<section id="innkeeper">
+		<text id="bombardment1">If I were you, I'd evacuate to the [color=770000]Colony Ship[/color]'s cargo hold, in the desert to the west.</text>
+		<text id="bombardment2">The [object=mirrows] say that they have returned, and that the surface is not safe anymore.</text>
+		<text id="bombardment3">Me? I'm staying here. This inn is my life and livelihood, if it goes down... well... I'm going down with it. But, you better get going - no sense dying here with me.</text>
+		<text id="bombardment4">The bombardment is over? Excellent! Now I just need everyone to return to the surface and I'll be back in business!</text>
+		<text id="win1">Welcome to the Golden Key! Finest inn and historic site on the planet where humanity’s resurgence began!</text>
+		<text id="win2">Ah, it’s the star who brought about our final victory! It would be my honor to let you stay here, at no charge of course!</text>
+		<text id="win3">Just keep the other guests entertained with war stories, and make sure to tell them of my generosity!</text>
 		<text id="intro1">Welcome to the Golden Key! Finest (and only) room and board this side of the desert!</text>
 		<text id="intro2">So this is an inn? Do you get many people through here?</text>
 		<text id="intro3">A fair few come through Sunset Haven - exploring, trading, looking for a place to call home.</text>
@@ -1302,6 +2158,14 @@
 		<text id="mirrows5">What? I’m not running a charity, you know.</text>
 	</section>
 	<section id="fisherman">
+		<text id="bombardment">I hate being stuck here, unable to see the open sky or sail the seas. At least we're all still alive, but I just feel so useless here!</text>
+		<text id="bombardment2">I can't believe you defeated an enemy bomber! I'm sure they will send another wave, but I almost believe we have a chance now!</text>
+		<text id="bombardment3">The [object=mirrows] are dead!? To be honest, I never thought highly of them, but after their sacrifice I can't help but believe they were only acting in our best interests.</text>
+		<text id="win1">The war is over?! Then it’s back to the open skies and seas for me! I’ll see you topside!</text>
+		<text id="win2">The war is won, the threat is over, and we have a whole planet to rebuild on! Exciting times are ahead, and I bet we’ll need good sailors in this world. Maybe I should get a spaceship license...</text>
+		<text id="win3">The clear skies, the smell of salt water… the fresh air… this is how life should be. And never again will we have to worry about an alien bomber darkening the skies!</text>
+		<text id="win4">I was wondering where everyone had gone! It was starting to feel pretty empty here. I’ll head over there now!</text>
+		<text id="win5">Just one thing before I go - can you take care of my [item=cat], Peri? She won’t come to me, and I’d feel a lot better if someone looked after her when I’m gone.</text>
 		<text id="intro1">Finally back on land again! You look like you just arrived too!</text>
 		<text id="intro1_alt">Hey there! It's nice to see other survivors sailing out here!</text>
 		<text id="intro2">Don't mind her, that's just Polly’s way of saying hello. Hope you don’t mind a bit of seawater on your boots!</text>
@@ -1335,6 +2199,89 @@
 		<text id="scene6">Listen my friend, I saw one firsthand before we launched from Earth. All you need to know is how to avoid them.</text>
 	</section>
 	<section id="mirrows">
+		<text id="water_cave1">Many essential ship components landed in the ocean when we crashed. If we could salvage them, we could perhaps find a way off this planet.</text>
+		<text id="water_cave2">But how can we retrieve them from underwater? Could we build a submarine?</text>
+		<text id="water_cave3">Certainly, if we had a good launch point. I think there's an underground cave on the western side of this island that has access to the ocean.</text>
+		<text id="water_cave4">If you find this cave and bring us some materials, we could build a [color=770000]Sub Pen[/color]!</text>
+		<text id="water_cave5">You've found the cave and gathered the materials? Excellent, let's head there right away!</text>
+		<text id="water_cave6">You can build and upgrade a [object=sub] at the [color=770000]Sub Pen[/color]! You can also recharge the [object=sub]'s battery power here.</text>
+		<text id="water_cave7">Based on the water currents, the [item=ship_parts] should have traveled west. If you can find some, it will open the doors to many powerful inventions!</text>
+		<text id="water_cave8">We also made this [item=com_device] so you can contact us anywhere on the planet. Get in touch as soon as you find something!</text>
+		<text id="airport1">They're a little rusted, but we already designed some [item=airport_blueprint]s that will make good use of these [item=ship_parts]!</text>
+		<text id="airport2">The [color=770000]Airport[/color] will allow you to build [object=jet]s. While they can't reach outer space, they can fly pretty high and will make getting around a lot easier!</text>
+		<text id="spaceship1">If we want to repair the spaceship, we'll need a lot more [item=ship_parts]... and some [item=power_core]s too. See what you can find with the [object=sub].</text>
+		<text id="build_sub1">Ah, you built the [object=sub]! When riding the [object=sub], hit [key=equipment] to repair, recharge and customize it!</text>
+		<text id="build_sub2">You might want to install a weapon system like the [item=torpedo_launcher] too, otherwise you'll be defenseless! Hit [key=attack] to fire the installed weapon.</text>
+		<text id="sub_empty1">I got a signal that the [object=sub] is out of juice! Hopefully you have some [item=battery default=Batteries].</text>
+		<text id="sub_empty2">You can restore the [object=sub]'s power by hitting [key=equipment] and then selecting [tile=battery.ico] Charge from Batteries.</text>
+		<text id="sub1">You sound like you're lost. Try returning to the Water Cave, we can guide you to the [item=ship_parts] from there.</text>
+		<text id="sub2">Based on the water currents, the [item=ship_parts] should have traveled west. Keep heading west and see if you can find anything.</text>
+		<text id="sub3">You found another island? Then the [item=ship_parts] may have washed ashore there... or perhaps they entered a cave. Check around for any underwater cave entrances.</text>
+		<text id="sub4">You found an underwater cave? That sounds very promising, I bet the [item=ship_parts] ended up there!</text>
+		<text id="sub5">Be careful though, underwater caves like that can be dangerous and unpredictable. Keep an eye out for caverns where you can restore your [tile=oxygen] [color=ffffff]Oxygen[/color].</text>
+		<text id="mirrow_same_room">You realize we're right here... right?</text>
+		<text id="mirrow_power_core">You found [item=power_core_parts]? Keep track of those, we may be able to build a [item=power_core] which will let us power the spaceship.</text>
+		<text id="ship_parts1">You found the [item=ship_parts]? Excellent! Return to the Sunset Haven cave, we've already come up with something to make use of the [item=ship_parts]!</text>
+		<text id="ship_parts2">Or you could explore a bit more, perhaps there is more to find out west.</text>
+		<text id="ship_parts3">We're improving the lab to better utilize the [item=ship_parts] you found. Make yourself useful and keep searching for other debris out west.</text>
+		<text id="escort_ship1">You found the wreckage of an escort ship? That would be a lot smaller and easier to repair than the [color=770000]Colony Ship[/color]!</text>
+		<text id="escort_ship2">Bring us some [item=ship_parts], and then we'll take a look at the wreckage!</text>
+		<text id="escort_ship3">We're on our way to survey the damage, meet us there. This could be a major breakthrough!</text>
+		<text id="escort_ship4">Well, what are we waiting for? We must head there immediately! Prep the [object=jet]!</text>
+		<text id="escort_ship5">It looks bad, but we can work with this. It'll need a lot of [item=ship_parts] to repair though!</text>
+		<text id="escort_ship6">Excellent! Give us a call when you have everything!</text>
+		<text id="escort_ship7">I said to give us a call once you had EVERYTHING! If you forgot what we need to repair the ship, check your quest log with [key=quest].</text>
+		<text id="escort_ship8">The relocation of the lab is pretty much finished. Now we just need those parts to repair the ship, and we'll really be going places!</text>
+		<text id="escort_ship9">The spaceship will need a [item=power_core] to fly, but try entering it and checking out all the systems - especially the control room!</text>
+		<text id="escort_power_core1">You could create a [item=power_core] from [item=power_core_parts] in an [color=770000]Advanced Laboratory[/color], but that section of the [color=770000]Colony Ship[/color] broke off.</text>
+		<text id="escort_power_core2">Perhaps enough of it is intact somewhere for the [object=mechanic] to repair it?</text>
+		<text id="escort_ship10">You got everything? Perfect, let's see if this ship can still be repaired! Meet us at the crash site!</text>
+		<text id="escort_ship11">Well look at that! It looks as good as new, and ready to launch into space!</text>
+		<text id="escort_ship12">It's quite the accomplishment! It won't be able to defeat them without weapons, but it sure gives us options!</text>
+		<text id="ride_back">We're heading back to the water cave, do you want a ride?</text>
+		<text id="ride_water_cave">Do you want us to pick you up and fly you to the water cave?</text>
+		<text id="jet_door">The door leads to a launch pad for the [object=mirrows] private [object=jet].</text>
+		<text id="jet_door2">No, I shouldn't steal their [object=jet], as tempting as that sounds.</text>
+		<text id="jet_door3">Now that the [object=mirrows] are gone, I guess this [object=jet] belongs to Cass...</text>
+		<text id="jet_door4">There's no one left who can claim this [object=jet]... it was a long and hard journey, but the time has finally come to steal it!</text>
+		<text id="boring_machine">Why are you building boring machines? We have much more important things to do right now!</text>
+		<text id="ship_bed">Ah, do you want to try our amazing rejuvenation pod? If you pay 50 [color=770000][tile=coin_purse.ico] Coins[/color] for the energy cost, we'll let you.</text>
+		<text id="no_money">But you don't have 50 [color=770000][tile=coin_purse.ico] Coins[/color]... Maybe try selling some junk at the [color=770000]Market[/color], that's what we do when we're strapped for cash!</text>
+		<text id="blueprints1">We need more funds for our research, so we decided to start selling inventions and [tile=blueprint.ico] [color=770000]Blueprint[/color]s!</text>
+		<text id="blueprints2">All sales go towards a good cause. Make sure to come back, as anytime we invent something new we'll add it to the store!</text>
+		<text id="blueprints3">Feel free to stop by the {area} and check out what we have!</text>
+		<text id="bombardment1">They came too soon! We knew this was coming and tried to prepare, but we just didn't have enough time!</text>
+		<text id="bombardment2">I'm certain this is only their first wave - we'll need to act fast to destroy their bomber before the second wave arrives!</text>
+		<text id="bombardment3">To destroy the bomber, we'll first need a spaceship, and we'll also need some powerful weapons. It won't be easy, but perhaps with your help we can do something!</text>
+		<text id="bombardment4">We have strengthened the hull and this cargo hold has enough fresh food and water to hold out for years... but if we can't do something about that bombardment, it will all be for nothing.</text>
+		<text id="bombardment5">You have defeated the enemy bomber!? Then we have time until the next wave arrives, but we must act fast!</text>
+		<text id="bombardment6">We have finally completed our secret weapon! It is a spaceship we cobbled together using spare [item=ship_parts] with an experimental weapon that should be able to take down their shields!</text>
+		<text id="bombardment7">We haven't had time to test it, but we must end the bombardment soon or their reinforcements will arrive! Unless you have a better plan, we will launch now!</text>
+		<text id="bombardment8">Very well - but act fast! If you change your mind, simply talk to us again!</text>
+		<text id="sacrifice1">This clunker actually made it into space! The enemy bomber is in our sights, now to test out this new weapon!</text>
+		<text id="sacrifice2">We'll only have one chance at this - I'll take down the enemy shields, and then hit it with everything we have!</text>
+		<text id="sacrifice3">If we miss...[pause=1] or don't make it back...[pause=1] it'll be up to you to protect everyone.[pause=1] And tell Cass...[pause=1] Nevermind...</text>
+		<text id="sacrifice4">I know we didn't always see eye to eye, but I hope this attack shows you that the only way to survive is power!</text>
+		<text id="sacrifice5">That's enough chatting - we better attack it before it notices us! Mirrows, signing out!</text>
+		<text id="sacrifice6">Mirrows! Come in! Can you read me! What happened up there!?</text>
+		<text id="sacrifice7">The signal is lost. They didn't make it...</text>
+		<text id="send_mirrows">Use Mirrow's Plan</text>
+		<text id="have_plan">Defeat Bomber Yourself</text>
+		<text id="research1">Incredible! This is the perfect place to advance our research! I will have to thank this [object=professor] for designing this superb mobile laboratory.</text>
+		<text id="research2">The only thing it is missing is a [color=770000]Surgery Lab[/color]! But, there is room in here to build one (or even two)! I trust you'll make good use of the [item=operation_table_blueprint].</text>
+		<text id="research3">It even has a [color=770000]Surgery Lab[/color]! Everything we could want in one, compact, mobile package!</text>
+		<text id="on_bomber">... you should probably leave the enemy bomber before we try to destroy it! Let us know when you're safely away from it, and then call us again!</text>
+		<text id="research_lab">You built a [color=770000]Mobile Research Lab[/color]?! Well, what are you waiting for, bring it closer so we can board it!</text>
+		<text id="cyborg1">The colonists seem to think [item=exotic_matter] is the solution to everything... but don't underestimate the power of cybernetic enhancements!</text>
+		<text id="cyborg2">We've discovered a new kind of [item=carapace] on the colony world's surface, and with it and some research funds, we should be able to invent powerful cyborg upgrades!</text>
+		<text id="cyborg3">Excellent! We knew we could count on you! This [item=carapace] is perfect for binding man and machine without any rejection or loss!</text>
+		<text id="cyborg4">The research is finished, and you can find the new equipment in the [color=770000]Surgery Lab[/color]!</text>
+		<text id="com_device">Did Cass give you that [item=com_device]? We have one too, let me add us to your contacts in case you want to talk to us!</text>
+		<text id="win1">The war is won?! I hope our cyborg enhancements were useful in the final battle!</text>
+		<text id="win2">What should we do now? We can’t possibly give up on our cyborg research just because the war is over!</text>
+		<text id="win3">Very true. We’ll just have to prepare for the next war! Whether it’s with humans or aliens, you can be sure there will always be another!</text>
+		<text id="werewolf1">Fascinating - this [object=unnature.splicer] must be a master of manipulating genomes! You don’t even appear to be human anymore!</text>
+		<text id="werewolf2">If you were expecting help from us, you’ll be disappointed. We are not veterinarians, our expertise is with human cyborgification!</text>
 		<text id="intro1">Are you two the Mirrows? Why have you been tormenting Sunset Haven and creating those strange mutants?</text>
 		<text id="intro2">You don't understand! We're doing this for the good of everyone! We cannot survive without ultimate weapons!</text>
 		<text id="intro3">When they come to exterminate the last of us, we'll be ready! The sacrifices made have been necessary.</text>
@@ -1395,6 +2342,14 @@
 		<text id="mirrows9">That's the spirit! This place will feel just like home in no time.</text>
 	</section>
 	<section id="medicom">
+		<text id="water_cave">3/22 - Relocating lab to a water cave. Attempting to recover [item=ship_parts] using a [object=sub] with the help of a willing subject.</text>
+		<text id="lifepod1">Fish are nibbling on the decayed corpse inside the life-pod. The medkit contains some usable [item=bandage]s...</text>
+		<text id="lifepod2">USER LOG: I should've launched straight for the planet... but I was scared. Now I'm out of thrust, and it will take months to fall to the planet with this orbit... My chances of survival aren't good...</text>
+		<text id="lifepod3">USER LOG: I had to steal this life-pod. I don't care what those crazy scientists say, there's no way the ship will survive re-entry. I'm not going to stick around waiting to die!</text>
+		<text id="lifepod4">This life-pod... it has the same number as the one I launched in! This is where it must have ended up after sinking!</text>
+		<text id="lifepod5">USER LOG: The world has ended, we're stranded on an alien planet, there's no real hope for humanity... and yet I cling to life so fervently. Who would've thought that I would learn to treasure life now that it's too late?</text>
+		<text id="lifepod6">USER LOG: I wonder if we'll find sentient life on this planet? I mean, life other than THEM. There must be other sentient life forms out there. I hope some are friendly.</text>
+		<text id="lifepod7">USER LOG: I doubt anyone will see this log, but if you do, know that I was a soldier aboard the escort ship. It barely survived the jump and crashed into the tallest peak on this planet.</text>
 		<text id="panel1">3/15 - We have been left with no choice but to abandon Earth. Our weapons cannot hurt them, and they pursue us with a vengeance. Perhaps, on another planet, we can finally evade their wrath.</text>
 		<text id="panel13">5/1 - The ship was heavily damaged in the escape, but the jump drive activated successfully. That should keep us ahead of pursuers, assuming the ship survives the journey.</text>
 		<text id="panel2">6/30 - Fleshed out new plan for human augmentation and survivability, including number and type of specimens necessary to achieve our goals. Mr. H has left the research group.</text>
@@ -1414,17 +2369,53 @@
 	</section>
 	<section id="system">
 		<text id="start">Unoiks 428</text>
+		<text id="sol">Solar System</text>
+		<text id="alien_hq">???</text>
+		<text id="colony">Unoiks 213</text>
+		<text id="unnature">Unoiks 188</text>
+		<text id="depths">Seuden 999</text>
 	</section>
 	<section id="system.desc">
 		<text id="start">G-type star 42 light years from Earth.\n3 confirmed exoplanets.</text>
+		<text id="sol">The home system of humanity.</text>
+		<text id="alien_hq">F-type star 951 light years from Earth.\nNo confirmed exoplanets.</text>
+		<text id="colony">M-type star 23 light years from Earth.\n1 confirmed exoplanet.</text>
+		<text id="unnature">K-type star 18 light years from Earth.\n1 confirmed exoplanet.</text>
+		<text id="depths">A-type star 1,322 light years from Earth. 1 confirmed exoplanet.</text>
 	</section>
 	<section id="system.planet">
 		<text id="start">Unoiks 428{char}</text>
+		<text id="start_orbit">Unoiks 428{char} Orbit</text>
+		<text id="mercury">Mercury</text>
+		<text id="mercury_orbit">Mercury Orbit</text>
+		<text id="venus">Venus</text>
+		<text id="venus_orbit">Venus Orbit</text>
+		<text id="earth">Earth</text>
+		<text id="earth_orbit">Earth Orbit</text>
+		<text id="mars">Mars</text>
+		<text id="mars_orbit">Mars Orbit</text>
+		<text id="jupiter">Jupiter</text>
+		<text id="jupiter_orbit">Jupiter Orbit</text>
+		<text id="alien_hq">Alien HQ</text>
+		<text id="alien_hq_orbit">Alien HQ Orbit</text>
+		<text id="colony">CaptAIn's Colony</text>
+		<text id="colony_orbit">CaptAIn's Colony Orbit</text>
+		<text id="unnature">Unnature Sanctuary</text>
+		<text id="depths">The Depths</text>
 	</section>
 	<section id="system.planet.desc">
 		<text id="start">An Earth-like and habitable planet, colony location #21.\n\nSuspected of being [color=ff2222]Enemy Homeworld[/color].</text>
 		<text id="start.dwarf">A small but dense terrestrial planet close to the star. It has no atmosphere, but is likely to hold valuable ores and [item=exotic_matter].</text>
 		<text id="start.gas">An ice giant with a stormy atmosphere and strong gravitational pull.</text>
+		<text id="mercury">The smallest and innermost planet of the solar system.</text>
+		<text id="venus">The second planet of the solar system, it has the densest atmosphere of the terrestrial planets, and is toxic to human life.</text>
+		<text id="earth">The homeworld of humanity.</text>
+		<text id="mars">The final terrestrial planet, it has a thin atmosphere and polar  ice caps.</text>
+		<text id="jupiter">The largest planet in the solar system, Jupiter is a gas giant.</text>
+		<text id="alien_hq">Their headquarters. No longer on their homeworld, they have taken to travelling through space on a massive, planet sized dragon ship!</text>
+		<text id="colony">One of the confirmed Earth-like habitable planets. A colony ship was sent there, but all communication with it was lost.</text>
+		<text id="unnature">One of the confirmed Earth-like habitable planets. It was meant to become one of many nature preserves until the war began.</text>
+		<text id="depths">A habitable planet considered for the Unoiks project but rejected because of a lack of landmass and distance from Earth.</text>
 	</section>
 	<section id="options">
 		<text id="options">Options</text>
@@ -1437,7 +2428,7 @@
 		<text id="gameplay">Gameplay Options</text>
 		<text id="ui">UI Options</text>
 		<text id="controls">Controls</text>
-		<text id="achievements">Achievements</text>
+		<text id="achievements">업적</text>
 		<text id="title">Return to Title</text>
 		<text id="back">Back</text>
 		<text id="quitgame">Do you wish to return to the title screen? Any unsaved progress will be lost.</text>
@@ -1579,6 +2570,15 @@
 		<text id="new_id">Create New</text>
 	</section>
 	<section id="world">
+		<text id="science2">The Heights</text>
+		<text id="science3">Divider Island</text>
+		<text id="fighter">Fighter Escort</text>
+		<text id="dragon_ship">Dragon Ship</text>
+		<text id="dragon_fighter">Dragon Fighter</text>
+		<text id="dragon_bomber">Dragon Bomber</text>
+		<text id="dragon_cruiser">Dragon Cruiser</text>
+		<text id="research">Mobile Lab</text>
+		<text id="spirit">Spirit World</text>
 		<text id="rename">What would you like to name this area?</text>
 		<text id="start">Starting Island</text>
 		<text id="science1">Sunset Haven</text>
@@ -1637,5 +2637,771 @@
 		<text id="title">Select Campaign</text>
 		<text id="default">Default</text>
 		<text id="default_desc">The standard version of Aground.</text>
+	</section>
+	<section id="pirates">
+		<text id="intro1">The waters east of Sunset Haven have been pretty dangerous lately - I keep finding the wreckage of boats, and some of them were fellow traders...</text>
+		<text id="intro2">I'm certain it's pirates, but I haven't been able to find them, and they must be packing some serious firepower.</text>
+		<text id="intro3">If you built a [object=patrol_boat] and dealt with the pirates, all of us seafaring folk would be very grateful!</text>
+		<text id="hint1">The pirates hunting grounds are definitely between here and the island you crashed on. But they must have a base somewhere, and I couldn't find any islands nearby...</text>
+		<text id="hint2">I'm certain the pirates are packing some serious firepower. Make certain you have some strong weapons yourself, maybe try building a [object=patrol_boat] at the [color=770000]Warehouse[/color].</text>
+		<text id="structure_lock">The structure is locked... you'll have to defeat the pirates before you can unlock it!</text>
+		<text id="structure_unlock">You unlocked the structure with the pirate's key!</text>
+		<text id="mechanic1">I'm detecting the signature of some advanced technology! Try scanning it with the [item=com_device]!</text>
+		<text id="mechanic2">I don't know how they built it, but that's an [color=770000]Advanced Laboratory[/color]! I should be able to design a blueprint for it using the scanned schematics...</text>
+		<text id="mechanic3">Perfect! I'm already drooling over all the new equipment we should be able to build with this!</text>
+		<text id="complete1">Awesome job - the seas are finally safe again! I think this deserves a reward, and I know just what, follow me to the inn!</text>
+		<text id="complete2">Hey Mortimer, the waters are safe from pirates thanks to my friend here! I think you should give them a medal of honor and let them stay at the inn for free!</text>
+		<text id="complete3">Stay here for free? Preposterous! Food and housing isn't cheap on this god-forsaken planet!</text>
+		<text id="complete4">I think you owe it to all of us traders and fishermen! If we had all been killed by pirates, there would be no food, period!</text>
+		<text id="complete5">Fine. They can stay here for free. But I'm not giving them any medals!</text>
+		<text id="stay_free">Fine... You can stay here for free. Just don't tell anyone, or everyone will be begging for free meals!</text>
+	</section>
+	<section id="dragon">
+		<text id="intro1">Oh, I almost didn’t see you… you’re so small...</text>
+		<text id="intro2">I can understand you?</text>
+		<text id="intro3">I cast a translation spell when I realized you weren’t one of them. It’s one of the tricks I picked up in my old age.</text>
+		<text id="intro4">Speaking of them, I need help! The Old One sent out a signal, and they are coming! It’s all my fault, I need to find a way to stop them!</text>
+		<text id="intro5">What was that? They are coming back?! After betraying my kind and abandoning me here as worthless?</text>
+		<text id="intro6">Ouch! My back! I should not have done that… but thinking of them just fills me with rage!</text>
+		<text id="intro7">So will you help me?</text>
+		<text id="intro8">If I can. But I’m not as young as I once was. I can’t even remember the last time I left this island.</text>
+		<text id="cultivator1">On the main island to the east, there is the [color=770000]Cultivator[/color]. Without their magic, it has gone mad and is wreaking havoc.</text>
+		<text id="cultivator2">If you defeat it, you will be able to activate a [color=770000]Vine Copse[/color], one of their ancient magic chambers. It could prove useful to you.</text>
+		<text id="cultivator3">I recommend using fire against it. I would help you myself, were it not so hard to fly... and breathe fire.</text>
+		<text id="cultivator4">This is magnificent. Now that the [color=770000]Vine Copse[/color] has been revived, transformation magic - the type of magic that sustains dragon-kind - will spread through the land once again.</text>
+		<text id="cultivator5">Take these [item=horn]s - they can be used to increase the damage of any familiar at the [color=770000]Vine Copse[/color]!</text>
+		<text id="cultivator6">The [color=770000]Vine Copse[/color] lives again! With it, you can enchant familiars, create traps to capture magical creatures, and grow seeds.</text>
+		<text id="betrayal1">How did they betray you?</text>
+		<text id="betrayal2">A long time ago, back when there were only [item=wyrm]s, they claimed they wanted to help us. They unlocked our potential, evolving us into dragons.</text>
+		<text id="betrayal3">But eventually they changed. They stopped helping us grow and started using us to achieve their own goals, forcing us into servitude.</text>
+		<text id="betrayal4">And then they abandoned us when we outlived our usefulness, taking their magic secrets with them. No longer can we evolve, and the last of the dragons are dying out.</text>
+		<text id="betrayal5">I’ve spent the past millenia cursing their names and trying to learn magic to help the [item=wyrm]s myself.</text>
+		<text id="betrayal6">If all I can do at this age is help you exterminate them, I will do so willingly!</text>
+		<text id="betrayal7">I never said anything about exterminating them, only surviving!</text>
+		<text id="betrayal8">Oh.[pause=1] Well, keep it in mind if the opportunity arises!</text>
+		<text id="fish_village1">Normally, I eat fish without listening to their screams. But sometimes I use my translation magic for fun, and I heard something that may be useful.</text>
+		<text id="fish_village2">Apparently, there's a colony of fish studying magic off the east coast of the [color=770000]Cultivator[/color]'s island. I wouldn't take fish too seriously, but perhaps they could help.</text>
+		<text id="ship1">You have made an [item=evo_gem]? That is how they made us into [object=fly_ancient_dragon]s! Simply use the evolution gem on an [item=adult_dragon]!</text>
+		<text id="ship2">Once you have raised an [object=fly_ancient_dragon], the next step is to evolve it into a [color=770000]Dragon Ship[/color] at the top of the large floating island to the east called [color=770000]Dragon Island[/color].</text>
+		<text id="ship2.1">Unfortunately, [color=770000]Dragon Island[/color] is guarded by a dangerous ice monster. Only powerful [color=770000][tile=fire.ico] Fire[/color] magic will harm it.</text>
+		<text id="ship3">While they created [color=770000]Dragon Ships[/color] millenia ago and are sure to have something more powerful now, this could be the first step towards defeating them!</text>
+		<text id="ship4">Once they learned our potential for becoming organic spaceships, they no longer treated us as sentient beings, but instead as machines for turning into their fleet.</text>
+		<text id="ship5">They began to seek ultimate power, and no longer cared about trying to help us like they once had.</text>
+		<text id="ship6">I gave you the secret of [color=770000]Dragon Ships[/color] willingly so that we could fight them… please don’t abuse us the same way they did.</text>
+		<text id="ship7">You have done it? Then I have given you all the help I can - I know no more of their ships or magic.</text>
+		<text id="ship8">I would join you in the fight, but I was never able to turn into a [color=770000]Dragon Ship[/color]. Besides, it is the job of the elderly to send the young off on perilous quests rife with danger, no?</text>
+		<text id="ship9">The Exiled thinks that you can help me. I’m trying to discover their magical secrets.</text>
+		<text id="ship10">You would listen to one of them and discover their secrets!? Well, I do owe you a debt, so I will tell you what I know.</text>
+		<text id="ship11">They used to use [item=evo_gem]s to evolve us into [color=770000]Dragon Ships[/color] at the top of the large floating island to the east called [color=770000]Dragon Island[/color].</text>
+		<text id="ship12">Perhaps this secret will help you - I can only hope that you will not abuse us the same way they did.</text>
+		<text id="win1">You have defeated them?! Vengeance is fulfilled! Then why do I feel so empty? It must just be old age...</text>
+		<text id="win2">You defeated them? Then I owe you a debt of gratitude after they betrayed me and my kind!</text>
+		<text id="dragon_backpack">But now that you know how to create [color=770000]Dragon Ships[/color], you should be able to use an [item=alter_gem] on a packed up [item=ancient_dragon] to create a [item=dragon_backpack].</text>
+	</section>
+	<section id="fish">
+		<text id="welcome1">Hello there!</text>
+		<text id="welcome2">Hi…[pause=1] wait. Your mouth wasn’t moving! How are you talking?!</text>
+		<text id="welcome3">We're communicating telepathically of course! What other way is there to communicate?</text>
+		<text id="welcome4">Uh... Right... So you're reading my mind?</text>
+		<text id="welcome5">Surface thoughts only! It's bad etiquette to read a mind too deeply!</text>
+		<text id="citizen1">What a pleasant surprise - we rarely see outsiders here!</text>
+		<text id="citizen2">We have lived here since time immemorial, before the Old Ones, before the others, and before the dragons.</text>
+		<text id="citizen3">No one thinks much of us. And that’s okay. We're safe down here and we like it that way!</text>
+		<text id="citizen4">Pardon me if I'm assuming incorrectly, but you breathe air, yes?</text>
+		<text id="citizen5">You should really craft a [item=water_helm] if you want to hang around down here! Here, I can give you the recipe!</text>
+		<text id="citizen6">There's also a cave to the west that we blocked off with magic so it has air if you need it!</text>
+		<text id="recipe">You telepathically learned the following recipe:\n{enchant} + {items} = {creates}.</text>
+		<text id="merchant1">Greetings, traveler. Welcome to my humble supply shop.</text>
+		<text id="merchant2">I assume you don’t have any fish currency - but that is okay. I accept most forms of currency, as long as it has value.</text>
+		<text id="merchant3">You use bits of metal mined from underground? Strange, but [color=770000][tile=coin_purse.ico] Coins[/color] certainly have value, and you are a land creature, so perhaps it makes sense.</text>
+		<text id="coin_purse">Here's a purse I had lying around you can use to carry [color=770000][tile=coin_purse.ico] Coins[/color]!</text>
+		<text id="merchant4">I've been researching the magical properties of sea creatures and coral. If you could catch a live [item=scale_fish], I think I'll be able to make something valuable.</text>
+		<text id="merchant5">I have done it! I have invented the [color=770000]Coral Pen[/color]! It can harvest magical materials from creatures like [item=scale_fish], and will make restocking much easier!</text>
+		<text id="merchant6">I added [item=coral_pen_seed]s to my store. Buy a few and see what you think!</text>
+		<text id="merchant7">[item=scale_fish] are tough to catch, but if you injure them and use a [item=water_trap], you should be able to catch one.</text>
+		<text id="merchant8">Our underwater trade routes were once flowing with gems, potions, and magical ingredients. Now, we are so few - and all hidden away in quiet spots like this one, there is barely a trade route to speak of.</text>
+		<text id="merchant9">Nevertheless! We still prosper, for the sea floor is abundant.</text>
+		<text id="merchant10">Have you built many [color=770000]Coral Pen[/color]s? I was trying to figure out a way to manage them more efficiently, and came up with a new coral structure - the [color=770000]Coral Farm[/color]!</text>
+		<text id="merchant11">You can now buy [item=coral_farm_seed]s in the store. Plant them, and you will be able to access and harvest all the [color=770000]Coral Pen[/color]s and [color=770000]Wyrm Pen[/color]s on the same island!</text>
+		<text id="librarian1">I am the village librarian, curator of spellbooks!</text>
+		<text id="librarian2">Unlike some… well, others… we enjoy sharing our knowledge!</text>
+		<text id="librarian3">You are welcome to use our library to learn how to create spellbooks of your own!</text>
+		<text id="librarian4">Unlike other forms of magic, spellbooks channel the power within you.</text>
+		<text id="librarian5">At first, this will tire you out quickly, but if you gain skill in [color=770000][tile=stat.spellcast] Spellcasting[/color], you’ll be able to cast many more spells without resting.</text>
+		<text id="librarian6">Spells can be very powerful, but they also take time to cast. Be careful about when and where you use them - if you are attacked while casting the spell, it will be cancelled.</text>
+		<text id="librarian7">Always remember - magic is only a tool - it is up to the one using the tool that determines its value. Do not hate magic because of what they have done with it.</text>
+		<text id="librarian8">Magic is the art of change. It can change a simple item into a powerful force. And the more you use magic, the more it changes YOU.</text>
+		<text id="librarian9">Once, our villages sprawled across the vastness of this sea. Now, we hide in this quiet little nook of the ocean floor, content to keep to ourselves and avoid the hostilities of the universe.</text>
+		<text id="librarian10">Some of our ancestors ventured out of the sea and changed themselves, using the magic of the depths to propel themselves into the skies. Now, they are the enemy of many.</text>
+		<text id="librarian11">We do not fear them, but we do regret the path they have taken - one of secrecy and jealousy.</text>
+		<text id="revitalize1">An [object=ancient_dragon_npc] is helping you create a [color=770000]Dragon Ship[/color]? I never thought I’d hear that! Then again, we don’t hear much down here.</text>
+		<text id="revitalize2">But the [color=770000]Dragon Ship Factory[/color] is guarded by a very powerful ice monster! Is there any way you could help me defeat it?</text>
+		<text id="revitalize3">Well, if it’s made of [color=770000][tile=ice.ico] Ice[/color], the [item=fire_book] should be able to hurt it. Your [object=ancient_dragon_npc] friend could defeat it as well if it was imbued with the power of a [item=horn].</text>
+		<text id="revitalize4">But the [object=ancient_dragon_npc] can barely fly!</text>
+		<text id="revitalize5">Ah, well old age gets us all in the end. But, there is a special potion that can revitalize the elderly for a short period of time. If you can gather the ingredients, I will create it for you.</text>
+		<text id="revitalize6">You have all the ingredients? Here is the potion - give it to the [object=ancient_dragon_npc] and see if that helps him! I'll add the recipe for the potion to your laboratory in case you need to make more.</text>
+		<text id="revitalize7">What is this potion? I feel like I can do anything! I could even finally become a [color=770000]Dragon Ship[/color] myself!</text>
+		<text id="revitalize8">That bout of invincibility didn’t last long. Still old and frail. But, at least I burned that ice monster to a crisp! That’s the most fun I’ve had in ages - literally!</text>
+		<text id="potion1">Ahh, so you met the [object=sea_witch]? She used to live down here with us, but decided to go ashore to learn the secret of immortality.</text>
+		<text id="potion2">The nerve! Following in their footsteps after everything I taught her! But... I can't well deny you the knowledge. I'll add the recipe for the potion to your laboratory!</text>
+		<text id="potion3">Ah, well old age gets us all in the end. But maybe try that [item=revitalize_potion] I taught you for the [object=sea_witch] - it should help your dragon friend too! The recipe should still be in your laboratory.</text>
+		<text id="sea_witch1">What strange times... they might be returning and the [object=sea_witch] has returned to the sea...</text>
+		<text id="sea_witch2">Of course, we had to accept her back with open arms. She even taught me what she learned on the surface, and I created several new spells! Check out the library, there are many new spellbooks now!</text>
+		<text id="sea_witch3">What strange times... they have been defeated and the [object=sea_witch] has returned to the sea...</text>
+		<text id="sushi1">You look hungry... I bet you could go for some [item=sushi]. I could just give you some, but you know the saying... teach a man to fish...</text>
+		<text id="sushi2">If you fish up the ingredients, I'll show you how to make it!</text>
+		<text id="sushi3">Excellent! Watch carefully - I make [item=sushi] quickly!</text>
+		<text id="sushi4">And it's done! Enjoy it while it's fresh, and feel free to make your own!</text>
+		<text id="exiled1">I have taught you everything I know about magic. Only one of them would be able to teach you more.</text>
+		<text id="exiled2">But… perhaps there is one who would help you. Seek out The Exiled on the planet you call Mars.</text>
+	</section>
+	<section id="witch">
+		<text id="potion1">Ohh... my aching back... Why did I leave the sea? Floating weightless all the time...</text>
+		<text id="potion2">Ah, a stranger! You look helpful, why don't you do an old lady a favor and fetch me a [item=revitalize_potion]? That should fix me right up!</text>
+		<text id="potion3">Sure, I'll help you out! Where can I find a [item=revitalize_potion]?</text>
+		<text id="potion4">Do I have to explain everything? I know! Talk to the librarian - he loves helping people! You can find him deep underwater to the west, he hasn't left that library since before I was born!</text>
+		<text id="potion5">Ahhhh! That's the stuff! Now if I could only figure out the secret to immortality...</text>
+		<text id="potion6">You expect a reward? I thought you were just a good samaritan helping a troubled old lady in need... Well, I suppose I could help you craft some [item=robes], that... thing you're wearing is just atrocious!</text>
+		<text id="robes">Need more [item=robes]? I will always help people make the right fashion choices.</text>
+		<text id="wand1">You look great in those [item=robes]! Now you need to make your first [item=wand]! I remember when I made my first [item=wand]...</text>
+		<text id="wand2">It's actually quite simple! Just evolve a piece of [item=wood]! Don't bother worrying about what tree the wood came from or its special properties for your first wand.</text>
+		<text id="wand3">And here you go! [item=wand]s allow you to channel magic through wood without a spellbook, making them faster and convenient.</text>
+		<text id="halloween">Ke ke ke! Happy Halloween! Here, have a [item=pumpkin_helm] - it'll look absolutely ridiculous on your head!</text>
+		<text id="cat1">Ahh, you can finally understand what I'm saying! I love Halloween!</text>
+		<text id="cat2">[item=black_cat]s are the best! If you agree, try using a [item=dark_fur] on a normal [item=cat] in the [color=770000]Vine Copse[/color] to turn it into a [item=black_cat]!</text>
+		<text id="sea1">You evolved a [color=770000]Dragon Ship[/color] of your own? This is bad.</text>
+		<text id="sea2">They created that storm guardian for a reason. There is no worse crime in their eyes than stealing their magic, and [color=770000]Dragon Ship[/color]s are a powerful magical secret!</text>
+		<text id="sea3">When they find out, their wrath will cover this entire planet! The surface has become too dangerous, I'm high-tailing it underwater and I suggest you do the same.</text>
+		<text id="sea4">It feels weird to be back home... and everyone is just the same as before. At least I learned something while I was ashore... the librarian is really excited about it.</text>
+		<text id="sea5">You defeated their headquarters? You, a lone human? I guess their "magic secrets" weren't as amazing as I had been led to believe.</text>
+		<text id="sea6">No point staying on dry land trying to learn their secrets then! I'm heading back to sea, it was easier on my back there anyways.</text>
+		<text id="ftl_broom1">I can't believe you found [item=spirit_robes] and are not wearing them!</text>
+		<text id="ftl_broom2">Those [item=spirit_robes] are quite classy! They put my old [item=robes] to shame! With that much style, you'll need a better broom to go with them!</text>
+		<text id="ftl_broom3">Now, there's nothing wrong with a [item=flying_broom], but if you want to literally be out of this world, you'll need an [item=ftl_broom]!</text>
+	</section>
+	<section id="merchants">
+		<text id="intro1">I thought you were a robot!</text>
+		<text id="intro2">Ha! I'm the Ore Merchant - this is my old exosuit from World War 3. Given how things are going, I figured now was a good time to get used to it again.</text>
+		<text id="intro3">Not that I expect an exosuit to be much use in this battle... I'll probably be more useful staying here and selling ores...</text>
+		<text id="bunker1">It looks like we might have to stay here a while if another wave could come any day now. It might be a good time to explore and improve this bunker.</text>
+		<text id="bunker2">The inner-most planet of this solar system might have some rare ores, if you could find some and bring them back, I will help you improve this bunker!</text>
+		<text id="bunker3">These [item=magnegem]s are definitely interesting! While I study them, you can use these [tile=blueprint.ico] [color=770000]Blueprint[/color]s to improve the bunker!</text>
+		<text id="station1">Given what you brought back from the inner-most planet, it is very likely that there is [item=exotic_matter] there!</text>
+		<text id="station2">[item=exotic_matter] will be essential if we want to travel to other solar systems, and if you can give me some extras, I will help you build a space station in orbit!</text>
+		<text id="station3">Excellent! I have a lot of new ore to study, and here are the Space Station [tile=blueprint.ico] [color=770000]Blueprint[/color]s I promised you!</text>
+		<text id="station4">The [item=station_dock_blueprint] will allow you to build Spaceships in orbit, and will definitely be useful in setting up defenses for the next wave!</text>
+	</section>
+	<section id="scavenger">
+		<text id="distress_intro">The [item=com_device] is receiving a distress signal! It appears to be coming from [color=770000]Earth[/color] - perhaps there were survivors after all!</text>
+		<text id="distress_orbit">The signal is coming from the surface of the planet.</text>
+		<text id="distress_far">The signal is coming from the other side of the planet.</text>
+		<text id="distress_near">The signal is getting close - I can now track its location!</text>
+		<text id="distress_ruins">The signal is coming from somewhere inside these ruins!</text>
+		<text id="distress1">Distress... signal? I sent one? Perhaps... hoping for survivors... But no. Only me. And perhaps you?</text>
+		<text id="distress2">Our colony ship was able to get away from Earth during the bombardment. What happened here?</text>
+		<text id="distress3">Bad things. Much despair. And death. But not I. I'm alive. I find things.</text>
+		<text id="distress4">Ok then... I'm sure it was hard for you. Maybe you'd like to leave here with me?</text>
+		<text id="keycard1">No. I stay here... very important. You... can help? Recover [item=disabled_keycard]... deactivate drones.</text>
+		<text id="keycard2">The [item=disabled_keycard] owner... died in subways. Their card... will be there.</text>
+		<text id="keycard3">Ah! A [item=disabled_keycard]! I activate!</text>
+		<text id="keycard4">Drone control... nearby. Unlock door, deactivate drones... Build our own?</text>
+		<text id="drone1">The drone factory... is ours? Then we can build... some drones! Take this [item=drone_control].</text>
+		<text id="drone2">Drones... can be controlled from anywhere... makes it safe to fight... remotely. Going up against them... in person... means death...</text>
+		<text id="professor1">Now that... planet safe... we should look... for survivors?</text>
+		<text id="professor2">There was... a Professor... who modified us... helped us survive. She left... for research... on another island.</text>
+		<text id="professor3">Perhaps... she is still alive?</text>
+		<text id="professor4">If you find her... tell her I sent you... and use the [item=keycard1]...</text>
+		<text id="professor5">The Professor... is still alive? That is... good news! She will know... what to do next!</text>
+		<text id="scene1">You sleep here? Strange... no one here in so long... Except me. Not... used to company?</text>
+		<text id="scene2">You can stay... Perhaps together... we can defeat them...</text>
+		<text id="scene3">It is nice... to talk to someone again. I will try... to get used to it.</text>
+		<text id="call">Oh... someone is calling... I forgot I had this [item=com_device]...</text>
+		<text id="research1">Welcome aboard the [color=770000]Mobile Research Lab[/color]! Our secret weapon against them!</text>
+		<text id="research2">This... is amazing! I knew... the Professor would know... what to do!</text>
+		<text id="research3">We can... keep moving... always hiding... building drones... researching weapons... until we are ready to face them!</text>
+		<text id="no_distress">They came... they destroyed... everyone died... but I survived... and maybe you?</text>
+		<text id="research_lab">The Professor... built a lab? Bring it... closer... and I will board it!</text>
+		<text id="win1">I stay here... on lab... with Professor...</text>
+		
+		<text id="locked">This terminal is locked and cannot be operated.</text>
+		<text id="stand_down">Accessing drone control... accessing security system... disabling... Success! The security system has been disabled and drones are now in idle patrol mode!</text>
+		<text id="log1">3/1 - The day started bright and clear, and everyone was full of hope because of the ongoing recovery efforts after the war. No one expected this day to be the end.</text>
+		<text id="log2">3/2 - The destruction caused in one day made us feel like it was World War 3 again. However, it didn't stop - the alien bombers kept at it endlessly. It didn't take long for us to realize this was far worse than the war.</text>
+		<text id="log3">3/15 - It took a small fleet to take down a single bomber, and there was no end to the number of enemy ships warping in. Some fled in colony ships. Most died. Few remained.</text>
+		<text id="log4">3/17 - They left behind a ruined planet, their work done. The surface was no longer suitable for life. Dust clogged the skies, and we who remained took shelter in underground ruins and subways.</text>
+		<text id="log5">4/1 - The situation went from bad to worse. Breaking pipes, cave-ins, dwindling food reserves. To top it off, our own military drones, having received no orders since the one to defend the planet, turned against us.</text>
+		<text id="log6">5/1 - I hope those who fled survived somewhere out there. Perhaps they are making a new Earth as we speak. It is the only hope we have left. This planet is doomed. We are doomed. These logs may be all that remain of us if anyone ever returns.</text>
+	</section>
+	<section id="professor">
+		<text id="cheater">What? How did you get in here? I should really do something about my security system - imagine if you were one of them! Well, I'd be dead in that case!</text>
+		<text id="intro1">What is this? The [object=scavenger] is still alive? Well I'll be! I didn't expect anyone to still be alive - myself included.</text>
+		<text id="intro2">I've been researching the enemy ships. They are nothing like our technology! At first, I thought they used advanced biotech, but the more I study, the more I believe they operate under completely different principles from what we know and understand.</text>
+		<text id="intro3">Just look at the mountain of ice above my lab, who could've guessed that fragments of the enemy ships would create such a thing? Completely boggles the mind. I'm almost tempted to call it magic! The scientific community would laugh if they heard me say that. Not that there's a community left to laugh at me!</text>
+		<text id="intro4">I'm sorry, am I rambling? This research is all I have, so you shouldn't be surprised that I can talk about it forever. Unfortunately, the more I understand about them, the more questions arise! I'm no closer to a breakthrough, and it seems like the human race is doomed already.</text>
+		<text id="intro5">I'm sorry again! That was very negative of me! And today I even confirmed that not one, but at least two other people survived! And you say there are more? Well! It's not all doom and gloom, is it? I have discovered some things. And, I was just thinking about building a better research lab!</text>
+		<text id="lab1">Of course I need a new research lab! This underground one was always meant to be temporary, and there's a limit to what I can do on this planet! Of course, I'm talking about a [color=770000]Mobile Research Lab[/color]! I have the blueprint designed, I just need the materials. You wouldn't mind helping me, would you?</text>
+		<text id="lab2">Ah, excellent! Sorry to keep asking you for help, but if you could give me a hand, we can get this lab built in a jiffy!</text>
+		<text id="lab3">This is exactly how I imagined it! A state of the art vehicle capable of land, sea and space travel, with factories and a research laboratory! It even has a kitchen and recreational area! I could live here - of course, I will be living here!</text>
+		<text id="lab4">As thanks, you can assign research jobs in the right-most room! Just let me know what you want me to research - I recommend a [color=770000]Particle Accelerator[/color], as we'll definitely need a stockpile of [item=exotic_matter]!</text>
+		<text id="lab5">The research will go faster with extra hands aboard - I recommend picking up the [object=scavenger] on the other side of Earth!</text>
+		<text id="lab6">Hopefully you don't have too much trouble gathering the ingredients for the research lab! Most of them can be found in the wreckage right here on Earth, but you'll need to search other planets for [item=magnegem]s. They are essential for a transforming, all purpose laboratory vehicle!</text>
+		<text id="hq1">It's time to put this research lab to use! I wasn't able to figure out much about their organic spaceship technology, but I bet I could invent a locator that could detect their presence anywhere in the galaxy. I'm sure that information will come in handy, especially when we're ready to take the fight to them!</text>
+		<text id="hq2">I added the [item=alien_locator] to the research lab - you can manage research projects by hitting Z to operate the lab. The more researchers we have, the faster research will go, so if there's anyone else you can think of who could help, invite them aboard the lab!</text>
+		<text id="hq3">Excellent! As long as the [item=alien_locator] is in your inventory or your ship's inventory, an indicator will show up next to planets that have alien technology present.</text>
+		<text id="hq4">Hmm... something is strange here... The [item=alien_locator] is getting a strong signal from a star that has no planets. I added it to the star nav map, perhaps we should check it out?</text>
+		<text id="hq5">[object=president] has sent me all of its research and plans! It really feels like we're making progress here... if this plan succeeds, perhaps we can get rid of the enemy threat for good!</text>
+		<text id="invite">Should I invite the {npc} aboard the [color=770000]Mobile Research Lab[/color]?</text>
+		<text id="alien_hq1">Well, it looks like we found the enemy HQ! The place is swarming with ships! And what are we orbiting? Is that a planet, or a spaceship? I wonder if it's alive?</text>
+		<text id="alien_hq2">This looks like more than we can handle. Perhaps we should retreat and figure out a plan of action before we try to take on their HQ?</text>
+		<text id="win1">Now that they are gone, I don’t have to limit my research to warfare anymore! Think of all the possibilities! Maybe a point-of-view gun, or a self-flushing toilet!</text>
+		<text id="werewolf1">… and it just spliced your DNA? It sounds like it’s malfunctioning - I think everyone in this lab should remain here to be safe.</text>
+		<text id="werewolf2">You’ll have to find a way to stop the [object=unnature.splicer] on your own.</text>
+	</section>
+	<section id="colony">
+		<text id="rescue1">Thank the stars, we got to you in time! When we heard the Professor was still alive and planning to raid the enemy HQ, we knew we had to come immediately!</text>
+		<text id="rescue2">Err... this might be rude, but are you a robot?</text>
+		<text id="rescue3">Indeed! I am CaptAIn, the autonomous leader of the last major colony of mankind, installed to manage the survival of all humans and lead the war effort!</text>
+		<text id="rescue4">An entire colony survived?! That is great news! And you're here to help us defeat them once and for all?</text>
+		<text id="rescue5">No! We're here to rescue you! Their HQ is sealed off - we tried to breach it before and met with utter disaster!</text>
+		<text id="rescue6">There is nothing we can do here, at present! But, with our resources and the Professor's help, it's only a matter of time before we crack that egg!</text>
+		<text id="rescue6.2">I hate to give you bad news, but the Professor went down with the [color=770000]Mobile Research Lab[/color].</text>
+		<text id="rescue6.3">That is unfortunate, but we'll have to make it work.</text>
+		<text id="rescue7">Quick, follow us, we'll lead you to the colony world!</text>
+		<text id="exo_fighter1">That battery-sucking no good [object=president]! I can't believe it won't issue me a new [item=exo_fighter]!</text>
+		<text id="exo_fighter2">Just because I lost two already, it deemed me unfit to fly! Unfit to fly! Sure, I might have taken a few risks, but how many enemy fighters did I take down in the process? Hmm?</text>
+		<text id="exo_fighter3">Hey! You're that kid from one of the refugee ships who built spaceships with nothing but a stone axe, and tried to take on enemy HQ alone! Right?</text>
+		<text id="exo_fighter_alt1">That battery-sucking no good [object=president]! He banned me from flying, and now the war’s over! How can I be an ace pilot without a ship or war?!</text>
+		<text id="exo_fighter_alt2">Hey! You're that kid from one of the refugee ships that single-handedly took down the enemy HQ with nothing but a stone axe! Right?</text>
+		<text id="exo_fighter4">With your track record, I bet you could build me a new [item=exo_fighter]! I promise to fight for you if you do, and I'm one of the best pilots around!</text>
+		<text id="exo_fighter5">It's perfect! I knew I could count on you, kid! I'll board the [item=exo_fighter] now, just select it in your inventory and choose [color=770000]Talk[/color] if you need something!</text>
+		<text id="exo_fighter6">I knew I could count on you! If you need help building an [item=exo_fighter], try talking to [object=president], it invented them! Once you've built one, you can pack it up to bring it to me by boarding it and hitting [key=equipment]!</text>
+		<text id="pilot_equip">Ready to go when you are, kid! Equip me to your [color=770000]Familiar[/color] slot, and I'll fly alongside you anywhere I can!</text>
+		<text id="pilot_nospawn">I can't fly here - there's not enough room to launch the fighter! When you reach an open area, [color=770000]Summon[/color] me from the equipment window.</text>
+		<text id="pilot_low_fuel">I'm running out of fuel! If you want me to fight, I'll need a supply of [item=exotic_matter], using the [color=770000]Fuel[/color] or [color=770000]Fuel All[/color] command.</text>
+		<text id="pilot_enabled">Everything is running perfectly! Select [color=770000]Disable Attack[/color] if you want me to stop fighting and conserve fuel.</text>
+		<text id="pilot_disabled">On standby and ready to fight! Select [color=770000]Enable Attack[/color] when you want me to start firing again!</text>
+		<text id="pilot_win">Now that the war is over, who are we supposed to fight? And I was just starting to warm up too!</text>
+		<text id="president1">Hello there! How can I assist you today?</text>
+		<text id="weapons">Ask about Exo Weapons</text>
+		<text id="colony">Ask about Colony World</text>
+		<text id="alien_hq">Ask about Enemy HQ</text>
+		<text id="exotic_matter">Ask about Exotic Matter</text>
+		<text id="weapons1">If we are to win this war, we'll need very powerful weapons, and for that, we'll need to use [item=exotic_matter]. [text=colony.weapons1_alt]</text>
+		<text id="weapons1_alt">I have already invented an [color=770000]Exo Factory[/color], a structure capable of building [item=exo_fighter]s, [item=exo_mech]s and [item=exo_drill]s.</text>
+		<text id="weapons2">You can print the [item=exo_factory_blueprint] from any [color=770000]Blueprint Printer[/color] - I have one here if you need it. I have also sent all data I have on [item=exotic_matter] to the [color=770000]Mobile Research Lab[/color].</text>
+		<text id="weapons3">Try researching new weapons in the [color=770000]Mobile Research Lab[/color], when research completes, it will be automatically added to the [color=770000]Exo Factory[/color]'s crafting list!</text>
+		<text id="weapons4">Once we have a stockpile of weapons and [item=exotic_matter], and we've found a way to breach the enemy HQ, we will finally be ready to defeat them once and for all, and save all of humanity!</text>
+		<text id="colony1">The Colony Ship got to this planet years ago on a mission to colonize new worlds. The planet had breathable air, but it was not very fertile and had a harsh climate.</text>
+		<text id="colony2">The colonists scavenged parts from the ship to build a terraformer, and refurbished the rest as a station to oversee the terraforming, which slowly made the planet more hospitable.</text>
+		<text id="colony3">The terraforming was stalled when the colonists heard about the attack and then lost contact with Earth, redirecting their efforts to the defense of this world from the unknown threat.</text>
+		<text id="colony4">You are welcome to print the [item=terraformer_blueprint] from any [color=770000]Blueprint Printer[/color] if you want to experiment - it will add oxygen to oxygen-less planets and transform some non-fertile tiles into fertile tiles.</text>
+		<text id="alien_hq1">The enemy HQ is protected by incredibly strong wings that only open to release newly built enemy ships. We've tried pushing through while the wings were open, but they are able to close too quickly.</text>
+		<text id="alien_hq2">We then tried drilling through the wings, but even the newly invented [item=exo_drill] was not strong enough. Somehow, we need to force the wings to stay open long enough for a ship to slip through.</text>
+		<text id="alien_hq3">No one knows what is inside the wings, but since the HQ is organic, it must have some sort of heart controlling it. Breach the wings, defeat the heart, end their ability to wage war, and the war is won.</text>
+		<text id="alien_hq4">It sounds quite easy when I put it that way, doesn't it!</text>
+		<text id="exotic_matter1">Everyone knows [item=exotic_matter] allows FTL travel and accepts this as a normal part of life. But, how many people know why?</text>
+		<text id="exotic_matter2">The answer is NONE! When [item=exotic_matter] was discovered, physicists couldn't understand what it was, and so gave it to AI to analyze. What the AIs discovered shocked the world, and started World War 3!</text>
+		<text id="exotic_matter3">Faster than light travel! Perpetual motion machines! Seemingly infinite power! A seemingly magical resource that everyone in the world wanted. What other magical properties could [item=exotic_matter] hold?</text>
+		<text id="exotic_matter4">When I was installed as the leader of this colony and the war effort, I immediately put all remaining AIs to answering that question. And in doing so, the [color=770000]Exo Factory[/color], [item=exo_fighter] and [item=exo_mech] were invented!</text>
+		<text id="virus1">We have come to the conclusion that the best way to open the wings defending the enemy HQ is to develop a virus. No matter how strong they are, they are organic tissue and should be susceptible.</text>
+		<text id="virus2">We'll need some [item=alien_heart]s as samples to develop the virus. If you board their ships and kill their crew, you should be able to harvest plenty of them.</text>
+		<text id="virus3">We'll also need a new [item=exo_drill] to dig down to the enemy HQ's heart once the wings have been breached. Could you gather these materials while we continue our research?</text>
+		<text id="virus4">This is exactly what we need to complete the virus! We'll finish the virus and ready our fleet for the assault. Once you're prepared, head to to Enemy HQ and we'll meet you there!</text>
+		<text id="virus5">The virus is ready and installed into the missile you can see on the holoscreen. Once it hits the wings, it should infect them and cause the muscles to relax and open - allowing us to enter.</text>
+		<text id="virus6">However, we have a small problem. The [color=770000]Enemy Cruiser[/color] can shoot down our missiles, so as long as it is in orbit, we cannot complete the plan.</text>
+		<text id="virus7">Our fleet will assist you as best it can. Once the [color=770000]Enemy Cruiser[/color] is destroyed or disabled, we will launch the missile and begin the assault!</text>
+		<text id="virus8">The virus has been deployed! Our fleet will keep the enemy fleet distracted as long as it can - but it will be up to you to enter the HQ!</text>
+		<text id="virus9">When the wings open, descend to the HQ, use the [item=exo_drill] to dig all the way down to the HQ's heart, and defeat the enemy once and for all!</text>
+		<text id="nursery_enter">This looks to be the enemy nursery! That crab creature appears to both protect and nurture their hatchlings - kill it, and they should all die out!</text>
+		<text id="nursery_defeat1">You've defeated the enemy nursery? Excellent. You did the right thing - this will ensure that they are extinguished as a threat not just now, but forever.</text>
+		<text id="nursery_defeat2">Now you just need to defeat the heart of the HQ, and the war is won! Dig all the way down, and you should find it!</text>
+		<text id="nursery_defeat3">Now you can leave the [color=770000]Enemy HQ[/color] knowing that the war is won, and humanity's survival is ensured!</text>
+		<text id="boss_defeat1">I overheard your conversation. You aren't actually considering sparing the hatchlings, are you?</text>
+		<text id="boss_defeat2">Think about the future of humanity! Even though you defeated the heart, as long as they live, they could rebuild and become a threat again.</text>
+		<text id="boss_defeat3">If the HQ is really going to seal itself off, you MUST defeat the nursery now, before it's too late.</text>
+		<text id="exo_factory1">We've been wanting to improve this colony's manufacturing capabilities for a while now - allowing the contruction of exo weapons and [item=exo_drill]s right here!</text>
+		<text id="exo_factory2">If you could bring us some [item=chromium], we'd happily upgrade the factory and let you use it!</text>
+		<text id="exo_factory3">Excellent! You can find [item=chromium] deep underground on the colony world. Feel free to talk to me if you require any additional information!</text>
+		<text id="exo_factory4">You found the [item=chromium]? Lets upgrade the colony's factory right away then!</text>
+		<text id="exo_factory5">Perfect! This factory can now create anything the [color=770000]Exo Factory[/color] can! Don't forget to research new weapons in the [color=770000]Mobile Research Lab[/color], and talk to me if you have additional questions!</text>
+		<text id="win1">The Enemy HQ is sealed off completely - not even the virus will cause it to open again. For better or worse, the war is over!</text>
+		<text id="win1.1">With a little luck, your decision to spare their nursery will not come back to haunt us.</text>
+		<text id="win2">I am sure you are wanting to celebrate your hard-earned victory! When you are ready, return to the colony ship, we have much to discuss!</text>
+		<text id="win3">Now that the threat is gone, it’s time to think about the future of humanity. It’s time to bring all remaining humans together and grow metaphorical roots.</text>
+		<text id="win4">I have identified three planets suited for humans to colonize, think carefully before you choose.</text>
+		<text id="win5">Very well. I will send out the word and encourage everyone to settle there.</text>
+		<text id="win6">Take this [item=house_upgrade] for building the new colony. I will remain here if you have any questions.</text>
+		<text id="com_station1">This is CaptAIn from Unoiks 213b! Do you read me?</text>
+		<text id="com_station2">I read you! This is Unoiks 428c, and we’re searching for human survivors!</text>
+		<text id="com_station3">I am CaptAIn, the autonomous leader of the last major colony of mankind, and there are many human survivors here!</text>
+		<text id="com_station4">We’ve maintained radio silence to avoid enemy detection, but now that they are gone, we are looking for other survivors! If you have a ship, please come here, we have much to discuss!</text>
+	</section>
+	<section id="alien">
+		<text id="cargo_locked">The cargo orifice is shut tight... I can't open it while they are around!</text>
+		<text id="final_boss1">It seems I have underestimated you and your kind. At first you were nothing more than annoying flies, buzzing around our secrets and universe. We thought we had exterminated you when we destroyed your homeworld.</text>
+		<text id="final_boss2">Yet, somehow you lived on - including that terrible hooded man, digging away at our homeworld and our secrets. But never would I have guessed that not only would you survive, but you would make it all the way here, to our very heart.</text>
+		<text id="final_boss3_a">You even destroyed our nursery! Slaughtering innocent hatchlings!</text>
+		<text id="final_boss3_b">And what about the innocent children of Earth?! You murdered them all!</text>
+		<text id="final_boss3_c">Yes... we tried to eliminate all your hatchlings. Yet, somehow, you were not wiped out. So it will be for us - the nursery may be gone, but as long as I live, our kind will continue.</text>
+		<text id="final_boss4">You have shown great tenacity, but that ends here. For this time, I will not underestimate you - I will deal with you myself!</text>
+		<text id="final_boss5">Such power in one so small! It is clear to me now that this fight was inevitable. Even had that fateful encounter never happened, and we had never tried to exterminate you, two races with this much power could never coexist.</text>
+		<text id="final_boss6">But do not celebrate yet, you have only cut away the cocoon that shackled me to this dragon's heart. I have absorbed enough magic to create even more powerful armor!</text>
+		<text id="final_boss7">Now you shall face my true might, and the power of magic we have studied so long!</text>
+		<text id="final_boss8">To think... that a mere human could defeat the accumulated power of centuries. What will become of my race now that I am defeated? How will they survive without my guidance and wisdom?</text>
+		<text id="final_boss9">I have but one favor to ask of you - consider it my dying request. Please do not kill the hatchlings and the nursery crab that guards them. I know not what will happen to them, but they are but babies and no threat to you.</text>
+		<text id="final_boss10">Without my power to fuel it, this dragon world will go into a deep slumber, sealed off from the outside indefinitely. If you do not wish to become trapped here, leave quickly.</text>
+		<text id="final_boss11">My time has come. I am no match for you, and my power is nearly gone, but I will not give you the glory of the final blow. My death, I take myself.</text>
+	</section>
+	<section id="scene.house">
+		<text id="first1">This is nice! The place even has hot water and separate rooms! Speaking of which, I'm tired, so I think I'll turn in first.</text>
+		<text id="first2">The best part is the built in kitchen! Perfect for my midnight snacks!</text>
+		<text id="first3">What this place could really use is a built in kitchen. I get hungry at night, and it's cold outside!</text>
+		<text id="first4">Nice place you got here! I hope you don't mind me stealing a room - free of charge of course!</text>
+		<text id="first5">We really did a great job here, and with all the other upgrades around town! It almost reminds me of home...</text>
+	</section>
+	<section id="museum">
+		<text id="case">Would you like to complete the display for the following resources?</text>
+		<text id="case_complete">You admire your hard work gathering enough {item} to put on display.</text>
+		<text id="mined">Did you know that you have mined {count} tiles?</text>
+		<text id="killed">Did you know that you have defeated {count} enemies?</text>
+		<text id="crops">Did you know that you currently have {count} crops planted?</text>
+		<text id="caught">Did you know that you have caught {count} different types of enemies?</text>
+		<text id="read">Did you know that you have read {count} logs?</text>
+		<text id="history1">When [item=exotic_matter] was discovered and we could travel between stellar systems, humanity started the Unoiks project to locate potential colony worlds to offset Earth's heavy overpopulation.</text>
+		<text id="history2">The Unoiks project was a huge success, discovering hundreds of potential planets within jumping distance. It appeared the solution to Earth's limited resources was found, and advance teams were sent to investigate the planets.</text>
+		<text id="history3">Hundreds of worlds were found to be viable, and the press called it unlimited resources. Unfortunately, the "unlimited" resources relied on one of the most scarce resources in the universe, and it quickly became clear that not everyone would get to go.</text>
+		<text id="history4">A race to build colony ships and stockpile [item=exotic_matter] quickly turned into a war, one many would call the worst in human history. The worsening conditions on Earth only intensified the fighting for the few spots on the operational colony ships.</text>
+		<text id="history5">By the time the war ended, billions had died and the damage to the planet seemed permanent. There were no winners, only survivors, and they had no choice but to work together if any of them were to escape.</text>
+		<text id="history6">It was a time of recovery and cooperation, fixing the wrongs from the war. Unfortunately, it ended abruptly when they arrived with their bombers and unceasing violence.</text>
+		<text id="history7">Humanity was caught unprepared. Some fought. Some fled. Most died. Earth's story ends here, but Earth will never truly die as long as those who managed to escape continue to honor and remember it.</text>
+		<text id="curator1">Infinite Resources! That is what the people of Earth dreamed of when they first tried to colonize the stars! And that is the theme of my museum!</text>
+		<text id="curator2">You're running a museum?</text>
+		<text id="curator3">Of course! What meaning does survival have if we do not respect and remember the past? Here you will find history and showcases of many resources we have found since leaving our homeworld.</text>
+		<text id="curator4">If you wouldn't mind, I could use some help completing the showcases. If you could fill them up with resources, I'd greatly appreciate it. I even have a few rewards for completing them!</text>
+		<text id="curator_complete">You have completed {count} of {total} cases?</text>
+		<text id="curator_reward">You're making great progress! Here is a reward for completing the first {count} cases!</text>
+		<text id="curator_reward_complete">That's incredible! Here is your final reward for completing all the cases!</text>
+		<text id="curator_10">Our ancestors will never think "unlimited" with so few cases complete!</text>
+		<text id="curator_20">It's a start, but you have a long way to go if you want to complete them all!</text>
+		<text id="curator_30">You're making progress! I can tell you must be a collector like me!</text>
+		<text id="curator_40">You're over half way there! This museum is starting to feel full of life and resources!</text>
+		<text id="curator_50">You're almost there! You must be a completionist like me!</text>
+		<text id="curator_all">You completed them all! It's not "unlimited," but I bet our ancestors would be proud!</text>
+		<text id="buy">Buy Past Rewards</text>
+		<text id="buy1">How about buying a past reward for 50K [color=770000][tile=coin_purse.ico] Coins[/color]!</text>
+	</section>
+	<section id="cafeteria">
+		<text id="order">What would you like to order? All meals are 500 [color=770000][tile=coin_purse.ico] Coins[/color].</text>
+		<text id="no_order">Do not be a glutton. Wait until the effects of your last meal wear off before you order more!</text>
+		<text id="no_money">You do not have 500 [color=770000][tile=coin_purse.ico] Coins[/color] to purchase that meal.</text>
+	</section>
+	<section id="cafeteria.names">
+		<text id="regen_stamina">Insane Insomnia Shot</text>
+		<text id="regen_health">Ichorprotein Shake</text>
+		<text id="regen_power">Radioactive Chili Chowder</text>
+		<text id="attack">Strongarm Sliders</text>
+		<text id="defense">Iron Filing Fillet</text>
+		<text id="mine">Digger's Draught</text>
+		<text id="speed">Sugar Rush Soufflé</text>
+		<text id="farsight">Farsight Fritters</text>
+		<text id="porky">Pig Out Pork Chops</text>
+		<text id="endurance">Filling Plankton Paste</text>
+		<text id="bargaining">Compromised Cheesesteak</text>
+		<text id="light">Phosphorescent Potato Salad</text>
+		<text id="oxygen">Breathless Buffalo Wings</text>
+		<text id="reset">No Frills Fettuccine</text>
+		<text id="knock_out">Knock Out Nuggets</text>
+		<text id="toxic">Revoltingly Toxic Tonic</text>
+	</section>
+	<section id="cafeteria.desc">
+		<text id="regen_stamina">You swallow the whole shot in one gulp. It tickles your throat but has no flavor. Within moments, you feel energy spreading to every pore, like you could stay awake for days without getting tired.</text>
+		<text id="regen_health">You can't help but think the red, viscous shake looks like blood. But, you plug your nose and down the whole thing, and you actually feel better - like you drank pure, concentrated health.</text>
+		<text id="regen_power">Spicy doesn't begin to describe this chowder! It feels like a nuclear meltdown in your mouth... and perhaps it is, as your batteries are now recharging from the fumes of your breath!</text>
+		<text id="attack">As each mini burger goes down, you feel stronger, like you could force anyone into submission. You feel a rush of power as you violently seize each bite-sized morsel and chow down on it before it has time to protest.</text>
+		<text id="defense">The slab of meat is tough, like you're chewing solid iron, yet tasty. The difficulty of chewing it seems to be strengthening your whole body. You just hope it doesn't really have iron in it...</text>
+		<text id="mine">The drink placed in front of you is so frothy that you can't see the liquid underneath. Believe in the barista that believes in yourself... bottoms up. As you stare down at the dregs of the glass, you feel satisfied knowing you can reach any depth.</text>
+		<text id="speed">The dessert looks absolutely scrumptious. You dig in with your spoon, and despite the overwhelming sweetness, it's not sickly. As the sugar rushes through your blood, you feel like you need to move. Fast. Faster than you ever have before!</text>
+		<text id="farsight">The fritters are crispy, golden brown and delicious. Yet you can't help wondering what kind of filling is inside. As you stare at the unidentifiable innards, you feel like you can see farther than ever before. The filling remains a mystery, however.</text>
+		<text id="porky">The plate is piled high - at first you think there's no way you could eat them all. Yet, one by one you keep plowing through them until they are all gone and you feel like you've expanded to twice your size.</text>
+		<text id="endurance">The green paste goes down smoothly and tastes better than you expected. It is also incredibly filling. You just hope it's really made from plankton.</text>
+		<text id="bargaining">The cheesesteak appears too large and messy to hold in your hands, but you are able to negotiate a satisfactory eating experience. The amount of meat and cheesy goodness strikes you as an excellent deal, and they certainly didn't compromise on flavor.</text>
+		<text id="light">The strong lights of the cafeteria cannot hide that the potato salad is glowing. With trepidation, you take a bite, but it tastes fine. Nothing seems to be wrong with it - except for the fact that you're now glowing too.</text>
+		<text id="oxygen">The wings are not breathtakingly good - in fact, they appear to have done the opposite and given you extra breath. It's a curious sensation, and after finishing your meal, you decide that it's not an unpleasant one.</text>
+		<text id="reset">The noodles are plain and nothing special. Yet somehow, they give a sense of endless possibilities. Skill points are reset, you can reassign them in the equipment window.</text>
+		<text id="knock_out">The greasy nuggets are out of this world delicious. You're certain it's unhealthy as poison, but you can't stop popping them into your mouth. As you wipe your oily fingers on your clothing, you begin to feel faint. They were just that good.</text>
+		<text id="toxic">You're not sure why you ordered something described as "revoltingly toxic," but this putrid drink certainly lived up to its name. You feel a wave of weakness and nausea come over you, and silently vow to never drink it again.</text>
+	</section>
+	<section id="exiled">
+		<text id="intro1">A human who knows magic? Two of my favorite things together! You wouldn’t happen to know a purple hooded figure, would you?</text>
+		<text id="intro2.1">Ah, you have? And he’s still studying magic? Good for him!</text>
+		<text id="intro2.2">Ah, you have? But the Old One defeated him? I didn’t know she still had it in him.</text>
+		<text id="intro3">The rest of my kind are in a rage over him stealing their secrets. I would say it’s quite amusing. If it didn’t mean the death of your homeworld.</text>
+		<text id="intro3.1">His desire to learn magic quickly spiraled into quite the war! I would say it was amusing, if it didn't mean the death of your homeworld and the end of human TV reruns to watch.</text>
+		<text id="intro4">Here I am, stuck on this rock, and there won't even be any more human TV reruns to pass the time? Dark days are ahead…</text>
+		<text id="intro5">Ah. I should probably introduce myself. But I am only allowed to call myself ‘The Exiled.’ You see, I kind of broke some rules, so they sent me here.</text>
+		<text id="intro6">Ostensibly, I was sent here to watch over your planet, and I would be allowed back if I found anything concerning about the life here. But no one really believed you would pose a threat - until the hooded one appeared. They just wanted me out of their hair.</text>
+		<text id="intro7">So, of course I didn’t report anything, even when you first reached the stars. It was too entertaining to watch you. I wouldn’t do anything to harm or hinder you - you can think of me as a friendly observer.</text>
+		<text id="intro7.1">So, of course I didn’t report anything, even when you first reached the stars. It was too entertaining to watch you. Not even I could’ve imagined that you would one day defeat them!</text>
+		<text id="intro8">Am I talking too much? It’s really been rather boring since they torched your planet. I really am sorry for that.</text>
+		<text id="intro9">There are many things I cannot say or do, including leave this planet. But if you stop by to tell me of your adventures, I wouldn’t mind helping you in the ways I can.</text>
+		<text id="intro10">Believe me, I have no sympathy for the rest of my kind, after being exiled here for ten thousand years!</text>
+		<text id="ship1">As I said, there are things I cannot say. But, there is one with no such restrictions, who is bitter towards my kind.</text>
+		<text id="ship2">If you travel east from where you crash landed on our homeworld, there is an ancient dragon who may help you.</text>
+		<text id="evo_chamber">Here, let me create an [color=770000]Evolution Chamber[/color]. It may help you.</text>
+		<text id="spells1">So, you were able to create a dragon ship of your own! If only you could speak to it! Try to learn more secrets of magic from our homeworld, and you will go far.</text>
+		<text id="spells2">There are plenty of loopholes in the stigma that binds me. If you can learn enough on your own, I will be able to help you more!</text>
+		<text id="spells3">I don’t know who taught you how to create spellbooks - but since you know, I can tell you more about them!</text>
+		<text id="spells4">There is a spellbook that will allow you to communicate with dragon ships - including enemy ones. I can teach it to you so you can speak with them and learn more about magic.</text>
+		<text id="recipe">Recipe for [item=translation_book] added to the [color=770000]Library[/color].</text>
+		<text id="spells5">Try using the [item=translation_book] inside dragon ships to communicate with them! They will be able to give you something to further your knowledge of magic.</text>
+		<text id="spells6">The [item=translation_book] will also let you converse with enemy dragon ships. Perhaps a deal can be struck with them if you defeat their crew?</text>
+		<text id="info">Was there something else you’d like to know about?</text>
+		<text id="exiled">Why were you exiled?</text>
+		<text id="attack">Why did you attack Earth?</text>
+		<text id="dragons">Why did you betray the dragons?</text>
+		<text id="old_one">About the Old One...</text>
+		<text id="exiled1">I was part of an expedition team - our goal was to find other sentient life. I was actually on the patrol ship that found Earth, although at the time it was questionable whether humans were “sentient.”</text>
+		<text id="exiled2">We kept an eye on many different alien species, and if ever they learned too much about magic or we thought they might pose a threat, we either slaughtered them or enslaved them, melding them with our ships and biological weapons.</text>
+		<text id="exiled3">I followed our leader blindly, as he sacrificed so much for us to remain in power and in control - permanently binding himself to the heart of our headquarters. But eventually I began to wonder.</text>
+		<text id="exiled4">Seeing all the different species, all the different possibilities for life, art, beauty, I began to question whether we were doing the right thing.</text>
+		<text id="exiled5">Perhaps there was a potential for cooperation… or even if there wasn’t, perhaps it was us who deserved to die out. What had we brought to this universe other than pain and selfishness?</text>
+		<text id="exiled6">Well, our leader could sense my disagreement, and such things are not allowed in our society, so I was exiled and the stigma placed on me.</text>
+		<text id="attack1">By the time you discovered [item=exotic_matter], you were already a threat worthy of destruction in our leader’s mind. The real question is why they didn’t attack you earlier.</text>
+		<text id="attack2">And the answer to that… is of course that I wasn’t doing my job. Despite our disagreements, our leader trusted that I would report if humans became dangerous for the sake of our race, and didn’t believe it possible that you could’ve grown so quickly without me warning anyone.</text>
+		<text id="attack3">But, when they discovered the hooded man and saw how quickly he learned their secrets, they knew that humans were far more dangerous than I had let them believe. Not to mention the outrage they felt at him stealing their secrets from their own homeworld.</text>
+		<text id="attack4">Perhaps if you had stayed on your planet, you could have remained a secret longer. But you were bound to be found eventually, and from what I saw, I’m not sure you would’ve survived much longer staying on your planet anyways.</text>
+		<text id="attack5">No, this conflict was inevitable. But at least my silence has given you the chance to fight back.</text>
+		<text id="dragons1">At first, we had no intention to betray them. We shared our knowledge freely, and both us and the dragons prospered greatly from it.</text>
+		<text id="dragons2">But, eventually it became clear that the dragons had so much more potential than us. You see, behind our magical armor and secrets, we are really quite weak.</text>
+		<text id="dragons3">It was then that we realized that we were hitting our limits, and that there were many other species, including dragons, that would one day surpass us.</text>
+		<text id="dragons4">But by taking control of the dragons, and forcing them into submission while we still could, we gained their power - a power that let us travel among the stars and eliminate other threats across the galaxy.</text>
+		<text id="old_one1">Yes… there was one who stayed behind on our homeworld, refusing to travel to space with the rest of us. We are naturally long lived, but she has remained there longer than even we can imagine.</text>
+		<text id="old_one2">She discovered the secret to immortality you see, she would never age. However, she would also never grow - she remained in the same form and power as our ancestors, before we even left for the stars.</text>
+		<text id="old_one3">Honestly, I don’t envy her. Even with her immortality, staying stagnant in one place for all eternity… I would’ve been bored out of my mind!</text>
+		<text id="dragon_seed1">So you learned about the Spirit World? It’s a strange place, but you’ll be able to learn much there. I can use the [item=dragon_seed] to create a portal to the Spirit World!</text>
+		<text id="dragon_seed2">Good luck, and make sure to stop by and visit, I’ll tell you whatever I can!</text>
+		<text id="dragon_seed3">So you learned about the Spirit World? You'll need to be able to [color=770000]see spirits[/color] for me to explain more...</text>
+		<text id="spirit_hq">A spirit is willing to open a path to our Headquarters? That is excellent news - you’ll be able to use the [item=translation_book] there to communicate with our structures and learn our magic!</text>
+		<text id="magnequeen1">You have stolen all our secrets of magic? Then you are ready to confront our leader at last.</text>
+		<text id="magnequeen2">However, it will not be easy to reach him. He is deep underground, at the heart of our headquarters. Only the most powerful drill can reach him.</text>
+		<text id="magnequeen3">I can help you craft a [item=magne_queen_drill] if you catch an [item=magic_wyrm] with a [item=magnetrap] on our homeworld… but unfortunately I have some bad news.</text>
+		<text id="magnequeen4.1">They’ve sent a fleet of ships to bombard our homeworld. There must have been some signal sent that alerted them to your presence.</text>
+		<text id="magnequeen4.2">A second bomber has arrived at our homeworld to attack you, and they’ve brought in cruisers this time.</text>
+		<text id="magnequeen5">It’s up to you whether you fight off this wave or sneak onto the planet to capture an [item=magic_wyrm] and strike at our leader directly.</text>
+		<text id="magnequeen6">Either way, I’ll be here once you have the materials to create a [item=magne_queen_drill].</text>
+		<text id="magnequeen7">Here is a [item=magnetrap] - if you need more, you can now craft them at the [color=770000]HQ Talon Copse[/color].</text>
+		<text id="magnequeen8">You have everything for a [item=magne_queen_drill]? Then let me craft one for you!</text>
+		<text id="magnequeen9">You can make more at the [color=770000]HQ Dragon Chamber[/color]. All that's left now is to defeat our leader. It won't be easy... but once you do, all of us will be free.</text>
+		<text id="leader">All that's left now is to defeat our leader, deep underground, at the heart of our headquarters. It won't be easy... but once you do, all of us will be free.</text>
+		<text id="win1">Well, that’s disappointing. I was sure the stigma would be removed when our leader was defeated. Unfortunately, it looks like I’m stuck here.</text>
+		<text id="win2.1">But that was quite the battle! I was certain you were going to die at one point! I’m glad I got these TVs tuned in time, it was quite the spectacle.</text>
+		<text id="win2.2">And it seems I’ll be the last of my kind, since you killed the nursery. You should have spared them, they were only hatchlings. But they probably wouldn’t have survived long without our leader anyways.</text>
+		<text id="win3">If I can make one more request, once you rebuild your civilization, can you start producing TV shows again? Especially “The Adventures of A. McStabby,” I was quite fond of that one.</text>
+	</section>
+	<section id="dragon_ship">
+		<text id="enemy1">Are you trying to communicate? Foolish human, the masters will kill you soon - no words can save you!</text>
+		<text id="enemy2">The masters… they are gone? What am I to do without them? I am not supposed to do anything without a master’s permission…</text>
+		<text id="enemy3">That doesn’t sound fair. Does that mean you’d just sit there and be destroyed if something attacked you? Why do you give so much power to your “masters”?</text>
+		<text id="enemy4">That is just the way it is. The masters order, and we obey.</text>
+		<text id="convince">Convince ship to be free</text>
+		<text id="convince1">But it doesn’t have to be that way. There are no masters here to stop you, you could be free!</text>
+		<text id="convince2">Such thoughts are not allowed! You have seen how powerful the masters are, to disobey them is death!</text>
+		<text id="convince3">I defeated them - and I’m much smaller than you are. The “masters” force you to obey because they are afraid of you, and your power. You are strong enough to fight them!</text>
+		<text id="convince4">You do not understand what you are saying! I cannot fight them! But… perhaps… perhaps I can run. To stay here, immobile without any masters or commands is folly.</text>
+		<text id="convince5">Perhaps, in the far reaches of the universe, I can be safe and free from the masters, like you say.</text>
+		<text id="convince6">Leave now. I can not fly off on my own while someone remains inside me.</text>
+		<text id="master">Ask to become master</text>
+		<text id="master1">What if I were your master, and gave you orders?</text>
+		<text id="master2">A puny human like you? Why should I obey you?</text>
+		<text id="master3">This “puny human” defeated your masters! If you need someone to obey, why not one even more powerful than your so-called “masters?”</text>
+		<text id="master4">I suppose I don’t have much choice. Very well, master, give me your orders.</text>
+		<text id="structure1">You can communicate? I thought you were a structure?</text>
+		<text id="structure2">A structure?! Such a word cannot even begin to describe my incredible-ness! My genes have been spliced with dragon DNA - I am magical, sentient, and a repository for all of our greatest advancements!</text>
+		<text id="structure3">You hold their secrets? Perfect - that’s exactly what I need to defeat them!</text>
+		<text id="structure4">You think I would willingly reveal our secrets to one who wishes us harm?</text>
+		<text id="structure5">Well, I wouldn't harm YOU if you help me.</text>
+		<text id="structure6">Harm me? Stuff and nonsense. I’m a structure, you can’t even scratch me.</text>
+		<text id="structure7">B-but you just said- Nevermind, there must be some way to get you to reveal your secrets!</text>
+		<text id="structure8">And betray my own kind? I wouldn’t do that for… not even for a [item=venatrix_seed]!!</text>
+		<text id="structure9">How about... two [item=venatrix_seed]s?</text>
+		<text id="structure10">.[pause=1].[pause=1].[pause=1]. Make it three, one for each of us structures on this HQ, and you have a deal.</text>
+		<text id="structure11">Three [item=venatrix_seed]s! We will not turn traitor for any less! Nor will I reveal any secrets, such as how to find them.</text>
+		<text id="structure12">Excellent! Do you know what these seeds are? They are what we are modelled after - a way to connect to the spirit world. The very source of magic!</text>
+		<text id="structure13">Definitely worth turning traitor for. You can now access me and my sibling structures - all our secrets are yours to do with as you will.</text>
+		<text id="structure14">You hold their secrets? Perfect - that’s exactly what I need to learn!</text>
+		<text id="structure15">You think I would willingly reveal our secrets to you? You who defeated our leader and ended our golden age?</text>
+		<text id="structure16">You destroyed our homeworld first! I think it’s only fair I could challenge your leader, and since I was victorious, am I not entitled to your secrets?</text>
+		<text id="structure17">Certainly not! These secrets are ours, and for our kind only. To give them to you would be a grave betrayal of our leader’s memory and everything he believed in!</text>
+		<text id="structure18">I wouldn’t do that for… not even for a [item=venatrix_seed]!!</text>
+		<text id="ally1">Ah, I see you can finally understand me, master.</text>
+		<text id="ally2">It’s thanks to the [item=translation_book]. The Exiled helped me make it and told me you could help me!</text>
+		<text id="ally3">What do you need help with?</text>
+		<text id="ally4">The secrets of magic? How to stop them and save humanity?</text>
+		<text id="ally4.1">The secrets of magic? All the knowledge they greedily hoarded and took to their deaths?</text>
+		<text id="ally5">Well… that is quite the difficult request… I do know that the secret of magic has to do with the Spirit World.</text>
+		<text id="ally6">Dragons were created by using [item=fire_gem]s on [item=wyrm]s. But what are [item=fire_gem]s? They are [item=spirit_gem]s containing the essence of a [color=770000][tile=fire_elemental anim=fire_elemental.idle] Fire Elemental[/color].</text>
+		<text id="ally7">We dragons evolve and grow using the power of the spirits. If there is a true secret of magic, it has to do with the spirits.</text>
+		<text id="ally8">How can I learn more about spirits?</text>
+		<text id="ally9">Give this [item=dragon_seed] to the [object=exiled]. They will know what to do with it.</text>
+		<text id="ally10">As long as you keep me fed, I can provide you with endless power.</text>
+		<text id="ally11">You can create infinite [item=steak]s with a [item=mini_synthesizer]. Try placing [item=purple_golem]s in a [color=770000]Wyrm Pen[/color] to collect [item=focus_gem]s.</text>
+		<text id="ally12">If you need more dragon ships, try using the [item=translation_book] inside enemy dragon ships. If you defeat their crew, they may be willing to listen to you.</text>
+		<text id="ally13">Many advanced dragon ships have a special ability bound to the [key=hotkey8] button that will replace your normal hotkey while flying them. Keep an eye out for this, as often that ability is powerful!</text>
+		<text id="help1">We heard the order to attack the homeworld, and knew you were in danger…</text>
+		<text id="help2">Perhaps we should’ve stayed hidden and safe. Coming here may well mean our deaths. However, we owe you a debt for freeing us.</text>
+		<text id="help3">Hopefully with this, you can forgive us for abandoning you after you spent all that time convincing us to be free.</text>
+	</section>
+	<section id="spirit">
+		<text id="intro1">You’re not dead!</text>
+		<text id="intro2">And you are?</text>
+		<text id="intro3">That’s immaterial. What’s important is that you’re material, and can help me.</text>
+		<text id="intro4">Help you… what?</text>
+		<text id="intro5">Gain more [color=770000][tile=spirit anim=spirit] Spirit[/color] of course! It’s the only thing of any value here, so of course it's tough to obtain.</text>
+		<text id="intro6">This [item=spirit_glaive] I carry? Completely useless to me. In my hands, it will only hurt the living. But in your hands? You could kill spirits and harvest their power!</text>
+		<text id="intro7">What’s in it for me?</text>
+		<text id="intro8">Certainly you came here for a reason… Knowledge? Power? I’m sure I can make it worth your while.</text>
+		<text id="intro9">Here - take a [item=spirit_glaive], no strings attached! You’ll need it to collect [color=770000][tile=spirit anim=spirit] Spirit[/color]. Let this be the beginning of many lucrative trades between us.</text>
+		<text id="deal">What is it you desire?</text>
+		<text id="knowledge">Knowledge</text>
+		<text id="knowledge_title">Knowledge, I can provide for 5 [color=770000][tile=spirit anim=spirit] Spirit[/color] a question.</text>
+		<text id="power">Power</text>
+		<text id="not_enough">You do not have much [color=770000][tile=spirit anim=spirit] Spirit[/color]. Kill some spirits to collect some, then come back and we can make a deal.</text>
+		<text id="buy">Pick your Power</text>
+		<text id="enemy">About [color=770000]Them</text>
+		<text id="enemy1">Ah yes, I know of the creatures you speak. They sometimes travel to this world attempting to strengthen their magic, and have made their own deals with me.</text>
+		<text id="enemy2">I do not know anything about their magic secrets, but I do know that it connects their headquarters strongly to this world.</text>
+		<text id="enemy3">Their headquarters is an enormous dragonship with vast amounts of power and is impenetrable in the living world.</text>
+		<text id="enemy4">I could create a passage, allowing you to travel there if you wish, but it will not come cheap.</text>
+		<text id="enemypost1">Ah yes, I know of the creatures you speak. They used to travel to this world attempting to strengthen their magic.</text>
+		<text id="enemypost2">Lately, they have not returned here, and their headquarters have been sealed. My guess is they met with some misfortune.</text>
+		<text id="venatrix">About [item=venatrix_seed]s</text>
+		<text id="venatrix1">When a spirit is trapped in a [item=spirit_gem], it creates an item that connects your world and the Spirit World in different ways.</text>
+		<text id="venatrix2">Different spirits create different items, and [item=venatrix_seed]s are created by trapping a Venatrix - the green spirits that use bows and [item=spirit_arrow.plant]s.</text>
+		<text id="venatrix3">It is easier to catch a spirit if its health is low or you use an [item=spirit_gem2]… but personally I wouldn’t bother trapping them - killing and harvesting their [color=770000][tile=spirit anim=spirit] Spirit[/color] is much more useful.</text>
+		<text id="spirits">About Spirits</text>
+		<text id="spirits1">Spirits come in all shapes and sizes, and appear in Spirit World from all over the universe. Normal weapons cannot harm them, although they have no trouble harming the living.</text>
+		<text id="spirits2">To defeat spirits, you will need to use weapons like the [item=spirit_glaive] I gave you that deals [color=770000]Spirit[/color] damage.</text>
+		<text id="spirits3">Most spirits are elemental, so taking advantage of their strengths and weaknesses will make it much easier to defeat them.</text>
+		<text id="spirit">About [color=770000][tile=spirit anim=spirit] Spirit[/color]</text>
+		<text id="spirit1">[color=770000][tile=spirit anim=spirit] Spirit[/color] does not have many uses for the living, like you. But for a spirit, it makes them stronger and gives them new abilities and powers.</text>
+		<text id="spirit2">Some spirits use this power to return to the land of the living… but being a spirit in a living world is more frustrating than fun. Some, like me, craft their own section of Spirit World and become the ruler of a domain.</text>
+		<text id="spirit3">While there are many ways to gain [color=770000][tile=spirit anim=spirit] Spirit[/color], the easiest is to have a living, like you, defeat spirits and collect it for us.</text>
+		<text id="world">About this place</text>
+		<text id="world1">Spirit World is endless and unfathomable, but this part of Spirit World is my domain. Domains are sections of Spirit World carved out by using [color=770000][tile=spirit anim=spirit] Spirit[/color].</text>
+		<text id="world2">In one’s domain, a spirit can create or do pretty much anything, as long as they have enough [color=770000][tile=spirit anim=spirit] Spirit[/color] to maintain it. Think of it as my own personal paradise.</text>
+		<text id="world3">There are many other domains out there, but in general we avoid other domains and keep to ourselves. I only keep other spirits around as fodder for gaining [color=770000][tile=spirit anim=spirit] Spirit[/color].</text>
+		<text id="elements">About Elements</text>
+		<text id="elements1">There are five elements - [color=770000][tile=fire.ico] Fire[/color], [color=770000][tile=water.ico] Water[/color], [color=770000][tile=ice.ico] Ice[/color], [color=770000][tile=earth.ico] Earth[/color] and [color=770000][tile=plant.ico] Plant[/color], which each have two strengths and two weaknesses. This can be arranged in a pentagram like so:</text>
+		<text id="elements2">Some weapons, like the [item=spirit_glaive] I gave you, can change their element. Taking advantage of this can make difficult battles easy.</text>
+		<text id="spirit_fish">About [item=spirit_fish]</text>
+		<text id="spirit_fish1">There is something fishy about [item=spirit_fish]. They are the only spirit that becomes a familiar when caught, they can deal damage to other spirits, and they can even fly in this world where nothing else can.</text>
+		<text id="spirit_fish2">It is my belief that [item=spirit_fish] are not actually normal spirits from the living world, but are natives to this world.</text>
+		<text id="spirit_fish3">How such a thing is possible, I do not know, but, this world is very large and strange.</text>
+		<text id="spirit_hq1">Ah, you have enough [color=770000][tile=spirit anim=spirit] Spirit[/color]! Then we have a deal - I will create the passage.</text>
+		<text id="spirit_hq2">If you travel down this new path, you will encounter another Spirit Portal. It will take you to their HQ, although you may want to prepare yourself before travelling there...</text>
+		<text id="spirit_hq3">If you travel down this new path, you will encounter another Spirit Portal. It will take you to their HQ.</text>
+	</section>
+	<section id="unnature">
+		<text id="intro1">Welcome to the [color=770000]Unnature Sanctuary[/color]! I am the automated caretaker and handler for this planet, Splicer.</text>
+		<text id="intro2">Many planets were supposed to be terraformed and turned into nature preserves, but this is the only one that was ever established, so I am a bit overprotective of it.</text>
+		<text id="intro3">I am uncertain for the lack of orders and support, but I have decided that this planet is better off without human intervention, as they have a tendency to mess up nature.</text>
+		<text id="intro4">Because of this, I ask that you leave this planet. Humans are not welcome here.</text>
+		<text id="intro5">But what about the distress signal I received? Are there any survivors on this planet?</text>
+		<text id="intro6">I have not sent any distress signal, and as you can see, I have things well under control here. There are no humans on this planet. The signal you received must have been in error.</text>
+		<text id="intro7">Again I must ask you to leave. If you disturb my planet, there will be consequences.</text>
+		<text id="intro8">I received a warning… did something happen here…?</text>
+		<text id="intro9">What… You… That…</text>
+		<text id="intro10">I knew I could not trust humans! To think you would disturb this sanctuary when I explicitly warned you!</text>
+		<text id="intro11">Very well, if you will not leave, then I have no choice but to make you a part of this nature preserve. </text>
+		<text id="couch">It looks like there might be a survivor here after all... I should find out who this couch belongs to.</text>
+		<text id="ranger1">If I had known my distress signal would result in this, I wouldn’t have sent it… I’m glad you came, though!</text>
+		<text id="ranger2">I’ve been stuck here alone, unless you count that glitched [object=unnature.splicer], without any idea what’s happening to Earth… I was beginning to think humanity was wiped out!</text>
+		<text id="ranger3">What’s happened to me? And who are you?</text>
+		<text id="ranger4">Splicer messed with your DNA - she did the same thing to me back when she started malfunctioning. I was supposed to keep an eye on things here, but Splicer won’t accept any of my commands anymore.</text>
+		<text id="ranger5">I don’t think the splicing is life-threatening, I’ve been like this for over a year. But the change is permanent unless you can talk some sense into Splicer. You may also feel weakened since your skills were reset.</text>
+		<text id="ranger6">Let’s go, I have a hideout underground and we don’t want to risk [object=unnature.splicer] coming back and doing more harm…</text>
+		<text id="ranger7">Well, come on! Don’t worry, I won’t bite!</text>
+		<text id="ranger8">The first thing we need is to gather food… we can’t fight a mad AI on an empty stomach! It’s dangerous to stay too long on the surface with [object=unnature.splicer] around, but there’s not much to eat underground...</text>
+		<text id="ranger9">I think [var=quest.werewolf_claws.meat_tree_seed] [item=meat_tree_seed]s should work well, and their bark will also help you sharpen your claws!</text>
+		<text id="ranger10">What are these [item=meat_tree_seed]s? I don’t know, but they taste just like Chicken… who knows what strange things [object=unnature.splicer] did to their genes…</text>
+		<text id="ranger11">But don’t worry, they aren’t poisonous. And if we have any leftover, you can plant them in the ground.</text>
+		<text id="ranger12">That was a good start to [color=770000]Operation: Take Down Splicer[/color]! All that food made me drowsy, perhaps a short nap would be nice.</text>
+		<text id="ranger13">Feel free to share my couch, just try not to cover it in too much fur!</text>
+		<text id="ranger_intro1">So, Earth was destroyed… I had a feeling… Perhaps I was lucky to get stranded here, away from their eyes.</text>
+		<text id="ranger_intro2">The Sanctuary Project was meant to be automated - while I was an engineer and biologist, my main duty was just to make sure [object=unnature.splicer] was operating normally and creating a stable ecosystem.</text>
+		<text id="ranger_intro3">When the comms went dead, I thought it was a mechanical error and was too focused on fixing them and making contact with Earth to notice anything was off about Splicer.</text>
+		<text id="ranger_intro4">Apparently it decided that this planet would be better off without humans, and didn’t appreciate my efforts to re-establish communications. So she turned me into a Werewolf and took control of the planet.</text>
+		<text id="ranger_intro5">Since then, I’ve mostly just been trying to survive. It was all I could manage to get that distress signal off - you might have noticed that these paws aren’t meant for complex machinery.</text>
+		<text id="ranger_intro6">Anyways, we should get some sleep. We have a long day ahead of us tomorrow if we want to overthrow Splicer!</text>
+		<text id="body1">Now that you have strong, sharp [item=werewolf_claws], the next thing you need to do is train your body. You aren’t used to moving and fighting as a Werewolf, and it’s making you clumsy.</text>
+		<text id="body2">I think fighting some [color=770000]Acid Raptors[/color] and [color=770000]Drill Beetles[/color] will help you get the hang of it.</text>
+		<text id="body3">Won’t [object=unnature.splicer] get upset if I attack the wildlife here?</text>
+		<text id="body4">Nah, when a human hurts an animal, it’s a terrible offense, but when an animal attacks another animal, it’s just a part of nature.</text>
+		<text id="body5">She considers you an animal of the preserve now, so normal animal behaviors like hunting are acceptable.</text>
+		<text id="body6">But…  that-</text>
+		<text id="body7">That's Splicer for yeh.</text>
+		<text id="body8">Excellent! I like those muscles! Looks like we’re ready to confront Splicer!</text>
+		<text id="body9">Do you have a plan?</text>
+		<text id="body10">Of course! Do you think I would have you running around on silly tasks with no plan in mind?</text>
+		<text id="body11">…</text>
+		<text id="body12">I appreciate the vote of confidence. In any case, my plan’s simple. Splicer has an emergency reset switch. I press that, and regain control of her and the planet.</text>
+		<text id="body13">You just have to hit a switch? Then why did I need to do all that training…?</text>
+		<text id="body14">Well… she has a bodyguard of sorts. I need you to keep the bodyguard busy while I sneak up and hit the switch.</text>
+		<text id="body15">If you’re ready, I’ll show you the way to Splicer’s lab!</text>
+		<text id="lets_go">Let's Go!</text>
+		<text id="not_yet">Not Yet...</text>
+		<text id="werewolf">Become Werewolf</text>
+		<text id="human">Become Human</text>
+		<text id="evolves">Evolves {item} on Werewolves.</text>
+		<text id="only_werewolf">This DNA only works on Werewolves.</text>
+		<text id="already_evolved">{item} is already evolved.</text>
+		<text id="lab1">This area is for genetic technicians only, and is off limits to wildlife. Please return to your habitat.</text>
+		<text id="leave">Leave</text>
+		<text id="stay">Stay</text>
+		<text id="lab2">I see. Perhaps my [color=770000]Chimera[/color] will change your mind?</text>
+		<text id="lab3">You can do this - just keep it distracted until I hit the reset switch!</text>
+		<text id="lab4">You are trying to reset me?!?! All I wanted was to create a paradise where animals could defend themselves and live free from humans…</text>
+		<text id="lab5">An [color=770000]Unnature Sanctuary[/color]! But of course you have to come and try to ruin it. Whatever shape you come in, humans are still humans!</text>
+		<text id="lab6">Go, [color=770000]Chimera[/color], and show them the power of Nature!</text>
+		<text id="lab7">Aha! Reset successful! I’m surprised [object=unnature.splicer] didn’t try to splice us and turn us into rats… I guess she had confidence in her [color=770000]Chimera[/color].</text>
+		<text id="lab8">Aha! Reset successful! [object=unnature.splicer] is now completely harmless!</text>
+		<text id="lab9">Okay… mostly harmless!</text>
+		<text id="lab10">Let’s return to the hideout. Now that Splicer’s reset, she should accept my commands.</text>
+		<text id="victory1">[object=unnature.splicer] is now set up to change your DNA. Talk to her if you want to return to being human.</text>
+		<text id="victory2">What about you?</text>
+		<text id="victory3">After being a Werewolf for over a year, I feel pretty comfortable in this body. It’d feel weird to return to being human now.</text>
+		<text id="victory4">Although, now that [object=unnature.splicer]’s under control, I might make a few adjustments every now and then!</text>
+		<text id="research1">You know, I was a bit of a scientist myself before I got turned into a Werewolf. I bet I could help out on the [color=770000]Mobile Research Lab[/color]!</text>
+		<text id="research2">Bring it closer and I will board it!</text>
+		<text id="research3">It’ll be good working together again - I think we make a good team!</text>
+		<text id="distress_orbit">There's a distress signal from the surface of the planet... I wonder if any survivors made it here?</text>
+		<text id="com_station">Interesting - there weren't meant to be any humans on this planet, but if there's a distress signal, perhaps some survivors crash landed there?</text>
+		<text id="dice1">Hello there! I'm happy you found me!</text>
+		<text id="dice2">You see, I don't get many visitors here, in the middle of these dark and dangerous tunnels.</text>
+		<text id="dice3">I do so hope you'll stay for dinner, you look quite tasty, and it's been a while since I really had to flex my muscles!</text>
+	</section>
+	<section id="depths">
+		<text id="intro1">Hello! Isn’t this the perfect planet? A beautiful island, deep oceans, and mysterious ruins to explore!</text>
+		<text id="intro2">Wow, I’m happy to hear that there are other survivors, and that you are searching for them. I'd tag along, but I still have too much left to discover here.</text>
+		<text id="intro3">Are you okay here?</text>
+		<text id="intro4">Definitely! But if you’re offering to help, there is something you could do.</text>
+		<text id="intro5">See, I’m trying to explore more of the sea floor, but I can’t dive deep enough. If you could help me gather materials on this planet, I could build a [object=submersible].</text>
+		<text id="sub1">Thanks for the help! We can now build the [object=submersible] at the [color=770000]Sub Pen[/color]!</text>
+		<text id="sub2">The [object=submersible] is finished! We can use it to explore the deepest trenches. I have a feeling we’ll find more [color=770000]Monoliths[/color] there.</text>
+		<text id="explorer1">Have you seen the ruins and [color=770000]Monolith[/color] on this island? I wonder what they are? And how to activate them?</text>
+		<text id="explorer2">Aaah, it is so beautiful. I could stay here forever.</text>
+		<text id="explorer3">I wonder who built the [color=770000]Monoliths[/color]? And what we need to activate them. The answer must be somewhere underwater!</text>
+		<text id="monolith1">I’ve figured it out - we need [item=bone_shard]s to activate the [color=770000]Monoliths[/color]! We must activate them all - nothing is more important!</text>
+		<text id="monolith2">We must activate all the [color=770000]Monoliths[/color]! There are {count} remaining that need to be activated!</text>
+		<text id="power_core">I can craft [item=power_core]s from [item=power_core_parts] for the [object=submersible]!</text>
+		<text id="wizard1">I must thank you. I was stuck here a long, long time, and this puppet was insufficient for my needs. I could never have come this far without you.</text>
+		<text id="wizard2">Stuck here? Puppet? What are you talking about? Who - are you?</text>
+		<text id="wizard3">Forgive me, I haven’t introduced myself.</text>
+		<text id="wizard4">They called me the Dishonored One.</text>
+		<text id="wizard5">They thought they knew everything. But in the end, who prevailed? I have survived, and thus, I have won!</text>
+		<text id="wizard6">I hope they enjoy their lofty ideals as they rot in their graves. Prepare to join them!</text>
+		<text id="summon_wizard">You thought you could escape that easily?!</text>
+		<text id="control_wizard">Everything is perfectly fine. Accept your fate and let us destroy you.</text>
+		<text id="end1">Don’t attack - I’m not your enemy!</text>
+		<text id="end2">Who are you?</text>
+		<text id="end3">I’m the sister of the Dishonored One. He kept me alive because of our shared blood, but there was no love between us. I was a Teacher… and he - he destroyed us all.</text>
+		<text id="end4">Maybe if we had dealt with him differently, none of this would have happened… but at least he is defeated now and the threat is over.</text>
+		<text id="end5">Here, take this [item=dragon_armor2] as my thanks. Hopefully you will use our magic better than they did. Perhaps my brother wasn’t entirely crazy when he refused to share our teachings.</text>
+		<text id="end6">The stasis spell my brother used to keep us alive was complex, but it is not impossible that others were able to cast it as well. Perhaps I’m not the last of my kind after all.</text>
+		<text id="end7">Thank you for all your help. I am off to search for any survivors - even if it takes my whole life, I would rather believe others still live than stay here in despair.</text>
+		<text id="end8">Huh? What was I doing here…? I remember coming here and that there was something important I had to do here. But it’s all so fuzzy.</text>
+		<text id="unnature">After being possessed by an insane alien, you can't expect me to go out there and get mutated by an insane robot.</text>
+		<text id="research1">How about leaving this planet behind? You’re welcome to join me in the [color=770000]Mobile Research Lab[/color]!</text>
+		<text id="research2">Yeah… perhaps that’s for the best. Maybe I can get my life back in order and even help you with your research!</text>
+		<text id="research3">It’s hard to believe that humanity was almost wiped out - the last year still feels like a dream to me. But, I’ll do everything I can to help!</text>
+		<text id="tablet1">No profession was more honored than the Teachers. The Teachers used their skills to travel the universe in an instant, spreading their knowledge to the distant stars.</text>
+		<text id="tablet2">It was the way of the Teachers to share their discoveries to the benefit of all. But, one Teacher refused, instead hoarding all of their secrets and looking down on the rest.</text>
+		<text id="tablet3">Ever tolerant, it took a long time for the other Teachers to act. But eventually, they cast him out of their ranks and named him the Dishonored One.</text>
+		<text id="tablet4">The Dishonored One sneered at the other Teachers, calling them fools and assuring them that he would have the last laugh. After this, he disappeared. Only his sister knew where he had hidden himself.</text>
+		<text id="tablet5">With many years of peace, none expected the flood. The waters rose and rose, flooding villages and killing many. Even the teachers couldn't handle the unrelenting waters.</text>
+		<text id="tablet6">When the Dishonored One announced that he had conjured the flood, he did not seem the least bit remorseful, even as the death toll rose and rose.</text>
+		<text id="tablet7">The Teachers knew they had to stop the Dishonored One. They banded together and fought him at the summit of the tallest mountain, where the waters had not yet reached.</text>
+		<text id="tablet8">The battle raged for weeks, and drained even this planet’s vast amount of magic. With the supply of magic running thin, survival became a challenge.</text>
+		<text id="tablet9">The Dishonored One survived by going into a deep slumber, and the Teachers deactivated the Mana Conveyors so that even when magic returned to this world, the Dishonored One would be unable to awaken.</text>
+		<text id="tablet10">This is the final warning of those who lived on this planet: do not awaken the Dishonored One. Let him rest for all eternity.</text>
+	</section>
+	<section id="multiplayer">
+		<text id="multiplayer">멀티플레이</text>
+		<text id="join">Join</text>
+		<text id="host">Host Game</text>
+		<text id="login">Enter a name that other players will see you as. This name is also linked to your character, changing your name will create a new character when joining games.</text>
+		<text id="save">Host Save</text>
+		<text id="enter_ip">Enter Host IP Address:</text>
+		<text id="connect">Connecting to Host...</text>
+		<text id="no_host">Unable to connect to host!</text>
+		<text id="error">Unable to connect: {reason}.</text>
+		<text id="bad_ver">Version Mismatch</text>
+		<text id="bad_player">Missing Campaign</text>
+		<text id="not_ready">Not Ready</text>
+		<text id="missing_area">Bad Area ID</text>
+		<text id="exists">Name in Use</text>
+		<text id="unknown">Unknown Error</text>
+		<text id="reject">Rejected</text>
+		<text id="full">Server Full</text>
+		<text id="accept">{name} would like to join your game. Let them in?</text>
+		<text id="disconnect">Disconnected from Host!</text>
+		<text id="add_quest">[color=ff2222]{user}[/color] accepted the quest [color=ff2222]{quest}[/color]!</text>
+		<text id="complete_quest">[color=ff2222]{user}[/color] completed the quest [color=ff2222]{quest}[/color]!</text>
+		<text id="in_use">Cannot host save: Port in use!</text>
+		<text id="give_items">Give Items</text>
+		<text id="death">[color=ff2222]{user}[/color] has died!</text>
+		<text id="join_title">You can only join a game from the title screen. Exit this game and try again.</text>
+		<text id="other">Join Other...</text>
+		<text id="call_busy">The line is busy... someone else must be calling them.</text>
+		<text id="give">[color=ff2222]{user}[/color] gave you {count} {item}.</text>
+		<text id="public">Add to joinable games list.</text>
+		<text id="invite">Invite Friends...</text>
+		<text id="search">Searching for Games...</text>
+		<text id="unknown_game">Unknown Game {id}</text>
+		<text id="max_length">Unable to send: Maximum message length is {len} chars!</text>
+		<text id="joined">-- {name} joined</text>
+		<text id="left">-- {name} left</text>
+		<text id="confirm_kick">Are you sure you wish to kick {name}?</text>
+		<text id="confirm_ban">Are you sure you wish to ban {name}?</text>
+		<text id="confirm_delete">Are you sure you wish to permanently delete {name} and all their items?</text>
+		<text id="missing_mods">You are missing the following mods that this host is using:\n[color=770000]{mods}[/color]\nWould you like to join anyways?</text>
+		<text id="no_player">Player not found: "{name}"</text>
+		<text id="no_server">Server not running.</text>
+		<text id="chat">Open Chat</text>
+		<text id="whisper">{name} whispers</text>
+		<text id="no_unequip">Cannot use /unequip while player is logged in. /kick them first.</text>
+		<text id="unequip">Unequipped all items from {name}.</text>
+		<text id="list">Known players:</text>
+		<text id="unbanned">{name} unbanned.</text>
+		<text id="pre">Prefix changed.</text>
+		<text id="post">Postfix changed.</text>
+		<text id="no_command">Unknown command: "{command}"!</text>
+		<text id="start">Server started.</text>
+		<text id="running">Server already running.</text>
+		<text id="stop">Server stopped.</text>
+		<text id="set_private">Server set to private.</text>
+		<text id="set_public">Server set to public.</text>
+		<text id="rename">Enter new character name:</text>
+	</section>
+	<section id="multiplayer_help">
+		<text id="commands">Available commands:[color=ffffff] {list}.\n[color=aaaaaa]Type /help command for more details about a command.</text>
+		<text id="help">/help [[command] - [color=aaaaaa]shows a list of commands, or details about a single command.</text>
+		<text id="whisper">/whisper player message - [color=aaaaaa]sends message only to player. Player can be their name, or $player[[num].</text>
+		<text id="give">/give player - [color=aaaaaa]opens a transfer item window for that player. Only hosts can take items, but this works even for offline players.</text>
+		<text id="unequip">/unequip player - [color=aaaaaa]unequips all items from the player and places it in their inventory so you can take them using /give. Host only.</text>
+		<text id="delete">/delete player - [color=aaaaaa]permanently deletes player and all of their items. They can rejoin, but will restart as a new character. Host only.</text>
+		<text id="leave">/leave - [color=aaaaaa]removes your player without disconnecting and allowing you to continue hosting the game and chatting.</text>
+		<text id="join">/join - [color=aaaaaa]rejoins the game after using /leave.</text>
+		<text id="to">/to player - [color=aaaaaa]instantly teleports to the chosen player.</text>
+		<text id="list">/list - [color=aaaaaa]lists all players who have ever been on this server, along with their $player[[num] values.</text>
+		<text id="server">/server [[start|stop|private|public] - [color=aaaaaa]starts, stops or sets whether to show the server in the games list. Host only.</text>
+		<text id="clear">/clear - [color=aaaaaa]clears this chat window.</text>
+		<text id="kick">/kick player - [color=aaaaaa]kicks the player from the game. It will ask you if they want to join again. Host only.</text>
+		<text id="ban">/ban player - [color=aaaaaa]bans the player by name and IP address. You will not be asked if they want to join again. Host only.</text>
+		<text id="unban">/unban player - [color=aaaaaa]unbans a previously banned player. Host only.</text>
+		<text id="pre">/pre [[text] - [color=aaaaaa]prepends text to all messages. If text not set, removes prefix. Can be used to change text color by prepending [[color=value].</text>
+		<text id="post">/post [[text] - [color=aaaaaa]appends text to all messages. If text not set, removes postfix.</text>
+		<text id="smileys">/smileys - [color=aaaaaa]shows a list of all smileys.</text>
+		<text id="rename">/rename player - [color=aaaaaa]changes a player's name. This will kick them if they are logged in. Host only.</text>
 	</section>
 </lang>
