@@ -119,9 +119,9 @@
 		<text id="factory">Factory</text>
 		<text id="synthesizer">Synthesizer</text>
 		<text id="power_per_hit">Power per Hit:</text>
-		<text id="stamina_per_hit">Stamina per Hit:</text>
-		<text id="stamina_per_use">Stamina per Use:</text>
-		<text id="move">Move</text>
+		<text id="stamina_per_hit">공격 횟수당 소모 기력:</text>
+		<text id="stamina_per_use">사용 횟수당 소모 기력:</text>
+		<text id="move">이동</text>
 		<text id="newgame">새 게임</text>
 		<text id="continue">이어하기</text>
 		<text id="options">설정</text>
@@ -135,13 +135,13 @@
 		<text id="addition_slots">Fields:</text>
 		<text id="placed">{item} placed.</text>
 		<text id="level_up">레벨 업!</text>
-		<text id="level">Level:</text>
-		<text id="experience">Exp:</text>
+		<text id="level">레벨:</text>
+		<text id="experience">경험치:</text>
 		<text id="hotkey">아이템 선택</text>
 		<text id="set_hotkey">Set Hotkey:</text>
 		<text id="retry">Retry</text>
 		<text id="title">Title</text>
-		<text id="move_all">Move All</text>
+		<text id="move_all">전부 이동</text>
 		<text id="add_animal">Add Animal</text>
 		<text id="select_feed">Select Feed</text>
 		<text id="use_count">How many would you like to use?</text>
@@ -218,21 +218,21 @@
 		<text id="full">Cannot consume items until the [tile=stat.full] timer runs out!</text>
 	</section>
 	<section id="stats">
-		<text id="view">View Stats</text>
-		<text id="health">Max Health</text>
-		<text id="stamina">Max Stamina</text>
-		<text id="speed">Speed</text>
-		<text id="endurance">Endurance</text>
-		<text id="attack">Attack</text>
-		<text id="range">Range</text>
-		<text id="defense">Defense</text>
+		<text id="view">스텟 보기</text>
+		<text id="health">최대 체력</text>
+		<text id="stamina">최대 기력</text>
+		<text id="speed">속도</text>
+		<text id="endurance">지구력</text>
+		<text id="attack">공격력</text>
+		<text id="range">거리</text>
+		<text id="defense">방어</text>
 		<text id="elementDefense">Elemental Defense</text>
-		<text id="cut">Cut</text>
+		<text id="cut">배기</text>
 		<text id="spirit">Spirit</text>
 		<text id="mine">Mine</text>
-		<text id="weight">Weight</text>
-		<text id="evasion">Evasion</text>
-		<text id="critical">Critical</text>
+		<text id="weight">무게</text>
+		<text id="evasion">회피</text>
+		<text id="critical">치명타</text>
 		<text id="fishing">Fishing</text>
 		<text id="mine_speed">Mining Speed</text>
 		<text id="sight">Sight</text>
@@ -265,8 +265,8 @@
 		<text id="spellcast">Reduces the stamina cost of spells.</text>
 	</section>
 	<section id="skill">
-		<text id="allocate">Allocate Skill Points</text>
-		<text id="points">Skill Points</text>
+		<text id="allocate">스킬 포인트 사용</text>
+		<text id="points">스킬 포인트</text>
 		<text id="max">[color=770000]Skill Maxed</text>
 	</section>
 	<section id="actions">
@@ -284,7 +284,7 @@
 		<text id="exit_station">Exit Station</text>
 		<text id="cast">Cast</text>
 		<text id="drop">Discard</text>
-		<text id="place">Place</text>
+		<text id="place">설치</text>
 		<text id="use">사용</text>
 		<text id="craft">만들기</text>
 		<text id="equip">장비</text>
@@ -634,7 +634,7 @@
 		<text id="steel_bar">Steel Bar</text>
 		<text id="gold_bar">Gold Bar</text>
 		<text id="meat">고기</text>
-		<text id="fruit">Apples</text>
+		<text id="fruit">사과</text>
 		<text id="wheat">Wheat</text>
 		<text id="eggs">달걀</text>
 		<text id="milk">우유</text>
@@ -808,25 +808,25 @@
 		<text id="frost_shield">Ice Shield</text>
 		<text id="ice_heart">Ice Heart</text>
 		<text id="owl">Owl</text>
-		<text id="dismantle">Dismantle</text>
-		<text id="hut_blueprint">Hut Blueprint</text>
-		<text id="storehouse_blueprint">Storehouse Blueprint</text>
-		<text id="kitchen_blueprint">Kitchen Blueprint</text>
+		<text id="dismantle">건물해체</text>
+		<text id="hut_blueprint">Hut 설계도</text>
+		<text id="storehouse_blueprint">창고 설계도</text>
+		<text id="kitchen_blueprint">Kitchen 설계도</text>
 		<text id="kitchen_upgrade">Kitchen Upgrade</text>
-		<text id="smelter_blueprint">Smelter Blueprint</text>
-		<text id="workshop_blueprint">Workshop Blueprint</text>
-		<text id="farm_blueprint">Barn Blueprint</text>
-		<text id="pen_blueprint">Pen Blueprint</text>
-		<text id="lab_blueprint">Laboratory Blueprint</text>
-		<text id="wyrm_pen_blueprint">Wyrm Pen Blueprint</text>
-		<text id="dock_blueprint">Dock Blueprint</text>
-		<text id="warehouse_blueprint">Warehouse Blueprint</text>
-		<text id="wheat_seed">Wheat Seeds</text>
-		<text id="orchard_seed">Apple Seeds</text>
-		<text id="sugar_seed">Sugar Seeds</text>
-		<text id="cotton_seed">Cotton Seeds</text>
-		<text id="pumpkin_seed">Pumpkin Seeds</text>
-		<text id="tree_seed">Tree Seed</text>
+		<text id="smelter_blueprint">Smelter 설계도</text>
+		<text id="workshop_blueprint">Workshop 설계도</text>
+		<text id="farm_blueprint">Barn 설계도</text>
+		<text id="pen_blueprint">Pen 설계도</text>
+		<text id="lab_blueprint">Laboratory 설계도</text>
+		<text id="wyrm_pen_blueprint">Wyrm Pen 설계도</text>
+		<text id="dock_blueprint">Dock 설계도</text>
+		<text id="warehouse_blueprint">Warehouse 설계도</text>
+		<text id="wheat_seed">Wheat 씨앗</text>
+		<text id="orchard_seed">사과 씨앗</text>
+		<text id="sugar_seed">Sugar 씨앗</text>
+		<text id="cotton_seed">목화 씨앗</text>
+		<text id="pumpkin_seed">호박 씨앗</text>
+		<text id="tree_seed">묘목</text>
 		<text id="conifer_seed">Conifer Seed</text>
 		<text id="bush_seed">Bush Seed</text>
 		<text id="red_bush_seed">Red Bush Seed</text>
@@ -1267,7 +1267,7 @@
 	</section>
 	<section id="object.tooltip">
 		<text id="bush">열매 따기</text>
-		<text id="tree">Chop Tree</text>
+		<text id="tree">나무 베기</text>
 		<text id="enemy">공격</text>
 		<text id="collect">{item} 수집</text>
 		<text id="open">{item} 열기</text>
@@ -1625,7 +1625,7 @@
 		<text id="depths.explorer">Explorer</text>
 		<text id="talk">대화</text>
 		<text id="grab">Grab</text>
-		<text id="builder">Builder</text>
+		<text id="builder">건축가</text>
 		<text id="miner">Miner</text>
 		<text id="farmer">Farmer</text>
 		<text id="trader">Trader</text>
@@ -1644,21 +1644,21 @@
 		<text id="homeworld1">Will there be lots of food there?</text>
 		<text id="homeworld2">You bet!</text>
 		<text id="homeworld3">Then I’m off! See you there!</text>
-		<text id="intro">당신 정말로 여기서 살아남을 수 있다고 생각하오? 가망이 없소.</text>
+		<text id="intro">당신 정말로 여기서 살아남을 수 있다고 생각해요? 가망이 없어요.</text>
 		<text id="introduce1">당신은 솜씨좋은 건축가 아니에요? 우리가 자원과 식량을 보관할 수있는 건축물을 짓는게 어떨까요?</text>
-		<text id="introduce2">에휴. [item=wood] [var=quest.storehouse.wood]개와 [item=berries] [var=quest.storehouse.berries]개가 있다면 [color=770000]창고[/color]를 제대로 만들 수 있을 것 같소.</text>
+		<text id="introduce2">에휴. [item=wood] [var=quest.storehouse.wood]개와 [item=berries] [var=quest.storehouse.berries]개가 있다면 [color=770000]창고[/color]를 제대로 만들 수 있을 것 같아요.</text>
 		<text id="accept1">좋아! 제가 모아주죠, 문제 없어요.</text>
-		<text id="accept2">[item=stone_axe]을(를) 받으시오, 그렇게 열정적 이라면 한번 해보시오.</text>
+		<text id="accept2">[item=stone_axe]을(를) 받으세요, 그렇게 열정적 이라면 한번 해보세요.</text>
 		<text id="stamina">I'm exhausted. You look tired too. We should rest in the [color=770000]Hut[/color] to save the game and restore our [tile=stamina] [color=006600]Stamina[/color].</text>
-		<text id="wood">How's my old [item=stone_axe]? I bet it could chop down a tree by hitting [key=attack] next to one.</text>
-		<text id="hint1">All items go into your inventory when you collect them. You can check it by hitting [key=inventory].</text>
+		<text id="wood">오래된 내 [item=stone_axe]는 어때요? [key=attack]키를 누르면 옆에 있는 나무를 밸수 있어요.</text>
+		<text id="hint1">아이템을 수집하면 전부 당신의 가방으로 가게되요. [key=inventory]키르 눌러서 확인할수 있어요.</text>
 		<text id="hint2">If your [tile=stamina] [color=006600]Stamina[/color] runs out, you will lose [tile=health] [color=770000]Health[/color], and if your [tile=health] [color=770000]Health[/color] runs out, you will die.</text>
 		<text id="hint3">That's why you need to eat a lot of [item=berries], [item=fruit] and [item=meat]. You can do this by selecting them in your inventory.</text>
-		<text id="storehouse1">You gathered everything already? I’m impressed.</text>
-		<text id="storehouse2">Let’s get this [color=770000]Storehouse[/color] built!</text>
-		<text id="storehouse3">Look at that! Don’t you feel accomplished?</text>
-		<text id="storehouse4">Yeah… actually, this will be useful. Now we can avoid getting tired from carrying too much.</text>
-		<text id="storehouse5">We can quickly drop off all that extra weight by using the Move All buttons, and use [key=quest] to toggle starred items - starred items will stay in your inventory when you hit Move All.</text>
+		<text id="storehouse1">당신 모든걸 준비한거에요? 인상적이군요.</text>
+		<text id="storehouse2">어서 [color=770000]창고[/color]를 지어주세요!</text>
+		<text id="storehouse3">자 다 지었어요! 만족 스럽지 않나요?</text>
+		<text id="storehouse4">네… 확실히, 이건 쓸만하겟네요. 이제 우리는 무겁게 들고다니지 않아도 되겠어요.</text>
+		<text id="storehouse5">우리는 전부 이동 버튼을 이용해서 빠르게 옮길수 있습니다,그리고 [key=quest]키를 사용해서 아이템에 별표를 할수 있습니다. 별표 된 아이템은 전부 이동 시 이동되지 않아요.</text>
 		<text id="farmer">We should make a deal with the [object=farmer], I bet he could help us grow some tasty food.</text>
 		<text id="miner">Did you see that [object=miner] emerge from underground? You should see what she wants.</text>
 		<text id="kitchen1">What do you think of building a [color=770000]Kitchen[/color]? [item=meat] is good, but it’s even better cooked.</text>
@@ -2308,10 +2308,10 @@
 		<text id="first1">꽤 나쁘지 않군... 누가 이 건물을 짓기 시작한건지 궁금하다... 그리고 그들은 왜 멈춘거지. 최근에 지으려 한것 같은데...</text>
 		<text id="first2">도와주세요…[pause=4] 안에 없어요?[pause=4]</text>
 		<text id="first3">누군가 밖에 있다! 그를 들일까?</text>
-		<text id="first4">고마워요. 당신은 내 생명의 은인이오. 나는 거의 포기 직전이었다오- 난 너무 지치고 배고파서 이 오두막을 완공하지 못했소. 하지만 이제 우리는 뭘하죠?</text>
+		<text id="first4">고마워요. 당신은 내 생명의 은인이에요. 저는 거의 포기 직전이었어요- 너무 지치고 배고파서 이 오두막을 완공하지 못했거든요. 하지만 이제 우리는 뭘하죠?</text>
 		<text id="first5">일단은, 여기서 몸을 따뜻하게 하고 물기를 말리죠.</text>
-		<text id="first6">하지만 그 다음은? 어떻게 이 무인도에서 사람남겟소?</text>
-		<text id="first7">뾰족한 수라도 있소? 우리는 여기 같혀서 돌아갈수가 없단말이오.</text>
+		<text id="first6">하지만 그 다음은? 어떻게 이 무인도에서 사람남을까요?</text>
+		<text id="first7">뾰족한 수라도 있나요? 우리는 여기 같혀서 돌아갈수가 없단말이에요.</text>
 		<text id="first8">뭐라도 시도할수 있겟죠. 이 섬에서의 생활이 당신이 생각하는 것 보다 나쁘지 않을 수 있습니다.</text>
 		<text id="first9">제발…[pause=4] 도와주세요…</text>
 		<text id="second1">… so when I arrived here I just started digging and didn’t even realize there was a storm.</text>
