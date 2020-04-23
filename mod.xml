@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <mod>
-    <name>Korean</name>
-    <description>Adds Korean language</description>
+    <name>Korean v2.0.5</name>
+    <description>Adds Korean language \n 한국어를 지원합니다.\n게임 내에서 폰트사이즈를 8~10px만 지원합니다.\n한글은 최소가 12px이라 UI가 커집니다.</description>
     <author>Lovefield</author>
-    <version>1.0.0</version>
+    <version>2.0.5</version>
     <init>
       <include id="ko_kr.xml" includeRoot="true" />
     </init>
