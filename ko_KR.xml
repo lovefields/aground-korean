@@ -106,7 +106,7 @@
 		<text id="dockhouse">부두집</text>
 		<text id="market_placeholder">상가</text>
 		<text id="powerline1">Powerline</text>
-		<text id="power_plant">Power Plant</text>
+		<text id="power_plant">발전소</text>
 		<text id="warehouse">창고</text>
 		<text id="farm">Barn</text>
 		<text id="stall">동물 우리</text>
@@ -193,8 +193,8 @@
 		<text id="flight">Flight Height:</text>
 		<text id="depth">Dive Depth:</text>
 		<text id="knockback">Knockback:</text>
-		<text id="fight">Fight</text>
-		<text id="run_away">Run Away</text>
+		<text id="fight">싸우기</text>
+		<text id="run_away">도망치기</text>
 		<text id="complete">Complete</text>
 		<text id="remove">Remove</text>
 		<text id="time_manipulator">Time Manipulator</text>
@@ -293,8 +293,8 @@
 		<text id="eat">먹기</text>
 		<text id="loot">시체 뒤지기</text>
 		<text id="feed">사료</text>
-		<text id="feed_all">모든 사료</text>
-		<text id="fuel_all">모든 연료</text>
+		<text id="feed_all">배부르게 주기</text>
+		<text id="fuel_all">연료 꽉 채우기</text>
 		<text id="repair_all">전부 수리</text>
 		<text id="collect">수집</text>
 		<text id="open">열기</text>
@@ -316,7 +316,7 @@
 		<text id="summon">Summon</text>
 		<text id="uncraft">Uncraft</text>
 		<text id="set_time">시간 설정</text>
-		<text id="reset_skills">Reset Skills</text>
+		<text id="reset_skills">스킬 초기화</text>
 		<text id="build">짓기</text>
 		<text id="upgrade">업그레이드</text>
 		<text id="plant">심기</text>
@@ -650,7 +650,7 @@
 		<text id="cheeseburger">치즈버거</text>
 		<text id="cake">케이크</text>
 		<text id="candy_apple">사과 사탕</text>
-		<text id="dragonblood">용의 피</text>
+		<text id="dragonblood">피 결정</text>
 		<text id="stone_axe">돌 도끼</text>
 		<text id="stone_pickaxe">돌 곡괭이</text>
 		<text id="broken_pickaxe">부서진 곡괭이</text>
@@ -730,7 +730,7 @@
 		<text id="ice_shield">마법 방패</text>
 		<text id="snowman">눈사람</text>
 		<text id="thunder_axe">고대의 도끼</text>
-		<text id="fire_tusk">Fire Tusk</text>
+		<text id="fire_tusk">불타는 송곳니</text>
 		<text id="silicon">실리콘</text>
 		<text id="refined_oil">정제유</text>
 		<text id="battery">배터리</text>
@@ -1275,18 +1275,18 @@
 		<text id="use">{item} 사용</text>
 	</section>
 	<section id="equipment">
-		<text id="weapon">Dominant Hand:</text>
-		<text id="shield">Offhand:</text>
-		<text id="pickaxe">Mining:</text>
-		<text id="armor">Armor:</text>
-		<text id="head">Headgear:</text>
-		<text id="back">Backpack:</text>
+		<text id="weapon">주 사용도구:</text>
+		<text id="shield">보조:</text>
+		<text id="pickaxe">채굴도구:</text>
+		<text id="armor">갑옷:</text>
+		<text id="head">머리:</text>
+		<text id="back">가방:</text>
 		<text id="familiar">Familiar:</text>
-		<text id="attack">Weapon:</text>
+		<text id="attack">무기:</text>
 		<text id="engine">Engine:</text>
 		<text id="vanity">Select a vanity item to change your appearance without changing your actual equipment.</text>
 		<text id="vanity_fail">You cannot set a vanity item for this slot.</text>
-		<text id="defend">Subsystem:</text>
+		<text id="defend">보조시스템:</text>
 	</section>
 	<section id="capture">
 		<text id="caught">Caught!</text>
@@ -1474,7 +1474,7 @@
 		<text id="hunt">멧돼지 사냥</text>
 		<text id="fence">Perimeter</text>
 		<text id="wolf">늑대 새끼</text>
-		<text id="powerplant">Fix Power Plant</text>
+		<text id="powerplant">발전소 수리</text>
 		<text id="factory">공장 짓기</text>
 		<text id="elevator">Build Elevator</text>
 		<text id="mirrows">Confront Mirrows</text>
