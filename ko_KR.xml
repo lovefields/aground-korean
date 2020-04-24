@@ -2,7 +2,7 @@
 <lang id="ko_KR" name="한국어" version="2.0.5" font="font/Dotum.fnt">
 	<section id="common">
 		<text id="mods">모드</text>
-		<text id="sub_pen">보조 축사</text>
+		<text id="sub_pen">잠수함 기지</text>
 		<text id="airport">비행장</text>
 		<text id="house">집</text>
 		<text id="operation_table">Surgery Lab</text>
@@ -52,7 +52,7 @@
 		<text id="new_highscore">[tile=sticky] New Highscore!</text>
 		
 		<text id="depths.monolith">Monolith</text>
-		<text id="blocked">Blocked!</text>
+		<text id="blocked">막음!</text>
 		<text id="resist">{element} Resist!</text>
 		<text id="effective">{element} Effective!</text>
 		<text id="miss">빗나감!</text>
@@ -367,7 +367,7 @@
 		<text id="water_pump">Pump Pack</text>
 		<text id="nuclear_plant_blueprint">Nuclear Plant Blueprint</text>
 		<text id="operation_table_blueprint">Surgery Lab Blueprint</text>
-		<text id="sub_pen_blueprint">Sub Pen Blueprint</text>
+		<text id="sub_pen_blueprint">잠수함 기지 설계도</text>
 		<text id="patrol_boat_gun">Patrol Boat Gun</text>
 		<text id="patrol_boat_launcher">Patrol Boat Launcher</text>
 		<text id="advanced_lab_blueprint">Advanced Lab Blueprint</text>
@@ -627,7 +627,7 @@
 		<text id="gold">금광석</text>
 		<text id="diamond">다이아몬드</text>
 		<text id="sulfur">유황</text>
-		<text id="oil">원유</text>
+		<text id="oil">석유</text>
 		<text id="titanium">티타늄</text>
 		<text id="uranium">우라늄</text>
 		<text id="iron_bar">철괴</text>
@@ -732,7 +732,7 @@
 		<text id="thunder_axe">고대의 도끼</text>
 		<text id="fire_tusk">불타는 송곳니</text>
 		<text id="silicon">실리콘</text>
-		<text id="refined_oil">정제유</text>
+		<text id="refined_oil">휘발유</text>
 		<text id="battery">배터리</text>
 		<text id="drill">드릴</text>
 		<text id="revolver">리볼버</text>
@@ -1208,7 +1208,7 @@
 	<section id="structure.tooltip">
 		<text id="check_logs">Read Life-Pod Logs</text>
 		<text id="manage_cargo">Manage Cargo</text>
-		<text id="manage_ship">Manage Ship</text>
+		<text id="manage_ship">함선 관리</text>
 		<text id="advanced_lab">Craft in Advanced Lab</text>
 		<text id="inspect">Inspect Structure</text>
 		<text id="fish.market">Trade with Fish Merchant</text>
@@ -1218,7 +1218,7 @@
 		<text id="rest">Rest</text>
 		<text id="spaceship">Board Spaceship</text>
 		<text id="oxygen">Refill Oxygen</text>
-		<text id="portal">Enter Portal</text>
+		<text id="portal">포탈</text>
 		<text id="spaceship_inv">Transfer Items to Spaceship</text>
 		<text id="sub_inv">Transfer Items to Submarine</text>
 		<text id="change_equip">Install Equipment</text>
@@ -1231,39 +1231,39 @@
 		<text id="storehouse">창고 열기</text>
 		<text id="workshop">Craft in Workshop</text>
 		<text id="smelter">Smelt Ores</text>
-		<text id="kitchen">Cook in Kitchen</text>
-		<text id="farm">Enter Farm</text>
-		<text id="food_market">Trade with Foodseller</text>
-		<text id="weaps_market">Trade with Weapon Dealer</text>
-		<text id="mineral_market">Trade with Ore Merchant</text>
-		<text id="dockhouse">Enter Dockhouse</text>
-		<text id="boat">Enter Boat</text>
+		<text id="kitchen">요리하기</text>
+		<text id="farm">농장</text>
+		<text id="food_market">식료품점</text>
+		<text id="weaps_market">장비상점</text>
+		<text id="mineral_market">광물점</text>
+		<text id="dockhouse">부두집</text>
+		<text id="boat">보트 타기</text>
 		<text id="lab">Mix Potions</text>
-		<text id="pen">Manage Pen</text>
+		<text id="pen">축사 관리</text>
 		<text id="cage">Manage Cage</text>
 		<text id="summon_alchemist">Summon Alchemist</text>
 		<text id="dragon_lair2">Raise Dragons</text>
 		<text id="raise_into">Raise into {into}</text>
 		<text id="fly_dragon">Fly Dragon</text>
 		<text id="activate">Activate</text>
-		<text id="enter">Enter</text>
-		<text id="tent">Rest in Tent</text>
+		<text id="enter">입장</text>
+		<text id="tent">텐트에서 쉬기</text>
 		<text id="search">Search</text>
-		<text id="power_plant">Operate Power Plant</text>
-		<text id="inn">Enter Inn</text>
+		<text id="power_plant">발전소</text>
+		<text id="inn">여관</text>
 		<text id="elevator">Call Elevator</text>
 		<text id="warehouse">Enter Warehouse</text>
-		<text id="factory">Operate Factory</text>
+		<text id="factory">공장</text>
 		<text id="golemech">Disables Golem Factory</text>
 		<text id="golemech2">Alert: Uncontrollable.</text>
-		<text id="read">Read</text>
-		<text id="operate">Operate</text>
+		<text id="read">읽기</text>
+		<text id="operate">조작</text>
 		<text id="operate_self">Operate on Self</text>
 		<text id="operate_other">Operate on Animal</text>
 		<text id="crop">Tend Crop</text>
-		<text id="stall">Manage Pen</text>
-		<text id="summon_boat">Summon Boat</text>
-		<text id="summon_dragon">Summon Dragon</text>
+		<text id="stall">축사 관리</text>
+		<text id="summon_boat">보트 소환</text>
+		<text id="summon_dragon">드래곤 소환</text>
 	</section>
 	<section id="object.tooltip">
 		<text id="bush">열매 따기</text>
@@ -1587,9 +1587,9 @@
 		<text id="default_engine">Base Engine</text>
 		<text id="pack_up_item">Are you sure you wish to pack up this {item}?</text>
 		<text id="submersible">Submersible</text>
-		<text id="dismount">Dismount</text>
+		<text id="dismount">내리기</text>
 		<text id="vehicle">Vehicle</text>
-		<text id="fly">Move up to fly.</text>
+		<text id="fly">이륙.</text>
 		<text id="overweight">The vehicle is too heavy to move!</text>
 		<text id="manage_items">Manage Items</text>
 		<text id="manage_player">Manage Self</text>
