@@ -3,7 +3,7 @@
 	<section id="common">
 		<text id="mods">모드</text>
 		<text id="sub_pen">잠수함 기지</text>
-		<text id="airport">비행장</text>
+		<text id="airport">공항</text>
 		<text id="house">집</text>
 		<text id="operation_table">Surgery Lab</text>
 		<text id="advanced_lab">전문 연구소</text>
@@ -74,7 +74,7 @@
 		<text id="stamina">기력:</text>
 		<text id="health_short">HP</text>
 		<text id="defense_short">DEF</text>
-		<text id="power">전기</text>
+		<text id="power">전력</text>
 		<text id="oxygen">산소</text>
 		<text id="ok">확인</text>
 		<text id="cancel">취소</text>
@@ -334,7 +334,7 @@
 		<text id="water_torpedo">물의 어뢰</text>
 		<text id="torpedo_launcher">어뢰 발사기</text>
 		<text id="factory_upgrade">공장 업그레이드</text>
-		<text id="airport_blueprint">공한 설계도</text>
+		<text id="airport_blueprint">공항 설계도</text>
 		<text id="jeep_gun">SUV Mounted Gun</text>
 		<text id="jet_gun">Jet Mounted Gun</text>
 		<text id="missile">Missile</text>
@@ -940,7 +940,7 @@
 		<text id="reflect">Reflect Damage</text>
 		<text id="fires">Fires {projectile}s</text>
 		<text id="cocoon">Hatches in [color=770000]Wyrm Pen[/color].</text>
-		<text id="builds">Builds</text>
+		<text id="builds">건설</text>
 		<text id="upgrades">Upgrades</text>
 		<text id="dismantle">Breaks down structures you have a [tile=blueprint.ico] [color=770000]Blueprint[/color] for.</text>
 		<text id="collect">Collects nearby items.</text>
