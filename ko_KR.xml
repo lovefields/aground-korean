@@ -53,8 +53,8 @@
 		
 		<text id="depths.monolith">Monolith</text>
 		<text id="blocked">막음!</text>
-		<text id="resist">{element} Resist!</text>
-		<text id="effective">{element} Effective!</text>
+		<text id="resist">{element} 저항!</text>
+		<text id="effective">{element} 효과!</text>
 		<text id="miss">빗나감!</text>
 		<text id="dodged">회피!</text>
 		<text id="critical_hit">치명타!</text>
@@ -156,7 +156,7 @@
 		<text id="sign_message">[item=sign]에 쓸 글:</text>
 		<text id="transform">How many would you like to turn into {into}?</text>
 		<text id="collect_complete">Collect Complete</text>
-		<text id="set_sticky">Toggle [tile=sticky] Sticky Item</text>
+		<text id="set_sticky">[tile=sticky] 중요 아이템</text>
 		<text id="set_first">Set First Item</text>
 		<text id="fishing_line">줄에 뭔가 걸렸어!</text>
 		<text id="fishing_fail">도망쳤어!</text>
@@ -748,36 +748,36 @@
 		<text id="fire_shell">화염 포탄</text>
 		<text id="water_shell">물포탄</text>
 		<text id="drain_shell">흡수 포탄</text>
-		<text id="chainsaw">Chainsaw</text>
-		<text id="fire_chainsaw">Fire Chainsaw</text>
-		<text id="ice_chainsaw">Ice Chainsaw</text>
-		<text id="water_chainsaw">Water Chainsaw</text>
-		<text id="plant_chainsaw">Plant Chainsaw</text>
-		<text id="drain_chainsaw">Drain Chainsaw</text>
+		<text id="chainsaw">전기톱</text>
+		<text id="fire_chainsaw">화염 전기톱</text>
+		<text id="ice_chainsaw">얼음 전기톱</text>
+		<text id="water_chainsaw">물의 전기톱</text>
+		<text id="plant_chainsaw">식물 전기톱</text>
+		<text id="drain_chainsaw">흡수 전기톱</text>
 		<text id="minecart">광차</text>
 		<text id="rail">레일</text>
 		<text id="map">지도</text>
 		<text id="shovel">삽</text>
 		<text id="crowbar">노루발</text>
 		<text id="landmine">지뢰</text>
-		<text id="alter_gem">Alter Gem</text>
-		<text id="focus_gem">Focus Gem</text>
-		<text id="spirit_gem">Spirit Gem</text>
-		<text id="blood_gem">Blood Gem</text>
+		<text id="alter_gem">알터 잼</text>
+		<text id="focus_gem">포커스 잼</text>
+		<text id="spirit_gem">영혼 잼</text>
+		<text id="blood_gem">블러드 잼</text>
 		<text id="baby_cannon">Baby Cannon</text>
 		<text id="dragonflame">Dragonflame</text>
-		<text id="wyrm_drill">웜 드린</text>
+		<text id="wyrm_drill">웜 드릴</text>
 		<text id="dragon_armor">Dragon Armor</text>
-		<text id="ice_sword">Ice Sword</text>
-		<text id="fire_sword">Fire Sword</text>
-		<text id="water_sword">Water Sword</text>
-		<text id="plant_sword">Plant Sword</text>
-		<text id="drain_sword">Drain Sword</text>
-		<text id="ice_axe">Ice Axe</text>
-		<text id="fire_axe">Fire Axe</text>
-		<text id="water_axe">Water Axe</text>
-		<text id="plant_axe">Plant Axe</text>
-		<text id="drain_axe">Drain Axe</text>
+		<text id="ice_sword">얼음 검</text>
+		<text id="fire_sword">화염 검</text>
+		<text id="water_sword">물의 검</text>
+		<text id="plant_sword">식물 검</text>
+		<text id="drain_sword">흡수 검</text>
+		<text id="ice_axe">얼음 도끼</text>
+		<text id="fire_axe">화염 도끼</text>
+		<text id="water_axe">물의 도끼</text>
+		<text id="plant_axe">식물 도끼</text>
+		<text id="drain_axe">흡수 도끼</text>
 		<text id="goggles">영혼 고글</text>
 		<text id="furnace">용광로</text>
 		<text id="campfire">모닥불</text>
@@ -1178,16 +1178,16 @@
 		<text id="add_field">Expand Farm</text>
 		<text id="add_stall">Build Pen</text>
 		<text id="pen">Pen</text>
-		<text id="produces">-- Produces --</text>
-		<text id="slots">-- Slots --</text>
+		<text id="produces">-- 생산 --</text>
+		<text id="slots">-- 슬롯 --</text>
 		<text id="plant">Change Crop</text>
 		<text id="fertilizer">Fertilizer</text>
 		<text id="activate_fail">There is something missing that's needed to activate this.</text>
 		<text id="search_fail">Hmm, nothing of interest here.</text>
 		<text id="get_pumpkin_seeds">Found some [item=pumpkin_seed]!</text>
 		<text id="sail_boat">Sail Boat</text>
-		<text id="manage_storage">Manage Storage</text>
-		<text id="elevator">Elevator</text>
+		<text id="manage_storage">저장소 관리</text>
+		<text id="elevator">엘리베이터</text>
 		<text id="overweight">The [tile=boat.ico] Boat is too heavy to sail!</text>
 		<text id="rest_boat">Rest in Boat</text>
 		<text id="activate">Would you like to use a {item} to activate this structure?</text>
@@ -1209,13 +1209,13 @@
 		<text id="check_logs">Read Life-Pod Logs</text>
 		<text id="manage_cargo">Manage Cargo</text>
 		<text id="manage_ship">함선 관리</text>
-		<text id="advanced_lab">Craft in Advanced Lab</text>
+		<text id="advanced_lab">전문연구소</text>
 		<text id="inspect">Inspect Structure</text>
-		<text id="fish.market">Trade with Fish Merchant</text>
-		<text id="fish.library">Craft Spellbooks</text>
+		<text id="fish.market">수산시장</text>
+		<text id="fish.library">마법책 제작</text>
 		<text id="evolve_dragon">Evolve Elder Dragon</text>
 		<text id="evolve">Evolve</text>
-		<text id="rest">Rest</text>
+		<text id="rest">쉬기</text>
 		<text id="spaceship">Board Spaceship</text>
 		<text id="oxygen">Refill Oxygen</text>
 		<text id="portal">포탈</text>
@@ -1252,7 +1252,7 @@
 		<text id="power_plant">발전소</text>
 		<text id="inn">여관</text>
 		<text id="elevator">Call Elevator</text>
-		<text id="warehouse">Enter Warehouse</text>
+		<text id="warehouse">창고</text>
 		<text id="factory">공장</text>
 		<text id="golemech">Disables Golem Factory</text>
 		<text id="golemech2">Alert: Uncontrollable.</text>
@@ -1260,7 +1260,7 @@
 		<text id="operate">조작</text>
 		<text id="operate_self">Operate on Self</text>
 		<text id="operate_other">Operate on Animal</text>
-		<text id="crop">Tend Crop</text>
+		<text id="crop">수확</text>
 		<text id="stall">축사 관리</text>
 		<text id="summon_boat">보트 소환</text>
 		<text id="summon_dragon">드래곤 소환</text>
@@ -1602,16 +1602,16 @@
 		<text id="in_use">Unable to operate vehicle: another player is already operating it!</text>
 	</section>
 	<section id="npc">
-		<text id="mirrows">Mirrows</text>
+		<text id="mirrows">미로우즈</text>
 		<text id="worker_bot.builder">건설 봇</text>
 		<text id="worker_bot.miner">채굴 봇</text>
 		<text id="worker_bot.farmer">농부 봇</text>
 		<text id="patrol_bot">순찰 봇</text>
 		<text id="ancient_dragon_npc">엘더 드래곤</text>
-		<text id="fish_merchant">Fish Merchant</text>
-		<text id="fish_librarian">Fish Librarian</text>
-		<text id="fish_villager">Fish Villager</text>
-		<text id="sea_witch">Sea Witch</text>
+		<text id="fish_merchant">물고기 판매원</text>
+		<text id="fish_librarian">물고기 사서</text>
+		<text id="fish_villager">물고기 주민</text>
+		<text id="sea_witch">바다의 마녀</text>
 		<text id="scavenger">Scavenger</text>
 		<text id="scavenger_hidden">알수없음</text>
 		<text id="professor">교수</text>
@@ -2572,8 +2572,8 @@
 	</section>
 	<section id="world">
 		<text id="science2">The Heights</text>
-		<text id="science3">Divider 섬</text>
-		<text id="fighter">전투 호위대</text>
+		<text id="science3">분리된 섬</text>
+		<text id="fighter">함선 관리</text>
 		<text id="dragon_ship">드래곤 함선</text>
 		<text id="dragon_fighter">드래곤 전투기</text>
 		<text id="dragon_bomber">드래곤 폭격기</text>
@@ -3165,7 +3165,7 @@
 		<text id="deal">What is it you desire?</text>
 		<text id="knowledge">Knowledge</text>
 		<text id="knowledge_title">Knowledge, I can provide for 5 [color=770000][tile=spirit anim=spirit] Spirit[/color] a question.</text>
-		<text id="power">Power</text>
+		<text id="power">전기</text>
 		<text id="not_enough">You do not have much [color=770000][tile=spirit anim=spirit] Spirit[/color]. Kill some spirits to collect some, then come back and we can make a deal.</text>
 		<text id="buy">Pick your Power</text>
 		<text id="enemy">About [color=770000]Them</text>
