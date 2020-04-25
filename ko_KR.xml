@@ -331,20 +331,20 @@
 		<text id="torpedo">어뢰</text>
 		<text id="ice_torpedo">얼음 어뢰</text>
 		<text id="fire_torpedo">화염 어뢰</text>
-		<text id="water_torpedo">물의 어뢰</text>
+		<text id="water_torpedo">워터 어뢰</text>
 		<text id="torpedo_launcher">어뢰 발사기</text>
 		<text id="factory_upgrade">공장 업그레이드</text>
 		<text id="airport_blueprint">공항 설계도</text>
-		<text id="jeep_gun">SUV Mounted Gun</text>
-		<text id="jet_gun">Jet Mounted Gun</text>
-		<text id="missile">Missile</text>
-		<text id="ice_missile">Ice Missile</text>
-		<text id="fire_missile">Fire Missile</text>
-		<text id="water_missile">Water Missile</text>
-		<text id="nuke">Nuclear Missile</text>
-		<text id="missile_launcher">Missile Launcher</text>
+		<text id="jeep_gun">SUV용 총</text>
+		<text id="jet_gun">제트기 기관총</text>
+		<text id="missile">미사일</text>
+		<text id="ice_missile">얼음 미사일</text>
+		<text id="fire_missile">화염 미사일</text>
+		<text id="water_missile">워터 미사일</text>
+		<text id="nuke">핵 미ㅏ일</text>
+		<text id="missile_launcher">미사일 발사기</text>
 		<text id="com_device">무전기</text>
-		<text id="rocket_launcher">Rocket Launcher</text>
+		<text id="rocket_launcher">로켓 발사기</text>
 		<text id="generator">발전기</text>
 		<text id="ink">잉크</text>
 		<text id="jet_engine">제트기 엔진 업그레이드</text>
@@ -358,7 +358,7 @@
 		<text id="fried_rice">볶음밥</text> 
 		<text id="bacon">베이컨</text>
 		<text id="fried_chicken">프라이드 치킨</text>
-		<text id="fried_eel">Fried Eel</text>
+		<text id="fried_eel">장어 튀김</text>
 		<text id="ice_cream">아이스크림</text>
 		<text id="sushi">초밥</text>
 		<text id="rice_seed">쌀 씨앗</text>
@@ -366,20 +366,20 @@
 		<text id="clock">시계</text>
 		<text id="water_pump">펌프 팩</text>
 		<text id="nuclear_plant_blueprint">원자력 발전소 설계도</text>
-		<text id="operation_table_blueprint">Surgery Lab Blueprint</text>
+		<text id="operation_table_blueprint">Surgery Lab 설계도</text>
 		<text id="sub_pen_blueprint">잠수함 기지 설계도</text>
-		<text id="patrol_boat_gun">Patrol Boat Gun</text>
-		<text id="patrol_boat_launcher">Patrol Boat Launcher</text>
+		<text id="patrol_boat_gun">순찰 로봇 총</text>
+		<text id="patrol_boat_launcher">순찰 로봇 런처</text>
 		<text id="advanced_lab_blueprint">전문연구소 설계도</text>
 		<text id="teleportal_blueprint">포탈 설계도</text>
-		<text id="laser_drill">Laser Drill</text>
-		<text id="energy_shield">Energy Shield</text>
-		<text id="antigrav_pack">Anti-grav Pack</text>
-		<text id="space_armor">Space Armor</text>
-		<text id="space_helm">Space Helm</text>
-		<text id="laser_gun">Laser Gun</text>
-		<text id="worker_bot">Worker Bot</text>
-		<text id="war_bot">War Bot</text>
+		<text id="laser_drill">레이저 드릴</text>
+		<text id="energy_shield">애너지 방패</text>
+		<text id="antigrav_pack">반 중력 가방</text>
+		<text id="space_armor">우주복</text>
+		<text id="space_helm">우주 헬멧</text>
+		<text id="laser_gun">레이저 건</text>
+		<text id="worker_bot">작업 로봇</text>
+		<text id="war_bot">전투 로봇</text>
 		
 		<text id="earth_trap">Earth Trap</text>
 		<text id="fire_trap">Fire Trap</text>
@@ -406,8 +406,8 @@
 		<text id="house_seed2">Evo Magic House Seed</text>
 		
 		<text id="water_helm">Water Helm</text>
-		<text id="coral_bow">Coral Bow</text>
-		<text id="coral_sword">Coral Sword</text>
+		<text id="coral_bow">산호 활</text>
+		<text id="coral_sword">산호 검</text>
 		<text id="helium_pack">Helium Pack</text>
 		<text id="evo_shard">진화의 결정</text>
 		<text id="evo_gem">진화 덩어리</text>
@@ -468,16 +468,16 @@
 		<text id="station_dock_blueprint">Ship Dock Blueprint</text>
 		<text id="xlarge_module_blueprint">X-Large Module Blueprint</text>
 		
-		<text id="exotic_matter">Exotic Matter</text>
+		<text id="exotic_matter">외우주 물질</text>
 		<text id="magnegem">Magnegem</text>
 		<text id="chromium">Chromium</text>
 		<text id="o2_canister">O2 Canister</text>
-		<text id="fighter.cannon">Plasma Cannon</text>
-		<text id="fighter.gun">Plasma Gun</text>
-		<text id="fighter.launcher">Antimatter Launcher</text>
-		<text id="antimatter_missile">Antimatter Missile</text>
+		<text id="fighter.cannon">플라즈마 캐논</text>
+		<text id="fighter.gun">플라즈마 건</text>
+		<text id="fighter.launcher">반물질 런처</text>
+		<text id="antimatter_missile">반물질 미사일</text>
 		<text id="o2_generator_blueprint">O2 Generator Blueprint</text>
-		<text id="jumpship">Jumpship</text>
+		<text id="jumpship">초고속항공기</text>
 		
 		<text id="dragon_ship.cannon">Heavy Fire</text>
 		<text id="dragon_ship.gun">Rapid Fire</text>
@@ -489,8 +489,8 @@
 		<text id="steel_fence">강철 울타리</text>
 		<text id="ai_core">AI 코어</text>
 		<text id="keycard">키카드</text>
-		<text id="keycard1">Professor's Keycard</text>
-		<text id="disabled_keycard">Disabled Keycard</text>
+		<text id="keycard1">고수의 키카드</text>
+		<text id="disabled_keycard">망가진 키카드</text>
 		
 		<text id="spacefarer">Automated Suit</text>
 		<text id="drone.ship">Drone Ship</text>
@@ -596,7 +596,7 @@
 		<text id="werewolf_head">Werewolf Head</text>
 		<text id="werewolf_cunning_head">Cunning Werewolf Head</text>
 		<text id="werewolf_ferocious_head">Ferocious Werewolf Head</text>
-		<text id="dino_dna">Dino DNA</text>
+		<text id="dino_dna">공룡 DNA</text>
 		<text id="werewolf_claws_dna">Claws DNA</text>
 		<text id="dexterous_paws_dna">Dexterous Paws DNA</text>
 		<text id="werewolf_heal_body_dna">Healing Body DNA</text>
@@ -797,7 +797,7 @@
 		<text id="earth_armor">Earth Armor</text>
 		<text id="earth_helm">Earth Helm</text>
 		<text id="earth_hammer">Earth Hammer</text>
-		<text id="diode_wolf">Diode Wolf</text>
+		<text id="diode_wolf">전기 늑대</text>
 		<text id="steel_wyrm">Mecha Wyrm</text>
 		<text id="cyborg_body">Cyborg Body</text>
 		<text id="cyborg_back">Cyborg Back</text>
@@ -839,7 +839,7 @@
 		<text id="spirit_detector">영혼 탐지기</text>
 		<text id="power_plant_blueprint">발전소 설계도</text>
 		<text id="workshop_upgrade">공장 설계도</text>
-		<text id="elevator_blueprint">에리베이터 설계도</text>
+		<text id="elevator_blueprint">엘리베이터 설계도</text>
 		<text id="powerline_blueprint">Powerline Blueprint</text>
 		<text id="purple_tree_seed">보라색나무 묘목</text>
 	</section>
@@ -2369,50 +2369,50 @@
 		<text id="broken">The panel is broken...</text>
 	</section>
 	<section id="system">
-		<text id="start">Unoiks 428</text>
-		<text id="sol">Solar System</text>
+		<text id="start">어노익스 428</text>
+		<text id="sol">태양계</text>
 		<text id="alien_hq">???</text>
-		<text id="colony">Unoiks 213</text>
-		<text id="unnature">Unoiks 188</text>
-		<text id="depths">Seuden 999</text>
+		<text id="colony">어노익스 213</text>
+		<text id="unnature">어노익스 188</text>
+		<text id="depths">슈든 999</text>
 	</section>
 	<section id="system.desc">
-		<text id="start">G-type star 42 light years from Earth.\n3 confirmed exoplanets.</text>
-		<text id="sol">The home system of humanity.</text>
-		<text id="alien_hq">F-type star 951 light years from Earth.\nNo confirmed exoplanets.</text>
-		<text id="colony">M-type star 23 light years from Earth.\n1 confirmed exoplanet.</text>
-		<text id="unnature">K-type star 18 light years from Earth.\n1 confirmed exoplanet.</text>
-		<text id="depths">A-type star 1,322 light years from Earth. 1 confirmed exoplanet.</text>
+		<text id="start">G-타입 별 지구로부터 42광년 떨어진곳.\n3개의 외계행성 확인됨.</text>
+		<text id="sol">인간들의 고향.</text>
+		<text id="alien_hq">F-타임 별 지구로부터  951광년 떨어진곳.\n회계행성 확인 안됨.</text>
+		<text id="colony">M-타임 별 지구로부터  23광년 떨어진곳.\n1개의 외계행성 확인됨.</text>
+		<text id="unnature">K-타임 별 지구로부터  18광년 떨어진곳.\n1개의 외계행성 확인됨.</text>
+		<text id="depths">A-타임 별 지구로부터  1,322광년 떨어진곳. 1개의 외계행성 확인됨.</text>
 	</section>
 	<section id="system.planet">
-		<text id="start">Unoiks 428{char}</text>
-		<text id="start_orbit">Unoiks 428{char} Orbit</text>
-		<text id="mercury">Mercury</text>
-		<text id="mercury_orbit">Mercury Orbit</text>
-		<text id="venus">Venus</text>
-		<text id="venus_orbit">Venus Orbit</text>
-		<text id="earth">Earth</text>
-		<text id="earth_orbit">Earth Orbit</text>
-		<text id="mars">Mars</text>
-		<text id="mars_orbit">Mars Orbit</text>
-		<text id="jupiter">Jupiter</text>
-		<text id="jupiter_orbit">Jupiter Orbit</text>
-		<text id="alien_hq">Alien HQ</text>
-		<text id="alien_hq_orbit">Alien HQ Orbit</text>
-		<text id="colony">CaptAIn's Colony</text>
-		<text id="colony_orbit">CaptAIn's Colony Orbit</text>
+		<text id="start">어노익스 428{char}</text>
+		<text id="start_orbit">어노익스 428{char} 궤도</text>
+		<text id="mercury">수성</text>
+		<text id="mercury_orbit">수성 궤도</text>
+		<text id="venus">금성</text>
+		<text id="venus_orbit">금성 궤도</text>
+		<text id="earth">지구</text>
+		<text id="earth_orbit">지구 궤도</text>
+		<text id="mars">화성</text>
+		<text id="mars_orbit">화성 궤도</text>
+		<text id="jupiter">목성</text>
+		<text id="jupiter_orbit">목성 궤도</text>
+		<text id="alien_hq">외계 HQ</text>
+		<text id="alien_hq_orbit">외계 HQ 궤도</text>
+		<text id="colony">캡틴A의 식민지</text>
+		<text id="colony_orbit">캡틴A의 식민지 궤도</text>
 		<text id="unnature">Unnature Sanctuary</text>
 		<text id="depths">The Depths</text>
 	</section>
 	<section id="system.planet.desc">
-		<text id="start">An Earth-like and habitable planet, colony location #21.\n\nSuspected of being [color=ff2222]Enemy Homeworld[/color].</text>
-		<text id="start.dwarf">A small but dense terrestrial planet close to the star. It has no atmosphere, but is likely to hold valuable ores and [item=exotic_matter].</text>
-		<text id="start.gas">An ice giant with a stormy atmosphere and strong gravitational pull.</text>
-		<text id="mercury">The smallest and innermost planet of the solar system.</text>
-		<text id="venus">The second planet of the solar system, it has the densest atmosphere of the terrestrial planets, and is toxic to human life.</text>
-		<text id="earth">The homeworld of humanity.</text>
-		<text id="mars">The final terrestrial planet, it has a thin atmosphere and polar  ice caps.</text>
-		<text id="jupiter">The largest planet in the solar system, Jupiter is a gas giant.</text>
+		<text id="start">지구와 비슷하게 생물이 살수 있는 행성, 식민지 번호 #21.\n\n[color=ff2222]적의 고향[/color]으로 의심중.</text>
+		<text id="start.dwarf">중심에 가까운 작고 밀도가 높은 행성. 대기가 없으며 귀중한 광석과 [item=exotic_matter]이(가) 있다.</text>
+		<text id="start.gas">큰 중력을 기반으로 가스와 결정이 회오리치는 행성.</text>
+		<text id="mercury">태양계에서 가장 작고 안쪽에 있느 행성.</text>
+		<text id="venus">태양계의 두번째 행성, 대기밀도가 지구보다 높고 독성이 있다.</text>
+		<text id="earth">인간들의 고향.</text>
+		<text id="mars">The final terrestrial planet, 대기가 적고 극지에 만년설이 있다.</text>
+		<text id="jupiter">태양계에서 가장 큰 행성, 가스로 이루어져있다.</text>
 		<text id="alien_hq">Their headquarters. No longer on their homeworld, they have taken to travelling through space on a massive, planet sized dragon ship!</text>
 		<text id="colony">One of the confirmed Earth-like habitable planets. A colony ship was sent there, but all communication with it was lost.</text>
 		<text id="unnature">One of the confirmed Earth-like habitable planets. It was meant to become one of many nature preserves until the war began.</text>
