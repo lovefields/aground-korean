@@ -477,7 +477,7 @@
 		<text id="fighter.launcher">반물질 런처</text>
 		<text id="antimatter_missile">반물질 미사일</text>
 		<text id="o2_generator_blueprint">O2 Generator Blueprint</text>
-		<text id="jumpship">초고속항공기</text>
+		<text id="jumpship">소형 우주선</text>
 		
 		<text id="dragon_ship.cannon">Heavy Fire</text>
 		<text id="dragon_ship.gun">Rapid Fire</text>
@@ -1216,7 +1216,7 @@
 		<text id="evolve_dragon">Evolve Elder Dragon</text>
 		<text id="evolve">Evolve</text>
 		<text id="rest">쉬기</text>
-		<text id="spaceship">Board Spaceship</text>
+		<text id="spaceship">우주선 탑승</text>
 		<text id="oxygen">Refill Oxygen</text>
 		<text id="portal">포탈</text>
 		<text id="spaceship_inv">Transfer Items to Spaceship</text>
@@ -2443,8 +2443,8 @@
 		<text id="file_export">Where do you wish to export the save slot?</text>
 		<text id="import_fail">불러올수 없음: 파일 손상됨.</text>
 		<text id="export_fail">내보낼수 없음: 파일 손상됨.</text>
-		<text id="auto_heal">체력 회복 음식을 자동으로 먹을것인가?</text>
-		<text id="auto_stamina">기력 회복 음식을 자동으로 먹을것인가?</text>
+		<text id="auto_heal">자동으로 체력 회복 아이템 사용</text>
+		<text id="auto_stamina">자동으로 기력 회복 아이템 사용</text>
 		<text id="max_overweight">중량초과 한계:</text>
 		<text id="notifications">알림:</text>
 		<text id="show_all">전부 보기</text>
