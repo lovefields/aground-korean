@@ -155,7 +155,7 @@
 		<text id="drop_all">Are you sure you wish to throw away all your {item}? They will be gone for good.</text>
 		<text id="sign_message">[item=sign]에 쓸 글:</text>
 		<text id="transform">How many would you like to turn into {into}?</text>
-		<text id="collect_complete">Collect Complete</text>
+		<text id="collect_complete">완료품 수거</text>
 		<text id="set_sticky">[tile=sticky] 중요 아이템</text>
 		<text id="set_first">Set First Item</text>
 		<text id="fishing_line">줄에 뭔가 걸렸어!</text>
@@ -185,7 +185,7 @@
 		<text id="uses">Uses</text>
 		<text id="enchantment">Enchantment</text>
 		<text id="cooldown">Cooldown</text>
-		<text id="durability">Durability</text>
+		<text id="durability">내구도</text>
 		<text id="damage">Damage</text>
 		<text id="capture">Capture</text>
 		<text id="capture_type">Capture Type</text>
@@ -197,7 +197,7 @@
 		<text id="run_away">도망치기</text>
 		<text id="complete">Complete</text>
 		<text id="remove">Remove</text>
-		<text id="time_manipulator">Time Manipulator</text>
+		<text id="time_manipulator">시간 조종기</text>
 		<text id="set_time">What time would you like to make it (24-hour format)?</text>
 		<text id="save_prompt_magic">This is the end of the demo for the Magic Path. 저장 하시겠습니까?</text>
 		<text id="save_prompt_science">This is the end of the demo for the Science Path. 저장 하시겠습니까?</text>
@@ -309,12 +309,12 @@
 		<text id="setProjectile">Set Projectile</text>
 		<text id="enrage">Enrage</text>
 		<text id="enrage_prompt">Are you sure you want to enrage your [item=adult_dragon]? It'll become permanently hostile towards you.</text>
-		<text id="enable_attack">Enable Attack</text>
-		<text id="disable_attack">Disable Attack</text>
+		<text id="enable_attack">공격 활성</text>
+		<text id="disable_attack">공격 비활성</text>
 		<text id="enable_flight">Enable Flight</text>
 		<text id="disable_flight">Disable Flight</text>
-		<text id="summon">Summon</text>
-		<text id="uncraft">Uncraft</text>
+		<text id="summon">소환</text>
+		<text id="uncraft">분해</text>
 		<text id="set_time">시간 설정</text>
 		<text id="reset_skills">스킬 초기화</text>
 		<text id="build">짓기</text>
@@ -414,7 +414,7 @@
 		<text id="blue_claw">Blue Claw</text>
 		<text id="clam_gun">Clam Gun</text>
 		
-		<text id="fish_scale">큰 물고기</text>
+		<text id="fish_scale">물고기 비늘</text> 
 		<text id="fire_book">Book of Flame</text>
 		<text id="water_book">Book of Splash</text>
 		<text id="plant_book">Book of Vines</text>
@@ -575,7 +575,7 @@
 		<text id="mineral_market_blueprint">Mineral Market Blueprint</text>
 		<text id="cafeteria_blueprint">Cafeteria Blueprint</text>
 		
-		<text id="earth_key">Golem Key</text>
+		<text id="earth_key">골램 키</text>
 		<text id="megolemech">Megolemech</text>
 		<text id="mega_earth_armor">Mega Earth Armor</text>
 		<text id="mega_earth_helm">Mega Earth Helm</text>
@@ -699,7 +699,7 @@
 		<text id="cat">고양이</text>
 		<text id="boat">보트</text>
 		<text id="fence">울타리</text>
-		<text id="torch">횟불</text>
+		<text id="torch">횃불</text>
 		<text id="trap">함정</text>
 		<text id="workbench">간이 작업대</text>
 		<text id="steel_workbench">강철 간이 작업대</text>
@@ -794,9 +794,9 @@
 		<text id="golem">골램</text>
 		<text id="gold_golem">금 골램</text>
 		<text id="purple_golem">자수정 골램</text>
-		<text id="earth_armor">Earth Armor</text>
-		<text id="earth_helm">Earth Helm</text>
-		<text id="earth_hammer">Earth Hammer</text>
+		<text id="earth_armor">대지의 갑옷r</text>
+		<text id="earth_helm">대지의 투구</text>
+		<text id="earth_hammer">대지의 망치</text>
 		<text id="diode_wolf">전기 늑대</text>
 		<text id="steel_wyrm">Mecha Wyrm</text>
 		<text id="cyborg_body">Cyborg Body</text>
@@ -925,7 +925,7 @@
 		<text id="view_hidden">Reveals spirits.</text>
 		<text id="tent">Rests and restores [tile=stamina] [color=006600]Stamina[/color].</text>
 		<text id="spawn">Spawns {item}.</text>
-		<text id="light">Lights surroundings when equipped.</text>
+		<text id="light">장비시 주변에 빛을 제공합니다.</text>
 		<text id="cost_per_s">{value} per second.</text>
 		<text id="cost_per_s_daylight">{value} per sec in daylight.</text>
 		<text id="cost_per_s_darkness">{value} per sec in darkness.</text>
@@ -1148,7 +1148,7 @@
 		<text id="sleep_day">Sleep until Day</text>
 		<text id="sleep_night">Sleep until Night</text>
 		<text id="o2_generator">O2 Generator</text>
-		<text id="unlock">Would you like to use a {item} to unlock this door?</text>
+		<text id="unlock">{item}으로 잠긴 문을 열으시겠습니까?</text>
 		<text id="missing_key">You need a {item} to unlock this door.</text>
 		<text id="cost">Cost</text>
 		<text id="research_lab">Research Lab</text>
@@ -1245,7 +1245,7 @@
 		<text id="dragon_lair2">Raise Dragons</text>
 		<text id="raise_into">Raise into {into}</text>
 		<text id="fly_dragon">Fly Dragon</text>
-		<text id="activate">Activate</text>
+		<text id="activate">작동시키기</text>
 		<text id="enter">입장</text>
 		<text id="tent">텐트에서 쉬기</text>
 		<text id="search">Search</text>
@@ -1585,7 +1585,7 @@
 		<text id="area">장소: {area}</text>
 		<text id="position">위치: {x}, {y}</text>
 		<text id="default_engine">Base Engine</text>
-		<text id="pack_up_item">Are you sure you wish to pack up this {item}?</text>
+		<text id="pack_up_item">정말로 {item}을(를) 수거할까요?</text>
 		<text id="submersible">Submersible</text>
 		<text id="dismount">내리기</text>
 		<text id="vehicle">Vehicle</text>
@@ -1649,7 +1649,7 @@
 		<text id="introduce2">에휴. [item=wood] [var=quest.storehouse.wood]개와 [item=berries] [var=quest.storehouse.berries]개가 있다면 [color=770000]창고[/color]를 제대로 만들 수 있을 것 같아요.</text>
 		<text id="accept1">좋아! 제가 모아주죠, 문제 없어요.</text>
 		<text id="accept2">[item=stone_axe]을(를) 받으세요, 그렇게 열정적 이라면 한번 해보세요.</text>
-		<text id="stamina">I'm exhausted. You look tired too. We should rest in the [color=770000]Hut[/color] to save the game and restore our [tile=stamina] [color=006600]Stamina[/color].</text>
+		<text id="stamina">나는 지쳣어요. 당신도 그래보이네요. 스테미나를 회복하고 게임을 저장하고 싶다면 [color=770000]오두막[/color]에서 쉬면 되요.</text>
 		<text id="wood">오래된 내 [item=stone_axe]는 어때요? [key=attack]키를 누르면 옆에 있는 나무를 밸수 있어요.</text>
 		<text id="hint1">아이템을 수집하면 전부 당신의 가방으로 가게되요. [key=inventory]키르 눌러서 확인할수 있어요.</text>
 		<text id="hint2">If your [tile=stamina] [color=006600]Stamina[/color] runs out, you will lose [tile=health] [color=770000]Health[/color], and if your [tile=health] [color=770000]Health[/color] runs out, you will die.</text>
@@ -1658,7 +1658,7 @@
 		<text id="storehouse2">어서 [color=770000]창고[/color]를 지어주세요!</text>
 		<text id="storehouse3">자 다 지었어요! 만족 스럽지 않나요?</text>
 		<text id="storehouse4">네… 확실히, 이건 쓸만하겟네요. 이제 우리는 무겁게 들고다니지 않아도 되겠어요.</text>
-		<text id="storehouse5">우리는 전부 이동 버튼을 이용해서 빠르게 옮길수 있습니다,그리고 [key=quest]키를 사용해서 아이템에 별표를 할수 있습니다. 별표 된 아이템은 전부 이동 시 이동되지 않아요.</text>
+		<text id="storehouse5">우리는 전부 이동 버튼을 이용해서 빠르게 옮길수 있어요, 그리고 [key=quest]키를 사용해서 아이템에 별표를 할수 있을거에요. 별표 된 아이템은 전부 이동 시 이동되지 않아요.</text>
 		<text id="farmer">We should make a deal with the [object=farmer], I bet he could help us grow some tasty food.</text>
 		<text id="miner">Did you see that [object=miner] emerge from underground? You should see what she wants.</text>
 		<text id="kitchen1">What do you think of building a [color=770000]Kitchen[/color]? [item=meat] is good, but it’s even better cooked.</text>
@@ -1717,19 +1717,19 @@
 		<text id="homeworld1">Ooh, one of the colony worlds! I bet there are all kinds of strange new things to dig up there!</text>
 		<text id="homeworld2">You know, I actually miss Earth. I’m sure it will be tough to live on after being bombed, but think of all the underground ruins I will be able to uncover there!</text>
 		<text id="homeworld3">I’ll catch the next ship and meet you there!</text>
-		<text id="introduce1">Oh, hey. Didn’t realize there were other survivors.</text>
-		<text id="introduce2">I’ve been underground - there’s way more to this place than meets the eye.</text>
-		<text id="introduce3">I’ve got an extra pickaxe if you want to check it out too.</text>
+		<text id="introduce1">오, 안녕. 다른 생존자라니!</text>
+		<text id="introduce2">나는 지하에서 지냈어. 지상보다 지하에 더 많은 것들이 있거든.</text>
+		<text id="introduce3">너도 확인해볼래? 곡괭이를 하나 줄게.</text>
 		<text id="smelter">How's the digging going? Maybe we should build a [color=770000]Smelter[/color] to melt down ores into bars.</text>
 		<text id="accept1">Great! Let me know when you have enough [item=coal]!</text>
 		<text id="smelter1">This is the stuff. I should have a [color=770000]Smelter[/color] up in no time!</text>
 		<text id="smelter2">The [color=770000]Smelter[/color] can turn raw ores into bars. It requires fuel to melt them down, but luckily there is plenty of [item=coal] around to keep it running.</text>
-		<text id="hint1">Well, what are you waiting for? Just hold [key=down] to dig down and find those ores!</text>
-		<text id="hint2">Ore is heavy - make sure to drop them off in the [color=770000]Storehouse[/color] between trips.</text>
-		<text id="hint3">It’s easy to get caught up mining, but make sure you have enough [tile=stamina] [color=006600]Stamina[/color] for the return trip.</text>
-		<text id="hint4">The deeper underground you go, the better ores you will find.</text>
-		<text id="hint5">If you plan on mining deep underground, make sure to bring [item=torch]es with you. They'll provide light when equipped, but will eventually burn out.</text>
-		<text id="hint6">I can make [item=torch]es if you need some.</text>
+		<text id="hint1">뭐하고 있어? 광석을 찾고 싶으면 [key=down]키를 눌러서 돌아다녀봐!</text>
+		<text id="hint2">광물은 엄청 무거워, 여행전에는 반드시 [color=770000]창고[/color]에 넣는게 좋을거야.</text>
+		<text id="hint3">[tile=stamina] [color=006600]기력[/color]관리를 잘하는게 좋을꺼야. 채굴에 정신이 팔려서 돌아오지 못하면 안되니까.</text>
+		<text id="hint4">깊게 들어갈수록 더 좋은 광물이 나올거야.</text>
+		<text id="hint5">만약 깊은 곳으로 캐러 갈때는 [item=torch]이 필요할거야. 단, 조심해 그리 오래 지속되지는 않을거야.</text>
+		<text id="hint6">만약 너가 필요하다면 난 [item=torch]을 만들어줄 수 있어.</text>
 		<text id="workshop1">How about a [color=770000]Workshop[/color] to turn those metal bars into tools? I can make one for [var=quest.workshop.iron_bar] [item=iron_bar]s and [var=quest.workshop.wood] [item=wood].</text>
 		<text id="workshop2">Alright, let's get this [color=770000]Workshop[/color] set up!</text>
 		<text id="workshop3">At the [color=770000]Workshop[/color], you can instantly create any tools or items that you have the ingredients to make.</text>
@@ -1740,7 +1740,7 @@
 		<text id="pick">If you want to mine through [color=770000][tile=stone] Stone[/color] to reach [item=gold], you'll need to craft an [item=iron_pickaxe] or a [item=steel_pickaxe] at the [color=770000]Workshop[/color].</text>
 		<text id="equip1">If you want to mine through [color=770000][tile=stone] Stone[/color] to reach [item=gold], you'll need to equip an [item=iron_pickaxe] or a [item=steel_pickaxe]. Hit [key=equipment] to manage your equipment.</text>
 		<text id="equip2">You can manage your equipment and pickaxes by hitting [key=equipment] to open the Equipment window.</text>
-		<text id="hotkey">You can also use [color=770000]Hotkeys[/color] now.\nHit [key=hotkey1], [key=hotkey2], [key=hotkey3] or [key=hotkey4] in the inventory window to set them.</text>
+		<text id="hotkey">[color=770000]단축키[/color]를 사용해봤니?\n 가방에서 [key=hotkey1], [key=hotkey2], [key=hotkey3], [key=hotkey4]키를 이용해 아이템을 등록할수 있어!</text>
 		<text id="minecart1">One thing every miner needs is a good [item=minecart] and [item=rail] system! Ores are heavy, and having a way to easily transport them to the [color=770000]Storehouse[/color] would be amazing.</text>
 		<text id="minecart2">You built a [item=minecart] and [item=rail]s? Perfect, let's place them right away!</text>
 		<text id="minecart3">Here, I placed the [item=minecart] and a small [item=rail] system! You can expand it and move [item=rail]s using a [item=crowbar] to pry them up!</text>
