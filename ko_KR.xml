@@ -157,7 +157,7 @@
 		<text id="transform">How many would you like to turn into {into}?</text>
 		<text id="collect_complete">완료품 수거</text>
 		<text id="set_sticky">[tile=sticky] 중요 아이템</text>
-		<text id="set_first">Set First Item</text>
+		<text id="set_first">첫항목으로 설정</text>
 		<text id="fishing_line">줄에 뭔가 걸렸어!</text>
 		<text id="fishing_fail">도망쳤어!</text>
 		<text id="fishing_hooked">기다려봐...</text>
@@ -1170,14 +1170,14 @@
 		<text id="repair_colony_ship">Would you like to repair the [color=770000]Colony Ship[/color] with the following resources?</text>
 		<text id="colony.drone_factory">Colony Ship Drone Factory</text>
 		<text id="ask_uproot">Would you like to uproot this structure?</text>
-		<text id="wheat">Wheat Field</text>
-		<text id="orchard">Orchard</text>
-		<text id="sugar">Sugar Field</text>
-		<text id="cotton">Cotton Field</text>
-		<text id="pumpkin">Pumpkin Field</text>
+		<text id="wheat">밀밭</text>
+		<text id="orchard">과수원</text>
+		<text id="sugar">사탕수수 밭</text>
+		<text id="cotton">목화 밭</text>
+		<text id="pumpkin">호박 밭</text>
 		<text id="add_field">Expand Farm</text>
-		<text id="add_stall">Build Pen</text>
-		<text id="pen">Pen</text>
+		<text id="add_stall">축사 짓기</text>
+		<text id="pen">축사</text>
 		<text id="produces">-- 생산 --</text>
 		<text id="slots">-- 슬롯 --</text>
 		<text id="plant">Change Crop</text>
@@ -1324,7 +1324,7 @@
 		<text id="stamina">Out of Stamina, Losing Health!</text>
 		<text id="oxygen">Out of Oxygen, Losing Health!</text>
 		<text id="crush">Below Dive Depth, Losing Health!</text>
-		<text id="growing">Still Growing! Come back later.</text>
+		<text id="growing">아직 수확할 수 없습니다! 나중에 다시오세요.</text>
 		<text id="additions">No addition slots remaining!</text>
 		<text id="durability">Too damaged to use!</text>
 		<text id="focus">클릭해서 활성화 시키세요</text>
@@ -1532,11 +1532,11 @@
 		<text id="storehouse">가 [color=550000]창고[/color]를 지으려 합니다.</text>
 		<text id="storehouse2">Build a [color=550000]Storehouse[/color] to store all your items.</text>
 		<text id="smelter">가 광물을 가공할 [color=550000]제련소[/color]를 원합니다</text>
-		<text id="workshop">wants a [color=550000]Workshop[/color] to create metal tools.</text>
-		<text id="kitchen">wants to build a [color=550000]Kitchen[/color] to cook food.</text>
+		<text id="workshop">가 [color=550000]작업대[/color]를 지으려 합니다.</text>
+		<text id="kitchen">가 [color=550000]부엌[/color]을 지으려 합니다.</text>
 		<text id="kitchen2">wants the [color=550000]Kitchen[/color] to make [item=cheese].</text>
-		<text id="farm">wants to build a [color=550000]Farm[/color] to grow crops.</text>
-		<text id="orchard">wants to use [item=fruit] to plant an [color=550000]Orchard[/color].</text>
+		<text id="farm">가 재배를 위한 [color=550000]농장[/color]을 짓기 원합니다.</text>
+		<text id="orchard">가 [item=fruit]로 [color=550000]과수원[/color]을 지으려 합니다.</text>
 		<text id="market">wants to build a [color=550000]Market[/color] to trade goods.</text>
 		<text id="market2">Build a [color=550000]Market[/color] to attract traders to your [color=550000]Dock[/color].</text>
 		<text id="dock">wants a [color=550000]Dock[/color] to travel the world.</text>
@@ -1627,7 +1627,7 @@
 		<text id="grab">Grab</text>
 		<text id="builder">건축가</text>
 		<text id="miner">광부</text>
-		<text id="farmer">농사꾼</text>
+		<text id="farmer">농부</text>
 		<text id="trader">상인</text>
 		<text id="alchemist">연금술사</text>
 		<text id="hunter">사냥꾼</text>
@@ -1647,22 +1647,22 @@
 		<text id="intro">당신 정말로 여기서 살아남을 수 있다고 생각해요? 가망이 없어요.</text>
 		<text id="introduce1">당신은 솜씨좋은 건축가 아니에요? 우리가 자원과 식량을 보관할 수있는 건축물을 짓는게 어떨까요?</text>
 		<text id="introduce2">에휴. [item=wood] [var=quest.storehouse.wood]개와 [item=berries] [var=quest.storehouse.berries]개가 있다면 [color=770000]창고[/color]를 제대로 만들 수 있을 것 같아요.</text>
-		<text id="accept1">좋아! 제가 모아주죠, 문제 없어요.</text>
+		<text id="accept1">좋아요! 제가 모아주죠, 문제 없어요.</text>
 		<text id="accept2">[item=stone_axe]을(를) 받으세요, 그렇게 열정적 이라면 한번 해보세요.</text>
 		<text id="stamina">나는 지쳣어요. 당신도 그래보이네요. 스테미나를 회복하고 게임을 저장하고 싶다면 [color=770000]오두막[/color]에서 쉬면 되요.</text>
 		<text id="wood">오래된 내 [item=stone_axe]는 어때요? [key=attack]키를 누르면 옆에 있는 나무를 밸수 있어요.</text>
 		<text id="hint1">아이템을 수집하면 전부 당신의 가방으로 가게되요. [key=inventory]키르 눌러서 확인할수 있어요.</text>
 		<text id="hint2">If your [tile=stamina] [color=006600]Stamina[/color] runs out, you will lose [tile=health] [color=770000]Health[/color], and if your [tile=health] [color=770000]Health[/color] runs out, you will die.</text>
 		<text id="hint3">That's why you need to eat a lot of [item=berries], [item=fruit] and [item=meat]. You can do this by selecting them in your inventory.</text>
-		<text id="storehouse1">당신 모든걸 준비한거에요? 인상적이군요.</text>
+		<text id="storehouse1">당신 모든걸 준비한거에요? 굉장하네요.</text>
 		<text id="storehouse2">어서 [color=770000]창고[/color]를 지어주세요!</text>
-		<text id="storehouse3">자 다 지었어요! 만족 스럽지 않나요?</text>
-		<text id="storehouse4">네... 확실히, 이건 쓸만하겟네요. 이제 우리는 무겁게 들고다니지 않아도 되겠어요.</text>
-		<text id="storehouse5">우리는 전부 이동 버튼을 이용해서 빠르게 옮길수 있어요, 그리고 [key=quest]키를 사용해서 아이템에 별표를 할수 있을거에요. 별표 된 아이템은 전부 이동 시 이동되지 않아요.</text>
+		<text id="storehouse3">자 다 지었어요! 만족 스럽지않나요?</text>
+		<text id="storehouse4">네... 확실히, 이건 쓸만하겠네요. 이제 우리는 무겁게 들고다니지 않아도 되겠어요.</text>
+		<text id="storehouse5">우리는 "전부 이동" 버튼을 이용해서 빠르게 옮길수 있어요, 그리고 [key=quest]키를 사용해서 아이템에 별표를 할수 있을거에요. 별표 된 아이템은 "전부 이동" 시 이동되지 않아요.</text>
 		<text id="farmer">We should make a deal with the [object=farmer], I bet he could help us grow some tasty food.</text>
 		<text id="miner">Did you see that [object=miner] emerge from underground? You should see what she wants.</text>
-		<text id="kitchen1">What do you think of building a [color=770000]Kitchen[/color]? [item=meat] is good, but it’s even better cooked.</text>
-		<text id="kitchen2">I'll need [var=quest.kitchen.wood] [item=wood] and [var=quest.kitchen.coal] [item=coal] to build the [color=770000]Kitchen[/color].</text>
+		<text id="kitchen1">[color=770000]부엌[/color]을 짓는게 어때요? [item=meat]는 좋지만 요리를 하면 좀더 좋을거에요.</text>
+		<text id="kitchen2">[var=quest.kitchen.wood] [item=wood]와 [var=quest.kitchen.coal] [item=coal]이 있다면 [color=770000]부엌[/color]을 지을수 있어요.</text>
 		<text id="kitchen3">Looks like you have everything I need. Let's get this [color=770000]Kitchen[/color] built!</text>
 		<text id="kitchen4">You can cook food at the [color=770000]Kitchen[/color] as long as you have [item=wood] or [item=coal] to fuel it.</text>
 		<text id="kitchen5">You know what I’m craving? Some [item=cheese]. Nothing is quite as delicious.</text>
@@ -1681,11 +1681,11 @@
 		<text id="win4">We’ll need a [color=770000]Terraformer[/color] if we want to make this land fertile again.</text>
 		<text id="homeworld1">Excellent, with so few of us left, we have to stick together!</text>
 		<text id="homeworld2">I’ll head there now, I’ll bet they could use someone who knows a thing or two about plants!</text>
-		<text id="introduce1">Boy am I glad to see you. Here I was thinkin’ I was all alone, just one old man in an empty world.</text>
-		<text id="introduce2">I still got some life in these old bones and I reckon I could help you out. Farming’s my trade, and we all need some good food to keep us going.</text>
-		<text id="introduce3">How about we build a barn and get a [color=770000]Farm[/color] up and runnin’?</text>
-		<text id="farm1">Nice! I'll put up the barn and plant some [item=wheat_seed]!</text>
-		<text id="farm2">Now we have a [color=770000]Farm[/color]! Stop by on occasion to pick up growin' crops - they will help restore your [tile=stamina] [color=006600]Stamina[/color]. Here - take some [item=bread] to keep you going while it grows.</text>
+		<text id="introduce1">당신을 보니 기분이 좋군요. 아무도 없는 곳에 홀로남은 노인은 꽤나 비참하거든.</text>
+		<text id="introduce2">당신덕에 삶에대한 의지가 생겼어요. 저도 당신을 돕겟습니다. 우리는 식량을 확보하기 위해서 농사를 지어야해요.</text>
+		<text id="introduce3">헛간과 [color=770000]농장[/color]을 짓는게 어떨까요?</text>
+		<text id="farm1">좋아요! [item=wheat_seed]을 줄게요 헛간을 세우고 밭을 지정해주세요!</text>
+		<text id="farm2">이제 우리는 [color=770000]농장[/color]이 생겼어요! 생각 날때마다 농작물을 재배하세요. 농작물이 당신의 [tile=stamina] [color=006600]기력[/color]을 회복하는데 도움이 될거에요. 기다리는 동안 [item=bread]을 줄테니 먹고 힘좀내요.</text>
 		<text id="farm3">You can get [item=wood] by chopping down trees.</text>
 		<text id="farm4">If you want to grow more, simply plant more seeds! You can also manage and remove existing crops at the barn!</text>
 		<text id="farm5">Look at our awesome [color=770000]Farm[/color]! It's as good as anything I used to grow back home! But if you want to grow more, I can always make more seeds.</text>
@@ -1700,11 +1700,11 @@
 		<text id="halloween">I hope you don't mind, but I did a little decoratin' for the Harvest Festival! We could use a little celebrating around here. I also put some [item=jakolantern]s in the [color=770000]Storehouse[/color].</text>
 		<text id="add_sugar">This farm is getting pretty big! To celebrate I found some [item=sugar_seed]! Try planting a field of [item=sugar]!</text>
 		<text id="add_cotton">I met a few traders by the [color=770000]Dock[/color] and got some [item=cotton_seed]!</text>
-		<text id="orchard1">There are a lot of [item=fruit] around here. With enough seeds, I could probably plant a nice [color=770000]Orchard[/color]!</text>
-		<text id="orchard2">Great, with this many [item=fruit] we have enough [item=orchard_seed] to plant an [color=770000]Orchard[/color]!</text>
-		<text id="orchard3">Let me know when you have enough [item=fruit] for the [color=770000]Orchard[/color]!</text>
-		<text id="orchard4">Seeds can be planted on grass tiles as long as there is enough empty space to place them. Let me know where you want to plant the [item=orchard_seed]!</text>
-		<text id="orchard5">You can also use seeds to change crops in the [color=770000]Barn[/color]. If you want to make new seeds, just let me know!</text>
+		<text id="orchard1">이 주변에는 [item=fruit]가 많아요. 씨앗이 충분히 모이면 [color=770000]과수원[/color]을 지을수 있겠어요!</text>
+		<text id="orchard2">훌륭해요, 이제 우리는 [item=fruit]에서 [item=orchard_seed]을 얻었으니 [color=770000]과수원[/color]을 지을수 있어요!</text>
+		<text id="orchard3">[color=770000]과수원[/color]을 짓기위한 [item=fruit]가 충분히 모이면 알려주세요!</text>
+		<text id="orchard4">공간이 충분이 확보된 풀이 있는 곳이라면 씨앗을 심을 수 있어요. [item=orchard_seed]을 어디에 심을지 알려주세요!</text>
+		<text id="orchard5">[color=770000]곳간[/color] 에서 씨앗을 이용해 농장 종류를 바꿀수 있어요. 원하는 씨앗이 있다면 내가 만들어 줄게요!</text>
 		<text id="snowman">The first snowfall is here! That makes it as good a time as any to celebrate! I even made a magic [item=snowman] from [item=ice_berries], I hope you like it!</text>
 		<text id="sign1">This place is starting to feel like home, ain't it? How about giving the place a name?</text>
 		<text id="sign2">Use this here [item=area_name_sign] to change the name of this island!</text>
@@ -1722,19 +1722,19 @@
 		<text id="introduce3">너도 확인해볼래? 곡괭이를 하나 줄게.</text>
 		<text id="smelter">채광은 잘 되가? 광석을 녹여서 주괴를 만들려면 [color=770000]제련소[/color]가 필요해.</text>
 		<text id="accept1">좋아! [item=coal]이 충분히 모이면 말해줘!</text>
-		<text id="smelter1">This is the stuff. I should have a [color=770000]Smelter[/color] up in no time!</text>
-		<text id="smelter2">The [color=770000]Smelter[/color] can turn raw ores into bars. It requires fuel to melt them down, but luckily there is plenty of [item=coal] around to keep it running.</text>
+		<text id="smelter1">다모았어! 곧 [color=770000]제련소[/color]를 지어줄게!</text>
+		<text id="smelter2">[color=770000]제련소[/color] 는 광물을 주괴로 가공할 수 있어. 물론 그러기 위해서는 연료가 필요해, 운이 좋게도 주변에 [item=coal]이 널려있잖아?</text>
 		<text id="hint1">뭐하고 있어? 광석을 찾고 싶으면 [key=down]키를 눌러서 돌아다녀봐!</text>
 		<text id="hint2">광물은 엄청 무거워, 여행전에는 반드시 [color=770000]창고[/color]에 넣는게 좋을거야.</text>
 		<text id="hint3">[tile=stamina] [color=006600]기력[/color]관리를 잘하는게 좋을꺼야. 채굴에 정신이 팔려서 돌아오지 못하면 안되니까.</text>
 		<text id="hint4">깊게 들어갈수록 더 좋은 광물이 나올거야.</text>
 		<text id="hint5">만약 깊은 곳으로 캐러 갈때는 [item=torch]이 필요할거야. 단, 조심해 그리 오래 지속되지는 않을거야.</text>
 		<text id="hint6">만약 너가 필요하다면 난 [item=torch]을 만들어줄 수 있어.</text>
-		<text id="workshop1">How about a [color=770000]Workshop[/color] to turn those metal bars into tools? I can make one for [var=quest.workshop.iron_bar] [item=iron_bar]s and [var=quest.workshop.wood] [item=wood].</text>
+		<text id="workshop1">철제 주괴를 이용해서 도구를 만들 [color=770000]작업대[/color]를 짓는게 어때요? [item=iron_bar][var=quest.workshop.iron_bar]개와 [item=wood][var=quest.workshop.wood]개를 구해오면 지을수 있어요.</text>
 		<text id="workshop2">Alright, let's get this [color=770000]Workshop[/color] set up!</text>
 		<text id="workshop3">At the [color=770000]Workshop[/color], you can instantly create any tools or items that you have the ingredients to make.</text>
 		<text id="workshop4">You'll need to find [item=iron] to smelt into [item=iron_bar] at the [color=770000]Smelter[/color].</text>
-		<text id="torch">[item=iron] is pretty deep underground, so take a [item=torch] to help you see. If this one burns out, talk to me and I can make more.</text>
+		<text id="torch">[item=iron]은 꽤나 깊은 곳에 있어요. [item=torch]을 받으세요, 도움이 될거에요. 만약 횃불이 전부 타버린다면 저에게 말해주세요, 더 만들어 드릴게요.</text>
 		<text id="smelter3">Once you have enough [item=iron], select [item=iron_bar] from the [color=770000]Smelter[/color] menu, and it will automatically smelt as long as there is fuel remaining.</text>
 		<text id="smelter4">You can add as many jobs to the [color=770000]Smelter[/color] as you have ingredients for, and it will smelt them one by one while you are away as long as it has fuel.</text>
 		<text id="pick">If you want to mine through [color=770000][tile=stone] Stone[/color] to reach [item=gold], you'll need to craft an [item=iron_pickaxe] or a [item=steel_pickaxe] at the [color=770000]Workshop[/color].</text>
@@ -1751,7 +1751,7 @@
 		<text id="win2">I love that we’re using their planet as our homeworld. It’s like stealing from the dead!</text>
 		<text id="win3">I love having humanity congregate on one planet... more potential targets for me!</text>
 		<text id="homeworld1">The more people, the more business for me! I’m off!</text>
-		<text id="steal">A [item={item}] was stolen from the [color=770000]Storehouse[/color]!</text>
+		<text id="steal">[color=770000]창고[/color]에서 [item={item}]을(를) 도난당했어!</text>
 		<text id="caught">The thief was caught red-handed!</text>
 		<text id="introduce1">It's hard enough surviving here without someone stealing our stuff!</text>
 		<text id="introduce2">I might have borrowed a few things. But, listen. I’ll repay you by offering my services. I have connections with many traders on other islands.</text>
@@ -1812,7 +1812,7 @@
 		<text id="win3">You have done it?! You have finally defeated them? I hope you made good use of the magic secrets we discovered!</text>
 		<text id="win4">They have caused such pain and death... my fellow scouts will never return... but, at least those magic-hoarding tentacle monsters will never again hurt anyone.</text>
 		<text id="introduce1">이 행성은 보이는것 이상으로 가치가 있어요! 나는 여러 실험을 해봤고 드디어 마법을 발견한것 같아요!</text>
-		<text id="introduce2">저는 더 많은 재료가 필요해요. 만약 당신이 [item=wyrm]을 죽이고 나에게 [item=dragonblood]을 가져다 준다면 보상을 하겟어요.</text>
+		<text id="introduce2">저는 더 많은 재료가 필요해요. 만약 당신이 [item=wyrm]을 죽이고 나에게 [item=dragonblood]을 가져다 준다면 보상을 하겠어요.</text>
 		<text id="lab1">I knew it! This is the secret! I must set up a laboratory immediately!</text>
 		<text id="lab2">Your reward? Bring materials to my lab and I will mix up a magic potion for you.</text>
 		<text id="lab3">서둘러 주세요! [item=dragonblood]을 얻기 전까진 실험을 할 수 없어요!</text>
@@ -1938,13 +1938,13 @@
 		<text id="no_translate">There is nothing here to translate.</text>
 		<text id="static">There's nothing but static...</text>
 		<text id="homeworld">We’re setting up a new colony for humanity on {area}!</text>
-		<text id="storm1">너무 추워...[pause=1] 그리고 지쳣어...[pause=1] 쉴곳이 필요해, 하지만 이곳엔 아무것도 없어 그래도 떨어진 목재들이 보여!</text>
-		<text id="storm3">[item=wood]을(를) 간신히 짊어지고 있어! 이동하려면 [tile=stamina] [color=006600]기력[/color]이 많이 들거야, 하지만 난 여기서 멈출수 없어, 난 쉴곳을 찾아야해!</text>
-		<text id="hut1">이게 무슨 건물이지? 누군가 쉴곳을 만들다가 멈춘것 같아. [item=wood] [var=quest.hut.wood]개가 있으면 완공할 수 있겟는데?</text>
+		<text id="storm1">너무 추워...[pause=1] 그리고 지쳤어...[pause=1] 쉴곳이 필요해... 주변에 떨어진 목재들밖에 보이지 않아...</text>
+		<text id="storm3">[item=wood]를 간신히 짊어지고 있어! 이동하려면 [tile=stamina] [color=006600]기력[/color]이 많이 들거야, 하지만 난 여기서 멈출수 없어! 난 쉴곳을 찾아야해!</text>
+		<text id="hut1">이게 무슨 건물이지? 누군가 쉴곳을 만들다가 그만둔것 같아. [item=wood] [var=quest.hut.wood]개가 있으면 완성할 수 있겠는데?</text>
 		<text id="hut2">I have {count} of [var=quest.hut.wood] [item=wood] needed to finish this [color=770000]Hut[/color]. 더 많은 나무가 필요해.</text>
-		<text id="hut3">[item=wood] {added}개를 [color=770000]오두막[/color]에 사용했다. {remaining}개를 모아서 완성하자!</text>
-		<text id="storehouse1">이 도끼는 [color=770000]창고[/color]를 지을수 있는 재료를 얻기에 유용하다.</text>
-		<text id="storehouse2">[item=wood] [var=quest.storehouse.wood]개와 [item=berries] [var=quest.storehouse.berries]개가 있으면 창고를 지을수 있다고 확신한다.</text>
+		<text id="hut3">[item=wood] {added}개를 [color=770000]오두막[/color]에 사용했다. {remaining}개를 더 모아서 완성하자!</text>
+		<text id="storehouse1">이 도끼는 [color=770000]창고[/color]를 지을수 있는 재료를 얻는데 유용하다.</text>
+		<text id="storehouse2">[item=wood] [var=quest.storehouse.wood]개와 [item=berries] [var=quest.storehouse.berries]개가 있으면 창고를 지을수 있을것 같다.</text>
 		<text id="storehouse3">Alright! Let’s get this storehouse built!</text>
 		<text id="storehouse4">Perfect. Now I can avoid getting tired out from carrying too much.</text>
 		<text id="dock1">I wonder if the thief was telling the truth about other survivors?</text>
@@ -2305,23 +2305,23 @@
 		<text id="nav7">This is why we were willing to sacrifice everything for strength... from the day we landed on this planet, a confrontation with them became inevitable.</text>
 	</section>
 	<section id="scene.hut">
-		<text id="first1">꽤 나쁘지 않군... 누가 이 건물을 짓기 시작한건지 궁금하다... 그리고 그들은 왜 멈춘거지. 최근에 지으려 한것 같은데...</text>
-		<text id="first2">도와주세요...[pause=4] 안에 없어요?[pause=4]</text>
+		<text id="first1">꽤 나쁘지 않군... 누가 이 건물을 지으려 한건지 궁금하다... 그리고 그들은 왜 멈춘거지? 최근에 지으려 한것 같은데...</text>
+		<text id="first2">도와주세요...[pause=4] 안에 누구 없어요?[pause=4]</text>
 		<text id="first3">누군가 밖에 있다! 그를 들일까?</text>
 		<text id="first4">고마워요. 당신은 내 생명의 은인이에요. 저는 거의 포기 직전이었어요- 너무 지치고 배고파서 이 오두막을 완공하지 못했거든요. 하지만 이제 우리는 뭘하죠?</text>
 		<text id="first5">일단은, 여기서 몸을 따뜻하게 하고 물기를 말리죠.</text>
-		<text id="first6">하지만 그 다음은? 어떻게 이 무인도에서 사람남을까요?</text>
-		<text id="first7">뾰족한 수라도 있나요? 우리는 여기 같혀서 돌아갈수가 없단말이에요.</text>
-		<text id="first8">뭐라도 시도할수 있겟죠. 이 섬에서의 생활이 당신이 생각하는 것 보다 나쁘지 않을 수 있습니다.</text>
+		<text id="first6">하지만 그 다음은? 어떻게 이 무인도에서 살아남을까요?</text>
+		<text id="first7">뾰족한 수라도 있나요? 우리는 여기 갇혀서 돌아갈수가 없단말이에요.</text>
+		<text id="first8">뭐라도 시도할수 있겠죠. 이 섬에서의 생활이 당신이 생각하는 것 보다 나쁘지 않을 수 있습니다.</text>
 		<text id="first9">제발...[pause=4] 도와주세요...</text>
 		<text id="second1">... 그래서 나는 여기 오자마자 땅을 파기 시작했거든. 폭풍이 불어닥친지도 모르고 있었지.</text>
-		<text id="second2">너가 여기 있어서 다행이야. 지하에서는 흙을 먹으면서 버텻는데, 역시 따뜻한 불만한게 없지.</text>
+		<text id="second2">너가 여기 있어서 다행이야. 지하에서는 흙을 먹으면서 버텻는데, 역시 따뜻한 모닥불 만한게 없지.</text>
 		<text id="second3">밖에 다른 생존자가 있을까?</text>
 		<text id="second4">솔직히 그 추락사고에서 살아남은건 기적이야. 하지만 우리가 살아있으니 다른 생존자도 있지 않을까?</text>
-		<text id="third1">Now I bet you youngin’s are thinking this here’s the end of the world, but I thought the same during World War 3 and yet here we all are.</text>
-		<text id="third2">The way I sees it, we just got to make the best of the situation, and be glad there’s food to eat and company to share.</text>
-		<text id="third3">But how long will we have to live on this god-forsaken island?</text>
-		<text id="third4">Who knows? But as long as there’s life, there’s hope. Perhaps in time this island will be as good as home.</text>
+		<text id="third1">어린 당신들은 여기에 희망이 없다고 생각하겠죠. 제가 3차 세계대전에서 그렇게 생각했듯이 말이에요. 하지만 우리는 지금 여기에 살아있습니다.</text>
+		<text id="third2">제가보기에는 우리는 힘을 합쳐 상황을 이겨나가야 하고, 음식을 함께 나눌 동료가 있다는것에 감사해야한다고 생각합니다.</text>
+		<text id="third3">하지만 희망이 없는 이 섬에서 우리가 얼마나 생존할 수 있을까요?</text>
+		<text id="third4">아무도 모르겟지요. 우리가 살아있는 한 희망은 있습니다. 시간이 지나면 이곳이 고향처럼 느껴지겠죠.</text>
 		<text id="fourth1">So tell us what you know of other survivors?</text>
 		<text id="fourth2">Most of us were scattered across different islands, but some of the islands have more survivors and even some working technology.</text>
 		<text id="fourth3">I’ve even heard rumors of an island with a nearly intact ship.</text>
@@ -2580,7 +2580,7 @@
 		<text id="dragon_cruiser">드래곤 순양함</text>
 		<text id="research">이동식 연구소</text>
 		<text id="spirit">중간계</text>
-		<text id="rename">이 지역의 이름을 무엇으로 하시겟습니까?</text>
+		<text id="rename">이 지역의 이름을 무엇으로 하시겠습니까?</text>
 		<text id="start">시작섬</text>
 		<text id="science1">노을빛 피난처</text>
 		<text id="magic1">동쪽 섬</text>
