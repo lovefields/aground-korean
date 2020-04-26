@@ -5,7 +5,7 @@
 		<text id="sub_pen">잠수함 기지</text>
 		<text id="airport">공항</text>
 		<text id="house">집</text>
-		<text id="operation_table">Surgery Lab</text>
+		<text id="operation_table">유전자 연구소</text>
 		<text id="advanced_lab">전문 연구소</text>
 		<text id="nuclear_plant">원자력 발전소</text>
 		<text id="teleportal">텔레포트</text>
@@ -33,7 +33,7 @@
 		<text id="station.module.small">Small Station Module</text>
 		<text id="station.module.large">Large Station Module</text>
 		<text id="station.module.connector">Connector Station Module</text>
-		<text id="station.dock">우주선 선창</text>
+		<text id="station.dock">우주 기지</text>
 		<text id="station.module.xlarge">X-Large Station Module</text>
 		
 		<text id="rations_per_hit">Rations per Hit:</text>
@@ -260,7 +260,7 @@
 		<text id="mine_speed">채굴 속도를 빠르게 해준다.</text>
 		<text id="sight">채굴이나 이동시 더 많은 타일을 본다.</text>
 		<text id="bargaining">아이템 판매 비용 증가.</text>
-		<text id="trap">그물 성공률 및 획등량 증가.</text>
+		<text id="trap">덮 성공률 및 획등량 증가.</text>
 		<text id="oxygen">산소 없이 버틸 수 있는 시간 증가.</text>
 		<text id="spellcast">마법에 필요한 기력 사용량 감소.</text>
 	</section>
@@ -366,10 +366,10 @@
 		<text id="clock">시계</text>
 		<text id="water_pump">펌프 팩</text>
 		<text id="nuclear_plant_blueprint">원자력 발전소 설계도</text>
-		<text id="operation_table_blueprint">Surgery Lab 설계도</text>
+		<text id="operation_table_blueprint">유전자 연구소 설계도</text>
 		<text id="sub_pen_blueprint">잠수함 기지 설계도</text>
-		<text id="patrol_boat_gun">순찰 로봇 총</text>
-		<text id="patrol_boat_launcher">순찰 로봇 런처</text>
+		<text id="patrol_boat_gun">전투함 총</text>
+		<text id="patrol_boat_launcher">전투함 런처</text>
 		<text id="advanced_lab_blueprint">전문연구소 설계도</text>
 		<text id="teleportal_blueprint">포탈 설계도</text>
 		<text id="laser_drill">레이저 드릴</text>
@@ -381,12 +381,12 @@
 		<text id="worker_bot">작업 로봇</text>
 		<text id="war_bot">전투 로봇</text>
 		
-		<text id="earth_trap">Earth Trap</text>
-		<text id="fire_trap">Fire Trap</text>
-		<text id="water_trap">Water Trap</text>
-		<text id="ice_trap">Ice Trap</text>
-		<text id="plant_trap">Plant Trap</text>
-		<text id="enchanted_net">Enchanted Net</text>
+		<text id="earth_trap">흙덫</text>
+		<text id="fire_trap">화염덫</text>
+		<text id="water_trap">수중덫</text>
+		<text id="ice_trap">얼음덫</text>
+		<text id="plant_trap">식물덫</text>
+		<text id="enchanted_net">마법 덫</text>
 		
 		<text id="fire_bird">Cockatrice</text>
 		<text id="crawler">Crawler</text>
@@ -397,12 +397,12 @@
 		<text id="shadow_cat">Panther</text>
 		
 		<text id="forge_seed">Forge Seed</text>
-		<text id="synthesizer_seed">Synthesizer Seed</text>
+		<text id="synthesizer_seed">합성기 종자</text>
 		<text id="time_manipulator_seed">Time Manipulator Seed</text>
-		<text id="growth_seed">Vine Copse Seed</text>
+		<text id="growth_seed">포도 줄기 종자</text>
 		<text id="evolution_seed">Evolution Seed</text>
 		<text id="coral_pen_seed">Coral Pen Seed</text>
-		<text id="house_seed">Magic House Seed</text>
+		<text id="house_seed">마법의 집 종자</text>
 		<text id="house_seed2">Evo Magic House Seed</text>
 		
 		<text id="water_helm">Water Helm</text>
@@ -414,7 +414,7 @@
 		<text id="blue_claw">Blue Claw</text>
 		<text id="clam_gun">Clam Gun</text>
 		
-		<text id="fish_scale">Fish Scale</text>
+		<text id="fish_scale">큰 물고기</text>
 		<text id="fire_book">Book of Flame</text>
 		<text id="water_book">Book of Splash</text>
 		<text id="plant_book">Book of Vines</text>
@@ -453,20 +453,20 @@
 		<text id="walkway">Steel Walkway</text>
 		<text id="grass_walkway">Grassy Walkway</text>
 		
-		<text id="bunker_blueprint">Bunker Blueprint</text>
-		<text id="bunker_kitchen_blueprint">Bunker Kitchen Blueprint</text>
-		<text id="bunker_depot_blueprint">Bunker Depot Blueprint</text>
-		<text id="hydroponics_blueprint">Hydroponics Blueprint</text>
-		<text id="bunker_factory_blueprint">Bunker Factory Blueprint</text>
-		<text id="bunker_farm_blueprint">Bunker Farm Blueprint</text>
-		<text id="earth_lab_blueprint">Drone Factory Blueprint</text>
-		<text id="vending_machine_blueprint">Vending Machine Blueprint</text>
+		<text id="bunker_blueprint">벙커 설계도</text>
+		<text id="bunker_kitchen_blueprint">벙커 부엌 설계도</text>
+		<text id="bunker_depot_blueprint">벙커 창고 설계도</text>
+		<text id="hydroponics_blueprint">Hydroponics 설계도</text>
+		<text id="bunker_factory_blueprint">벙커 공장 설계도</text>
+		<text id="bunker_farm_blueprint">벙커 농장 설계도</text>
+		<text id="earth_lab_blueprint">드론 공장 설계도</text>
+		<text id="vending_machine_blueprint">Vending Machine 설계도</text>
 		
-		<text id="small_module_blueprint">Small Module Blueprint</text>
-		<text id="large_module_blueprint">Large Module Blueprint</text>
-		<text id="connector_module_blueprint">Connector Module Blueprint</text>
-		<text id="station_dock_blueprint">Ship Dock Blueprint</text>
-		<text id="xlarge_module_blueprint">X-Large Module Blueprint</text>
+		<text id="small_module_blueprint">Small Module 설계도</text>
+		<text id="large_module_blueprint">Large Module 설계도</text>
+		<text id="connector_module_blueprint">Connector Module 설계도</text>
+		<text id="station_dock_blueprint">우주 기지 설계도</text>
+		<text id="xlarge_module_blueprint">X-Large Module 설계도</text>
 		
 		<text id="exotic_matter">외우주 물질</text>
 		<text id="magnegem">Magnegem</text>
@@ -617,7 +617,7 @@
 		<text id="sonar">Sonar</text>
 		<text id="dragon_armor2">Draconian Armor</text>
 		
-		<text id="advanced_net">전문 그물</text>
+		<text id="advanced_net">전문 덫</text>
 		
 		<text id="drone_factory_upgrade">드론 공장 업그레이드</text>
 		<text id="wood">목재</text>
@@ -677,7 +677,7 @@
 		<text id="magic_backpack">마법 배낭</text>
 		<text id="magic_box">마법 상자</text>
 		<text id="cloth">천</text>
-		<text id="net">그물</text>
+		<text id="net">덫</text>
 		<text id="berries">열매</text>
 		<text id="red_berries">빨간 열매</text>
 		<text id="ice_berries">얼음 열매</text>
@@ -1238,7 +1238,7 @@
 		<text id="mineral_market">광물점</text>
 		<text id="dockhouse">부두집</text>
 		<text id="boat">보트 타기</text>
-		<text id="lab">Mix Potions</text>
+		<text id="lab">포션 제작</text>
 		<text id="pen">축사 관리</text>
 		<text id="cage">Manage Cage</text>
 		<text id="summon_alchemist">Summon Alchemist</text>
@@ -1251,7 +1251,7 @@
 		<text id="search">Search</text>
 		<text id="power_plant">발전소</text>
 		<text id="inn">여관</text>
-		<text id="elevator">Call Elevator</text>
+		<text id="elevator">호출</text>
 		<text id="warehouse">창고</text>
 		<text id="factory">공장</text>
 		<text id="golemech">Disables Golem Factory</text>
@@ -1281,7 +1281,7 @@
 		<text id="armor">갑옷:</text>
 		<text id="head">머리:</text>
 		<text id="back">가방:</text>
-		<text id="familiar">Familiar:</text>
+		<text id="familiar">펫:</text>
 		<text id="attack">무기:</text>
 		<text id="engine">Engine:</text>
 		<text id="vanity">Select a vanity item to change your appearance without changing your actual equipment.</text>
@@ -1289,9 +1289,9 @@
 		<text id="defend">보조시스템:</text>
 	</section>
 	<section id="capture">
-		<text id="caught">Caught!</text>
-		<text id="fail">Broken!</text>
-		<text id="almost">Almost!</text>
+		<text id="caught">잡힘!</text>
+		<text id="fail">실패!</text>
+		<text id="almost">아깝다!</text>
 	</section>
 	<section id="warning">
 		<text id="no_power_core">You have no [item=power_core]s to install!</text>
@@ -1564,14 +1564,14 @@
 		<text id="minecart">wants to set up a [item=minecart] to make mining easier.</text>
 	</section>
 	<section id="vehicle">
-		<text id="submarine">Submarine</text>
+		<text id="submarine">잠수함</text>
 		<text id="jeep">SUV</text>
-		<text id="jet">Jet</text>
+		<text id="jet">제트기</text>
 		<text id="bigdrill">Boring Machine</text>
-		<text id="patrol_boat">Patrol Boat</text>
+		<text id="patrol_boat">전투함</text>
 		<text id="damage_bonus">Damage Bonus</text>
 		<text id="fly_ship">Alright... lets see if this ship will fly!</text>
-		<text id="ancient_dragon">Elder Dragon</text>
+		<text id="ancient_dragon">엘더 드래곤</text>
 		<text id="golemech">Golemech</text>
 		<text id="wyrm_queen">Wyrm Queen</text>
 		<text id="lifepod">Lifepod</text>
@@ -1579,11 +1579,11 @@
 		<text id="not_enough_cores">Cannot operate: {count} of {total} [item=power_core]s installed.</text>
 		<text id="power_core">Perfect! Now I just need to install this [item=power_core] and see if the ship will fly!</text>
 		<text id="jump_cost">Would you like to jump to {planet} for the following cost?</text>
-		<text id="jump">Jump</text>
+		<text id="jump">이동</text>
 		<text id="evolve">Evolve Weapon</text>
-		<text id="select_drone">Select Drone</text>
-		<text id="area">Area: {area}</text>
-		<text id="position">Position: {x}, {y}</text>
+		<text id="select_drone">드론 선택</text>
+		<text id="area">장소: {area}</text>
+		<text id="position">위치: {x}, {y}</text>
 		<text id="default_engine">Base Engine</text>
 		<text id="pack_up_item">Are you sure you wish to pack up this {item}?</text>
 		<text id="submersible">Submersible</text>
@@ -1591,13 +1591,13 @@
 		<text id="vehicle">Vehicle</text>
 		<text id="fly">이륙.</text>
 		<text id="overweight">The vehicle is too heavy to move!</text>
-		<text id="manage_items">Manage Items</text>
-		<text id="manage_player">Manage Self</text>
+		<text id="manage_items">아이템 관리</text>
+		<text id="manage_player">내 장비</text>
 		<text id="battery">Charge from Batteries</text>
 		<text id="explain">[color=770000]TIP:[/color] When riding a vehicle or animal, you can hit [key=equipment] to see details about what you're riding, and feed or fuel it.</text>
 		<text id="flight_height">This vehicle cannot fly any higher!</text>
-		<text id="deploy">Deploy</text>
-		<text id="pack_up">Pack Up</text>
+		<text id="deploy">배치</text>
+		<text id="pack_up">수거</text>
 		<text id="boat_pack_up">If you pack up the boat now, you'll end up swimming with the fishes!</text>
 		<text id="in_use">Unable to operate vehicle: another player is already operating it!</text>
 	</section>
@@ -2458,7 +2458,7 @@
 		<text id="move_all">전부 이동 버튼 허용.(경고창)</text>
 		<text id="move_all_confirm">이 버튼은 모든 제품을 다른 저장소로 이동시킵니다. 정말로 이동 시킬건가요?</text>
 		<text id="fade_ui">UI 투명도:</text>
-		<text id="prompt_count">아이템 제작시 몇개 제작할지 물어보기.</text>
+		<text id="prompt_count">제작시 갯수 물어보기.</text>
 		<text id="allow_flash">깜빡임(빛) 허용.</text>
 		<text id="notify_away">섬에 없을때 NPC알림.</text>
 		<text id="blueprint_all">모든 탭에서 설계도 보기.</text>
