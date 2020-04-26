@@ -140,7 +140,7 @@
 		<text id="hotkey">아이템 선택</text>
 		<text id="set_hotkey">단축키 지정:</text>
 		<text id="retry">재시도</text>
-		<text id="title">Title</text>
+		<text id="title">메인으로</text>
 		<text id="move_all">전부 이동</text>
 		<text id="add_animal">동물 추가</text>
 		<text id="select_feed">사료 선택</text>
@@ -192,7 +192,7 @@
 		<text id="spirits">Spirits</text>
 		<text id="flight">Flight Height:</text>
 		<text id="depth">Dive Depth:</text>
-		<text id="knockback">Knockback:</text>
+		<text id="knockback">넉백:</text>
 		<text id="fight">싸우기</text>
 		<text id="run_away">도망치기</text>
 		<text id="complete">Complete</text>
@@ -229,7 +229,7 @@
 		<text id="elementDefense">Elemental Defense</text>
 		<text id="cut">배기</text>
 		<text id="spirit">Spirit</text>
-		<text id="mine">Mine</text>
+		<text id="mine">채굴</text>
 		<text id="weight">무게</text>
 		<text id="evasion">회피</text>
 		<text id="critical">치명타</text>
@@ -1229,8 +1229,8 @@
 		<text id="couch">Rest on Couch</text>
 		<text id="hut">오두막에서 쉬기</text>
 		<text id="storehouse">창고 열기</text>
-		<text id="workshop">Craft in Workshop</text>
-		<text id="smelter">Smelt Ores</text>
+		<text id="workshop">제작</text>
+		<text id="smelter">광물 제련</text>
 		<text id="kitchen">요리하기</text>
 		<text id="farm">농장</text>
 		<text id="food_market">식료품점</text>
@@ -1663,12 +1663,12 @@
 		<text id="miner">Did you see that [object=miner] emerge from underground? You should see what she wants.</text>
 		<text id="kitchen1">[color=770000]부엌[/color]을 짓는게 어때요? [item=meat]는 좋지만 요리를 하면 좀더 좋을거에요.</text>
 		<text id="kitchen2">[var=quest.kitchen.wood] [item=wood]와 [var=quest.kitchen.coal] [item=coal]이 있다면 [color=770000]부엌[/color]을 지을수 있어요.</text>
-		<text id="kitchen3">Looks like you have everything I need. Let's get this [color=770000]Kitchen[/color] built!</text>
-		<text id="kitchen4">You can cook food at the [color=770000]Kitchen[/color] as long as you have [item=wood] or [item=coal] to fuel it.</text>
+		<text id="kitchen3">필요한건 전부 모은것 같네요. 이제 [color=770000]부엌[/color]을 지을수 있어요!</text>
+		<text id="kitchen4">이제 [color=770000]부엌[/color]에서 요리 할 수 있어요. 연료로 [item=wood]나 [item=coal]이 필요할거에요.</text>
 		<text id="kitchen5">You know what I’m craving? Some [item=cheese]. Nothing is quite as delicious.</text>
 		<text id="kitchen6">I could upgrade the [color=770000]Kitchen[/color] to make [item=cheese] and cook new recipes for [var=quest.kitchen2.wood] [item=wood] and [var=quest.kitchen2.steel_bar] [item=steel_bar]s.</text>
 		<text id="no_kitchen">What happened to my beautiful [color=770000]Kitchen[/color]? You better build a new one ASAP! You can build it using a [item=kitchen_blueprint].</text>
-		<text id="kitchen7">Looks like you have everything I need. Let's get this [color=770000]Kitchen[/color] upgraded!</text>
+		<text id="kitchen7">필요한건 전부 모은것 같네요. 이제 [color=770000]부엌[/color]을 업그레이드 할 수 있어요!</text>
 		<text id="kitchen8">Try out some of the new recipes! It almost feels civilized!</text>
 		<text id="farm">Man, I'm hungry. I hope you get that [color=770000]Farm[/color] finished soon!</text>
 	</section>
@@ -1687,7 +1687,7 @@
 		<text id="farm1">좋아요! [item=wheat_seed]을 줄게요 헛간을 세우고 밭을 지정해주세요!</text>
 		<text id="farm2">이제 우리는 [color=770000]농장[/color]이 생겼어요! 생각 날때마다 농작물을 재배하세요. 농작물이 당신의 [tile=stamina] [color=006600]기력[/color]을 회복하는데 도움이 될거에요. 기다리는 동안 [item=bread]을 줄테니 먹고 힘좀내요.</text>
 		<text id="farm3">You can get [item=wood] by chopping down trees.</text>
-		<text id="farm4">If you want to grow more, simply plant more seeds! You can also manage and remove existing crops at the barn!</text>
+		<text id="farm4">많이 수확 하고 싶다면 많이 심으세요! 모든건 헛간에서 관리할수 있어요.</text>
 		<text id="farm5">Look at our awesome [color=770000]Farm[/color]! It's as good as anything I used to grow back home! But if you want to grow more, I can always make more seeds.</text>
 		<text id="kitchen">Raw [item=wheat] isn’t very tasty, but I bet we could make something better if you and the [object=builder] made a [color=770000]Kitchen[/color].</text>
 		<text id="pen1">You know what this [color=770000]Farm[/color] needs? Some Livestock! How about capturing some [color=770000][tile=boar] Boars[/color] with a [item=net]?</text>
@@ -1731,7 +1731,7 @@
 		<text id="hint5">만약 깊은 곳으로 캐러 갈때는 [item=torch]이 필요할거야. 단, 조심해 그리 오래 지속되지는 않을거야.</text>
 		<text id="hint6">만약 너가 필요하다면 난 [item=torch]을 만들어줄 수 있어.</text>
 		<text id="workshop1">철제 주괴를 이용해서 도구를 만들 [color=770000]작업대[/color]를 짓는게 어때요? [item=iron_bar][var=quest.workshop.iron_bar]개와 [item=wood][var=quest.workshop.wood]개를 구해오면 지을수 있어요.</text>
-		<text id="workshop2">Alright, let's get this [color=770000]Workshop[/color] set up!</text>
+		<text id="workshop2">좋아요! 이제 [color=770000]작업대[/color]를 지어보죠!</text>
 		<text id="workshop3">At the [color=770000]Workshop[/color], you can instantly create any tools or items that you have the ingredients to make.</text>
 		<text id="workshop4">You'll need to find [item=iron] to smelt into [item=iron_bar] at the [color=770000]Smelter[/color].</text>
 		<text id="torch">[item=iron]은 꽤나 깊은 곳에 있어요. [item=torch]을 받으세요, 도움이 될거에요. 만약 횃불이 전부 타버린다면 저에게 말해주세요, 더 만들어 드릴게요.</text>
@@ -2430,7 +2430,7 @@
 		<text id="ui">UI 설정</text>
 		<text id="controls">조작</text>
 		<text id="achievements">업적</text>
-		<text id="title">메인화면으로 가기</text>
+		<text id="title">메인으로</text>
 		<text id="back">뒤로</text>
 		<text id="quitgame">메인 화면으로 가시겠습니까? 저장되지 않은 사항은 모두 사라집니다.</text>
 		<text id="keyboard">키보드</text>
