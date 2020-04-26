@@ -205,7 +205,7 @@
 		<text id="order">게임 구매!</text>
 		<text id="reset">초기화</text>
 		<text id="exit_water">Climb Ashore</text>
-		<text id="no_ask">다시 묻지마.</text>
+		<text id="no_ask">다시 묻지않기</text>
 		<text id="out_of_date">[color=ff2222]ATTN![/color] Update {version} is now available!</text>
 		<text id="select_dir">Select a Direction:\n\n[key=left][key=up][key=down][key=right]</text>
 		<text id="random">랜덤</text>
@@ -214,7 +214,7 @@
 		<text id="item_found">새로운 아이템 발견!</text>
 		<text id="more">+{count} More...</text>
 		<text id="dismantle_tip">To build this structure, you need to move or remove overlapping structures. You can do this using [item=dismantle] from your inventory.</text>
-		<text id="delete_save">Are you sure you wish to delete this slot?</text>
+		<text id="delete_save">정말로 이 저장 슬롯을 삭제할 건가요?</text>
 		<text id="full">Cannot consume items until the [tile=stat.full] timer runs out!</text>
 	</section>
 	<section id="stats">
@@ -2448,23 +2448,23 @@
 		<text id="max_overweight">중량초과 한계:</text>
 		<text id="notifications">알림:</text>
 		<text id="show_all">전부 보기</text>
-		<text id="hide_queue">버튼 숨기기</text>
-		<text id="hide_element">Hide Element</text>
-		<text id="hide_queue_element">Hide Bottom, Element</text>
-		<text id="hide_critical">Hide Critical</text>
-		<text id="hide_queue_critical">Hide Bottom, Critical</text>
-		<text id="hide_element_critical">Hide Element, Critical</text>
+		<text id="hide_queue">하단 숨기기</text>
+		<text id="hide_element">요소 숨기기</text>
+		<text id="hide_queue_element">하단, 요소 숨기기</text>
+		<text id="hide_critical">중요요소 숨기기</text>
+		<text id="hide_queue_critical">하단, 중요요소 숨기기</text>
+		<text id="hide_element_critical">요소, 중요요소 숨기기</text>
 		<text id="hide_queue_element_critical">전부 숨기기</text>
-		<text id="move_all">Enable Move All Buttons</text>
-		<text id="move_all_confirm">This button will move all items from one inventory to the other. Are you sure you want to do this?</text>
+		<text id="move_all">전부 이동 버튼 허용.(경고창)</text>
+		<text id="move_all_confirm">이 버튼은 모든 제품을 다른 저장소로 이동시킵니다. 정말로 이동 시킬건가요?</text>
 		<text id="fade_ui">UI 투명도:</text>
-		<text id="prompt_count">Ask for crafting item counts.</text>
+		<text id="prompt_count">아이템 제작시 몇개 제작할지 물어보기.</text>
 		<text id="allow_flash">깜빡임(빛) 허용.</text>
-		<text id="notify_away">NPC Notifications when Away</text>
-		<text id="blueprint_all">Show Blueprints in All tab?</text>
-		<text id="mine_walkways">작업로 채굴 허용</text>
-		<text id="warn_toss">Confirm when discarding all items.</text>
-		<text id="item_discover">Show new item discovered popup.</text>
+		<text id="notify_away">섬에 없을때 NPC알림.</text>
+		<text id="blueprint_all">모든 탭에서 설계도 보기.</text>
+		<text id="mine_walkways">작업로 채굴 허용.</text>
+		<text id="warn_toss">아이템 버릴때 확인하기.</text>
+		<text id="item_discover">새로운 아이템 발견 팝업 보기.</text>
 		<text id="blueprint_place">재료가 있을 경우만 건물 설치</text>
 		<text id="talk_quest">NPC 우선 순위</text>
 		<text id="auto_collect">아이템 자동 줍기.</text>
@@ -2476,12 +2476,12 @@
 		<text id="auto_heal">활성화시, 죽기 직전(가능한 경우만)에 가방에 있는 체력 회복 관련 아이템을 사용합니다.</text>
 		<text id="auto_stamina">활성화시, 기력 고갈(가능한 경우만)에 가방에 있는 기력 회복 관련 아이템을 사용합니다.</text>
 		<text id="max_overweight">캐릭터가 움직이지 못할 정도의 과적 수치를 조정합니다.(과적으로 인한 사망을 피하기 위해) 왼쪽으로 붙이면 제한이 없습니다.</text>
-		<text id="notifications">What notifications to show.\nBottom are the notifications at the bottom of the screen (like NPCs putting items in your storehouse).\nElement are elemental effective/resist popups.\nCritical are critical hit, miss, dodge, and blocked notifications.</text>
-		<text id="move_all">Enables the move all "&lt;" "&gt;" buttons in the transfer inventory window.</text>
-		<text id="fade_ui">Sets the alpha opacity of the on-screen GUI (health bars, buttons, etc).</text>
-		<text id="prompt_count">When enabled, the game will ask how many items you want to craft/smelt at a time, otherwise it will craft one item per selection.</text>
+		<text id="notifications">표시할 알림.\n 하단은 화면 하단에 뜨는 알림입니다(NPC가 아이템을 창고에 넣는 경우).\n요소는 효과/저항 팝업입니다.\n중요요소는 공격,미스,회피,막음 등의 팝업입니다.</text>
+		<text id="move_all">활성화 할 경우 아이템을 이동하는 UI에서 전부 이동시 확인창이 뜨지 않습니다.</text>
+		<text id="fade_ui">GUI (체력바, 버튼, 기타등)의 불투명도를 설정합니다.</text>
+		<text id="prompt_count">활성화 할 경우 아이템을 제작할때 몇개를 제작할지 물어봅니다. 비활성화 할 경우 무조건 한개의 아이템만 제작합니다.</text>
 		<text id="allow_flash">비활성화 할 경우 깜빡이는 조명(강한 빛)을 줄여줍니다. 모든 모드가 지원되는것은 아닙니다.</text>
-		<text id="notify_away">When enabled, NPCs will notify you when they add to storehouses on any island. When disabled, they will only notify you when they add to storehouses on the current island.</text>
+		<text id="notify_away">활성화시 섬에 없는 경우에도 NPC가 창고에 아이템을 넣으면 알림이 옵니다. 비활성화 할 경우 섬에 있는 경우에만 알림이 옵니다.</text>
 		<text id="mine_walkways">설치한 작업로의 수집 유무를 결정합니다. 실수로 수집하고 싶지 않다면 체크를 해제하세요.</text>
 		<text id="blueprint_place">건물 위치를 미리 지정하고 나중에 재료를 추가하고 싶다면 비활성화 하세요.</text>
 		<text id="talk_quest">퀘스트가 없을경우, NPC와 건물 사이의 우선순위를 정합니다. 체크할 경우 NPC가 우선시 잡힙니다.</text>
@@ -3355,8 +3355,8 @@
 		<text id="other">다른곳 입장중...</text>
 		<text id="call_busy">The line is busy... someone else must be calling them.</text>
 		<text id="give">[color=ff2222]{user}[/color] gave you {count} {item}.</text>
-		<text id="public">참여 가능한 게임 리스트에 추가하기.</text>
-		<text id="invite">Invite Friends...</text>
+		<text id="public">전채 공개.</text>
+		<text id="invite">친구초대...</text>
 		<text id="search">Searching for Games...</text>
 		<text id="unknown_game">Unknown Game {id}</text>
 		<text id="max_length">Unable to send: Maximum message length is {len} chars!</text>
