@@ -3357,13 +3357,13 @@
 		<text id="give">[color=ff2222]{user}[/color] gave you {count} {item}.</text>
 		<text id="public">전채 공개.</text>
 		<text id="invite">친구초대...</text>
-		<text id="search">Searching for Games...</text>
-		<text id="unknown_game">Unknown Game {id}</text>
+		<text id="search">게임 찾는중...</text>
+		<text id="unknown_game">{id}는(은) 알수 없는 게임입니다.</text>
 		<text id="max_length">Unable to send: Maximum message length is {len} chars!</text>
 		<text id="joined">-- {name}이(가) 입장함</text>
 		<text id="left">-- {name}이(가) 떠남</text>
-		<text id="confirm_kick">Are you sure you wish to kick {name}?</text>
-		<text id="confirm_ban">Are you sure you wish to ban {name}?</text>
+		<text id="confirm_kick">정말로 {name}을(를) 강퇴 하실건가요?</text>
+		<text id="confirm_ban">정말로 {name}을(를) 벤 하실건가요?</text>
 		<text id="confirm_delete">Are you sure you wish to permanently delete {name} and all their items?</text>
 		<text id="missing_mods">You are missing the following mods that this host is using:\n[color=770000]{mods}[/color]\nWould you like to join anyways?</text>
 		<text id="no_player">플레이어를 찾지 못함: "{name}"</text>
@@ -3372,17 +3372,17 @@
 		<text id="whisper">{name} whispers</text>
 		<text id="no_unequip">Cannot use /unequip while player is logged in. /kick them first.</text>
 		<text id="unequip">Unequipped all items from {name}.</text>
-		<text id="list">Known players:</text>
+		<text id="list">플레이어:</text>
 		<text id="unbanned">{name} unbanned.</text>
 		<text id="pre">Prefix changed.</text>
 		<text id="post">Postfix changed.</text>
 		<text id="no_command">Unknown command: "{command}"!</text>
-		<text id="start">Server started.</text>
-		<text id="running">Server already running.</text>
-		<text id="stop">Server stopped.</text>
-		<text id="set_private">Server set to private.</text>
-		<text id="set_public">Server set to public.</text>
-		<text id="rename">Enter new character name:</text>
+		<text id="start">서버 시작됨</text>
+		<text id="running">서버가 이미 돌아가는 중입니다.</text>
+		<text id="stop">서버 중지됨</text>
+		<text id="set_private">서버 비공개 설정.</text>
+		<text id="set_public">서버 공개 설정.</text>
+		<text id="rename">새로운 캐릭터 이름:</text>
 	</section>
 	<section id="multiplayer_help">
 		<text id="commands">Available commands:[color=ffffff] {list}.\n[color=aaaaaa]Type /help command for more details about a command.</text>
