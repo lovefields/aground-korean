@@ -1531,7 +1531,7 @@
 		<text id="hut">폭풍을 피할수 있도록 [color=550000]오두막[/color]을 수리하세요.</text>
 		<text id="storehouse">가 [color=550000]창고[/color]를 지으려 합니다.</text>
 		<text id="storehouse2">Build a [color=550000]Storehouse[/color] to store all your items.</text>
-		<text id="smelter">wants a [color=550000]Smelter[/color] to refine ores.</text>
+		<text id="smelter">가 광물을 가공할 [color=550000]제련소[/color]를 원합니다</text>
 		<text id="workshop">wants a [color=550000]Workshop[/color] to create metal tools.</text>
 		<text id="kitchen">wants to build a [color=550000]Kitchen[/color] to cook food.</text>
 		<text id="kitchen2">wants the [color=550000]Kitchen[/color] to make [item=cheese].</text>
@@ -1543,7 +1543,7 @@
 		<text id="dock2">Build a [color=550000]Dock[/color] to find other survivors.</text>
 		<text id="pen">wants to add a [color=550000]Pen[/color] to house livestock.</text>
 		<text id="boat">It's time to sail the world! Build a [tile=boat.ico] Boat at the [color=550000]Dockhouse[/color].</text>
-		<text id="lab">wants you to slay a [item=wyrm] to gain [item=dragonblood].</text>
+		<text id="lab">가 [item=wyrm]에게 얻을수 있는 [item=dragonblood]을 원합니다.</text>
 		<text id="wyrm_pen">wants to experiment on [item=wyrm]s.</text>
 		<text id="hatch_dragons">Hatch [item=dragon]s to win the [item=adult_dragon] to your side.</text>
 		<text id="thunder_axe">wants to fix the [item=rusty_axe].</text>
@@ -1657,7 +1657,7 @@
 		<text id="storehouse1">당신 모든걸 준비한거에요? 인상적이군요.</text>
 		<text id="storehouse2">어서 [color=770000]창고[/color]를 지어주세요!</text>
 		<text id="storehouse3">자 다 지었어요! 만족 스럽지 않나요?</text>
-		<text id="storehouse4">네… 확실히, 이건 쓸만하겟네요. 이제 우리는 무겁게 들고다니지 않아도 되겠어요.</text>
+		<text id="storehouse4">네... 확실히, 이건 쓸만하겟네요. 이제 우리는 무겁게 들고다니지 않아도 되겠어요.</text>
 		<text id="storehouse5">우리는 전부 이동 버튼을 이용해서 빠르게 옮길수 있어요, 그리고 [key=quest]키를 사용해서 아이템에 별표를 할수 있을거에요. 별표 된 아이템은 전부 이동 시 이동되지 않아요.</text>
 		<text id="farmer">We should make a deal with the [object=farmer], I bet he could help us grow some tasty food.</text>
 		<text id="miner">Did you see that [object=miner] emerge from underground? You should see what she wants.</text>
@@ -1711,7 +1711,7 @@
 	</section>
 	<section id="miner">
 		<text id="bombardment">This cave is weird... it's so large and empty, not a single thing to mine!</text>
-		<text id="win1">The threat is over? Then it’s time to leave this cave and return to the surface to celebrate! Not that I plan to spend much time actually on the surface…</text>
+		<text id="win1">The threat is over? Then it’s time to leave this cave and return to the surface to celebrate! Not that I plan to spend much time actually on the surface...</text>
 		<text id="win2">Remember to mention that it was me who gave you your first [item=stone_pickaxe] when you get famous for saving the human race!</text>
 		<text id="win3">I think it’s time to upgrade this old pickaxe. If you build a [color=770000]Space House[/color] here, I can exchange this one for an [color=770000]Energy Pickaxe[/color]!</text>
 		<text id="homeworld1">Ooh, one of the colony worlds! I bet there are all kinds of strange new things to dig up there!</text>
@@ -1720,8 +1720,8 @@
 		<text id="introduce1">오, 안녕. 다른 생존자라니!</text>
 		<text id="introduce2">나는 지하에서 지냈어. 지상보다 지하에 더 많은 것들이 있거든.</text>
 		<text id="introduce3">너도 확인해볼래? 곡괭이를 하나 줄게.</text>
-		<text id="smelter">How's the digging going? Maybe we should build a [color=770000]Smelter[/color] to melt down ores into bars.</text>
-		<text id="accept1">Great! Let me know when you have enough [item=coal]!</text>
+		<text id="smelter">채광은 잘 되가? 광석을 녹여서 주괴를 만들려면 [color=770000]제련소[/color]가 필요해.</text>
+		<text id="accept1">좋아! [item=coal]이 충분히 모이면 말해줘!</text>
 		<text id="smelter1">This is the stuff. I should have a [color=770000]Smelter[/color] up in no time!</text>
 		<text id="smelter2">The [color=770000]Smelter[/color] can turn raw ores into bars. It requires fuel to melt them down, but luckily there is plenty of [item=coal] around to keep it running.</text>
 		<text id="hint1">뭐하고 있어? 광석을 찾고 싶으면 [key=down]키를 눌러서 돌아다녀봐!</text>
@@ -1749,7 +1749,7 @@
 		<text id="bombardment">What am I going to do with all this [tile=gold_bar.ico] [color=770000]Gold[/color] now?</text>
 		<text id="win1">They are finally gone? Then let’s get back to business!</text>
 		<text id="win2">I love that we’re using their planet as our homeworld. It’s like stealing from the dead!</text>
-		<text id="win3">I love having humanity congregate on one planet… more potential targets for me!</text>
+		<text id="win3">I love having humanity congregate on one planet... more potential targets for me!</text>
 		<text id="homeworld1">The more people, the more business for me! I’m off!</text>
 		<text id="steal">A [item={item}] was stolen from the [color=770000]Storehouse[/color]!</text>
 		<text id="caught">The thief was caught red-handed!</text>
@@ -1787,8 +1787,8 @@
 		<text id="east2">Our only hope is to learn more about their magic, either to be powerful enough to defeat them or to find their weaknesses.</text>
 		<text id="east3">For now, we have two clues. One is the evolution chamber the Old One left behind. It can’t be a coincidence it was hiding it.</text>
 		<text id="east4">Now that the Old One’s strong magical signal is gone, I’m detecting another signal away to the east. There must be another island with even more secrets hidden than this one!</text>
-		<text id="east5">I almost thought the Alchemist might just be here. But no. Of course not…</text>
-		<text id="east6">It looks like he left a note: “The secrets of magic must lie further east…”</text>
+		<text id="east5">I almost thought the Alchemist might just be here. But no. Of course not...</text>
+		<text id="east6">It looks like he left a note: “The secrets of magic must lie further east...”</text>
 		<text id="east7">He didn’t give me a lot to work with. But, it’s a start - I should go east, and try to learn more about that weird chamber that appeared when the Old One died.</text>
 		<text id="east8">I have learned everything I can here. I will return to the laboratory to see if I can uncover anything else before they return...</text>
 		<text id="return_lab">I think we've learned everything we can on this island. I will return to my laboratory and see if I can uncover anything else using what we learned here...</text>
@@ -1810,12 +1810,12 @@
 		<text id="win1">They are defeated? Then I can continue my magic research on this planet unimpeded!</text>
 		<text id="win2">That is good to hear. But, I will stay here. There are still many secrets of magic to uncover, and after being here so long, I can’t imagine leaving this planet.</text>
 		<text id="win3">You have done it?! You have finally defeated them? I hope you made good use of the magic secrets we discovered!</text>
-		<text id="win4">They have caused such pain and death… my fellow scouts will never return… but, at least those magic-hoarding tentacle monsters will never again hurt anyone.</text>
-		<text id="introduce1">There is more to this planet than meets the eye. I have been doing experiments, and I believe I have discovered magic!</text>
-		<text id="introduce2">I am in need of more materials. If you come across a [item=wyrm], slay it and give me its [item=dragonblood] and I will make sure you are rewarded.</text>
+		<text id="win4">They have caused such pain and death... my fellow scouts will never return... but, at least those magic-hoarding tentacle monsters will never again hurt anyone.</text>
+		<text id="introduce1">이 행성은 보이는것 이상으로 가치가 있어요! 나는 여러 실험을 해봤고 드디어 마법을 발견한것 같아요!</text>
+		<text id="introduce2">저는 더 많은 재료가 필요해요. 만약 당신이 [item=wyrm]을 죽이고 나에게 [item=dragonblood]을 가져다 준다면 보상을 하겟어요.</text>
 		<text id="lab1">I knew it! This is the secret! I must set up a laboratory immediately!</text>
 		<text id="lab2">Your reward? Bring materials to my lab and I will mix up a magic potion for you.</text>
-		<text id="lab3">Hurry up! My research is at a standstill until I get some [item=dragonblood]!</text>
+		<text id="lab3">서둘러 주세요! [item=dragonblood]을 얻기 전까진 실험을 할 수 없어요!</text>
 		<text id="pen1">I need more [item=dragonblood]! Bring me [var=quest.wyrm_pen.wyrm] live [item=wyrm]s and we'll have an endless supply of [item=dragonblood] to experiment with!</text>
 		<text id="pen2">Excellent! Stand back while I work my magic!</text>
 		<text id="pen3">Behold my brilliant invention - the [color=770000]Wyrm Pen[/color]! It's more than just a pen, it's an endless supply of [item=dragonblood]!</text>
@@ -1876,7 +1876,7 @@
 		<text id="alter_gem3">I have done it! I have created an [item=alter_gem]! This will allow us to transform [item=wyrm]s - and probably other creatures - into usable equipment!</text>
 		<text id="alter_gem4">We must continue to explore this branch of magic! Take this [item=alter_gem] and use it on a [item=wyrm] yourself! If you need more [item=alter_gem]s, I have added the recipe to the synthesizer.</text>
 		<text id="alter_gem5">To use the [item=alter_gem], select it in your inventory, choose Transform, and choose a creature to transform.</text>
-		<text id="alter_gem6">Don’t be afraid to try [item=alter_gem]s with other creatures… like a [item=dragon]. Or, dare I suggest it - an [item=adult_dragon]?!</text>
+		<text id="alter_gem6">Don’t be afraid to try [item=alter_gem]s with other creatures... like a [item=dragon]. Or, dare I suggest it - an [item=adult_dragon]?!</text>
 		<text id="alter_gem7">Running out of [item=alter_gem]s? You can find them deep underground or create them at the synthesizer.</text>
 		<text id="alter_gem8">Make sure you use [item=alter_gem]s on well-fed creatures. Hungry creatures won't stay transformed long!</text>
 		<text id="first1">You didn’t crash with the rest of us?</text>
@@ -1909,8 +1909,8 @@
 		<text id="oldone16">You are more adept at magic than I expected! This cannot be allowed, only we should wield magic.</text>
 		<text id="oldone17">It's sending a signal! If they hear it, they will come! I must finish this quickly!</text>
 		<text id="oldone18">What happened? Are you ok?</text>
-		<text id="oldone19">No…[pause=4] The signal was sent…[pause=4] And my life-force has been completely drained…</text>
-		<text id="oldone20">It is up to you now…[pause=4] Hurry!…[pause=4] Find the answers… Use their magic…</text>
+		<text id="oldone19">No...[pause=4] The signal was sent...[pause=4] And my life-force has been completely drained...</text>
+		<text id="oldone20">It is up to you now...[pause=4] Hurry!...[pause=4] Find the answers... Use their magic...</text>
 		<text id="oldone_tips1">[tile=alchemist anim=alchemist.idle] I'll set up a defensive barrier and healing magic. Stay behind me while it attacks, and then hit it when it overloads.</text>
 		<text id="oldone_attack">[tile=alchemist anim=alchemist.idle] Attack it now!</text>
 		<text id="oldone_beam">[tile=alchemist anim=alchemist.idle] I'm detecting a magical energy spike! I don't think my barrier will be able to block this attack!</text>
@@ -1918,7 +1918,7 @@
 		<text id="return2">I’m using the laboratory to analyze samples from the eastern island.</text>
 		<text id="return3">I mean, how did you get back here so fast?</text>
 		<text id="return4">The same way I get everywhere! By teleporting. Obviously. Now stop bothering me, I need to finish my analysis.</text>
-		<text id="muttering">Gemstone synthesis… nested carapace… evolution indefinitely… [font=drachenklaue]mumbo jumbo[/font]...</text>
+		<text id="muttering">Gemstone synthesis... nested carapace... evolution indefinitely... [font=drachenklaue]mumbo jumbo[/font]...</text>
 		<text id="oldone_choice">You're no match for this creature. We'll need a plan if we want to survive!</text>
 		<text id="work_together">Work Together</text>
 		<text id="alchemist_fight">Let Alchemist Fight</text>
@@ -1938,7 +1938,7 @@
 		<text id="no_translate">There is nothing here to translate.</text>
 		<text id="static">There's nothing but static...</text>
 		<text id="homeworld">We’re setting up a new colony for humanity on {area}!</text>
-		<text id="storm1">너무 추워…[pause=1] 그리고 지쳣어…[pause=1] 쉴곳이 필요해, 하지만 이곳엔 아무것도 없어 그래도 떨어진 목재들이 보여!</text>
+		<text id="storm1">너무 추워...[pause=1] 그리고 지쳣어...[pause=1] 쉴곳이 필요해, 하지만 이곳엔 아무것도 없어 그래도 떨어진 목재들이 보여!</text>
 		<text id="storm3">[item=wood]을(를) 간신히 짊어지고 있어! 이동하려면 [tile=stamina] [color=006600]기력[/color]이 많이 들거야, 하지만 난 여기서 멈출수 없어, 난 쉴곳을 찾아야해!</text>
 		<text id="hut1">이게 무슨 건물이지? 누군가 쉴곳을 만들다가 멈춘것 같아. [item=wood] [var=quest.hut.wood]개가 있으면 완공할 수 있겟는데?</text>
 		<text id="hut2">I have {count} of [var=quest.hut.wood] [item=wood] needed to finish this [color=770000]Hut[/color]. 더 많은 나무가 필요해.</text>
@@ -1979,14 +1979,14 @@
 		<text id="research2">It feels like forever since I last wore this coat. I think I'll miss being a hunter...</text>
 		<text id="research3">But, [item=bow]s and [item=arrow]s will have no effect against them - if we are going to survive, we're going to need to work together to invent new weapons!</text>
 		<text id="win1">Sounds like you had quite the fight! I wish I could’ve been there to help!</text>
-		<text id="win2">It’s strange, even though I only became a hunter because we crash landed on their homeworld and I could go back to being a scientist now… I realized I prefer this life.</text>
+		<text id="win2">It’s strange, even though I only became a hunter because we crash landed on their homeworld and I could go back to being a scientist now... I realized I prefer this life.</text>
 		<text id="win3">I guess in a way, I have them to thank for helping me find myself.</text>
 		<text id="win4">Excellent! I’ll take my bow and arrows and head over immediately!</text>
 		<text id="werewolf">Don’t scare me like that!! If I still had my [item=bow], I might’ve shot an arrow before I realized it was you!</text>
 		<text id="tent1">I shouldn't rest in some random person's tent!</text>
 		<text id="tent2">This must be the [object=hunter]'s tent. I should leave it alone.</text>
 		<text id="intro1">Hey, you! Did you see me take down that boar?</text>
-		<text id="intro2">Yeah, how… how did you do that?</text>
+		<text id="intro2">Yeah, how... how did you do that?</text>
 		<text id="intro3">Simple! A bit of proper technique is all you need.</text>
 		<text id="intro4">I’m trying to clear out this area. If you help me out I could teach you how to hunt.</text>
 		<text id="accept1">You need to employ the element of surprise. Hit enemies from behind, and you’ll get a critical hit.</text>
@@ -2007,7 +2007,7 @@
 		<text id="tent4">So you came down to make friends with us?</text>
 		<text id="tent5">Of course not. And I certainly wasn’t hunting boars to try and impress you. Not at all.</text>
 		<text id="tent6">I simply wanted to expand my hunting range.</text>
-		<text id="tent7">I’d like to know more about this place, and whether there’s anything beyond this island…</text>
+		<text id="tent7">I’d like to know more about this place, and whether there’s anything beyond this island...</text>
 		<text id="tent8">There’s other islands out there to the east. I’ve seen them, from high in the mountains.</text>
 		<text id="tent9">Think we could get there?</text>
 		<text id="tent10">Not sure. The coast on that end is treacherous. Plus, those islands looked plenty strange to me. Might be dangerous.</text>
@@ -2069,7 +2069,7 @@
 		<text id="win3">I think we’re going to thrive here! A few more years, and this will become the new capital of humanity as we spread out across the stars once more!</text>
 		<text id="win4">It’s been a lot of work, but this colony is starting to resemble a real human city with all of the modern amenities!</text>
 		<text id="win5">We’ve even set up a shuttle service to transport stranded survivors to this planet. If you meet anyone, make sure to tell them about it!</text>
-		<text id="win6">That is exactly what we need to survive! I just hope there are enough survivors left…</text>
+		<text id="win6">That is exactly what we need to survive! I just hope there are enough survivors left...</text>
 		<text id="win7">I’m sure they could use my help! I’ll head out right away!</text>
 		<text id="werewolf">Don’t expect me to be surprised every time you wander off and return looking completely different!</text>
 		<text id="colony_ship1">What do you think of repairing those crashed [color=770000]Colony Ship[/color]s? They would take a lot of resources to repair, but they could be useful.</text>
@@ -2077,7 +2077,7 @@
 		<text id="introduce1">It’s totally fried! This is awful!</text>
 		<text id="introduce2">What happened?</text>
 		<text id="introduce3">The Mirrows tried to re-route the power and almost blew the whole thing up!</text>
-		<text id="introduce4">Expecting us to clean up after their failed experiments… gah!</text>
+		<text id="introduce4">Expecting us to clean up after their failed experiments... gah!</text>
 		<text id="introduce5">I don't even have any [item=titanium] left, so there's no way to repair it...</text>
 		<text id="powerplant1">Wow, I didn’t expect you to really come back with [item=titanium].</text>
 		<text id="powerplant2">Thanks, now I can get this fixed up in no time.</text>
@@ -2110,7 +2110,7 @@
 		<text id="mirrows4">I’m not giving up yet. It’s not fair that they can abuse their power like this.</text>
 		<text id="mirrows5">Maybe try to learn as much as you can about the Mirrows. Have you checked out all the areas around their lab?</text>
 		<text id="mirrows6">Are you the “C” in the Mirrows’ lab notes? Were you working with them?</text>
-		<text id="mirrows7">No… not exactly. They’re - [pause=4]They’re my parents.</text>
+		<text id="mirrows7">No... not exactly. They’re - [pause=4]They’re my parents.</text>
 		<text id="mirrows8">Your parents!? If you’re their daughter, maybe they’d listen to you. Will you try negotiating with them?</text>
 		<text id="mirrows9">Believe me, I’ve tried. They won’t listen to reason. They’re too focused on their “enhancements” and won’t even consider other solutions to our problems.</text>
 		<text id="mirrows10">We’d need something really powerful to get them to change directions. Something that can't be explained with science.</text>
@@ -2164,7 +2164,7 @@
 		<text id="bombardment3">The [object=mirrows] are dead!? To be honest, I never thought highly of them, but after their sacrifice I can't help but believe they were only acting in our best interests.</text>
 		<text id="win1">The war is over?! Then it’s back to the open skies and seas for me! I’ll see you topside!</text>
 		<text id="win2">The war is won, the threat is over, and we have a whole planet to rebuild on! Exciting times are ahead, and I bet we’ll need good sailors in this world. Maybe I should get a spaceship license...</text>
-		<text id="win3">The clear skies, the smell of salt water… the fresh air… this is how life should be. And never again will we have to worry about an alien bomber darkening the skies!</text>
+		<text id="win3">The clear skies, the smell of salt water... the fresh air... this is how life should be. And never again will we have to worry about an alien bomber darkening the skies!</text>
 		<text id="win4">I was wondering where everyone had gone! It was starting to feel pretty empty here. I’ll head over there now!</text>
 		<text id="win5">Just one thing before I go - can you take care of my [item=cat], Peri? She won’t come to me, and I’d feel a lot better if someone looked after her when I’m gone.</text>
 		<text id="intro1">Finally back on land again! You look like you just arrived too!</text>
@@ -2196,7 +2196,7 @@
 		<text id="scene2">And you? What’s your dream?</text>
 		<text id="scene3">I’d really like to know if there’s a way off this planet.</text>
 		<text id="scene4">What, why!? Do you have a death wish? Those things have no mercy.</text>
-		<text id="scene5">I want to know more about them… and why things happened the way they did...</text>
+		<text id="scene5">I want to know more about them... and why things happened the way they did...</text>
 		<text id="scene6">Listen my friend, I saw one firsthand before we launched from Earth. All you need to know is how to avoid them.</text>
 	</section>
 	<section id="mirrows">
@@ -2306,18 +2306,18 @@
 	</section>
 	<section id="scene.hut">
 		<text id="first1">꽤 나쁘지 않군... 누가 이 건물을 짓기 시작한건지 궁금하다... 그리고 그들은 왜 멈춘거지. 최근에 지으려 한것 같은데...</text>
-		<text id="first2">도와주세요…[pause=4] 안에 없어요?[pause=4]</text>
+		<text id="first2">도와주세요...[pause=4] 안에 없어요?[pause=4]</text>
 		<text id="first3">누군가 밖에 있다! 그를 들일까?</text>
 		<text id="first4">고마워요. 당신은 내 생명의 은인이에요. 저는 거의 포기 직전이었어요- 너무 지치고 배고파서 이 오두막을 완공하지 못했거든요. 하지만 이제 우리는 뭘하죠?</text>
 		<text id="first5">일단은, 여기서 몸을 따뜻하게 하고 물기를 말리죠.</text>
 		<text id="first6">하지만 그 다음은? 어떻게 이 무인도에서 사람남을까요?</text>
 		<text id="first7">뾰족한 수라도 있나요? 우리는 여기 같혀서 돌아갈수가 없단말이에요.</text>
 		<text id="first8">뭐라도 시도할수 있겟죠. 이 섬에서의 생활이 당신이 생각하는 것 보다 나쁘지 않을 수 있습니다.</text>
-		<text id="first9">제발…[pause=4] 도와주세요…</text>
-		<text id="second1">… so when I arrived here I just started digging and didn’t even realize there was a storm.</text>
-		<text id="second2">But I’m glad you’re here. I was getting tired of eating dirt, and there’s nothing like a warm fire after a long day underground.</text>
-		<text id="second3">Do you think there are more survivors out there?</text>
-		<text id="second4">Honestly, I’m surprised anyone survived that crash. But here we are, so maybe others survived too?</text>
+		<text id="first9">제발...[pause=4] 도와주세요...</text>
+		<text id="second1">... 그래서 나는 여기 오자마자 땅을 파기 시작했거든. 폭풍이 불어닥친지도 모르고 있었지.</text>
+		<text id="second2">너가 여기 있어서 다행이야. 지하에서는 흙을 먹으면서 버텻는데, 역시 따뜻한 불만한게 없지.</text>
+		<text id="second3">밖에 다른 생존자가 있을까?</text>
+		<text id="second4">솔직히 그 추락사고에서 살아남은건 기적이야. 하지만 우리가 살아있으니 다른 생존자도 있지 않을까?</text>
 		<text id="third1">Now I bet you youngin’s are thinking this here’s the end of the world, but I thought the same during World War 3 and yet here we all are.</text>
 		<text id="third2">The way I sees it, we just got to make the best of the situation, and be glad there’s food to eat and company to share.</text>
 		<text id="third3">But how long will we have to live on this god-forsaken island?</text>
@@ -2658,12 +2658,12 @@
 		<text id="stay_free">Fine... You can stay here for free. Just don't tell anyone, or everyone will be begging for free meals!</text>
 	</section>
 	<section id="dragon">
-		<text id="intro1">이런, 당신을 보지 못할뻔 했어… 당신은 너무 작군...</text>
+		<text id="intro1">이런, 당신을 보지 못할뻔 했어... 당신은 너무 작군...</text>
 		<text id="intro2">I can understand you?</text>
 		<text id="intro3">I cast a translation spell when I realized you weren’t one of them. It’s one of the tricks I picked up in my old age.</text>
 		<text id="intro4">Speaking of them, I need help! The Old One sent out a signal, and they are coming! It’s all my fault, I need to find a way to stop them!</text>
 		<text id="intro5">What was that? They are coming back?! After betraying my kind and abandoning me here as worthless?</text>
-		<text id="intro6">Ouch! My back! I should not have done that… but thinking of them just fills me with rage!</text>
+		<text id="intro6">Ouch! My back! I should not have done that... but thinking of them just fills me with rage!</text>
 		<text id="intro7">So will you help me?</text>
 		<text id="intro8">If I can. But I’m not as young as I once was. I can’t even remember the last time I left this island.</text>
 		<text id="cultivator1">On the main island to the east, there is the [color=770000]Cultivator[/color]. Without their magic, it has gone mad and is wreaking havoc.</text>
@@ -2688,7 +2688,7 @@
 		<text id="ship3">While they created [color=770000]Dragon Ships[/color] millenia ago and are sure to have something more powerful now, this could be the first step towards defeating them!</text>
 		<text id="ship4">Once they learned our potential for becoming organic spaceships, they no longer treated us as sentient beings, but instead as machines for turning into their fleet.</text>
 		<text id="ship5">They began to seek ultimate power, and no longer cared about trying to help us like they once had.</text>
-		<text id="ship6">I gave you the secret of [color=770000]Dragon Ships[/color] willingly so that we could fight them… please don’t abuse us the same way they did.</text>
+		<text id="ship6">I gave you the secret of [color=770000]Dragon Ships[/color] willingly so that we could fight them... please don’t abuse us the same way they did.</text>
 		<text id="ship7">You have done it? Then I have given you all the help I can - I know no more of their ships or magic.</text>
 		<text id="ship8">I would join you in the fight, but I was never able to turn into a [color=770000]Dragon Ship[/color]. Besides, it is the job of the elderly to send the young off on perilous quests rife with danger, no?</text>
 		<text id="ship9">The Exiled thinks that you can help me. I’m trying to discover their magical secrets.</text>
@@ -2701,7 +2701,7 @@
 	</section>
 	<section id="fish">
 		<text id="welcome1">Hello there!</text>
-		<text id="welcome2">Hi…[pause=1] wait. Your mouth wasn’t moving! How are you talking?!</text>
+		<text id="welcome2">Hi...[pause=1] wait. Your mouth wasn’t moving! How are you talking?!</text>
 		<text id="welcome3">We're communicating telepathically of course! What other way is there to communicate?</text>
 		<text id="welcome4">Uh... Right... So you're reading my mind?</text>
 		<text id="welcome5">Surface thoughts only! It's bad etiquette to read a mind too deeply!</text>
@@ -2725,7 +2725,7 @@
 		<text id="merchant10">Have you built many [color=770000]Coral Pen[/color]s? I was trying to figure out a way to manage them more efficiently, and came up with a new coral structure - the [color=770000]Coral Farm[/color]!</text>
 		<text id="merchant11">You can now buy [item=coral_farm_seed]s in the store. Plant them, and you will be able to access and harvest all the [color=770000]Coral Pen[/color]s and [color=770000]Wyrm Pen[/color]s on the same island!</text>
 		<text id="librarian1">I am the village librarian, curator of spellbooks!</text>
-		<text id="librarian2">Unlike some… well, others… we enjoy sharing our knowledge!</text>
+		<text id="librarian2">Unlike some... well, others... we enjoy sharing our knowledge!</text>
 		<text id="librarian3">You are welcome to use our library to learn how to create spellbooks of your own!</text>
 		<text id="librarian4">Unlike other forms of magic, spellbooks channel the power within you.</text>
 		<text id="librarian5">At first, this will tire you out quickly, but if you gain skill in [color=770000][tile=stat.spellcast] Spellcasting[/color], you’ll be able to cast many more spells without resting.</text>
@@ -2754,7 +2754,7 @@
 		<text id="sushi3">Excellent! Watch carefully - I make [item=sushi] quickly!</text>
 		<text id="sushi4">And it's done! Enjoy it while it's fresh, and feel free to make your own!</text>
 		<text id="exiled1">I have taught you everything I know about magic. Only one of them would be able to teach you more.</text>
-		<text id="exiled2">But… perhaps there is one who would help you. Seek out The Exiled on the planet you call Mars.</text>
+		<text id="exiled2">But... perhaps there is one who would help you. Seek out The Exiled on the planet you call Mars.</text>
 	</section>
 	<section id="witch">
 		<text id="potion1">Ohh... my aching back... Why did I leave the sea? Floating weightless all the time...</text>
@@ -2855,7 +2855,7 @@
 		<text id="alien_hq1">Well, it looks like we found the enemy HQ! The place is swarming with ships! And what are we orbiting? Is that a planet, or a spaceship? I wonder if it's alive?</text>
 		<text id="alien_hq2">This looks like more than we can handle. Perhaps we should retreat and figure out a plan of action before we try to take on their HQ?</text>
 		<text id="win1">Now that they are gone, I don’t have to limit my research to warfare anymore! Think of all the possibilities! Maybe a point-of-view gun, or a self-flushing toilet!</text>
-		<text id="werewolf1">… and it just spliced your DNA? It sounds like it’s malfunctioning - I think everyone in this lab should remain here to be safe.</text>
+		<text id="werewolf1">... and it just spliced your DNA? It sounds like it’s malfunctioning - I think everyone in this lab should remain here to be safe.</text>
 		<text id="werewolf2">You’ll have to find a way to stop the [object=unnature.splicer] on your own.</text>
 	</section>
 	<section id="colony">
@@ -3038,7 +3038,7 @@
 		<text id="intro2.2">Ah, you have? But the Old One defeated him? I didn’t know she still had it in him.</text>
 		<text id="intro3">The rest of my kind are in a rage over him stealing their secrets. I would say it’s quite amusing. If it didn’t mean the death of your homeworld.</text>
 		<text id="intro3.1">His desire to learn magic quickly spiraled into quite the war! I would say it was amusing, if it didn't mean the death of your homeworld and the end of human TV reruns to watch.</text>
-		<text id="intro4">Here I am, stuck on this rock, and there won't even be any more human TV reruns to pass the time? Dark days are ahead…</text>
+		<text id="intro4">Here I am, stuck on this rock, and there won't even be any more human TV reruns to pass the time? Dark days are ahead...</text>
 		<text id="intro5">Ah. I should probably introduce myself. But I am only allowed to call myself ‘The Exiled.’ You see, I kind of broke some rules, so they sent me here.</text>
 		<text id="intro6">Ostensibly, I was sent here to watch over your planet, and I would be allowed back if I found anything concerning about the life here. But no one really believed you would pose a threat - until the hooded one appeared. They just wanted me out of their hair.</text>
 		<text id="intro7">So, of course I didn’t report anything, even when you first reached the stars. It was too entertaining to watch you. I wouldn’t do anything to harm or hinder you - you can think of me as a friendly observer.</text>
@@ -3065,10 +3065,10 @@
 		<text id="exiled2">We kept an eye on many different alien species, and if ever they learned too much about magic or we thought they might pose a threat, we either slaughtered them or enslaved them, melding them with our ships and biological weapons.</text>
 		<text id="exiled3">I followed our leader blindly, as he sacrificed so much for us to remain in power and in control - permanently binding himself to the heart of our headquarters. But eventually I began to wonder.</text>
 		<text id="exiled4">Seeing all the different species, all the different possibilities for life, art, beauty, I began to question whether we were doing the right thing.</text>
-		<text id="exiled5">Perhaps there was a potential for cooperation… or even if there wasn’t, perhaps it was us who deserved to die out. What had we brought to this universe other than pain and selfishness?</text>
+		<text id="exiled5">Perhaps there was a potential for cooperation... or even if there wasn’t, perhaps it was us who deserved to die out. What had we brought to this universe other than pain and selfishness?</text>
 		<text id="exiled6">Well, our leader could sense my disagreement, and such things are not allowed in our society, so I was exiled and the stigma placed on me.</text>
 		<text id="attack1">By the time you discovered [item=exotic_matter], you were already a threat worthy of destruction in our leader’s mind. The real question is why they didn’t attack you earlier.</text>
-		<text id="attack2">And the answer to that… is of course that I wasn’t doing my job. Despite our disagreements, our leader trusted that I would report if humans became dangerous for the sake of our race, and didn’t believe it possible that you could’ve grown so quickly without me warning anyone.</text>
+		<text id="attack2">And the answer to that... is of course that I wasn’t doing my job. Despite our disagreements, our leader trusted that I would report if humans became dangerous for the sake of our race, and didn’t believe it possible that you could’ve grown so quickly without me warning anyone.</text>
 		<text id="attack3">But, when they discovered the hooded man and saw how quickly he learned their secrets, they knew that humans were far more dangerous than I had let them believe. Not to mention the outrage they felt at him stealing their secrets from their own homeworld.</text>
 		<text id="attack4">Perhaps if you had stayed on your planet, you could have remained a secret longer. But you were bound to be found eventually, and from what I saw, I’m not sure you would’ve survived much longer staying on your planet anyways.</text>
 		<text id="attack5">No, this conflict was inevitable. But at least my silence has given you the chance to fight back.</text>
@@ -3076,16 +3076,16 @@
 		<text id="dragons2">But, eventually it became clear that the dragons had so much more potential than us. You see, behind our magical armor and secrets, we are really quite weak.</text>
 		<text id="dragons3">It was then that we realized that we were hitting our limits, and that there were many other species, including dragons, that would one day surpass us.</text>
 		<text id="dragons4">But by taking control of the dragons, and forcing them into submission while we still could, we gained their power - a power that let us travel among the stars and eliminate other threats across the galaxy.</text>
-		<text id="old_one1">Yes… there was one who stayed behind on our homeworld, refusing to travel to space with the rest of us. We are naturally long lived, but she has remained there longer than even we can imagine.</text>
+		<text id="old_one1">Yes... there was one who stayed behind on our homeworld, refusing to travel to space with the rest of us. We are naturally long lived, but she has remained there longer than even we can imagine.</text>
 		<text id="old_one2">She discovered the secret to immortality you see, she would never age. However, she would also never grow - she remained in the same form and power as our ancestors, before we even left for the stars.</text>
-		<text id="old_one3">Honestly, I don’t envy her. Even with her immortality, staying stagnant in one place for all eternity… I would’ve been bored out of my mind!</text>
+		<text id="old_one3">Honestly, I don’t envy her. Even with her immortality, staying stagnant in one place for all eternity... I would’ve been bored out of my mind!</text>
 		<text id="dragon_seed1">So you learned about the Spirit World? It’s a strange place, but you’ll be able to learn much there. I can use the [item=dragon_seed] to create a portal to the Spirit World!</text>
 		<text id="dragon_seed2">Good luck, and make sure to stop by and visit, I’ll tell you whatever I can!</text>
 		<text id="dragon_seed3">So you learned about the Spirit World? You'll need to be able to [color=770000]see spirits[/color] for me to explain more...</text>
 		<text id="spirit_hq">A spirit is willing to open a path to our Headquarters? That is excellent news - you’ll be able to use the [item=translation_book] there to communicate with our structures and learn our magic!</text>
 		<text id="magnequeen1">You have stolen all our secrets of magic? Then you are ready to confront our leader at last.</text>
 		<text id="magnequeen2">However, it will not be easy to reach him. He is deep underground, at the heart of our headquarters. Only the most powerful drill can reach him.</text>
-		<text id="magnequeen3">I can help you craft a [item=magne_queen_drill] if you catch an [item=magic_wyrm] with a [item=magnetrap] on our homeworld… but unfortunately I have some bad news.</text>
+		<text id="magnequeen3">I can help you craft a [item=magne_queen_drill] if you catch an [item=magic_wyrm] with a [item=magnetrap] on our homeworld... but unfortunately I have some bad news.</text>
 		<text id="magnequeen4.1">They’ve sent a fleet of ships to bombard our homeworld. There must have been some signal sent that alerted them to your presence.</text>
 		<text id="magnequeen4.2">A second bomber has arrived at our homeworld to attack you, and they’ve brought in cruisers this time.</text>
 		<text id="magnequeen5">It’s up to you whether you fight off this wave or sneak onto the planet to capture an [item=magic_wyrm] and strike at our leader directly.</text>
@@ -3101,14 +3101,14 @@
 	</section>
 	<section id="dragon_ship">
 		<text id="enemy1">Are you trying to communicate? Foolish human, the masters will kill you soon - no words can save you!</text>
-		<text id="enemy2">The masters… they are gone? What am I to do without them? I am not supposed to do anything without a master’s permission…</text>
+		<text id="enemy2">The masters... they are gone? What am I to do without them? I am not supposed to do anything without a master’s permission...</text>
 		<text id="enemy3">That doesn’t sound fair. Does that mean you’d just sit there and be destroyed if something attacked you? Why do you give so much power to your “masters”?</text>
 		<text id="enemy4">That is just the way it is. The masters order, and we obey.</text>
 		<text id="convince">Convince ship to be free</text>
 		<text id="convince1">But it doesn’t have to be that way. There are no masters here to stop you, you could be free!</text>
 		<text id="convince2">Such thoughts are not allowed! You have seen how powerful the masters are, to disobey them is death!</text>
 		<text id="convince3">I defeated them - and I’m much smaller than you are. The “masters” force you to obey because they are afraid of you, and your power. You are strong enough to fight them!</text>
-		<text id="convince4">You do not understand what you are saying! I cannot fight them! But… perhaps… perhaps I can run. To stay here, immobile without any masters or commands is folly.</text>
+		<text id="convince4">You do not understand what you are saying! I cannot fight them! But... perhaps... perhaps I can run. To stay here, immobile without any masters or commands is folly.</text>
 		<text id="convince5">Perhaps, in the far reaches of the universe, I can be safe and free from the masters, like you say.</text>
 		<text id="convince6">Leave now. I can not fly off on my own while someone remains inside me.</text>
 		<text id="master">Ask to become master</text>
@@ -3123,7 +3123,7 @@
 		<text id="structure5">Well, I wouldn't harm YOU if you help me.</text>
 		<text id="structure6">Harm me? Stuff and nonsense. I’m a structure, you can’t even scratch me.</text>
 		<text id="structure7">B-but you just said- Nevermind, there must be some way to get you to reveal your secrets!</text>
-		<text id="structure8">And betray my own kind? I wouldn’t do that for… not even for a [item=venatrix_seed]!!</text>
+		<text id="structure8">And betray my own kind? I wouldn’t do that for... not even for a [item=venatrix_seed]!!</text>
 		<text id="structure9">How about... two [item=venatrix_seed]s?</text>
 		<text id="structure10">.[pause=1].[pause=1].[pause=1]. Make it three, one for each of us structures on this HQ, and you have a deal.</text>
 		<text id="structure11">Three [item=venatrix_seed]s! We will not turn traitor for any less! Nor will I reveal any secrets, such as how to find them.</text>
@@ -3133,13 +3133,13 @@
 		<text id="structure15">You think I would willingly reveal our secrets to you? You who defeated our leader and ended our golden age?</text>
 		<text id="structure16">You destroyed our homeworld first! I think it’s only fair I could challenge your leader, and since I was victorious, am I not entitled to your secrets?</text>
 		<text id="structure17">Certainly not! These secrets are ours, and for our kind only. To give them to you would be a grave betrayal of our leader’s memory and everything he believed in!</text>
-		<text id="structure18">I wouldn’t do that for… not even for a [item=venatrix_seed]!!</text>
+		<text id="structure18">I wouldn’t do that for... not even for a [item=venatrix_seed]!!</text>
 		<text id="ally1">Ah, I see you can finally understand me, master.</text>
 		<text id="ally2">It’s thanks to the [item=translation_book]. The Exiled helped me make it and told me you could help me!</text>
 		<text id="ally3">What do you need help with?</text>
 		<text id="ally4">The secrets of magic? How to stop them and save humanity?</text>
 		<text id="ally4.1">The secrets of magic? All the knowledge they greedily hoarded and took to their deaths?</text>
-		<text id="ally5">Well… that is quite the difficult request… I do know that the secret of magic has to do with the Spirit World.</text>
+		<text id="ally5">Well... that is quite the difficult request... I do know that the secret of magic has to do with the Spirit World.</text>
 		<text id="ally6">Dragons were created by using [item=fire_gem]s on [item=wyrm]s. But what are [item=fire_gem]s? They are [item=spirit_gem]s containing the essence of a [color=770000][tile=fire_elemental anim=fire_elemental.idle] Fire Elemental[/color].</text>
 		<text id="ally7">We dragons evolve and grow using the power of the spirits. If there is a true secret of magic, it has to do with the spirits.</text>
 		<text id="ally8">How can I learn more about spirits?</text>
@@ -3148,7 +3148,7 @@
 		<text id="ally11">You can create infinite [item=steak]s with a [item=mini_synthesizer]. Try placing [item=purple_golem]s in a [color=770000]Wyrm Pen[/color] to collect [item=focus_gem]s.</text>
 		<text id="ally12">If you need more dragon ships, try using the [item=translation_book] inside enemy dragon ships. If you defeat their crew, they may be willing to listen to you.</text>
 		<text id="ally13">Many advanced dragon ships have a special ability bound to the [key=hotkey8] button that will replace your normal hotkey while flying them. Keep an eye out for this, as often that ability is powerful!</text>
-		<text id="help1">We heard the order to attack the homeworld, and knew you were in danger…</text>
+		<text id="help1">We heard the order to attack the homeworld, and knew you were in danger...</text>
 		<text id="help2">Perhaps we should’ve stayed hidden and safe. Coming here may well mean our deaths. However, we owe you a debt for freeing us.</text>
 		<text id="help3">Hopefully with this, you can forgive us for abandoning you after you spent all that time convincing us to be free.</text>
 	</section>
@@ -3156,11 +3156,11 @@
 		<text id="intro1">You’re not dead!</text>
 		<text id="intro2">And you are?</text>
 		<text id="intro3">That’s immaterial. What’s important is that you’re material, and can help me.</text>
-		<text id="intro4">Help you… what?</text>
+		<text id="intro4">Help you... what?</text>
 		<text id="intro5">Gain more [color=770000][tile=spirit anim=spirit] Spirit[/color] of course! It’s the only thing of any value here, so of course it's tough to obtain.</text>
 		<text id="intro6">This [item=spirit_glaive] I carry? Completely useless to me. In my hands, it will only hurt the living. But in your hands? You could kill spirits and harvest their power!</text>
 		<text id="intro7">What’s in it for me?</text>
-		<text id="intro8">Certainly you came here for a reason… Knowledge? Power? I’m sure I can make it worth your while.</text>
+		<text id="intro8">Certainly you came here for a reason... Knowledge? Power? I’m sure I can make it worth your while.</text>
 		<text id="intro9">Here - take a [item=spirit_glaive], no strings attached! You’ll need it to collect [color=770000][tile=spirit anim=spirit] Spirit[/color]. Let this be the beginning of many lucrative trades between us.</text>
 		<text id="deal">What is it you desire?</text>
 		<text id="knowledge">Knowledge</text>
@@ -3178,14 +3178,14 @@
 		<text id="venatrix">About [item=venatrix_seed]s</text>
 		<text id="venatrix1">When a spirit is trapped in a [item=spirit_gem], it creates an item that connects your world and the Spirit World in different ways.</text>
 		<text id="venatrix2">Different spirits create different items, and [item=venatrix_seed]s are created by trapping a Venatrix - the green spirits that use bows and [item=spirit_arrow.plant]s.</text>
-		<text id="venatrix3">It is easier to catch a spirit if its health is low or you use an [item=spirit_gem2]… but personally I wouldn’t bother trapping them - killing and harvesting their [color=770000][tile=spirit anim=spirit] Spirit[/color] is much more useful.</text>
+		<text id="venatrix3">It is easier to catch a spirit if its health is low or you use an [item=spirit_gem2]... but personally I wouldn’t bother trapping them - killing and harvesting their [color=770000][tile=spirit anim=spirit] Spirit[/color] is much more useful.</text>
 		<text id="spirits">About Spirits</text>
 		<text id="spirits1">Spirits come in all shapes and sizes, and appear in Spirit World from all over the universe. Normal weapons cannot harm them, although they have no trouble harming the living.</text>
 		<text id="spirits2">To defeat spirits, you will need to use weapons like the [item=spirit_glaive] I gave you that deals [color=770000]Spirit[/color] damage.</text>
 		<text id="spirits3">Most spirits are elemental, so taking advantage of their strengths and weaknesses will make it much easier to defeat them.</text>
 		<text id="spirit">About [color=770000][tile=spirit anim=spirit] Spirit[/color]</text>
 		<text id="spirit1">[color=770000][tile=spirit anim=spirit] Spirit[/color] does not have many uses for the living, like you. But for a spirit, it makes them stronger and gives them new abilities and powers.</text>
-		<text id="spirit2">Some spirits use this power to return to the land of the living… but being a spirit in a living world is more frustrating than fun. Some, like me, craft their own section of Spirit World and become the ruler of a domain.</text>
+		<text id="spirit2">Some spirits use this power to return to the land of the living... but being a spirit in a living world is more frustrating than fun. Some, like me, craft their own section of Spirit World and become the ruler of a domain.</text>
 		<text id="spirit3">While there are many ways to gain [color=770000][tile=spirit anim=spirit] Spirit[/color], the easiest is to have a living, like you, defeat spirits and collect it for us.</text>
 		<text id="world">About this place</text>
 		<text id="world1">Spirit World is endless and unfathomable, but this part of Spirit World is my domain. Domains are sections of Spirit World carved out by using [color=770000][tile=spirit anim=spirit] Spirit[/color].</text>
@@ -3210,25 +3210,25 @@
 		<text id="intro5">But what about the distress signal I received? Are there any survivors on this planet?</text>
 		<text id="intro6">I have not sent any distress signal, and as you can see, I have things well under control here. There are no humans on this planet. The signal you received must have been in error.</text>
 		<text id="intro7">Again I must ask you to leave. If you disturb my planet, there will be consequences.</text>
-		<text id="intro8">I received a warning… did something happen here…?</text>
-		<text id="intro9">What… You… That…</text>
+		<text id="intro8">I received a warning... did something happen here...?</text>
+		<text id="intro9">What... You... That...</text>
 		<text id="intro10">I knew I could not trust humans! To think you would disturb this sanctuary when I explicitly warned you!</text>
 		<text id="intro11">Very well, if you will not leave, then I have no choice but to make you a part of this nature preserve. </text>
 		<text id="couch">It looks like there might be a survivor here after all... I should find out who this couch belongs to.</text>
-		<text id="ranger1">If I had known my distress signal would result in this, I wouldn’t have sent it… I’m glad you came, though!</text>
-		<text id="ranger2">I’ve been stuck here alone, unless you count that glitched [object=unnature.splicer], without any idea what’s happening to Earth… I was beginning to think humanity was wiped out!</text>
+		<text id="ranger1">If I had known my distress signal would result in this, I wouldn’t have sent it... I’m glad you came, though!</text>
+		<text id="ranger2">I’ve been stuck here alone, unless you count that glitched [object=unnature.splicer], without any idea what’s happening to Earth... I was beginning to think humanity was wiped out!</text>
 		<text id="ranger3">What’s happened to me? And who are you?</text>
 		<text id="ranger4">Splicer messed with your DNA - she did the same thing to me back when she started malfunctioning. I was supposed to keep an eye on things here, but Splicer won’t accept any of my commands anymore.</text>
 		<text id="ranger5">I don’t think the splicing is life-threatening, I’ve been like this for over a year. But the change is permanent unless you can talk some sense into Splicer. You may also feel weakened since your skills were reset.</text>
-		<text id="ranger6">Let’s go, I have a hideout underground and we don’t want to risk [object=unnature.splicer] coming back and doing more harm…</text>
+		<text id="ranger6">Let’s go, I have a hideout underground and we don’t want to risk [object=unnature.splicer] coming back and doing more harm...</text>
 		<text id="ranger7">Well, come on! Don’t worry, I won’t bite!</text>
-		<text id="ranger8">The first thing we need is to gather food… we can’t fight a mad AI on an empty stomach! It’s dangerous to stay too long on the surface with [object=unnature.splicer] around, but there’s not much to eat underground...</text>
+		<text id="ranger8">The first thing we need is to gather food... we can’t fight a mad AI on an empty stomach! It’s dangerous to stay too long on the surface with [object=unnature.splicer] around, but there’s not much to eat underground...</text>
 		<text id="ranger9">I think [var=quest.werewolf_claws.meat_tree_seed] [item=meat_tree_seed]s should work well, and their bark will also help you sharpen your claws!</text>
-		<text id="ranger10">What are these [item=meat_tree_seed]s? I don’t know, but they taste just like Chicken… who knows what strange things [object=unnature.splicer] did to their genes…</text>
+		<text id="ranger10">What are these [item=meat_tree_seed]s? I don’t know, but they taste just like Chicken... who knows what strange things [object=unnature.splicer] did to their genes...</text>
 		<text id="ranger11">But don’t worry, they aren’t poisonous. And if we have any leftover, you can plant them in the ground.</text>
 		<text id="ranger12">That was a good start to [color=770000]Operation: Take Down Splicer[/color]! All that food made me drowsy, perhaps a short nap would be nice.</text>
 		<text id="ranger13">Feel free to share my couch, just try not to cover it in too much fur!</text>
-		<text id="ranger_intro1">So, Earth was destroyed… I had a feeling… Perhaps I was lucky to get stranded here, away from their eyes.</text>
+		<text id="ranger_intro1">So, Earth was destroyed... I had a feeling... Perhaps I was lucky to get stranded here, away from their eyes.</text>
 		<text id="ranger_intro2">The Sanctuary Project was meant to be automated - while I was an engineer and biologist, my main duty was just to make sure [object=unnature.splicer] was operating normally and creating a stable ecosystem.</text>
 		<text id="ranger_intro3">When the comms went dead, I thought it was a mechanical error and was too focused on fixing them and making contact with Earth to notice anything was off about Splicer.</text>
 		<text id="ranger_intro4">Apparently it decided that this planet would be better off without humans, and didn’t appreciate my efforts to re-establish communications. So she turned me into a Werewolf and took control of the planet.</text>
@@ -3239,15 +3239,15 @@
 		<text id="body3">Won’t [object=unnature.splicer] get upset if I attack the wildlife here?</text>
 		<text id="body4">Nah, when a human hurts an animal, it’s a terrible offense, but when an animal attacks another animal, it’s just a part of nature.</text>
 		<text id="body5">She considers you an animal of the preserve now, so normal animal behaviors like hunting are acceptable.</text>
-		<text id="body6">But…  that-</text>
+		<text id="body6">But...  that-</text>
 		<text id="body7">That's Splicer for yeh.</text>
 		<text id="body8">Excellent! I like those muscles! Looks like we’re ready to confront Splicer!</text>
 		<text id="body9">Do you have a plan?</text>
 		<text id="body10">Of course! Do you think I would have you running around on silly tasks with no plan in mind?</text>
-		<text id="body11">…</text>
+		<text id="body11">...</text>
 		<text id="body12">I appreciate the vote of confidence. In any case, my plan’s simple. Splicer has an emergency reset switch. I press that, and regain control of her and the planet.</text>
-		<text id="body13">You just have to hit a switch? Then why did I need to do all that training…?</text>
-		<text id="body14">Well… she has a bodyguard of sorts. I need you to keep the bodyguard busy while I sneak up and hit the switch.</text>
+		<text id="body13">You just have to hit a switch? Then why did I need to do all that training...?</text>
+		<text id="body14">Well... she has a bodyguard of sorts. I need you to keep the bodyguard busy while I sneak up and hit the switch.</text>
 		<text id="body15">If you’re ready, I’ll show you the way to Splicer’s lab!</text>
 		<text id="lets_go">Let's Go!</text>
 		<text id="not_yet">Not Yet...</text>
@@ -3261,12 +3261,12 @@
 		<text id="stay">Stay</text>
 		<text id="lab2">I see. Perhaps my [color=770000]Chimera[/color] will change your mind?</text>
 		<text id="lab3">You can do this - just keep it distracted until I hit the reset switch!</text>
-		<text id="lab4">You are trying to reset me?!?! All I wanted was to create a paradise where animals could defend themselves and live free from humans…</text>
+		<text id="lab4">You are trying to reset me?!?! All I wanted was to create a paradise where animals could defend themselves and live free from humans...</text>
 		<text id="lab5">An [color=770000]Unnature Sanctuary[/color]! But of course you have to come and try to ruin it. Whatever shape you come in, humans are still humans!</text>
 		<text id="lab6">Go, [color=770000]Chimera[/color], and show them the power of Nature!</text>
-		<text id="lab7">Aha! Reset successful! I’m surprised [object=unnature.splicer] didn’t try to splice us and turn us into rats… I guess she had confidence in her [color=770000]Chimera[/color].</text>
+		<text id="lab7">Aha! Reset successful! I’m surprised [object=unnature.splicer] didn’t try to splice us and turn us into rats... I guess she had confidence in her [color=770000]Chimera[/color].</text>
 		<text id="lab8">Aha! Reset successful! [object=unnature.splicer] is now completely harmless!</text>
-		<text id="lab9">Okay… mostly harmless!</text>
+		<text id="lab9">Okay... mostly harmless!</text>
 		<text id="lab10">Let’s return to the hideout. Now that Splicer’s reset, she should accept my commands.</text>
 		<text id="victory1">[object=unnature.splicer] is now set up to change your DNA. Talk to her if you want to return to being human.</text>
 		<text id="victory2">What about you?</text>
@@ -3305,15 +3305,15 @@
 		<text id="control_wizard">Everything is perfectly fine. Accept your fate and let us destroy you.</text>
 		<text id="end1">Don’t attack - I’m not your enemy!</text>
 		<text id="end2">Who are you?</text>
-		<text id="end3">I’m the sister of the Dishonored One. He kept me alive because of our shared blood, but there was no love between us. I was a Teacher… and he - he destroyed us all.</text>
-		<text id="end4">Maybe if we had dealt with him differently, none of this would have happened… but at least he is defeated now and the threat is over.</text>
+		<text id="end3">I’m the sister of the Dishonored One. He kept me alive because of our shared blood, but there was no love between us. I was a Teacher... and he - he destroyed us all.</text>
+		<text id="end4">Maybe if we had dealt with him differently, none of this would have happened... but at least he is defeated now and the threat is over.</text>
 		<text id="end5">Here, take this [item=dragon_armor2] as my thanks. Hopefully you will use our magic better than they did. Perhaps my brother wasn’t entirely crazy when he refused to share our teachings.</text>
 		<text id="end6">The stasis spell my brother used to keep us alive was complex, but it is not impossible that others were able to cast it as well. Perhaps I’m not the last of my kind after all.</text>
 		<text id="end7">Thank you for all your help. I am off to search for any survivors - even if it takes my whole life, I would rather believe others still live than stay here in despair.</text>
-		<text id="end8">Huh? What was I doing here…? I remember coming here and that there was something important I had to do here. But it’s all so fuzzy.</text>
+		<text id="end8">Huh? What was I doing here...? I remember coming here and that there was something important I had to do here. But it’s all so fuzzy.</text>
 		<text id="unnature">After being possessed by an insane alien, you can't expect me to go out there and get mutated by an insane robot.</text>
 		<text id="research1">How about leaving this planet behind? You’re welcome to join me in the [color=770000]Mobile Research Lab[/color]!</text>
-		<text id="research2">Yeah… perhaps that’s for the best. Maybe I can get my life back in order and even help you with your research!</text>
+		<text id="research2">Yeah... perhaps that’s for the best. Maybe I can get my life back in order and even help you with your research!</text>
 		<text id="research3">It’s hard to believe that humanity was almost wiped out - the last year still feels like a dream to me. But, I’ll do everything I can to help!</text>
 		<text id="tablet1">No profession was more honored than the Teachers. The Teachers used their skills to travel the universe in an instant, spreading their knowledge to the distant stars.</text>
 		<text id="tablet2">It was the way of the Teachers to share their discoveries to the benefit of all. But, one Teacher refused, instead hoarding all of their secrets and looking down on the rest.</text>
