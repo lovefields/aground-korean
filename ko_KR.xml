@@ -101,7 +101,7 @@
 		<text id="hut">오두막</text>
 		<text id="smelter">제련소</text>
 		<text id="kitchen">부엌</text>
-		<text id="workshop">작업대</text>
+		<text id="workshop">작업장</text>
 		<text id="storehouse">창고</text>
 		<text id="dockhouse">부두집</text>
 		<text id="market_placeholder">상가</text>
@@ -306,7 +306,7 @@
 		<text id="fill">채우기</text>
 		<text id="synthesize">Synthesize</text>
 		<text id="enchant">Enchant</text>
-		<text id="setProjectile">Set Projectile</text>
+		<text id="setProjectile">발사체 지정</text>
 		<text id="enrage">Enrage</text>
 		<text id="enrage_prompt">Are you sure you want to enrage your [item=adult_dragon]? It'll become permanently hostile towards you.</text>
 		<text id="enable_attack">공격 활성</text>
@@ -814,7 +814,7 @@
 		<text id="kitchen_blueprint">부엌 설계도</text>
 		<text id="kitchen_upgrade">부엌 업그레이드</text>
 		<text id="smelter_blueprint">제련소 설계도</text>
-		<text id="workshop_blueprint">작업대 설계도</text>
+		<text id="workshop_blueprint">작업장 설계도</text>
 		<text id="farm_blueprint">곳간 설계도</text>
 		<text id="pen_blueprint">축사 설계도</text>
 		<text id="lab_blueprint">연구소 설계도</text>
@@ -1456,7 +1456,7 @@
 		<text id="storehouse">창고 짓기</text>
 		<text id="storehouse2">창고 짓기</text>
 		<text id="smelter">용광로 짓기</text>
-		<text id="workshop">작업대 짓기</text>
+		<text id="workshop">작업장 짓기</text>
 		<text id="kitchen">부엌 짓기</text>
 		<text id="kitchen2">부엌 업그레이드</text>
 		<text id="farm">농장 짓기</text>
@@ -1481,7 +1481,7 @@
 		<text id="mirrows2">Convince Mirrows</text>
 		<text id="fisherman_cat">Finding Peri</text>
 		<text id="bandits">Defeat Bandits</text>
-		<text id="boars">Defeat Boars</text>
+		<text id="boars">멧돼지 사냥</text>
 		<text id="wyrm_hive">Wyrm Hive</text>
 		<text id="find_wyrm_hive">Find Wyrm Hive</text>
 		<text id="spirit_gem">Spirit Power</text>
@@ -1532,12 +1532,12 @@
 		<text id="storehouse">가 [color=550000]창고[/color]를 지으려 합니다.</text>
 		<text id="storehouse2">Build a [color=550000]Storehouse[/color] to store all your items.</text>
 		<text id="smelter">가 광물을 가공할 [color=550000]제련소[/color]를 원합니다</text>
-		<text id="workshop">가 [color=550000]작업대[/color]를 지으려 합니다.</text>
+		<text id="workshop">가 [color=550000]작업장[/color]을 지으려 합니다.</text>
 		<text id="kitchen">가 [color=550000]부엌[/color]을 지으려 합니다.</text>
 		<text id="kitchen2">wants the [color=550000]Kitchen[/color] to make [item=cheese].</text>
 		<text id="farm">가 재배를 위한 [color=550000]농장[/color]을 짓기 원합니다.</text>
 		<text id="orchard">가 [item=fruit]로 [color=550000]과수원[/color]을 지으려 합니다.</text>
-		<text id="market">wants to build a [color=550000]Market[/color] to trade goods.</text>
+		<text id="market">이 [color=550000]상가[/color]를 구성하고 싶어합니다.</text>
 		<text id="market2">Build a [color=550000]Market[/color] to attract traders to your [color=550000]Dock[/color].</text>
 		<text id="dock">wants a [color=550000]Dock[/color] to travel the world.</text>
 		<text id="dock2">Build a [color=550000]Dock[/color] to find other survivors.</text>
@@ -1547,8 +1547,8 @@
 		<text id="wyrm_pen">wants to experiment on [item=wyrm]s.</text>
 		<text id="hatch_dragons">Hatch [item=dragon]s to win the [item=adult_dragon] to your side.</text>
 		<text id="thunder_axe">wants to fix the [item=rusty_axe].</text>
-		<text id="hunt">wants you to practice using weapons.</text>
-		<text id="fence">wants to add [item=fence]s to the settlement.</text>
+		<text id="hunt">이 무기 사용 연습하길 권합니다.</text>
+		<text id="fence">이 [item=fence]를 설치하려 합니다.</text>
 		<text id="wolf">wants to tame the wolf pup.</text>
 		<text id="powerplant">needs [item=titanium] to fix the [color=550000]Power Plant[/color].</text>
 		<text id="factory">wants to build a [color=550000]Factory[/color] to tinker with machines.</text>
@@ -1730,16 +1730,16 @@
 		<text id="hint4">깊게 들어갈수록 더 좋은 광물이 나올거야.</text>
 		<text id="hint5">만약 깊은 곳으로 캐러 갈때는 [item=torch]이 필요할거야. 단, 조심해 그리 오래 지속되지는 않을거야.</text>
 		<text id="hint6">만약 너가 필요하다면 난 [item=torch]을 만들어줄 수 있어.</text>
-		<text id="workshop1">철제 주괴를 이용해서 도구를 만들 [color=770000]작업대[/color]를 짓는게 어때요? [item=iron_bar][var=quest.workshop.iron_bar]개와 [item=wood][var=quest.workshop.wood]개를 구해오면 지을수 있어요.</text>
-		<text id="workshop2">좋아요! 이제 [color=770000]작업대[/color]를 지어보죠!</text>
-		<text id="workshop3">At the [color=770000]Workshop[/color], you can instantly create any tools or items that you have the ingredients to make.</text>
+		<text id="workshop1">철제 주괴를 이용해서 도구를 만들 [color=770000]작업장[/color]을 짓는게 어때요? [item=iron_bar][var=quest.workshop.iron_bar]개와 [item=wood][var=quest.workshop.wood]개를 구해오면 지을수 있어요.</text>
+		<text id="workshop2">좋아요! 이제 [color=770000]작업장[/color]을 지어보죠!</text>
+		<text id="workshop3">재료만 있다면 [color=770000]작업장[/color]에서 도구를 만들수 있어요.</text>
 		<text id="workshop4">You'll need to find [item=iron] to smelt into [item=iron_bar] at the [color=770000]Smelter[/color].</text>
 		<text id="torch">[item=iron]은 꽤나 깊은 곳에 있어요. [item=torch]을 받으세요, 도움이 될거에요. 만약 횃불이 전부 타버린다면 저에게 말해주세요, 더 만들어 드릴게요.</text>
 		<text id="smelter3">Once you have enough [item=iron], select [item=iron_bar] from the [color=770000]Smelter[/color] menu, and it will automatically smelt as long as there is fuel remaining.</text>
 		<text id="smelter4">You can add as many jobs to the [color=770000]Smelter[/color] as you have ingredients for, and it will smelt them one by one while you are away as long as it has fuel.</text>
-		<text id="pick">If you want to mine through [color=770000][tile=stone] Stone[/color] to reach [item=gold], you'll need to craft an [item=iron_pickaxe] or a [item=steel_pickaxe] at the [color=770000]Workshop[/color].</text>
+		<text id="pick">만약 [item=gold]이 있는 [color=770000][tile=stone] 돌[/color]을 캐고싶다면, [color=770000]작업장[/color]에서 [item=iron_pickaxe]나 [item=steel_pickaxe]를 만들어 써야할거에요.</text>
 		<text id="equip1">If you want to mine through [color=770000][tile=stone] Stone[/color] to reach [item=gold], you'll need to equip an [item=iron_pickaxe] or a [item=steel_pickaxe]. Hit [key=equipment] to manage your equipment.</text>
-		<text id="equip2">You can manage your equipment and pickaxes by hitting [key=equipment] to open the Equipment window.</text>
+		<text id="equip2">[key=equipment]키를 눌러 나오는 장비창에서 주사용 곡괭이를 지정할 수 있어요.</text>
 		<text id="hotkey">[color=770000]단축키[/color]를 사용해봤니?\n 가방에서 [key=hotkey1], [key=hotkey2], [key=hotkey3], [key=hotkey4]키를 이용해 아이템을 등록할수 있어!</text>
 		<text id="minecart1">One thing every miner needs is a good [item=minecart] and [item=rail] system! Ores are heavy, and having a way to easily transport them to the [color=770000]Storehouse[/color] would be amazing.</text>
 		<text id="minecart2">You built a [item=minecart] and [item=rail]s? Perfect, let's place them right away!</text>
@@ -1752,28 +1752,28 @@
 		<text id="win3">I love having humanity congregate on one planet... more potential targets for me!</text>
 		<text id="homeworld1">The more people, the more business for me! I’m off!</text>
 		<text id="steal">[color=770000]창고[/color]에서 [item={item}]을(를) 도난당했어!</text>
-		<text id="caught">The thief was caught red-handed!</text>
-		<text id="introduce1">It's hard enough surviving here without someone stealing our stuff!</text>
-		<text id="introduce2">I might have borrowed a few things. But, listen. I’ll repay you by offering my services. I have connections with many traders on other islands.</text>
-		<text id="introduce3">Traders? There are more survivors out there?</text>
-		<text id="introduce4">Yup. But I’ll need [var=quest.market.gold_bar] [item=gold_bar]s to convince them to come here.</text>
-		<text id="introduce5">You’re going to charge us when you were just caught stealing?!</text>
-		<text id="introduce6">That was that. This is business. My offer is [var=quest.market.gold_bar] [item=gold_bar]s to add this island to the trade route.</text>
-		<text id="introduce7">Fine. If there are other survivors out there, trading with them could get us off this island.</text>
-		<text id="introduce8">I’m sorry, I can’t trust a thief. Leave this island, and never come back.</text>
-		<text id="introduce9">There are better islands to steal from anyways. You don’t even know what you’re missing.</text>
+		<text id="caught">도둑이 잡혔다!</text>
+		<text id="introduce1">우리 물건을 훔치면 우리가 살아남기 힘들어요!</text>
+		<text id="introduce2">잠깐 빌린거야. 하지만, 내가 보상해줄게. 난 다른 섬의 많은 무역업자들과 연줄이 있어.</text>
+		<text id="introduce3">상인들? 섬밖에 생존자가 있다고요?</text>
+		<text id="introduce4">응. 하지만 그들이 오게 설득하려면 [item=gold_bar] [var=quest.market.gold_bar]개가 필요해.</text>
+		<text id="introduce5">방금 도둑질을 해놓고 비용을 지불하라고요?!</text>
+		<text id="introduce6">그런거지. 이건 비즈니스야. 내가 하는 제안은 [item=gold_bar] [var=quest.market.gold_bar]개로 이섬에 교역로를 추가하는거야.</text>
+		<text id="introduce7">좋아. 다른 생존자들과 교역을 하면 이섬에서 나갈수 있겟지.</text>
+		<text id="introduce8">미안하지만 도둑은 믿을수 없어요. 이섬을 떠나서 다시는 돌아오지마세요.</text>
+		<text id="introduce9">도둑질을 할 섬은 얼마든지 있어. 뭐가 사라진지도 모르잖아?</text>
 		<text id="market1">Perfect! I feel this is the beginning of many lucrative trades between us.</text>
 		<text id="market2">Take this [item=coin_purse]. You’ll need it to store coins for buying and selling. I recommend buying a [item=mega_backpack] as soon as you can, they are a real life-saver!</text>
 		<text id="market3">At the [color=770000]Market[/color], you can sell goods to get coins, which you can use to buy other goods.</text>
 		<text id="market4">The [color=770000]Market[/color] sometimes gets new stock too, so if you can't get what you want or they run out of inventory, check back later.</text>
-		<text id="market5">To make a [item=gold_bar], you'll need to smelt [item=gold], which is found deep underground. The [object=miner] may have some tips for mining that deep.</text>
+		<text id="market5">[item=gold_bar]를 만들기 위해서는 [item=gold]이 필요해, 이건 아주 깊은곳에서 찾을 수 있지. [object=miner]가 깊은곳을 채광하기 위한 좋은 팁들을 알고 있을거야.</text>
 		<text id="dock1">Are you interested in seeing the rest of the world? How about building a [color=770000]Dock[/color]?</text>
 		<text id="dock2">I’ll build it for you if you give me [var=quest.dock.coins] [color=770000][tile=coin_purse.ico] Coins[/color], [var=quest.dock.wood] [item=wood], [var=quest.dock.cloth] [item=cloth] and [var=quest.dock.net] [item=net]s.</text>
 		<text id="dock3">Excellent, let's get this [color=770000]Dock[/color] built!</text>
 		<text id="dock4">Once you build a [tile=boat.ico] Boat at the [color=770000]Dockhouse[/color], you'll be ready to travel across the sea!</text>
 		<text id="dock5">The [color=770000]Dock[/color] costs [var=quest.dock.coins] [color=770000][tile=coin_purse.ico] Coins[/color], [var=quest.dock.wood] [item=wood], [var=quest.dock.cloth] [item=cloth] and [var=quest.dock.net] [item=net]s.</text>
-		<text id="accept">Accept Offer</text>
-		<text id="reject">Send Away</text>
+		<text id="accept">제안 수락</text>
+		<text id="reject">돌려 보내기</text>
 		<text id="sail">Isn't it a beautiful day for sailing?</text>
 		<text id="pirate">Someone stole everything! All my hard work! Who would do such a thing?!</text>
 		<text id="shipping1">Now that you have items spread across multiple islands, wouldn't it be nice to be able to transfer them from storehouse to storehouse? With my new shipping service, you can - for a small fee!</text>
@@ -1813,8 +1813,8 @@
 		<text id="win4">They have caused such pain and death... my fellow scouts will never return... but, at least those magic-hoarding tentacle monsters will never again hurt anyone.</text>
 		<text id="introduce1">이 행성은 보이는것 이상으로 가치가 있어요! 나는 여러 실험을 해봤고 드디어 마법을 발견한것 같아요!</text>
 		<text id="introduce2">저는 더 많은 재료가 필요해요. 만약 당신이 [item=wyrm]을 죽이고 나에게 [item=dragonblood]을 가져다 준다면 보상을 하겠어요.</text>
-		<text id="lab1">I knew it! This is the secret! I must set up a laboratory immediately!</text>
-		<text id="lab2">Your reward? Bring materials to my lab and I will mix up a magic potion for you.</text>
+		<text id="lab1">해낼줄 알았어요! 이게 바로 비결이에요! 당장 연구소를 세워야해요!</text>
+		<text id="lab2">보상으로 제 연구실에 오면 물약을 만들수 있게 해줄게요.</text>
 		<text id="lab3">서둘러 주세요! [item=dragonblood]을 얻기 전까진 실험을 할 수 없어요!</text>
 		<text id="pen1">I need more [item=dragonblood]! Bring me [var=quest.wyrm_pen.wyrm] live [item=wyrm]s and we'll have an endless supply of [item=dragonblood] to experiment with!</text>
 		<text id="pen2">Excellent! Stand back while I work my magic!</text>
@@ -1841,8 +1841,8 @@
 		<text id="lair1">I knew it! This lair is artificial, made by magic! It looks like its purpose was to raise dragons!</text>
 		<text id="lair2">I bet I can activate it...</text>
 		<text id="lair3">Aha! Done! With this lair, we can raise our own dragons. The lair seems to point east, perhaps we could fly a dragon that direction and discover more...</text>
-		<text id="axe1">Let me see that [item=rusty_axe]... It's tough to spot with all the rust, but I recognize those symbols!</text>
-		<text id="axe2">There is some ancient magic here, but it is worn out. If you bring me the right magical ingredient, perhaps I can repair it...</text>
+		<text id="axe1">그 [item=rusty_axe]좀 봐봅시다... 녹이 슬어 보기 힘들지만 저는 이 문양이 뭔지 알아요!</text>
+		<text id="axe2">이것에는 고대의 마법이 깃들어 있어요. 지금은 거의 사라졌지만... 어떤 마법의 재료를 가져오면 제가 고칠수 있겠어요.</text>
 		<text id="axe3">That [item=fire_tusk]... what kind of creature did you get it from? It seems to resonate with the [item=rusty_axe], perhaps that is the magical ingredient we were looking for!</text>
 		<text id="axe4">I have done it! I wonder who made this [item=thunder_axe], and how old it is? If you want to make more, I added the recipe to the laboratory.</text>
 		<text id="shadow_cape1">Let me see that [item=dark_fur]! It appears to exist between the world of the spirits and the world of the living...</text>
@@ -1941,7 +1941,7 @@
 		<text id="storm1">너무 추워...[pause=1] 그리고 지쳤어...[pause=1] 쉴곳이 필요해... 주변에 떨어진 목재들밖에 보이지 않아...</text>
 		<text id="storm3">[item=wood]를 간신히 짊어지고 있어! 이동하려면 [tile=stamina] [color=006600]기력[/color]이 많이 들거야, 하지만 난 여기서 멈출수 없어! 난 쉴곳을 찾아야해!</text>
 		<text id="hut1">이게 무슨 건물이지? 누군가 쉴곳을 만들다가 그만둔것 같아. [item=wood] [var=quest.hut.wood]개가 있으면 완성할 수 있겠는데?</text>
-		<text id="hut2">I have {count} of [var=quest.hut.wood] [item=wood] needed to finish this [color=770000]Hut[/color]. 더 많은 나무가 필요해.</text>
+		<text id="hut2">이 [color=770000]오두막[/color]에 [item=wood] [var=quest.hut.wood]개 중 {count}을 사용했다.. 더 많은 나무가 필요해.</text>
 		<text id="hut3">[item=wood] {added}개를 [color=770000]오두막[/color]에 사용했다. {remaining}개를 더 모아서 완성하자!</text>
 		<text id="storehouse1">이 도끼는 [color=770000]창고[/color]를 지을수 있는 재료를 얻는데 유용하다.</text>
 		<text id="storehouse2">[item=wood] [var=quest.storehouse.wood]개와 [item=berries] [var=quest.storehouse.berries]개가 있으면 창고를 지을수 있을것 같다.</text>
@@ -1985,24 +1985,24 @@
 		<text id="werewolf">Don’t scare me like that!! If I still had my [item=bow], I might’ve shot an arrow before I realized it was you!</text>
 		<text id="tent1">I shouldn't rest in some random person's tent!</text>
 		<text id="tent2">This must be the [object=hunter]'s tent. I should leave it alone.</text>
-		<text id="intro1">Hey, you! Did you see me take down that boar?</text>
-		<text id="intro2">Yeah, how... how did you do that?</text>
-		<text id="intro3">Simple! A bit of proper technique is all you need.</text>
-		<text id="intro4">I’m trying to clear out this area. If you help me out I could teach you how to hunt.</text>
-		<text id="accept1">You need to employ the element of surprise. Hit enemies from behind, and you’ll get a critical hit.</text>
-		<text id="accept2">Here, have a [item=workbench] - you can use it in your inventory to make weapons of your own!</text>
-		<text id="accept3">I prefer [item=bow]s so I don't have to get close to enemies, but if you want to use melee weapons, a [item=buckler] will help you block attacks!</text>
-		<text id="accept4">Use [key=equipment] to equip a weapon, [key=attack] to attack with the equipped weapon, and [key=defend] to block with a shield.</text>
-		<text id="accept5">Why don't you craft a [item=bow] and kill some [color=770000][tile=boar] Boars[/color]. And let me know if you need any hunting tips!</text>
+		<text id="intro1">거기, 당신! 제가 멧돼지를 잡는걸 봤나요?</text>
+		<text id="intro2">네, 어떻게... 어떻게 한건가요?</text>
+		<text id="intro3">간단해요! 약간의 기술만 있으면 되죠.</text>
+		<text id="intro4">저는 이 지역을 정리하려고 해요. 만약 저를 도와준다면 사냥기술을 알려줄게요.</text>
+		<text id="accept1">우선 기습을 하는게 좋아요. 적을 뒤에서 치면 치명타를 입힐수 있어요.</text>
+		<text id="accept2">여기 [item=workbench]를 받으세요. 가방에서 바로 도구를 제작할수 있어요!</text>
+		<text id="accept3">저는 [item=bow]을 쏘는걸 선호해요. 그러면 적에게 가까이 가지 않아도 되거든요. 만약 근거리 무기를 사용하고 싶다면 [item=buckler]로 방어를 할 수 있어요!</text>
+		<text id="accept4">[key=equipment]키를 눌러서 무기를 장착하고, [key=attack]키를 눌러서 공격할 수 있어요. 그리고 [key=defend]키를 눌러 방어 할 수 있죠.</text>
+		<text id="accept5">[item=bow]을 만들어서 [color=770000][tile=boar] 멧돼지[/color]를 잡는게 어때요? 그리고 사냥하는 팁이 필요하면 저에게 말을 걸어주세요!</text>
 		<text id="reject1">You seem dangerous. Stay out of our area!</text>
 		<text id="reject2">Well, fine! I’ll just go back to the mountains then!</text>
 		<text id="reject3">Ready to learn some hunting techniques?</text>
-		<text id="hunt1">We’ll have this area cleared of dangerous creatures in no time!</text>
-		<text id="hunt2">For a job well done, let me give you my old [item=backpack] - it might come in handy when you’re out in the field.</text>
-		<text id="tip1">You could dig a tunnel to sneak up on boars and hit them from behind.</text>
-		<text id="tip2">[item=red_berries] can be used to temporarily increase your attack power - but be careful, they’re not good for your health.</text>
-		<text id="tip3">If you keep getting “blocked,” that enemy is too strong for you. You’ll need a better weapon or a stronger attack.</text>
-		<text id="tip4">Setting [item=arrow]s to a hotkey lets you fire them as long as the [item=bow] is in your inventory, even if it's not equipped!</text>
+		<text id="hunt1">이제 우리는 이 지역의 위험한 동물들을 정리할수 있겠어요!</text>
+		<text id="hunt2">잘해주었어요, 오래된 [item=backpack]을 받으세요 - 밖에 돌아다닐때 유용할겁니다.</text>
+		<text id="tip1">터널을 파서 멧되지를 뒤에서 덮칠수도 있고 몰래 접근해서 뒤에서 덮칠수도 있어요.</text>
+		<text id="tip2">[item=red_berries]을 사용하면 일시적으로 공격력을 높힐 수 있어요. 하지만 조심하세요 그 열매는 건강에 좋지 않아요.</text>
+		<text id="tip3">만약 "막음!"이 계속 보인다면 몬스터가 너무 강한거에요. 더 강한 무기나 더 강한 공격이 필요해요.</text>
+		<text id="tip4">[item=arrow]을 단축키에 등록하면 [item=bow]을 장비하지 않아도 사용할 수 있어요!</text>
 		<text id="tent3">So there I was, shivering and alone on the dark mountainside, when I saw firelight! And heard laughter! It sounded so companionable...</text>
 		<text id="tent4">So you came down to make friends with us?</text>
 		<text id="tent5">Of course not. And I certainly wasn’t hunting boars to try and impress you. Not at all.</text>
@@ -2013,8 +2013,8 @@
 		<text id="tent10">Not sure. The coast on that end is treacherous. Plus, those islands looked plenty strange to me. Might be dangerous.</text>
 		<text id="tent11">So you’re saying we should just be content with the way things are?</text>
 		<text id="tent12">I’m saying that we don’t need to go borrowing trouble when life is already hard.</text>
-		<text id="fence1">I’d like to keep the wildlife in check around here.</text>
-		<text id="fence2">Could you use the [item=workbench] I gave you to make [var=quest.fence.fence] [item=fence]s? Then we could start setting up a perimeter.</text>
+		<text id="fence1">저는 이지역의 야생동물을 계속 감시하고 싶어요.</text>
+		<text id="fence2">혹시 [item=workbench]를 이용해서 [item=fence] [var=quest.fence.fence]개를 만들어 주시겠어요? 그러면 우리는 경계를 만들수 있어요.</text>
 		<text id="fence3">Perfect. [color=770000][tile=boar] Boar[/color]s can't run through [item=fence]s, so we can use them to protect our settlement.</text>
 		<text id="fence4">I'll place one here, place the other [item=fence]s around our base to protect it!</text>
 		<text id="wolf1">I've noticed a wolf pup hanging around our settlement. He seems lonely.</text>
@@ -2322,16 +2322,16 @@
 		<text id="third2">제가보기에는 우리는 힘을 합쳐 상황을 이겨나가야 하고, 음식을 함께 나눌 동료가 있다는것에 감사해야한다고 생각합니다.</text>
 		<text id="third3">하지만 희망이 없는 이 섬에서 우리가 얼마나 생존할 수 있을까요?</text>
 		<text id="third4">아무도 모르겟지요. 우리가 살아있는 한 희망은 있습니다. 시간이 지나면 이곳이 고향처럼 느껴지겠죠.</text>
-		<text id="fourth1">So tell us what you know of other survivors?</text>
-		<text id="fourth2">Most of us were scattered across different islands, but some of the islands have more survivors and even some working technology.</text>
-		<text id="fourth3">I’ve even heard rumors of an island with a nearly intact ship.</text>
-		<text id="fourth4">Could it still fly?</text>
-		<text id="fourth5">As I said, all I’ve heard are rumors. But even if it could, it’d be certain death. Best to stay on this planet, they don’t seem to care about us here.</text>
-		<text id="hunter1">You're so good at this stuff. Were you a hunter before the crash?</text>
-		<text id="hunter2">Heh. Never killed an animal in my life before this. I was a scientist. Lab work. Molecules.</text>
-		<text id="hunter3">Wow. How'd you figure it all out then?</text>
-		<text id="hunter4">It's amazing what you can do when you need to survive.</text>
-		<text id="hunter5">You change. You become someone your old self would barely recognize.</text>
+		<text id="fourth1">자, 이제 다른 생존자에 대해서 얼마나 알고 있죠?</text>
+		<text id="fourth2">우리는 대부분 다른 섬에 떨어져 있어, 몇몇 섬들은 많은 생존자가 모여있고 기술력도 가지고 있지.</text>
+		<text id="fourth3">거의 온전한 형태의 함선을 가지고 있는 섬이 있다는 소문도 들었어.</text>
+		<text id="fourth4">날수 있는 함선이요?</text>
+		<text id="fourth5">내가 들은건 소문 뿐이야, 가능하다고 해도 그건 거의 망가진거겟지. 다른곳은 이곳을 신경쓰지 않으니 이곳에서 지내는게 최선이야.</text>
+		<text id="hunter1">당신은 사냥을 정말 잘하는군요. 추락하기 전에는 사냥꾼이였나요?</text>
+		<text id="hunter2">한평생 동물을 죽여본적은 없어요. 저는 과학자였거든요 항상 연구실 일에 치였죠.</text>
+		<text id="hunter3">우와, 그럼 사냥하는 법은 어떻게 알아낸거에요?</text>
+		<text id="hunter4">사람은 생각보다 살아남아야 할때 많은 기지를 발위하는 법이죠.</text>
+		<text id="hunter5">당신도 그럴거에요. 예전에 당신으 알고 있던 사람들은 당신을 못알아 볼 정도로 말이죠.</text>
 		<text id="mirrows1">They’ve been rebuilding technology?</text>
 		<text id="mirrows2">Yeah, Sunset Haven has power and industrial equipment.</text>
 		<text id="mirrows3">But the folks there aren’t too happy with the Mirrows who set it all up.</text>
