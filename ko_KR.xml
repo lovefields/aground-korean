@@ -84,14 +84,14 @@
 		<text id="reject">거절</text>
 		<text id="sell">판매</text>
 		<text id="buy">구매</text>
-		<text id="drop_item">How many would you like to throw away?</text>
-		<text id="eat_item">How many would you like to eat?</text>
-		<text id="drink_item">How many would you like to drink?</text>
-		<text id="store_item">How many would you like to store?</text>
-		<text id="retrieve_item">How many would you like to retrieve?</text>
+		<text id="drop_item">몇개를 버릴까?</text>
+		<text id="eat_item">몇개를 먹을까?</text>
+		<text id="drink_item">몇개를 마실까?</text>
+		<text id="store_item">몇개를 넣을까?</text>
+		<text id="retrieve_item">몇개를 가져올까?</text>
 		<text id="cancel_item">How many would you like to cancel?</text>
-		<text id="sell_item">How many would you like to sell?</text>
-		<text id="buy_item">How many would you like to buy?</text>
+		<text id="sell_item">몇개를 팔까?</text>
+		<text id="buy_item">몇개를 살까?</text>
 		<text id="requires">-- 재료 --</text>
 		<text id="repair_cost">-- 수리 비용 --</text>
 		<text id="creates">-- 제작 --</text>
@@ -938,7 +938,7 @@
 		<text id="critical">Always gets a critical hit.</text>
 		<text id="max_weight">Max Weight</text>
 		<text id="reflect">Reflect Damage</text>
-		<text id="fires">Fires {projectile}s</text>
+		<text id="fires">{projectile} 사용</text>
 		<text id="cocoon">Hatches in [color=770000]Wyrm Pen[/color].</text>
 		<text id="builds">건설</text>
 		<text id="upgrades">Upgrades</text>
@@ -949,7 +949,7 @@
 		<text id="place_cost">Place Cost</text>
 		<text id="area_name_sign">Can rename islands when placed.</text>
 		<text id="equipOn">Equip On</text>
-		<text id="underwater">Can be used underwater.</text>
+		<text id="underwater">물 안에서 사용 가능.</text>
 		<text id="passTile">Passes through tiles.</text>
 		<text id="leftRight">Fires in front and behind.</text>
 		<text id="element.resist">Resists Elemental Attacks</text>
@@ -958,7 +958,7 @@
 		<text id="spirit_detector">Detects nearby life sources.</text>
 		<text id="flying">비행</text>
 		<text id="swimming">수영</text>
-		<text id="hammer">Builds blueprints on hit.</text>
+		<text id="hammer">사용시 건설한다.</text>
 	</section>
 	<section id="achievement.names">
 		<text id="sub">Submersive</text>
@@ -1137,8 +1137,8 @@
 		<text id="golemech">Defeat the [color=ff2222]Golemech[/color].</text>
 	</section>
 	<section id="structure">
-		<text id="rice">Rice Field</text>
-		<text id="teleport">Teleport to:</text>
+		<text id="rice">논</text>
+		<text id="teleport">이동:</text>
 		<text id="uproot">Uproot</text>
 		<text id="evo_chamber">Evolution Chamber</text>
 		<text id="fish.library">Library</text>
@@ -1215,7 +1215,7 @@
 		<text id="fish.library">마법책 제작</text>
 		<text id="evolve_dragon">Evolve Elder Dragon</text>
 		<text id="evolve">Evolve</text>
-		<text id="rest">쉬기</text>
+		<text id="rest">휴식</text>
 		<text id="spaceship">우주선 탑승</text>
 		<text id="oxygen">Refill Oxygen</text>
 		<text id="portal">포탈</text>
@@ -1227,7 +1227,7 @@
 		<text id="spirit_storehouse">Manage Spirit Storage</text>
 		<text id="watch">Watch</text>
 		<text id="couch">Rest on Couch</text>
-		<text id="hut">오두막에서 쉬기</text>
+		<text id="hut">오두막에서 휴식</text>
 		<text id="storehouse">창고 열기</text>
 		<text id="workshop">제작</text>
 		<text id="smelter">광물 제련</text>
@@ -1247,7 +1247,7 @@
 		<text id="fly_dragon">Fly Dragon</text>
 		<text id="activate">작동시키기</text>
 		<text id="enter">입장</text>
-		<text id="tent">텐트에서 쉬기</text>
+		<text id="tent">텐트에서 휴식</text>
 		<text id="search">Search</text>
 		<text id="power_plant">발전소</text>
 		<text id="inn">여관</text>
@@ -1390,7 +1390,7 @@
 		<text id="cooldown">You must wait for the attack to cooldown before you can use it again.</text>
 	</section>
 	<section id="market">
-		<text id="closed">Closed for the night.</text>
+		<text id="closed">밤에는 열지 않습니다.</text>
 		<text id="restock">We should be getting some new stock soon!</text>
 		<text id="no_power">I can't believe the [color=770000]Power Plant[/color] isn't working! How can I do business like this?</text>
 	</section>
@@ -1421,7 +1421,7 @@
 		<text id="station">Exotic Matter</text>
 		<text id="keycard">Drone Access</text>
 		<text id="professor">Survivors</text>
-		<text id="find_professor">Find Professor</text>
+		<text id="find_professor">교수 찾기</text>
 		<text id="research_lab">Study the Stars</text>
 		<text id="brilliant_potion">Secret Potion</text>
 		<text id="locate_hq">Research Time!</text>
@@ -1453,41 +1453,41 @@
 		<text id="requires">-- 요구사항 --</text>
 		<text id="complete">-- 완료됨 --</text>
 		<text id="hut">오두막 수리</text>
-		<text id="storehouse">창고 짓기</text>
-		<text id="storehouse2">창고 짓기</text>
-		<text id="smelter">용광로 짓기</text>
-		<text id="workshop">작업장 짓기</text>
-		<text id="kitchen">부엌 짓기</text>
+		<text id="storehouse">창고 건설</text>
+		<text id="storehouse2">창고 건설</text>
+		<text id="smelter">용광로 건설</text>
+		<text id="workshop">작업장 건설</text>
+		<text id="kitchen">부엌 건설</text>
 		<text id="kitchen2">부엌 업그레이드</text>
-		<text id="farm">농장 짓기</text>
+		<text id="farm">농장 건설</text>
 		<text id="orchard">사과 씨앗</text>
-		<text id="market">상가 짓기</text>
-		<text id="market2">상가 짓기</text>
-		<text id="dock">선착장 짓기</text>
-		<text id="dock2">선착장 짓기</text>
-		<text id="pen">왜지우리 짓기</text>
-		<text id="boat">보트 짓기</text>
+		<text id="market">상가 건설</text>
+		<text id="market2">상가 건설</text>
+		<text id="dock">선착장 건설</text>
+		<text id="dock2">선착장 건설</text>
+		<text id="pen">왜지우리 건설</text>
+		<text id="boat">보트 건설</text>
 		<text id="lab">마법 재료</text>
 		<text id="wyrm_pen">웜 우리</text>
 		<text id="hatch_dragons">용 부화</text>
 		<text id="thunder_axe">마법 도끼</text>
 		<text id="hunt">멧돼지 사냥</text>
-		<text id="fence">Perimeter</text>
+		<text id="fence">경계</text>
 		<text id="wolf">늑대 새끼</text>
 		<text id="powerplant">발전소 수리</text>
-		<text id="factory">공장 짓기</text>
-		<text id="elevator">Build Elevator</text>
-		<text id="mirrows">Confront Mirrows</text>
-		<text id="mirrows2">Convince Mirrows</text>
-		<text id="fisherman_cat">Finding Peri</text>
-		<text id="bandits">Defeat Bandits</text>
+		<text id="factory">공장 건설</text>
+		<text id="elevator">엘리베이터 건설</text>
+		<text id="mirrows">미로우 남매와 대결</text>
+		<text id="mirrows2">미로우 남매 설득</text>
+		<text id="fisherman_cat">요정을 찾아서</text>
+		<text id="bandits">강도 퇴치</text>
 		<text id="boars">멧돼지 사냥</text>
-		<text id="wyrm_hive">Wyrm Hive</text>
-		<text id="find_wyrm_hive">Find Wyrm Hive</text>
-		<text id="spirit_gem">Spirit Power</text>
-		<text id="alter_gem">Wyrm Research</text>
-		<text id="oldone">Magical Energy</text>
-		<text id="minecart">Laying Rails</text>
+		<text id="wyrm_hive">웜 둥지</text>
+		<text id="find_wyrm_hive">웜 둥지 찾기</text>
+		<text id="spirit_gem">영혼의 힘</text>
+		<text id="alter_gem">웜 연구</text>
+		<text id="oldone">마법의 힘</text>
+		<text id="minecart">레일 설치</text>
 	</section>
 	<section id="quest.description">
 		<text id="water_cave">want to find a cave to build a [object=sub] in.</text>
@@ -1546,7 +1546,7 @@
 		<text id="lab">가 [item=wyrm]에게 얻을수 있는 [item=dragonblood]을 원합니다.</text>
 		<text id="wyrm_pen">wants to experiment on [item=wyrm]s.</text>
 		<text id="hatch_dragons">Hatch [item=dragon]s to win the [item=adult_dragon] to your side.</text>
-		<text id="thunder_axe">wants to fix the [item=rusty_axe].</text>
+		<text id="thunder_axe">가 [item=rusty_axe]를 수리해주려 합니다.</text>
 		<text id="hunt">이 무기 사용 연습하길 권합니다.</text>
 		<text id="fence">이 [item=fence]를 설치하려 합니다.</text>
 		<text id="wolf">wants to tame the wolf pup.</text>
@@ -1602,7 +1602,7 @@
 		<text id="in_use">Unable to operate vehicle: another player is already operating it!</text>
 	</section>
 	<section id="npc">
-		<text id="mirrows">미로우즈</text>
+		<text id="mirrows">미로우 남매</text>
 		<text id="worker_bot.builder">건설 봇</text>
 		<text id="worker_bot.miner">채굴 봇</text>
 		<text id="worker_bot.farmer">농부 봇</text>
