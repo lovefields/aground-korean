@@ -69,7 +69,7 @@
 		<text id="add_feed">사료 넣기</text>
 		<text id="all">ALL</text>
 		<text id="equipment">장비</text>
-		<text id="capacity">Carry:</text>
+		<text id="capacity">용량:</text>
 		<text id="health">체력:</text>
 		<text id="stamina">기력:</text>
 		<text id="health_short">HP</text>
@@ -152,7 +152,7 @@
 		<text id="auto_eat">{item} {count}개를 체력을 회복하는데 사용했습니다.</text>
 		<text id="auto_eat_stamina">{item} {count}개를 기력을 회복하는데 사용했습니다.</text>
 		<text id="auto_eat_oxygen">{item} {count}개를 산소를 충전하는데 사용했습니다.</text>
-		<text id="drop_all">Are you sure you wish to throw away all your {item}? They will be gone for good.</text>
+		<text id="drop_all">정말로 {item}을(를) 버릴건가요? 버리면 영원히 사라집니다.</text>
 		<text id="sign_message">[item=sign]에 쓸 글:</text>
 		<text id="transform">How many would you like to turn into {into}?</text>
 		<text id="collect_complete">완료품 수거</text>
@@ -179,24 +179,24 @@
 		<text id="rations">배급</text>
 		<text id="time">시간</text>
 		<text id="auto_feed">Feed {item} the following?{list}</text>
-		<text id="auto_fuel">Fuel {item} with the following?{list}</text>
+		<text id="auto_fuel">{item}에 다음항목을 사용할까요?{list}</text>
 		<text id="auto_repair">Repair {item} with the following?{list}</text>
 		<text id="retransform">{item} is about to break! Use the following to fix?{list}</text>
-		<text id="uses">Uses</text>
+		<text id="uses">사용</text>
 		<text id="enchantment">Enchantment</text>
-		<text id="cooldown">Cooldown</text>
+		<text id="cooldown">냉각</text>
 		<text id="durability">내구도</text>
-		<text id="damage">Damage</text>
-		<text id="capture">Capture</text>
+		<text id="damage">공격력</text>
+		<text id="capture">포획</text>
 		<text id="capture_type">Capture Type</text>
 		<text id="spirits">Spirits</text>
-		<text id="flight">Flight Height:</text>
+		<text id="flight">비행 높이:</text>
 		<text id="depth">Dive Depth:</text>
 		<text id="knockback">넉백:</text>
 		<text id="fight">싸우기</text>
 		<text id="run_away">도망치기</text>
 		<text id="complete">Complete</text>
-		<text id="remove">Remove</text>
+		<text id="remove">해제</text>
 		<text id="time_manipulator">시간 조종기</text>
 		<text id="set_time">What time would you like to make it (24-hour format)?</text>
 		<text id="save_prompt_magic">This is the end of the demo for the Magic Path. 저장 하시겠습니까?</text>
@@ -299,7 +299,7 @@
 		<text id="collect">수집</text>
 		<text id="open">열기</text>
 		<text id="carve">조각하기</text>
-		<text id="switch">Switch</text>
+		<text id="switch">변경</text>
 		<text id="transform">변형하기</text>
 		<text id="repair">수리</text>
 		<text id="rename">이름짓기</text>
@@ -449,9 +449,9 @@
 		<text id="pumpkin_helm">Pumpkin Helm</text>
 		<text id="scale_mail">Scale Mail</text>
 		
-		<text id="ladder">Steel Ladder</text>
-		<text id="walkway">Steel Walkway</text>
-		<text id="grass_walkway">Grassy Walkway</text>
+		<text id="ladder">강철 사다리</text>
+		<text id="walkway">강철 통로</text>
+		<text id="grass_walkway">잔디 통로</text>
 		
 		<text id="bunker_blueprint">벙커 설계도</text>
 		<text id="bunker_kitchen_blueprint">벙커 부엌 설계도</text>
@@ -471,7 +471,7 @@
 		<text id="exotic_matter">외우주 물질</text>
 		<text id="magnegem">Magnegem</text>
 		<text id="chromium">Chromium</text>
-		<text id="o2_canister">O2 Canister</text>
+		<text id="o2_canister">산소통</text>
 		<text id="fighter.cannon">플라즈마 캐논</text>
 		<text id="fighter.gun">플라즈마 건</text>
 		<text id="fighter.launcher">반물질 런처</text>
@@ -845,24 +845,24 @@
 	</section>
 	<section id="item.descriptions">
 		<text id="com_device">Communicate with anyone in your contact list.</text>
-		<text id="powerplant">Powers structures.</text>
+		<text id="powerplant">전력 용품.</text>
 		<text id="clock">시간을 보여준다.</text>
-		<text id="cable">Connects generators to buildings.</text>
-		<text id="pump">Drains water around you.</text>
-		<text id="cost_per_tile">{value} per tile.</text>
-		<text id="block_stamina">Blocks damage with [tile=stamina] [color=006600]Stamina[/color].</text>
-		<text id="block_power">Blocks damage with [tile=power] [color=444400]Power[/color].</text>
+		<text id="cable">발전소와 건물을 연결해준다.</text>
+		<text id="pump">주변 물을 흡수한다.</text>
+		<text id="cost_per_tile">타일당 {value}.</text>
+		<text id="block_stamina">[tile=stamina] [color=006600]기력[/color]으로 방어.</text>
+		<text id="block_power">[tile=power] [color=444400]전력[/color]으로 방어.</text>
 		<text id="omnidirectional">Blocks attacks from all directions.</text>
 		<text id="blockIgnoreArmor">Blocks all attacks, even spirit ones.</text>
 		<text id="patrol_boat">A faster, stronger boat that can mount weapons.</text>
 		<text id="sub">Explore the depths of the ocean!</text>
 		<text id="jet">Fly the skies!</text>
-		<text id="jeep">A battery powered ATV!</text>
-		<text id="bigdrill">A large drill vehicle that makes mining a breeze!</text>
-		<text id="worker_bot_builder">Builds blueprints faster and gathers [item=wood].</text>
-		<text id="worker_bot_miner">Mines ores underground with a mining power of 4.</text>
-		<text id="worker_bot_farmer">Tends farms and gathers crops.</text>
-		<text id="patrol_bot">Patrols left and right, shooting enemies with a powerful laser gun.</text>
+		<text id="jeep">전기로 움직이는 ATV!</text>
+		<text id="bigdrill">채굴하기 쉽게 만든 대형 드릴 기계!</text>
+		<text id="worker_bot_builder">건물을 더 빠르게 지으며 [item=wood]를 수집합니다.</text>
+		<text id="worker_bot_miner">채광 4단계로 광석을 채굴합니다.</text>
+		<text id="worker_bot_farmer">농사를 짓고 작물을 수집합니다.</text>
+		<text id="patrol_bot">좌우로 순찰하며 강력한 레이저 총으로 적을 쏩니다.</text>
 		<text id="nuke">Causes a powerful nuclear explosion on hit.</text>
 		<text id="element_trap">4x capture against {element}.</text>
 		<text id="teleport_book">Returns you to dungeon exits or resting places.</text>
@@ -873,10 +873,10 @@
 		<text id="light_book">Creates a temporary orb of light that follows you.</text>
 		<text id="heal_book">Creates a temporary healing circle that heals 5 [tile=health] [color=770000]Health[/color] per second.</text>
 		<text id="boost_stat">[tile=stat.{stat}] [text=stats.{stat}]: +{value}</text>
-		<text id="jumpship">A barebones FTL spacecraft created from salvaged wreckage.</text>
+		<text id="jumpship">잔해들로 만들어진 FTL 우주선.</text>
 		<text id="dragon_ship.burst">Fires 5 projectiles at once.</text>
 		<text id="jump">Can travel between planets.</text>
-		<text id="fence_underground">Keeps enemies out.\nCan be placed underground.</text>
+		<text id="fence_underground">적을 막아준다.\n지하에 설치할 수 있다.</text>
 		<text id="drone_control">Allows you to take control of drones you have built anywhere (in any system).</text>
 		
 		<text id="meteor_book">Calls down 10 powerful fireballs that fall randomly around you.</text>
@@ -907,36 +907,36 @@
 		<text id="beacon_book">Creates a beacon that the [item=teleport_book] will take you to.</text>
 		<text id="sonar">Detects nearby objects and obstacles.</text>
 		<text id="boat">Sail the World.</text>
-		<text id="fence">Keeps enemies out.</text>
+		<text id="fence">적을 막아준다.</text>
 		<text id="furnace">Smelts ore.</text>
-		<text id="campfire">Cooks [item=steak].</text>
+		<text id="campfire">[item=steak] 요리 가능.</text>
 		<text id="magic_box">Contains everything.</text>
-		<text id="craft">Crafts items.</text>
-		<text id="repair">Repairs items.</text>
+		<text id="craft">제작도구.</text>
+		<text id="repair">수리도구.</text>
 		<text id="freeze">Freezes enemies.</text>
-		<text id="burn">Burn</text>
+		<text id="burn">화상</text>
 		<text id="drain">Health Drain</text>
 		<text id="undrain">Health Decay</text>
 		<text id="transform_other">Transforms items.</text>
-		<text id="fill">Fills holes.</text>
-		<text id="collect_rail">Pries up rails, cables and ladders.</text>
-		<text id="storehouse">Stores items.</text>
-		<text id="sign">Shows message.</text>
+		<text id="fill">구멍을 매꾼다.</text>
+		<text id="collect_rail">레일, 케이블 및 사다리를 수집한다.</text>
+		<text id="storehouse">아이템 보관.</text>
+		<text id="sign">메세지 표시.</text>
 		<text id="view_hidden">Reveals spirits.</text>
-		<text id="tent">Rests and restores [tile=stamina] [color=006600]Stamina[/color].</text>
+		<text id="tent">휴식을 취하고 [tile=stamina] [color=006600]기력[/color]을 회복한다.</text>
 		<text id="spawn">Spawns {item}.</text>
 		<text id="light">장비시 주변에 빛을 제공합니다.</text>
-		<text id="cost_per_s">{value} per second.</text>
-		<text id="cost_per_s_daylight">{value} per sec in daylight.</text>
+		<text id="cost_per_s">{value}/s.</text>
+		<text id="cost_per_s_daylight">낮에 {value}제공.</text>
 		<text id="cost_per_s_darkness">{value} per sec in darkness.</text>
 		<text id="cost_per_s_day">{value} per sec daytime.</text>
 		<text id="cost_per_s_night">{value} per sec night.</text>
 		<text id="cost_per_s_injured">{value} per sec injured.</text>
-		<text id="cost_per_s_damaged">{value} per sec when not full.</text>
+		<text id="cost_per_s_damaged">{value}/s (연료가 가득차지 않은경우)</text>
 		<text id="cost_per_s_undamaged">{value} per sec when full.</text>
 		<text id="hide">Hides the wearer.</text>
 		<text id="critical">Always gets a critical hit.</text>
-		<text id="max_weight">Max Weight</text>
+		<text id="max_weight">최대 무게</text>
 		<text id="reflect">Reflect Damage</text>
 		<text id="fires">{projectile} 사용</text>
 		<text id="cocoon">Hatches in [color=770000]Wyrm Pen[/color].</text>
@@ -945,10 +945,10 @@
 		<text id="dismantle">Breaks down structures you have a [tile=blueprint.ico] [color=770000]Blueprint[/color] for.</text>
 		<text id="collect">Collects nearby items.</text>
 		<text id="plants">Plants</text>
-		<text id="plant_cost">Plant Cost</text>
-		<text id="place_cost">Place Cost</text>
-		<text id="area_name_sign">Can rename islands when placed.</text>
-		<text id="equipOn">Equip On</text>
+		<text id="plant_cost">설치 비용</text>
+		<text id="place_cost">설치 비용</text>
+		<text id="area_name_sign">설치한 섬의 이름을 정합니다.</text>
+		<text id="equipOn">상용처</text>
 		<text id="underwater">물 안에서 사용 가능.</text>
 		<text id="passTile">Passes through tiles.</text>
 		<text id="leftRight">Fires in front and behind.</text>
@@ -958,7 +958,7 @@
 		<text id="spirit_detector">Detects nearby life sources.</text>
 		<text id="flying">비행</text>
 		<text id="swimming">수영</text>
-		<text id="hammer">사용시 건설한다.</text>
+		<text id="hammer">Builds blueprints on hit.</text>
 	</section>
 	<section id="achievement.names">
 		<text id="sub">Submersive</text>
@@ -1296,7 +1296,7 @@
 	<section id="warning">
 		<text id="no_power_core">You have no [item=power_core]s to install!</text>
 		<text id="not_powered_house">You rest in the house, but there was no power.</text>
-		<text id="laser_gun">The [item=laser_gun] has overheated!</text>
+		<text id="laser_gun">[item=laser_gun]이(가) 과열 되었습니다!</text>
 		<text id="teleport_fail">There is no dungeon exit or resting place to return to here!</text>
 		<text id="teleport_blocked">There's a barrier stopping you from teleporting.</text>
 		<text id="build_orbit">This structure must be built in orbit.</text>
@@ -1321,14 +1321,14 @@
 		<text id="werewolf_vehicle">These {item} are too clumsy to operate a vehicle!</text>
 		<text id="operation_table_inhuman">The [color=770000]Surgery Lab[/color] cannot turn non-humans into cyborgs.</text>
 		<text id="weight">너무 무겁게 짊어지고 있습니다!</text>
-		<text id="stamina">Out of Stamina, Losing Health!</text>
-		<text id="oxygen">Out of Oxygen, Losing Health!</text>
+		<text id="stamina">기력을 전부 소모해서 체력을 잃습니다!</text>
+		<text id="oxygen">산소를 전부 소모해서 체력을 잃습니다!</text>
 		<text id="crush">Below Dive Depth, Losing Health!</text>
 		<text id="growing">아직 수확할 수 없습니다! 나중에 다시오세요.</text>
 		<text id="additions">No addition slots remaining!</text>
 		<text id="durability">Too damaged to use!</text>
 		<text id="focus">클릭해서 활성화 시키세요</text>
-		<text id="ingredients">You do not have enough ingredients.</text>
+		<text id="ingredients">재료가 부족합니다.</text>
 		<text id="place_surface">You cannot place this object below the surface.</text>
 		<text id="place_overlap">You cannot place objects on top of objects.</text>
 		<text id="place_no_room">You must dig out a bigger area to place this object.</text>
@@ -1348,15 +1348,15 @@
 		<text id="plant_structure">You cannot plant on top of structures or crops.</text>
 		<text id="plant_grass">You can only plant on fertile grass tiles.</text>
 		<text id="place_rooms">You must place this entirely in a single room.</text>
-		<text id="no_effect">It won't have any effect.</text>
-		<text id="drop_instead">Would you like to throw them away instead?</text>
+		<text id="no_effect">아무런 효과도 얻을 수 없습니다.</text>
+		<text id="drop_instead">대신 이것을 버리겠습니까?</text>
 		<text id="cannot_fire">Cannot fire {projectile} without {weapon}.</text>
 		<text id="no_projectiles">Cannot fire {weapon}: out of {projectile}s.</text>
-		<text id="max_items">You cannot add any more items!</text>
-		<text id="max_fuel">You cannot add any more fuel!</text>
+		<text id="max_items">아이템을 더이상 넣을수 없습니다!</text>
+		<text id="max_fuel">연료를 더이상 넣을수 없습니다!</text>
 		<text id="max_repair">It is already fully repaired!</text>
 		<text id="max_rations">You cannot add any more rations!</text>
-		<text id="max_feed">You cannot add any more feed!</text>
+		<text id="max_feed">사료를 더이사 줄수 없습니다!</text>
 		<text id="max_coins">You cannot hold any more coins!</text>
 		<text id="send_bug_report">Something went wrong! Would you like to send a bug report?</text>
 		<text id="not_powered">There is no power!</text>
@@ -1566,7 +1566,7 @@
 		<text id="submarine">잠수함</text>
 		<text id="jeep">SUV</text>
 		<text id="jet">제트기</text>
-		<text id="bigdrill">Boring Machine</text>
+		<text id="bigdrill">채굴기계</text>
 		<text id="patrol_boat">전투함</text>
 		<text id="damage_bonus">Damage Bonus</text>
 		<text id="fly_ship">Alright... lets see if this ship will fly!</text>
@@ -1664,9 +1664,9 @@
 		<text id="kitchen2">[var=quest.kitchen.wood] [item=wood]와 [var=quest.kitchen.coal] [item=coal]이 있다면 [color=770000]부엌[/color]을 지을수 있어요.</text>
 		<text id="kitchen3">필요한건 전부 모은것 같네요. 이제 [color=770000]부엌[/color]을 지을수 있어요!</text>
 		<text id="kitchen4">이제 [color=770000]부엌[/color]에서 요리 할 수 있어요. 연료로 [item=wood]나 [item=coal]이 필요할거에요.</text>
-		<text id="kitchen5">You know what I’m craving? Some [item=cheese]. Nothing is quite as delicious.</text>
-		<text id="kitchen6">I could upgrade the [color=770000]Kitchen[/color] to make [item=cheese] and cook new recipes for [var=quest.kitchen2.wood] [item=wood] and [var=quest.kitchen2.steel_bar] [item=steel_bar]s.</text>
-		<text id="no_kitchen">What happened to my beautiful [color=770000]Kitchen[/color]? You better build a new one ASAP! You can build it using a [item=kitchen_blueprint].</text>
+		<text id="kitchen5">제가 원하는게 뭔지 아나요? [item=cheese]에요. 제가 가장 좋아하는 음식이죠.</text>
+		<text id="kitchen6">제가 [item=cheese]를 만들수 있도록 [color=770000]부엌[/color]을 업그레이드 해줄게요. [item=wood] [var=quest.kitchen2.wood]개와 [item=steel_bar] [var=quest.kitchen2.steel_bar] 가 있으면 되요.</text>
+		<text id="no_kitchen">제 훌륭한 [color=770000]부엌[/color]에 무슨일이 생긴거죠? 가능한 빨리 새로 짓는게 좋을거에요! [item=kitchen_blueprint]를 사용하세요.</text>
 		<text id="kitchen7">필요한건 전부 모은것 같네요. 이제 [color=770000]부엌[/color]을 업그레이드 할 수 있어요!</text>
 		<text id="kitchen8">Try out some of the new recipes! It almost feels civilized!</text>
 		<text id="farm">Man, I'm hungry. I hope you get that [color=770000]Farm[/color] finished soon!</text>
@@ -1689,12 +1689,12 @@
 		<text id="farm4">많이 수확 하고 싶다면 많이 심으세요! 모든건 헛간에서 관리할수 있어요.</text>
 		<text id="farm5">Look at our awesome [color=770000]Farm[/color]! It's as good as anything I used to grow back home! But if you want to grow more, I can always make more seeds.</text>
 		<text id="kitchen">Raw [item=wheat] isn’t very tasty, but I bet we could make something better if you and the [object=builder] made a [color=770000]Kitchen[/color].</text>
-		<text id="pen1">You know what this [color=770000]Farm[/color] needs? Some Livestock! How about capturing some [color=770000][tile=boar] Boars[/color] with a [item=net]?</text>
-		<text id="pen2">I’ll add a [color=770000]Pen[/color] for [var=quest.pen.pig] [item=pig]s and [var=quest.pen.wood] [item=wood].</text>
+		<text id="pen1">이 [color=770000]농장[/color]에 뭐가 더 필요한지 아시나요? 가축이에요! [item=net]으로 [color=770000][tile=boar] 멧돼지[/color]를 잡는게 어떨까요?</text>
+		<text id="pen2">[color=770000]축사[/color]에 필요한 [item=pig] [var=quest.pen.pig]마리와 [item=wood] [var=quest.pen.wood]개를 준비해주세요.</text>
 		<text id="pen3">Now aren't those the fattest and juiciest looking [item=pig]s you've ever seen?</text>
 		<text id="pen4">With the pen, we can now produce [item=meat] and [item=milk]!</text>
 		<text id="pen5">If you want to build more [color=770000]Pen[/color]s, use the [item=pen_blueprint].</text>
-		<text id="pig">How do you get a [item=pig]? Lay a [item=net] on the ground and then lure a wounded [color=770000][tile=boar] Boar[/color] onto it, and if you're lucky, it’ll be caught and domesticated!</text>
+		<text id="pig">[item=pig]를 어떻게 얻냐구요? [item=net] 을 땅에 설치해서 [color=770000][tile=boar] 멧돼지[/color]를 유인해보세요. 운이 좋다면 길들일수 있을거에요!</text>
 		<text id="kitchen2">Milking a [item=pig]? Why not? This is a strange land. But what we could really use is some [item=cheese] - talk to the [object=builder] about improving the [color=770000]Kitchen[/color].</text>
 		<text id="halloween">I hope you don't mind, but I did a little decoratin' for the Harvest Festival! We could use a little celebrating around here. I also put some [item=jakolantern]s in the [color=770000]Storehouse[/color].</text>
 		<text id="add_sugar">This farm is getting pretty big! To celebrate I found some [item=sugar_seed]! Try planting a field of [item=sugar]!</text>
@@ -1740,7 +1740,7 @@
 		<text id="equip1">If you want to mine through [color=770000][tile=stone] Stone[/color] to reach [item=gold], you'll need to equip an [item=iron_pickaxe] or a [item=steel_pickaxe]. Hit [key=equipment] to manage your equipment.</text>
 		<text id="equip2">[key=equipment]키를 눌러 나오는 장비창에서 주사용 곡괭이를 지정할 수 있어요.</text>
 		<text id="hotkey">[color=770000]단축키[/color]를 사용해봤니?\n 가방에서 [key=hotkey1], [key=hotkey2], [key=hotkey3], [key=hotkey4]키를 이용해 아이템을 등록할수 있어!</text>
-		<text id="minecart1">One thing every miner needs is a good [item=minecart] and [item=rail] system! Ores are heavy, and having a way to easily transport them to the [color=770000]Storehouse[/color] would be amazing.</text>
+		<text id="minecart1">광부들에게 좋은게 있다면 바로 [item=minecart]와 [item=rail] 시스템이에요! 광물은 무거워요, 광차는 [color=770000]창고[/color]까지 운송을 가능하게 해주는 훌륭한 시스템이죠.</text>
 		<text id="minecart2">You built a [item=minecart] and [item=rail]s? Perfect, let's place them right away!</text>
 		<text id="minecart3">Here, I placed the [item=minecart] and a small [item=rail] system! You can expand it and move [item=rail]s using a [item=crowbar] to pry them up!</text>
 	</section>
@@ -1761,8 +1761,8 @@
 		<text id="introduce7">좋아. 다른 생존자들과 교역을 하면 이섬에서 나갈수 있겟지.</text>
 		<text id="introduce8">미안하지만 도둑은 믿을수 없어요. 이섬을 떠나서 다시는 돌아오지마세요.</text>
 		<text id="introduce9">도둑질을 할 섬은 얼마든지 있어. 뭐가 사라진지도 모르잖아?</text>
-		<text id="market1">Perfect! I feel this is the beginning of many lucrative trades between us.</text>
-		<text id="market2">Take this [item=coin_purse]. You’ll need it to store coins for buying and selling. I recommend buying a [item=mega_backpack] as soon as you can, they are a real life-saver!</text>
+		<text id="market1">완벽해! 이제 우리 비즈니스의 시작이야.</text>
+		<text id="market2">[item=coin_purse]를 줄게. 주화를 보관할때 필요할거야. 왠만하면 [item=mega_backpack]을 빨리 구하는걸 추천해, 그들은 진짜니까!</text>
 		<text id="market3">At the [color=770000]Market[/color], you can sell goods to get coins, which you can use to buy other goods.</text>
 		<text id="market4">The [color=770000]Market[/color] sometimes gets new stock too, so if you can't get what you want or they run out of inventory, check back later.</text>
 		<text id="market5">[item=gold_bar]를 만들기 위해서는 [item=gold]이 필요해, 이건 아주 깊은곳에서 찾을 수 있지. [object=miner]가 깊은곳을 채광하기 위한 좋은 팁들을 알고 있을거야.</text>
@@ -1815,10 +1815,10 @@
 		<text id="lab1">해낼줄 알았어요! 이게 바로 비결이에요! 당장 연구소를 세워야해요!</text>
 		<text id="lab2">보상으로 제 연구실에 오면 물약을 만들수 있게 해줄게요.</text>
 		<text id="lab3">서둘러 주세요! [item=dragonblood]을 얻기 전까진 실험을 할 수 없어요!</text>
-		<text id="pen1">I need more [item=dragonblood]! Bring me [var=quest.wyrm_pen.wyrm] live [item=wyrm]s and we'll have an endless supply of [item=dragonblood] to experiment with!</text>
+		<text id="pen1">[item=dragonblood]이 더 필요해요! 저에게 살아있는 [item=wyrm] [var=quest.wyrm_pen.wyrm]를 가져와 주세요. [item=dragonblood]을 계속 생산해서 실험을 해야겠어요!</text>
 		<text id="pen2">Excellent! Stand back while I work my magic!</text>
 		<text id="pen3">Behold my brilliant invention - the [color=770000]Wyrm Pen[/color]! It's more than just a pen, it's an endless supply of [item=dragonblood]!</text>
-		<text id="wyrm">I bet you could capture a [item=wyrm] with a [item=net] if it was heavily wounded. But you must catch it alive!</text>
+		<text id="wyrm">[item=wyrm]의 체력이 낮아지면 [item=net]을 사용해서 잡을 수 있어요. 하지만 반드시 살아있어야 해요!</text>
 		<text id="dragon1">We must experiment more on the [item=wyrm]s! What do they eat? Why do they give [item=dragonblood]? You must feed the [item=wyrm]s in the [color=770000]Wyrm Pen[/color] to find out more about their evolution!</text>
 		<text id="dragon2">I knew it! The [item=wyrm]s metamorphosize into [item=dragon]s! But then why are there so few [item=adult_dragon]s in this land?</text>
 		<text id="dragon3">I believe there is a dragon lair somewhere in the mountain. If you find it, summon me... perhaps some of these secrets can be discovered there.</text>
@@ -2002,20 +2002,20 @@
 		<text id="tip2">[item=red_berries]을 사용하면 일시적으로 공격력을 높힐 수 있어요. 하지만 조심하세요 그 열매는 건강에 좋지 않아요.</text>
 		<text id="tip3">만약 "막음!"이 계속 보인다면 몬스터가 너무 강한거에요. 더 강한 무기나 더 강한 공격이 필요해요.</text>
 		<text id="tip4">[item=arrow]을 단축키에 등록하면 [item=bow]을 장비하지 않아도 사용할 수 있어요!</text>
-		<text id="tent3">So there I was, shivering and alone on the dark mountainside, when I saw firelight! And heard laughter! It sounded so companionable...</text>
-		<text id="tent4">So you came down to make friends with us?</text>
-		<text id="tent5">Of course not. And I certainly wasn’t hunting boars to try and impress you. Not at all.</text>
-		<text id="tent6">I simply wanted to expand my hunting range.</text>
-		<text id="tent7">I’d like to know more about this place, and whether there’s anything beyond this island...</text>
-		<text id="tent8">There’s other islands out there to the east. I’ve seen them, from high in the mountains.</text>
-		<text id="tent9">Think we could get there?</text>
-		<text id="tent10">Not sure. The coast on that end is treacherous. Plus, those islands looked plenty strange to me. Might be dangerous.</text>
-		<text id="tent11">So you’re saying we should just be content with the way things are?</text>
-		<text id="tent12">I’m saying that we don’t need to go borrowing trouble when life is already hard.</text>
+		<text id="tent3">나는 어두운 산비탈에서 혼자 추위에 떨고 있었는데, 저 밑에서 불빛과 웃음 소리가 들렸어! 정말 즐거워 보였지...</text>
+		<text id="tent4">그래서 우리를 만나러 내려왔나요?</text>
+		<text id="tent5">아니요? 그리고 당신에게 보여주려고 멧돼지를 사냥한게 아니에요. 전혀!</text>
+		<text id="tent6">저는 단지 제 사냥 범위를 넓히고 있었어요.</text>
+		<text id="tent7">저는 이 지역에 대해서 더 자세히 알고 싶어요, 그리고 이 섬에 대해서도...</text>
+		<text id="tent8">동쪽에 다른 섬이 있어요. 산정상에서 본적이 있어요.</text>
+		<text id="tent9">고마워요, 우리가 거기에 갈수 있을까요?</text>
+		<text id="tent10">모르죠, 이 섬의 해안은 거칠어요. 게다가, 그 섬은 많이 낯설어 보였어요. 위험할 수도 있어요.</text>
+		<text id="tent11">그럼 그냥 지금 상황에 만족해야 한다는 말인가요?</text>
+		<text id="tent12">제말은 굳이 위험을 감수할 이유가 없다는 말이에요.</text>
 		<text id="fence1">저는 이지역의 야생동물을 계속 감시하고 싶어요.</text>
 		<text id="fence2">혹시 [item=workbench]를 이용해서 [item=fence] [var=quest.fence.fence]개를 만들어 주시겠어요? 그러면 우리는 경계를 만들수 있어요.</text>
-		<text id="fence3">Perfect. [color=770000][tile=boar] Boar[/color]s can't run through [item=fence]s, so we can use them to protect our settlement.</text>
-		<text id="fence4">I'll place one here, place the other [item=fence]s around our base to protect it!</text>
+		<text id="fence3">완벽해. [color=770000][tile=boar] 멧되지[/color]들은 [item=fence]를 넘어오지 못해요. 이제 우리는 안전해요.</text>
+		<text id="fence4">제가 여기에 하나 설치하겠어요. 다른 [item=fence]를 주변에 설치해서 숙소를 지켜보죠!</text>
 		<text id="wolf1">I've noticed a wolf pup hanging around our settlement. He seems lonely.</text>
 		<text id="wolf2">Doesn't he have a pack?</text>
 		<text id="wolf3">They must have left him behind.</text>
