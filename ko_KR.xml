@@ -1400,10 +1400,10 @@
 		<text id="ship_parts">함선 부품</text>
 		<text id="com_station">Build Com Station</text>
 		<text id="highest_mountain">Reach Summit</text>
-		<text id="repair_escort">Repair Escort Ship</text>
-		<text id="pirates">Defeat Pirates</text>
+		<text id="repair_escort">우주선 수리</text>
+		<text id="pirates">해적 퇴치</text>
 		<text id="go_east">마법 공부</text>
-		<text id="find_magic2">동쪽으로.</text>
+		<text id="find_magic2">동쪽으로</text>
 		<text id="plant_boss">Defeat the Cultivator</text>
 		<text id="ice_boss">Defeat the Storm</text>
 		<text id="cultivator">The Vine Copse</text>
@@ -1465,7 +1465,7 @@
 		<text id="market2">상가 건설</text>
 		<text id="dock">선착장 건설</text>
 		<text id="dock2">선착장 건설</text>
-		<text id="pen">왜지우리 건설</text>
+		<text id="pen">돼지우리 건설</text>
 		<text id="boat">보트 건설</text>
 		<text id="lab">마법 재료</text>
 		<text id="wyrm_pen">웜 우리</text>
@@ -1479,7 +1479,7 @@
 		<text id="elevator">엘리베이터 건설</text>
 		<text id="mirrows">미로우 남매와 대결</text>
 		<text id="mirrows2">미로우 남매 설득</text>
-		<text id="fisherman_cat">요정을 찾아서</text>
+		<text id="fisherman_cat">페리을 찾아서</text>
 		<text id="bandits">강도 퇴치</text>
 		<text id="boars">멧돼지 사냥</text>
 		<text id="wyrm_hive">웜 둥지</text>
@@ -1490,20 +1490,20 @@
 		<text id="minecart">레일 설치</text>
 	</section>
 	<section id="quest.description">
-		<text id="water_cave">want to find a cave to build a [object=sub] in.</text>
+		<text id="water_cave">가 동굴을 찾아 [object=sub]을 설치하려 합니다.</text>
 		<text id="ship_parts">want you to find [item=ship_parts] underwater.</text>
 		<text id="com_station">wants to build a [color=770000]Com Station[/color] to contact survivors.</text>
 		<text id="repair_escort">want to repair the broken [color=770000]Fighter Escort[/color] ship.</text>
-		<text id="pirates">wants to deal with the pirates east of [color=770000]Sunset Haven[/color].</text>
+		<text id="pirates">가 [color=770000]Sunset Haven[/color]의 해석을 퇴치해주길 원합니다.</text>
 		<text id="go_east">wants you to learn magic before THEY come.</text>
 		<text id="cultivator">wants you to activate the [color=770000]Vine Copse[/color].</text>
 		<text id="dragon_ship">wants to evolve an [object=fly_ancient_dragon] into a ship.</text>
 		<text id="coral_pen">wants to experiment with fish and coral.</text>
 		<text id="revitalize_dragon">can help revitalize the [object=ancient_dragon_npc].</text>
-		<text id="witch_potion">wants a potion to fix her aching back.</text>
+		<text id="witch_potion">가 허리에 좋은 약을 원합니다.</text>
 		<text id="wand">wants you to evolve a piece of wood.</text>
-		<text id="sushi">wants to teach you how to make [item=sushi].</text>
-		<text id="power_core">The spaceship needs a [item=power_core] to fly.</text>
+		<text id="sushi">이 [item=sushi]을 원합니다.</text>
+		<text id="power_core">우주선이 날기 위해서는 [item=power_core]가 필요합니다.</text>
 		<text id="bombardment">want you to destroy the enemy [color=770000]Bomber[/color].</text>
 		<text id="bunker">Ore Merchant wants to find rare ores on the innermost planet.</text>
 		<text id="station">Ore Merchant will help build a space station for [item=exotic_matter].</text>
@@ -1534,34 +1534,33 @@
 		<text id="smelter">가 광물을 가공할 [color=550000]제련소[/color]를 원합니다</text>
 		<text id="workshop">가 [color=550000]작업장[/color]을 지으려 합니다.</text>
 		<text id="kitchen">가 [color=550000]부엌[/color]을 지으려 합니다.</text>
-		<text id="kitchen2">wants the [color=550000]Kitchen[/color] to make [item=cheese].</text>
+		<text id="kitchen2">가 [color=550000]부엌[/color]에서 [item=cheese]를 만들고 싶어합니다.</text>
 		<text id="farm">가 재배를 위한 [color=550000]농장[/color]을 짓기 원합니다.</text>
 		<text id="orchard">가 [item=fruit]로 [color=550000]과수원[/color]을 지으려 합니다.</text>
 		<text id="market">이 [color=550000]상가[/color]를 구성하고 싶어합니다.</text>
-		<text id="market2">Build a [color=550000]Market[/color] to attract traders to your [color=550000]Dock[/color].</text>
+		<text id="market2">[color=550000]상가[/color]를 짓고 [color=550000]선착장[/color]을 통해 교역을 하자.</text>
 		<text id="dock">wants a [color=550000]Dock[/color] to travel the world.</text>
-		<text id="dock2">Build a [color=550000]Dock[/color] to find other survivors.</text>
-		<text id="pen">wants to add a [color=550000]Pen[/color] to house livestock.</text>
-		<text id="boat">It's time to sail the world! Build a [tile=boat.ico] Boat at the [color=550000]Dockhouse[/color].</text>
+		<text id="dock2">[color=550000]선착장[/color]을 지어서 다른 생존자를 찾아보자.</text>
+		<text id="pen">가 [color=550000]축사[/color]를 건설하고 싶어합니다.</text>
+		<text id="boat">세계를 항해할 시간이다! [color=550000]부두집[/color]에서 [tile=boat.ico] 보트를 만들자.</text>
 		<text id="lab">가 [item=wyrm]에게 얻을수 있는 [item=dragonblood]을 원합니다.</text>
-		<text id="wyrm_pen">wants to experiment on [item=wyrm]s.</text>
+		<text id="wyrm_pen">가 [item=wyrm]을 잡아 실험하려 합니다.</text>
 		<text id="hatch_dragons">Hatch [item=dragon]s to win the [item=adult_dragon] to your side.</text>
 		<text id="thunder_axe">가 [item=rusty_axe]를 수리해주려 합니다.</text>
-		<text id="hunt">이 무기 사용 연습하길 권합니다.</text>
+		<text id="hunt">이 무기 사용을 연습하길 권합니다.</text>
 		<text id="fence">이 [item=fence]를 설치하려 합니다.</text>
-		<text id="wolf">wants to tame the wolf pup.</text>
-		<text id="powerplant">needs [item=titanium] to fix the [color=550000]Power Plant[/color].</text>
-		<text id="factory">wants to build a [color=550000]Factory[/color] to tinker with machines.</text>
+		<text id="wolf">이 새끼늑대를 길들이려 합니다.</text>
+		<text id="powerplant">이 [color=550000]발전소[/color]를 수리할 [item=titanium]을 원합니다.</text>
 		<text id="elevator">wants to build an [color=550000]Elevator[/color] to haul ore.</text>
-		<text id="mirrows">wants you to negotiate with the Mirrows for him.</text>
+		<text id="mirrows">이 미로우 남매와 협상하길 원합니다.</text>
 		<text id="mirrows2">wants you to find something special to sway the Mirrows.</text>
-		<text id="fisherman_cat">wants you to find his [item=cat] who likes [item=toothfish].</text>
-		<text id="bandits">Merchants want you to defeat bandits stealing their wares.</text>
+		<text id="fisherman_cat">가 [item=toothfish]를 좋아하는 자신의 [item=cat]를 찾아주길 원합니다.</text>
+		<text id="bandits">상인들이 물건을 훔치는 강도들을 퇴치해주길 원합니다.</text>
 		<text id="wyrm_hive">wants you to find the secrets of the [item=wyrm]s.</text>
 		<text id="spirit_gem">wants you to use [item=spirit_gem]s to catch spirits.</text>
 		<text id="alter_gem">needs more help to finish his [item=wyrm] research!</text>
 		<text id="oldone">wants to find the source of the magical energy spikes.</text>
-		<text id="minecart">wants to set up a [item=minecart] to make mining easier.</text>
+		<text id="minecart">가 [item=minecart]를 설치해 채광을 쉽게 하고싶어 합니다.</text>
 	</section>
 	<section id="vehicle">
 		<text id="submarine">잠수함</text>
