@@ -144,7 +144,7 @@
 		<text id="move_all">전부 이동</text>
 		<text id="add_animal">동물 추가</text>
 		<text id="select_feed">사료 선택</text>
-		<text id="use_count">How many would you like to use?</text>
+		<text id="use_count">몇개를 사용할까요?</text>
 		<text id="select_fertilizer">비료 선택</text>
 		<text id="muted">게임 음소거</text>
 		<text id="unmuted">게임 음소거 해제</text>
@@ -1668,7 +1668,7 @@
 		<text id="kitchen6">제가 [item=cheese]를 만들수 있도록 [color=770000]부엌[/color]을 업그레이드 해줄게요. [item=wood] [var=quest.kitchen2.wood]개와 [item=steel_bar] [var=quest.kitchen2.steel_bar] 가 있으면 되요.</text>
 		<text id="no_kitchen">제 훌륭한 [color=770000]부엌[/color]에 무슨일이 생긴거죠? 가능한 빨리 새로 짓는게 좋을거에요! [item=kitchen_blueprint]를 사용하세요.</text>
 		<text id="kitchen7">필요한건 전부 모은것 같네요. 이제 [color=770000]부엌[/color]을 업그레이드 할 수 있어요!</text>
-		<text id="kitchen8">새로운 레시피를 시도해 보세요! 꽤나 문명화된 음식일거에요!</text>
+		<text id="kitchen8">새로운 레시피를 시도해 보세요! 꽤나 현대적인 음식일거에요!</text>
 		<text id="farm">Man, I'm hungry. I hope you get that [color=770000]Farm[/color] finished soon!</text>
 	</section>
 	<section id="farmer">
@@ -2376,11 +2376,11 @@
 		<text id="depths">슈든 999</text>
 	</section>
 	<section id="system.desc">
-		<text id="start">G-타입 별 지구로부터 42광년 떨어진곳.\n3개의 외계행성 확인됨.</text>
+		<text id="start">G-타입 별 지구로부터 42광년 떨어진곳. 3개의 외계행성 확인됨.</text>
 		<text id="sol">인간들의 고향.</text>
-		<text id="alien_hq">F-타임 별 지구로부터  951광년 떨어진곳.\n회계행성 확인 안됨.</text>
-		<text id="colony">M-타임 별 지구로부터  23광년 떨어진곳.\n1개의 외계행성 확인됨.</text>
-		<text id="unnature">K-타임 별 지구로부터  18광년 떨어진곳.\n1개의 외계행성 확인됨.</text>
+		<text id="alien_hq">F-타임 별 지구로부터  951광년 떨어진곳. 회계행성 확인 안됨.</text>
+		<text id="colony">M-타임 별 지구로부터  23광년 떨어진곳. 1개의 외계행성 확인됨.</text>
+		<text id="unnature">K-타임 별 지구로부터  18광년 떨어진곳. 1개의 외계행성 확인됨.</text>
 		<text id="depths">A-타임 별 지구로부터  1,322광년 떨어진곳. 1개의 외계행성 확인됨.</text>
 	</section>
 	<section id="system.planet">
