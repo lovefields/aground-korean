@@ -144,7 +144,7 @@
 		<text id="move_all">전부 이동</text>
 		<text id="add_animal">동물 추가</text>
 		<text id="select_feed">사료 선택</text>
-		<text id="use_count">How many would you like to use?</text>
+		<text id="use_count">몇개를 사용할까요?</text>
 		<text id="select_fertilizer">비료 선택</text>
 		<text id="muted">게임 음소거</text>
 		<text id="unmuted">게임 음소거 해제</text>
@@ -1391,7 +1391,7 @@
 	</section>
 	<section id="market">
 		<text id="closed">밤에는 열지 않습니다.</text>
-		<text id="restock">We should be getting some new stock soon!</text>
+		<text id="restock">곧 새로운 재고를 들일거에요!</text>
 		<text id="no_power">I can't believe the [color=770000]Power Plant[/color] isn't working! How can I do business like this?</text>
 	</section>
 	<section id="quests">
@@ -1668,7 +1668,7 @@
 		<text id="kitchen6">제가 [item=cheese]를 만들수 있도록 [color=770000]부엌[/color]을 업그레이드 해줄게요. [item=wood] [var=quest.kitchen2.wood]개와 [item=steel_bar] [var=quest.kitchen2.steel_bar] 가 있으면 되요.</text>
 		<text id="no_kitchen">제 훌륭한 [color=770000]부엌[/color]에 무슨일이 생긴거죠? 가능한 빨리 새로 짓는게 좋을거에요! [item=kitchen_blueprint]를 사용하세요.</text>
 		<text id="kitchen7">필요한건 전부 모은것 같네요. 이제 [color=770000]부엌[/color]을 업그레이드 할 수 있어요!</text>
-		<text id="kitchen8">Try out some of the new recipes! It almost feels civilized!</text>
+		<text id="kitchen8">새로운 레시피를 시도해 보세요! 꽤나 현대적인 음식일거에요!</text>
 		<text id="farm">Man, I'm hungry. I hope you get that [color=770000]Farm[/color] finished soon!</text>
 	</section>
 	<section id="farmer">
@@ -1741,8 +1741,8 @@
 		<text id="equip2">[key=equipment]키를 눌러 나오는 장비창에서 주사용 곡괭이를 지정할 수 있어요.</text>
 		<text id="hotkey">[color=770000]단축키[/color]를 사용해봤니?\n 가방에서 [key=hotkey1], [key=hotkey2], [key=hotkey3], [key=hotkey4]키를 이용해 아이템을 등록할수 있어!</text>
 		<text id="minecart1">광부들에게 좋은게 있다면 바로 [item=minecart]와 [item=rail] 시스템이에요! 광물은 무거워요, 광차는 [color=770000]창고[/color]까지 운송을 가능하게 해주는 훌륭한 시스템이죠.</text>
-		<text id="minecart2">You built a [item=minecart] and [item=rail]s? Perfect, let's place them right away!</text>
-		<text id="minecart3">Here, I placed the [item=minecart] and a small [item=rail] system! You can expand it and move [item=rail]s using a [item=crowbar] to pry them up!</text>
+		<text id="minecart2">[item=minecart]랑 [item=rail]을 만들었어요? 완벽해요, 바로 설치해 보죠!</text>
+		<text id="minecart3">자, [item=minecart]랑 [item=rail]을 설치했어요! [item=rail]을 더 깔아서 움직일수 있고 [item=crowbar]을 이용해 수거할수 있어요!</text>
 	</section>
 	<section id="trader">
 		<text id="bombardment">What am I going to do with all this [tile=gold_bar.ico] [color=770000]Gold[/color] now?</text>
@@ -1763,8 +1763,8 @@
 		<text id="introduce9">도둑질을 할 섬은 얼마든지 있어. 뭐가 사라진지도 모르잖아?</text>
 		<text id="market1">완벽해! 이제 우리 비즈니스의 시작이야.</text>
 		<text id="market2">[item=coin_purse]를 줄게. 주화를 보관할때 필요할거야. 왠만하면 [item=mega_backpack]을 빨리 구하는걸 추천해, 그들은 진짜니까!</text>
-		<text id="market3">At the [color=770000]Market[/color], you can sell goods to get coins, which you can use to buy other goods.</text>
-		<text id="market4">The [color=770000]Market[/color] sometimes gets new stock too, so if you can't get what you want or they run out of inventory, check back later.</text>
+		<text id="market3">[color=770000]상점[/color]에서는 좋은걸 팔아 주화를 얻고, 주화를 이용해서 좋은걸 살수 있지.</text>
+		<text id="market4">[color=770000]상점[/color]에는 가끔 좋은 물건이 들어와, 만약 좋은 물건이 없다면 나중에 다시 확인해 보는게 좋을거야.</text>
 		<text id="market5">[item=gold_bar]를 만들기 위해서는 [item=gold]이 필요해, 이건 아주 깊은곳에서 찾을 수 있지. [object=miner]가 깊은곳을 채광하기 위한 좋은 팁들을 알고 있을거야.</text>
 		<text id="dock1">Are you interested in seeing the rest of the world? How about building a [color=770000]Dock[/color]?</text>
 		<text id="dock2">I’ll build it for you if you give me [var=quest.dock.coins] [color=770000][tile=coin_purse.ico] Coins[/color], [var=quest.dock.wood] [item=wood], [var=quest.dock.cloth] [item=cloth] and [var=quest.dock.net] [item=net]s.</text>
@@ -2376,11 +2376,11 @@
 		<text id="depths">슈든 999</text>
 	</section>
 	<section id="system.desc">
-		<text id="start">G-타입 별 지구로부터 42광년 떨어진곳.\n3개의 외계행성 확인됨.</text>
+		<text id="start">G-타입 별 지구로부터 42광년 떨어진곳. 3개의 외계행성 확인됨.</text>
 		<text id="sol">인간들의 고향.</text>
-		<text id="alien_hq">F-타임 별 지구로부터  951광년 떨어진곳.\n회계행성 확인 안됨.</text>
-		<text id="colony">M-타임 별 지구로부터  23광년 떨어진곳.\n1개의 외계행성 확인됨.</text>
-		<text id="unnature">K-타임 별 지구로부터  18광년 떨어진곳.\n1개의 외계행성 확인됨.</text>
+		<text id="alien_hq">F-타임 별 지구로부터  951광년 떨어진곳. 회계행성 확인 안됨.</text>
+		<text id="colony">M-타임 별 지구로부터  23광년 떨어진곳. 1개의 외계행성 확인됨.</text>
+		<text id="unnature">K-타임 별 지구로부터  18광년 떨어진곳. 1개의 외계행성 확인됨.</text>
 		<text id="depths">A-타임 별 지구로부터  1,322광년 떨어진곳. 1개의 외계행성 확인됨.</text>
 	</section>
 	<section id="system.planet">
