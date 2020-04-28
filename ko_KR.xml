@@ -133,7 +133,7 @@
 		<text id="overwrite">정말로 덮어쓸건가요?</text>
 		<text id="none">없음</text>
 		<text id="addition_slots">Fields:</text>
-		<text id="placed">{item} placed.</text>
+		<text id="placed">{item} 설치.</text>
 		<text id="level_up">레벨 업!</text>
 		<text id="level">레벨:</text>
 		<text id="experience">경험치:</text>
@@ -170,7 +170,7 @@
 		<text id="rem_storehouse_items">가방에 있는것만</text>
 		<text id="add_storehouse_items">창고의 재료도 사용</text>
 		<text id="hungry">{item} is hungry!</text>
-		<text id="not_hungry">{item} is not hungry.</text>
+		<text id="not_hungry">{item}은(는) 배고프지 않다.</text>
 		<text id="rename">{item}의 이름:</text>
 		<text id="recharge">충전</text>
 		<text id="recharge_batteries">건전지 충전</text>
@@ -178,7 +178,7 @@
 		<text id="restore_power_partial">가능한한 많은 건전지를 충전하세요.</text>
 		<text id="rations">배급</text>
 		<text id="time">시간</text>
-		<text id="auto_feed">Feed {item} the following?{list}</text>
+		<text id="auto_feed">{item}에게 다음 사료를 사용할까요?{list}</text>
 		<text id="auto_fuel">{item}에 다음항목을 사용할까요?{list}</text>
 		<text id="auto_repair">Repair {item} with the following?{list}</text>
 		<text id="retransform">{item} is about to break! Use the following to fix?{list}</text>
@@ -650,7 +650,7 @@
 		<text id="cheeseburger">치즈버거</text>
 		<text id="cake">케이크</text>
 		<text id="candy_apple">사과 사탕</text>
-		<text id="dragonblood">피 결정</text>
+		<text id="dragonblood">용의 피</text>
 		<text id="stone_axe">돌 도끼</text>
 		<text id="stone_pickaxe">돌 곡괭이</text>
 		<text id="broken_pickaxe">부서진 곡괭이</text>
@@ -690,7 +690,7 @@
 		<text id="rat">쥐</text>
 		<text id="pig">돼지</text>
 		<text id="wyrm">웜</text>
-		<text id="cocoon">Cocoon</text>
+		<text id="cocoon">고치</text>
 		<text id="dragon">아기 용</text>
 		<text id="young_dragon">어린 용</text>
 		<text id="adult_dragon">드래곤</text>
@@ -819,7 +819,7 @@
 		<text id="pen_blueprint">축사 설계도</text>
 		<text id="lab_blueprint">연구소 설계도</text>
 		<text id="wyrm_pen_blueprint">웜 우리 설계도</text>
-		<text id="dock_blueprint">선착장 설계도</text>
+		<text id="dock_blueprint">부두집 설계도</text>
 		<text id="warehouse_blueprint">창고(나무) 설계도</text>
 		<text id="wheat_seed">밀 씨앗</text>
 		<text id="orchard_seed">사과 씨앗</text>
@@ -1240,8 +1240,8 @@
 		<text id="boat">보트 타기</text>
 		<text id="lab">포션 제작</text>
 		<text id="pen">축사 관리</text>
-		<text id="cage">Manage Cage</text>
-		<text id="summon_alchemist">Summon Alchemist</text>
+		<text id="cage">우리 관리</text>
+		<text id="summon_alchemist">연금술사 부르기</text>
 		<text id="dragon_lair2">Raise Dragons</text>
 		<text id="raise_into">Raise into {into}</text>
 		<text id="fly_dragon">Fly Dragon</text>
@@ -1463,8 +1463,8 @@
 		<text id="orchard">사과 씨앗</text>
 		<text id="market">상가 건설</text>
 		<text id="market2">상가 건설</text>
-		<text id="dock">선착장 건설</text>
-		<text id="dock2">선착장 건설</text>
+		<text id="dock">부두집 건설</text>
+		<text id="dock2">부두집 건설</text>
 		<text id="pen">돼지우리 건설</text>
 		<text id="boat">보트 건설</text>
 		<text id="lab">마법 재료</text>
@@ -1538,14 +1538,14 @@
 		<text id="farm">가 재배를 위한 [color=550000]농장[/color]을 짓기 원합니다.</text>
 		<text id="orchard">가 [item=fruit]로 [color=550000]과수원[/color]을 지으려 합니다.</text>
 		<text id="market">이 [color=550000]상가[/color]를 구성하고 싶어합니다.</text>
-		<text id="market2">[color=550000]상가[/color]를 짓고 [color=550000]선착장[/color]을 통해 교역을 하자.</text>
-		<text id="dock">wants a [color=550000]Dock[/color] to travel the world.</text>
-		<text id="dock2">[color=550000]선착장[/color]을 지어서 다른 생존자를 찾아보자.</text>
+		<text id="market2">[color=550000]상가[/color]를 짓고 [color=550000]부두집[/color]을 통해 교역을 하자.</text>
+		<text id="dock">이 [color=550000]부두집[/color]을지어 여행하고싶어합니다.</text>
+		<text id="dock2">[color=550000]부두집[/color]을 지어서 다른 생존자를 찾아보자.</text>
 		<text id="pen">가 [color=550000]축사[/color]를 건설하고 싶어합니다.</text>
 		<text id="boat">세계를 항해할 시간이다! [color=550000]부두집[/color]에서 [tile=boat.ico] 보트를 만들자.</text>
 		<text id="lab">가 [item=wyrm]에게 얻을수 있는 [item=dragonblood]을 원합니다.</text>
 		<text id="wyrm_pen">가 [item=wyrm]을 잡아 실험하려 합니다.</text>
-		<text id="hatch_dragons">Hatch [item=dragon]s to win the [item=adult_dragon] to your side.</text>
+		<text id="hatch_dragons">[item=dragon]을 부화하면 [item=adult_dragon]이 당신을 돕습니다.</text>
 		<text id="thunder_axe">가 [item=rusty_axe]를 수리해주려 합니다.</text>
 		<text id="hunt">이 무기 사용을 연습하길 권합니다.</text>
 		<text id="fence">이 [item=fence]를 설치하려 합니다.</text>
@@ -1691,9 +1691,9 @@
 		<text id="kitchen">Raw [item=wheat] isn’t very tasty, but I bet we could make something better if you and the [object=builder] made a [color=770000]Kitchen[/color].</text>
 		<text id="pen1">이 [color=770000]농장[/color]에 뭐가 더 필요한지 아시나요? 가축이에요! [item=net]으로 [color=770000][tile=boar] 멧돼지[/color]를 잡는게 어떨까요?</text>
 		<text id="pen2">[color=770000]축사[/color]에 필요한 [item=pig] [var=quest.pen.pig]마리와 [item=wood] [var=quest.pen.wood]개를 준비해주세요.</text>
-		<text id="pen3">Now aren't those the fattest and juiciest looking [item=pig]s you've ever seen?</text>
-		<text id="pen4">With the pen, we can now produce [item=meat] and [item=milk]!</text>
-		<text id="pen5">If you want to build more [color=770000]Pen[/color]s, use the [item=pen_blueprint].</text>
+		<text id="pen3">여태까지 본 [item=pig]들중 가장 뚱뚱하고 맛있어 보이지 않나요?</text>
+		<text id="pen4">우리에 넣었어요, 이제 우리는 [item=meat]과 [item=milk]를 얻을 수 있어요!</text>
+		<text id="pen5">[color=770000]축사[/color]를 더 짓고싶다면, [item=pen_blueprint]를 사용하세요.</text>
 		<text id="pig">[item=pig]를 어떻게 얻냐구요? [item=net] 을 땅에 설치해서 [color=770000][tile=boar] 멧돼지[/color]를 유인해보세요. 운이 좋다면 길들일수 있을거에요!</text>
 		<text id="kitchen2">Milking a [item=pig]? Why not? This is a strange land. But what we could really use is some [item=cheese] - talk to the [object=builder] about improving the [color=770000]Kitchen[/color].</text>
 		<text id="halloween">I hope you don't mind, but I did a little decoratin' for the Harvest Festival! We could use a little celebrating around here. I also put some [item=jakolantern]s in the [color=770000]Storehouse[/color].</text>
@@ -1705,8 +1705,8 @@
 		<text id="orchard4">공간이 충분이 확보된 풀이 있는 곳이라면 씨앗을 심을 수 있어요. [item=orchard_seed]을 어디에 심을지 알려주세요!</text>
 		<text id="orchard5">[color=770000]곳간[/color] 에서 씨앗을 이용해 농장 종류를 바꿀수 있어요. 원하는 씨앗이 있다면 내가 만들어 줄게요!</text>
 		<text id="snowman">The first snowfall is here! That makes it as good a time as any to celebrate! I even made a magic [item=snowman] from [item=ice_berries], I hope you like it!</text>
-		<text id="sign1">This place is starting to feel like home, ain't it? How about giving the place a name?</text>
-		<text id="sign2">Use this here [item=area_name_sign] to change the name of this island!</text>
+		<text id="sign1">이곳이 고향처럼 느껴지기 시작했어요, 안그래요? 이곳에 이름을 정하는게 어떨까요?</text>
+		<text id="sign2">여기 [item=area_name_sign]을 받으세요, 이섬의 이름을 정해주세요!</text>
 	</section>
 	<section id="miner">
 		<text id="bombardment">This cave is weird... it's so large and empty, not a single thing to mine!</text>
@@ -1766,11 +1766,11 @@
 		<text id="market3">[color=770000]상점[/color]에서는 좋은걸 팔아 주화를 얻고, 주화를 이용해서 좋은걸 살수 있지.</text>
 		<text id="market4">[color=770000]상점[/color]에는 가끔 좋은 물건이 들어와, 만약 좋은 물건이 없다면 나중에 다시 확인해 보는게 좋을거야.</text>
 		<text id="market5">[item=gold_bar]를 만들기 위해서는 [item=gold]이 필요해, 이건 아주 깊은곳에서 찾을 수 있지. [object=miner]가 깊은곳을 채광하기 위한 좋은 팁들을 알고 있을거야.</text>
-		<text id="dock1">Are you interested in seeing the rest of the world? How about building a [color=770000]Dock[/color]?</text>
-		<text id="dock2">I’ll build it for you if you give me [var=quest.dock.coins] [color=770000][tile=coin_purse.ico] Coins[/color], [var=quest.dock.wood] [item=wood], [var=quest.dock.cloth] [item=cloth] and [var=quest.dock.net] [item=net]s.</text>
+		<text id="dock1">다른 세상을 보고싶지 않니? [color=770000]부두집[/color]을 짓는게 어떨까?</text>
+		<text id="dock2">[color=770000][tile=coin_purse.ico] 주화[/color] [var=quest.dock.coins]개와 [item=wood] [var=quest.dock.wood]개, [item=cloth] [var=quest.dock.cloth]개, [item=net] [var=quest.dock.net]개가 있으면 되.</text>
 		<text id="dock3">Excellent, let's get this [color=770000]Dock[/color] built!</text>
 		<text id="dock4">Once you build a [tile=boat.ico] Boat at the [color=770000]Dockhouse[/color], you'll be ready to travel across the sea!</text>
-		<text id="dock5">The [color=770000]Dock[/color] costs [var=quest.dock.coins] [color=770000][tile=coin_purse.ico] Coins[/color], [var=quest.dock.wood] [item=wood], [var=quest.dock.cloth] [item=cloth] and [var=quest.dock.net] [item=net]s.</text>
+		<text id="dock5">[color=770000]부두집[/color]은 [color=770000][tile=coin_purse.ico] 주화[/color] [var=quest.dock.coins]개와, [item=wood] [var=quest.dock.wood]개, [item=cloth] [var=quest.dock.cloth]개, [item=net] [var=quest.dock.net]개가 필요해.</text>
 		<text id="accept">제안 수락</text>
 		<text id="reject">돌려 보내기</text>
 		<text id="sail">Isn't it a beautiful day for sailing?</text>
@@ -1816,18 +1816,18 @@
 		<text id="lab2">보상으로 제 연구실에 오면 물약을 만들수 있게 해줄게요.</text>
 		<text id="lab3">서둘러 주세요! [item=dragonblood]을 얻기 전까진 실험을 할 수 없어요!</text>
 		<text id="pen1">[item=dragonblood]이 더 필요해요! 저에게 살아있는 [item=wyrm] [var=quest.wyrm_pen.wyrm]를 가져와 주세요. [item=dragonblood]을 계속 생산해서 실험을 해야겠어요!</text>
-		<text id="pen2">Excellent! Stand back while I work my magic!</text>
-		<text id="pen3">Behold my brilliant invention - the [color=770000]Wyrm Pen[/color]! It's more than just a pen, it's an endless supply of [item=dragonblood]!</text>
+		<text id="pen2">잘하셨어요! 제가 마법을 사용하는 동안 물러서주세요!</text>
+		<text id="pen3">제 발명품을 보세요 - 바로 [color=770000]웜 우리[/color]에요! 단순한 우리가 아니에요 [item=dragonblood]을 무한히 얻을수 있거든요!</text>
 		<text id="wyrm">[item=wyrm]의 체력이 낮아지면 [item=net]을 사용해서 잡을 수 있어요. 하지만 반드시 살아있어야 해요!</text>
-		<text id="dragon1">We must experiment more on the [item=wyrm]s! What do they eat? Why do they give [item=dragonblood]? You must feed the [item=wyrm]s in the [color=770000]Wyrm Pen[/color] to find out more about their evolution!</text>
-		<text id="dragon2">I knew it! The [item=wyrm]s metamorphosize into [item=dragon]s! But then why are there so few [item=adult_dragon]s in this land?</text>
-		<text id="dragon3">I believe there is a dragon lair somewhere in the mountain. If you find it, summon me... perhaps some of these secrets can be discovered there.</text>
-		<text id="dragon4">Ah, an [item=adult_dragon]! Let's see what she has to say - I can translate for you with a simple spell.</text>
-		<text id="dragon5">Who are you, to awaken me from my slumber?</text>
-		<text id="dragon6">I am a seeker of truth and magic. Tell me - why are there so few dragons left in this world?</text>
-		<text id="dragon7">Because the old ones left. They too were seekers of truth and magic. And they betrayed my kind.</text>
-		<text id="dragon8">Then perhaps we can help you! All we ask for in return is knowledge.</text>
-		<text id="dragon9">You think you can help? Then prove it. If you can hatch and bring me [var=quest.hatch_dragons.dragon] [item=dragon]s, then we will talk. Otherwise, begone!</text>
+		<text id="dragon1">저희는 [item=wyrm]에 대해 더 조사할 필요가 있어요! 먹이는 무었일까? 왜 [item=dragonblood]이 나오는걸까? [color=770000]웜 우리[/color]에 있는 [item=wyrm]에게 사료를 주면 그들의 진화에 대해서 알수 있을거에요!</text>
+		<text id="dragon2">이럴줄 알았어! [item=wyrm]은 [item=dragon]으로 변태할수 있었어요! 그런데 [item=adult_dragon]은 왜 이섬에서 안보이는걸까요?</text>
+		<text id="dragon3">저는 이산 어딘가에 용이 있다고 믿어요. 만약 발견한다면 저를 불러주세요, 비밀을 풀수 있을지도 몰라요.</text>
+		<text id="dragon4">오 [item=adult_dragon]이에요! 그가 무슨말을 하는지 보죠 - 제가 간단한것들 은 번역해 줄 수 있어요.</text>
+		<text id="dragon5">그대는 누구인가, 왜 나를 잠에서 깨우는거지?</text>
+		<text id="dragon6">저는 마법과 진실을 추구하는 자입니다. 이곳에 드래곤이 적은 이유를 말해주실수 있나요?</text>
+		<text id="dragon7">오래된 어떠한것들이 떠낫기 때문이지, 그들도 마법과 진실을 추구하는 자들이었다. 하지만 그들은 우리 종족을 배신했지.</text>
+		<text id="dragon8">그렇다면 저희가 도와드리겠습니다! 대가로 지식을 원할뿐이에요.</text>
+		<text id="dragon9">그대들이 가능할거라 생각하나? 그렇다면 증명하게. 만약 그대들이 [item=dragon] [var=quest.hatch_dragons.dragon]을 부화해서 데려오게, 그렇다면 이야기를 해보지. 그렇지 못한다면 다음을 알고 있겟지?</text>
 		<text id="dragon10">I knew you would betray me! Taste my wrath!</text>
 		<text id="dragon11">I don't think we should wake her again until we have the [item=dragon]s.</text>
 		<text id="dragon12">You have done it? Perhaps there is yet hope for my race.</text>
