@@ -8,14 +8,14 @@
 		<text id="operation_table">유전자 연구소</text>
 		<text id="advanced_lab">전문 연구소</text>
 		<text id="nuclear_plant">원자력 발전소</text>
-		<text id="teleportal">텔레포트</text>
-		<text id="contact_list">연결 항목</text>
-		<text id="add_contact">{npc}이(가) 연결 항목에 추가되었습니다!</text>
-		<text id="calling">{npc}에게 연결중...</text>
-		<text id="incoming_call">{npc}의 연결요청...</text>
+		<text id="teleportal">텔레포탈</text>
+		<text id="contact_list">통화 목록</text>
+		<text id="add_contact">{npc}이(가) 통화 목록에 추가되었습니다!<ㄷ/text>
+		<text id="calling">{npc}에게 통화중...</text>
+		<text id="incoming_call">{npc}의 통화요청...</text>
 		<text id="coming_soon">곧 뵈요!</text>
-		<text id="save_prompt_magic">This is the end of the Magic Path for the current update. 저장 하시겠습니까?</text>
-		<text id="save_prompt_science">This is the end of the Science Path for the current update. 저장 하시겠습니까?</text>
+		<text id="save_prompt_magic">현재 시점에서 마법 루트의 끝에 도달했습니다. 저장하시겠습니까?</text>
+		<text id="save_prompt_science">현재 시점에서 과학 루트의 끝에 도달했습니다. 저장하시겠습니까?</text>
 		<text id="modifier">수식어:</text>
 		<text id="bunker">벙커</text>
 		<text id="bunker_kitchen">벙커 부엌</text>
@@ -25,44 +25,44 @@
 		<text id="bunker_farm">벙커 농장</text>
 		<text id="earth_lab">드론 공장</text>
 		<text id="vending_machine">자판기</text>
-		<text id="blueprint_printer">Blueprint Printer</text>
-		<text id="paper_maker">Polymer Assembler</text>
-		<text id="particle_accelerator">Particle Accelerator</text>
-		<text id="interstellar_teleportal">Interstellar Teleportal</text>
+		<text id="blueprint_printer">설계도 프린터</text>
+		<text id="paper_maker">고분자 중합기</text>
+		<text id="particle_accelerator">입자가속기</text>
+		<text id="interstellar_teleportal">성간 텔레포탈</text>
 		
-		<text id="station.module.small">Small Station Module</text>
-		<text id="station.module.large">Large Station Module</text>
-		<text id="station.module.connector">Connector Station Module</text>
-		<text id="station.dock">우주 기지</text>
-		<text id="station.module.xlarge">X-Large Station Module</text>
+		<text id="station.module.small">소형 우주정거장 모듈</text>
+		<text id="station.module.large">대형 우주정거장 모듈</text>
+		<text id="station.module.connector">우주정거장 연결 모듈</text>
+		<text id="station.dock">우주선 선착장</text>
+		<text id="station.module.xlarge">초대형 우주정거장 모듈</text>
 		
 		<text id="rations_per_hit">Rations per Hit:</text>
-		<text id="full_heal">Health and Stamina fully restored.</text>
+		<text id="full_heal">체력과 기력이 완전히 회복되었습니다.</text>
 		
 		<text id="terraformer">테라포머</text>
 		<text id="exo_factory">Exo Factory</text>
 		
-		<text id="research_item">Research {item}</text>
-		<text id="research_complete">{item} research complete!\nRecipe added to {structure}.</text>
+		<text id="research_item">{item} 연구</text>
+		<text id="research_complete">{item} 연구가 완료되었습니다!\n레시피가 {structure}에 추가됩니다.</text>
 		
-		<text id="spirit_storehouse">Spirit Storage</text>
-		<text id="space_house">Space House</text>
+		<text id="spirit_storehouse">영혼 창고</text>
+		<text id="space_house">우주집</text>
 		
-		<text id="quit_minigame">Would you like to stop playing this minigame?</text>
-		<text id="new_highscore">[tile=sticky] New Highscore!</text>
+		<text id="quit_minigame">미니게임을 중단하시겠습니까?</text>
+		<text id="new_highscore">[tile=sticky] 최고기록 경신!</text>
 		
-		<text id="depths.monolith">Monolith</text>
+		<text id="depths.monolith">모노리스</text>
 		<text id="blocked">막음!</text>
-		<text id="resist">{element} 저항!</text>
-		<text id="effective">{element} 효과!</text>
+		<text id="resist">{element} 효과가 별로인 듯하다...</text>
+		<text id="effective">{element} 효과가 굉장했다!</text>
 		<text id="miss">빗나감!</text>
 		<text id="dodged">회피!</text>
 		<text id="critical_hit">치명타!</text>
 		<text id="no_effect">효과 없음</text>
-		<text id="save">게임저장</text>
-		<text id="del_save">저장 지우기</text>
-		<text id="save_corrupt">Save corrupted! This could be because the player is in an area that doesn't exist in this version.</text>
-		<text id="save_incomplete">Save incomplete - some objects/items/areas may be missing. This is usually because you are missing a mod or the save is from a different version of the game.</text>
+		<text id="save">저장</text>
+		<text id="del_save">세이브 지우기</text>
+		<text id="save_corrupt">세이브가 손상되었습니다! 플레이어가 이 버전에 존재하지 않는 영역에 있는 것이 원인일 수 있습니다.</text>
+		<text id="save_incomplete">세이브를 일부 못 불러왔습니다. 오브젝트, 아이템, 에리어가 없어졌을 수 있습니다. 일반적으로 모드가 없거나 다른 버전의 세이브 파일을 불러왔을 때 일어납니다.</text>
 		<text id="fuel">연료</text>
 		<text id="add_fuel">연료 넣기</text>
 		<text id="add_rations">식량 배급</text>
@@ -84,32 +84,32 @@
 		<text id="reject">거절</text>
 		<text id="sell">판매</text>
 		<text id="buy">구매</text>
-		<text id="drop_item">몇개를 버릴까?</text>
-		<text id="eat_item">몇개를 먹을까?</text>
-		<text id="drink_item">몇개를 마실까?</text>
-		<text id="store_item">몇개를 넣을까?</text>
-		<text id="retrieve_item">몇개를 가져올까?</text>
-		<text id="cancel_item">How many would you like to cancel?</text>
-		<text id="sell_item">몇개를 팔까?</text>
-		<text id="buy_item">몇개를 살까?</text>
+		<text id="drop_item">몇 개를 버리시겠습니까?</text>
+		<text id="eat_item">몇 개를 먹겠습니까?</text>
+		<text id="drink_item">몇 개를 마시겠습니까?</text>
+		<text id="store_item">몇 개를 창고에 넣겠습니까?</text>
+		<text id="retrieve_item">몇 개를 가져오겠습니까</text>
+		<text id="cancel_item">몇 개를 취소하시겠습니까?</text>
+		<text id="sell_item">몇 개를 파시겠습니까?</text>
+		<text id="buy_item">몇 개를 사시겠습니까?</text>
 		<text id="requires">-- 재료 --</text>
 		<text id="repair_cost">-- 수리 비용 --</text>
 		<text id="creates">-- 제작 --</text>
-		<text id="repaired">{item}이(가) 수리됨.</text>
+		<text id="repaired">{item}이(가) 수리되었습니다.</text>
 		<text id="inventory">가방</text>
-		<text id="quests">미션 기록</text>
+		<text id="quests">퀘스트</text>
 		<text id="hut">오두막</text>
 		<text id="smelter">제련소</text>
 		<text id="kitchen">부엌</text>
-		<text id="workshop">작업장</text>
+		<text id="workshop">작업실</text>
 		<text id="storehouse">창고</text>
-		<text id="dockhouse">부두집</text>
-		<text id="market_placeholder">상가</text>
-		<text id="powerline1">Powerline</text>
+		<text id="dockhouse">부두</text>
+		<text id="market_placeholder">상점</text>
+		<text id="powerline1">전신주</text>
 		<text id="power_plant">발전소</text>
-		<text id="warehouse">창고</text>
-		<text id="farm">Barn</text>
-		<text id="stall">동물 우리</text>
+		<text id="warehouse">선착장</text>
+		<text id="farm">농장</text>
+		<text id="stall">축사</text>
 		<text id="harvest">수확</text>
 		<text id="harvest_all">전부 수확</text>
 		<text id="manage">관리</text>
@@ -144,100 +144,100 @@
 		<text id="move_all">전부 이동</text>
 		<text id="add_animal">동물 추가</text>
 		<text id="select_feed">사료 선택</text>
-		<text id="use_count">몇개를 사용할까요?</text>
+		<text id="use_count">몇 개를 사용하시겠습니까?</text>
 		<text id="select_fertilizer">비료 선택</text>
-		<text id="muted">게임 음소거</text>
-		<text id="unmuted">게임 음소거 해제</text>
+		<text id="muted">음소거</text>
+		<text id="unmuted">음소거 해제</text>
 		<text id="storehouse_add">{npc}이(가) {item} {count}개를 {storehouse}에 넣었습니다.</text>
-		<text id="auto_eat">{item} {count}개를 체력을 회복하는데 사용했습니다.</text>
-		<text id="auto_eat_stamina">{item} {count}개를 기력을 회복하는데 사용했습니다.</text>
-		<text id="auto_eat_oxygen">{item} {count}개를 산소를 충전하는데 사용했습니다.</text>
-		<text id="drop_all">정말로 {item}을(를) 버릴건가요? 버리면 영원히 사라집니다.</text>
+		<text id="auto_eat">{item} {count}개를 체력을 회복하는 데 사용했습니다.</text>
+		<text id="auto_eat_stamina">{item} {count}개를 기력을 회복하는 데 사용했습니다.</text>
+		<text id="auto_eat_oxygen">{item} {count}개를 산소를 충전하는 데 사용했습니다.</text>
+		<text id="drop_all">정말로 {item}을(를) 버리시겠습니까? 버리면 영원히 사라집니다.</text>
 		<text id="sign_message">[item=sign]에 쓸 글:</text>
-		<text id="transform">How many would you like to turn into {into}?</text>
+		<text id="transform">몇 개를 {into}(으)로 변환하시겠습니까?</text>
 		<text id="collect_complete">완료품 수거</text>
 		<text id="set_sticky">[tile=sticky] 중요 아이템</text>
-		<text id="set_first">첫항목으로 설정</text>
+		<text id="set_first">첫 항목으로 설정</text>
 		<text id="fishing_line">줄에 뭔가 걸렸어!</text>
 		<text id="fishing_fail">도망쳤어!</text>
 		<text id="fishing_hooked">기다려봐...</text>
 		<text id="fishing_pull">지금 당겨!</text>
-		<text id="craft">몇개나 제작하시겠습니까?</text>
-		<text id="uncraft">몇개를 분해하시겠습니까?</text>
-		<text id="coins">주화</text>
+		<text id="craft">몇 개를 제작하시겠습니까?</text>
+		<text id="uncraft">몇 개를 분해하시겠습니까?</text>
+		<text id="coins">동전</text>
 		<text id="broken">{item}이(가) 망가졌습니다!</text>
 		<text id="damaged">{item}이(가) 곧 망가집니다!</text>
 		<text id="rem_storehouse_items">가방에 있는것만</text>
 		<text id="add_storehouse_items">창고의 재료도 사용</text>
-		<text id="hungry">{item} is hungry!</text>
-		<text id="not_hungry">{item}은(는) 배고프지 않다.</text>
+		<text id="hungry">{item}이(가) 배고픕니다!</text>
+		<text id="not_hungry">{item}은(는) 배고프지 않습니다.</text>
 		<text id="rename">{item}의 이름:</text>
 		<text id="recharge">충전</text>
 		<text id="recharge_batteries">건전지 충전</text>
-		<text id="restore_power">모든 건전지 충전!</text>
-		<text id="restore_power_partial">가능한한 많은 건전지를 충전하세요.</text>
+		<text id="restore_power">모든 전력이 충전되었습니다!</text>
+		<text id="restore_power_partial">가능한 한 많은 전력을 충전하세요.</text>
 		<text id="rations">배급</text>
 		<text id="time">시간</text>
 		<text id="auto_feed">{item}에게 다음 사료를 사용할까요?{list}</text>
-		<text id="auto_fuel">{item}에 다음항목을 사용할까요?{list}</text>
+		<text id="auto_fuel">{item}에 다음 항목을 사용할까요?{list}</text>
 		<text id="auto_repair">Repair {item} with the following?{list}</text>
-		<text id="retransform">{item} is about to break! Use the following to fix?{list}</text>
+		<text id="retransform">{item}이(가) 거의 파괴될 것 같습니다! 다음 항목을 사용해 수리하시겠습니까?{list}</text>
 		<text id="uses">사용</text>
 		<text id="enchantment">Enchantment</text>
-		<text id="cooldown">냉각</text>
+		<text id="cooldown">재사용 시간</text>
 		<text id="durability">내구도</text>
 		<text id="damage">공격력</text>
 		<text id="capture">포획</text>
-		<text id="capture_type">Capture Type</text>
+		<text id="capture_type">포획 유형</text>
 		<text id="spirits">Spirits</text>
 		<text id="flight">비행 높이:</text>
-		<text id="depth">Dive Depth:</text>
+		<text id="depth">잠수 깊이:</text>
 		<text id="knockback">넉백:</text>
 		<text id="fight">싸우기</text>
 		<text id="run_away">도망치기</text>
 		<text id="complete">Complete</text>
 		<text id="remove">해제</text>
-		<text id="time_manipulator">시간 조종기</text>
-		<text id="set_time">What time would you like to make it (24-hour format)?</text>
-		<text id="save_prompt_magic">This is the end of the demo for the Magic Path. 저장 하시겠습니까?</text>
-		<text id="save_prompt_science">This is the end of the demo for the Science Path. 저장 하시겠습니까?</text>
+		<text id="time_manipulator">시간 조작기</text>
+		<text id="set_time">현재 시간을 몇 시로 설정하시겠습니까?(24시간 기준)</text>
+		<text id="save_prompt_magic">데모 버전에서 마법 루트의 끝에 도달했습니다. 저장 하시겠습니까?</text>
+		<text id="save_prompt_science">데모 버전에서 과학 루트의 끝에 도달했습니다. 저장 하시겠습니까?</text>
 		<text id="credits">크레딧</text>
 		<text id="order">게임 구매!</text>
 		<text id="reset">초기화</text>
-		<text id="exit_water">Climb Ashore</text>
-		<text id="no_ask">다시 묻지않기</text>
-		<text id="out_of_date">[color=ff2222]ATTN![/color] Update {version} is now available!</text>
-		<text id="select_dir">Select a Direction:\n\n[key=left][key=up][key=down][key=right]</text>
+		<text id="exit_water">뭍으로 올라오기</text>
+		<text id="no_ask">다시 묻지 않기</text>
+		<text id="out_of_date">[color=ff2222]주목![/color] 게임이 {version} 버전으로 업데이트되었습니다!</text>
+		<text id="select_dir">방향을 선택하십시오:\n\n[key=left][key=up][key=down][key=right]</text>
 		<text id="random">랜덤</text>
-		<text id="efficiency">Efficiency</text>
+		<text id="efficiency">효율</text>
 		<text id="victory">승리!</text>
 		<text id="item_found">새로운 아이템 발견!</text>
 		<text id="more">+{count} More...</text>
-		<text id="dismantle_tip">To build this structure, you need to move or remove overlapping structures. You can do this using [item=dismantle] from your inventory.</text>
-		<text id="delete_save">정말로 이 저장 슬롯을 삭제할 건가요?</text>
-		<text id="full">Cannot consume items until the [tile=stat.full] timer runs out!</text>
+		<text id="dismantle_tip">이 건물을 지으려면, 당신은 이 건물을 이동하거나 겹치는 건물을 철거해야 합니다. 가방의 [item=dismantle]를 이용해 철거할 수 있습니다.</text>
+		<text id="delete_save">정말로 이 저장 슬롯을 삭제하시겠습니까?</text>
+		<text id="full">[tile=stat.full]배가 너무 부릅니다! 배가 꺼지기 전까지는 음식을 먹을 수 없습니다!</text>
 	</section>
 	<section id="stats">
-		<text id="view">스텟 보기</text>
+		<text id="view">스탯 보기</text>
 		<text id="health">최대 체력</text>
 		<text id="stamina">최대 기력</text>
 		<text id="speed">속도</text>
 		<text id="endurance">지구력</text>
 		<text id="attack">공격력</text>
-		<text id="range">거리</text>
-		<text id="defense">방어</text>
-		<text id="elementDefense">Elemental Defense</text>
+		<text id="range">사거리</text>
+		<text id="defense">방어력</text>
+		<text id="elementDefense">원소 방어력</text>
 		<text id="cut">배기</text>
-		<text id="spirit">Spirit</text>
+		<text id="spirit">스피릿 공격력</text>
 		<text id="mine">채굴</text>
 		<text id="weight">무게</text>
-		<text id="evasion">회피</text>
-		<text id="critical">치명타</text>
+		<text id="evasion">회피율</text>
+		<text id="critical">치명률</text>
 		<text id="fishing">낚시</text>
 		<text id="mine_speed">채굴 속도</text>
 		<text id="sight">시야</text>
 		<text id="bargaining">협상</text>
-		<text id="trap">함정</text>
+		<text id="trap">포획력</text>
 		<text id="oxygen">산소</text>
 		<text id="time">{time}s 동안 {mod}</text>
 		<text id="max">{mod} ({current}/{max})</text>
@@ -245,22 +245,22 @@
 	</section>
 	<section id="stat.descriptions">
 		<text id="health">최대 체력.</text>
-		<text id="stamina">행동당 소모 기력 감소.</text>
+		<text id="stamina">최대 기력.</text>
 		<text id="speed">이동속도.</text>
 		<text id="endurance">이동하는 기력 소모량 감소.</text>
 		<text id="attack">근접 공격의 공격량 증가.</text>
-		<text id="range">장거리 공격의 공격량 증가.</text>
+		<text id="range">원거리 공격의 사거리 증가.</text>
 		<text id="defense">받는 데미지의 감소량.</text>
 		<text id="cut">벌목 숙련도.</text>
 		<text id="mine">채굴 숙련도.</text>
 		<text id="weight">운반(가방) 용량 증가.</text>
-		<text id="evasion">회피 확률 증가.</text>
+		<text id="evasion">회피율 증가.</text>
 		<text id="critical">치명타 확률 증가.</text>
 		<text id="fishing">잡기 힘든 물고기를 쉽게 잡게 해준다.</text>
 		<text id="mine_speed">채굴 속도를 빠르게 해준다.</text>
 		<text id="sight">채굴이나 이동시 더 많은 타일을 본다.</text>
 		<text id="bargaining">아이템 판매 비용 증가.</text>
-		<text id="trap">덮 성공률 및 획등량 증가.</text>
+		<text id="trap">포획 성공률 증가.</text>
 		<text id="oxygen">산소 없이 버틸 수 있는 시간 증가.</text>
 		<text id="spellcast">마법에 필요한 기력 사용량 감소.</text>
 	</section>
@@ -270,26 +270,26 @@
 		<text id="max">[color=770000]스킬 최대치</text>
 	</section>
 	<section id="actions">
-		<text id="inspect">점검</text>
+		<text id="inspect">조사</text>
 		<text id="rest_bed">침대에서 쉬기</text>
 		<text id="unlock">문 따기</text>
 		<text id="rest_quarters">승무원 숙소에서 쉬기</text>
-		<text id="bind_spellbook">Bind Spellbook</text>
+		<text id="bind_spellbook">마법서 장착</text>
 		<text id="airlock">함선 문 열기</text>
-		<text id="take_power_core">Uninstall Power Core</text>
-		<text id="put_power_core">Install Power Core</text>
+		<text id="take_power_core">파워 코어 회수</text>
+		<text id="put_power_core">파워 코어 설치</text>
 		<text id="turn_on">켜기</text>
 		<text id="turn_off">끄기</text>
-		<text id="exit_ship">함선 나가기</text>
+		<text id="exit_ship">우주선 나가기</text>
 		<text id="exit_station">정거장 나가기</text>
-		<text id="cast">Cast</text>
+		<text id="cast">마법 시전</text>
 		<text id="drop">버리기</text>
 		<text id="place">설치</text>
 		<text id="use">사용</text>
 		<text id="craft">만들기</text>
 		<text id="equip">장비</text>
 		<text id="unequip">장비해제</text>
-		<text id="fire">Fire</text>
+		<text id="fire">발사</text>
 		<text id="eat">먹기</text>
 		<text id="loot">시체 뒤지기</text>
 		<text id="feed">사료</text>
@@ -307,27 +307,27 @@
 		<text id="synthesize">Synthesize</text>
 		<text id="enchant">Enchant</text>
 		<text id="setProjectile">발사체 지정</text>
-		<text id="enrage">Enrage</text>
-		<text id="enrage_prompt">Are you sure you want to enrage your [item=adult_dragon]? It'll become permanently hostile towards you.</text>
+		<text id="enrage">도발</text>
+		<text id="enrage_prompt">정말로 [item=adult_dragon]을 도발하시겠습니까? 그는 당신을 영원히 적대할 것입니다.</text>
 		<text id="enable_attack">공격 활성</text>
 		<text id="disable_attack">공격 비활성</text>
-		<text id="enable_flight">Enable Flight</text>
-		<text id="disable_flight">Disable Flight</text>
+		<text id="enable_flight">비행 활성</text>
+		<text id="disable_flight">비행 비활성</text>
 		<text id="summon">소환</text>
 		<text id="uncraft">분해</text>
 		<text id="set_time">시간 설정</text>
 		<text id="reset_skills">스킬 초기화</text>
-		<text id="build">짓기</text>
+		<text id="build">건축</text>
 		<text id="upgrade">업그레이드</text>
 		<text id="plant">심기</text>
-		<text id="merge_coins">Combine Coins</text>
+		<text id="merge_coins">동전 정리</text>
 	</section>
 	<section id="item.names">
 		<text id="pearl">진주</text>
 		<text id="fin">지느러미</text>
 		<text id="ship_parts">우주기술 파츠</text>
-		<text id="power_core_parts">에너지 코어 파츠</text>
-		<text id="power_core">에너지 코어</text>
+		<text id="power_core_parts">파워 코어 파츠</text>
+		<text id="power_core">파워 코어</text>
 		<text id="torpedo">어뢰</text>
 		<text id="ice_torpedo">얼음 어뢰</text>
 		<text id="fire_torpedo">화염 어뢰</text>
@@ -341,7 +341,7 @@
 		<text id="ice_missile">얼음 미사일</text>
 		<text id="fire_missile">화염 미사일</text>
 		<text id="water_missile">워터 미사일</text>
-		<text id="nuke">핵 미ㅏ일</text>
+		<text id="nuke">핵 미사일</text>
 		<text id="missile_launcher">미사일 발사기</text>
 		<text id="com_device">무전기</text>
 		<text id="rocket_launcher">로켓 발사기</text>
@@ -362,7 +362,7 @@
 		<text id="ice_cream">아이스크림</text>
 		<text id="sushi">초밥</text>
 		<text id="rice_seed">쌀 씨앗</text>
-		<text id="cable">케이블</text>
+		<text id="cable">전선</text>
 		<text id="clock">시계</text>
 		<text id="water_pump">펌프 팩</text>
 		<text id="nuclear_plant_blueprint">원자력 발전소 설계도</text>
@@ -371,10 +371,10 @@
 		<text id="patrol_boat_gun">전투함 총</text>
 		<text id="patrol_boat_launcher">전투함 런처</text>
 		<text id="advanced_lab_blueprint">전문연구소 설계도</text>
-		<text id="teleportal_blueprint">포탈 설계도</text>
+		<text id="teleportal_blueprint">텔레포탈 설계도</text>
 		<text id="laser_drill">레이저 드릴</text>
-		<text id="energy_shield">애너지 방패</text>
-		<text id="antigrav_pack">반 중력 가방</text>
+		<text id="energy_shield">에너지 방패</text>
+		<text id="antigrav_pack">반중력 제트팩</text>
 		<text id="space_armor">우주복</text>
 		<text id="space_helm">우주 헬멧</text>
 		<text id="laser_gun">레이저 건</text>
@@ -391,119 +391,119 @@
 		<text id="fire_bird">Cockatrice</text>
 		<text id="crawler">Crawler</text>
 		<text id="icer">Icer</text>
-		<text id="shark">Shark</text>
+		<text id="shark">상어</text>
 		<text id="fire_boar">Fire Boar</text>
-		<text id="yeti">Yeti</text>
+		<text id="yeti">예티</text>
 		<text id="shadow_cat">Panther</text>
 		
 		<text id="forge_seed">Forge Seed</text>
-		<text id="synthesizer_seed">합성기 종자</text>
-		<text id="time_manipulator_seed">Time Manipulator Seed</text>
+		<text id="synthesizer_seed">합성기 씨앗</text>
+		<text id="time_manipulator_seed">시간 조작기 씨앗</text>
 		<text id="growth_seed">포도 줄기 종자</text>
 		<text id="evolution_seed">Evolution Seed</text>
-		<text id="coral_pen_seed">Coral Pen Seed</text>
-		<text id="house_seed">마법의 집 종자</text>
-		<text id="house_seed2">Evo Magic House Seed</text>
+		<text id="coral_pen_seed">산호 우리 씨앗</text>
+		<text id="house_seed">마법의 집 씨앗</text>
+		<text id="house_seed2">진화된 마법집 씨앗</text>
 		
 		<text id="water_helm">Water Helm</text>
 		<text id="coral_bow">산호 활</text>
 		<text id="coral_sword">산호 검</text>
 		<text id="helium_pack">Helium Pack</text>
-		<text id="evo_shard">진화의 결정</text>
-		<text id="evo_gem">진화 덩어리</text>
+		<text id="evo_shard">에보 샤드</text>
+		<text id="evo_gem">에보 젬</text>
 		<text id="blue_claw">Blue Claw</text>
-		<text id="clam_gun">Clam Gun</text>
+		<text id="clam_gun">조개총</text>
 		
-		<text id="fish_scale">물고기 비늘</text> 
-		<text id="fire_book">Book of Flame</text>
-		<text id="water_book">Book of Splash</text>
-		<text id="plant_book">Book of Vines</text>
-		<text id="earth_book">Book of Stone</text>
-		<text id="ice_book">Book of Frost</text>
-		<text id="teleport_book">Book of Return</text>
-		<text id="water_barrier_book">Book of Absorption</text>
-		<text id="plant_feed_book">Book of Recovery</text>
-		<text id="summon_golem_book">Book of Summoning</text>
-		<text id="time_book">Book of Time</text>
-		<text id="light_book">Book of Light</text>
-		<text id="heal_book">Book of Healing</text>
-		<text id="shield_book">Book of Shielding</text>
+		<text id="fish_scale">비늘</text> 
+		<text id="fire_book">화염의 마법서</text>
+		<text id="water_book">물줄기의 마법서</text>
+		<text id="plant_book">넝쿨의 마법서</text>
+		<text id="earth_book">바위의 마법서</text>
+		<text id="ice_book">냉기의 마법서</text>
+		<text id="teleport_book">귀환의 마법서</text>
+		<text id="water_barrier_book">흡수의 마법서</text>
+		<text id="plant_feed_book">재생의 마법서</text>
+		<text id="summon_golem_book">소환의 마법서</text>
+		<text id="time_book">시간의 마법서</text>
+		<text id="light_book">발광의 마법서</text>
+		<text id="heal_book">치유의 마법서</text>
+		<text id="shield_book">수호의 마법서</text>
 		
-		<text id="meteor_book">Book of Meteor</text>
-		<text id="flood_book">Book of Flood</text>
-		<text id="growth_book">Book of Growth</text>
-		<text id="spikes_book">Book of Spikes</text>
-		<text id="tornado_book">Book of Tornado</text>
+		<text id="meteor_book">유성의 마법서</text>
+		<text id="flood_book">홍수의 마법서</text>
+		<text id="growth_book">과대성장의 마법서</text>
+		<text id="spikes_book">지각변동의 마법서</text>
+		<text id="tornado_book">폭풍의 마법서</text>
 		
-		<text id="scale_fish">Scale Fish</text>
-		<text id="snaptopus">Snaptopus</text>
-		<text id="minotaur">Minotaur</text>
+		<text id="scale_fish">비늘고기</text>
+		<text id="snaptopus">깨물문어</text>
+		<text id="minotaur">미노타우르스</text>
 		<text id="queen_drill">Queen Drill</text>
-		<text id="revitalize_potion">Revitalizing Potion</text>
+		<text id="revitalize_potion">활력의 포션</text>
 		
-		<text id="wand">마법 원드</text>
-		<text id="flying_broom">Flying Broom</text>
-		<text id="robes">Robes</text>
-		<text id="witch_hat">Witch Hat</text>
-		<text id="black_cat">Black Cat</text>
-		<text id="pumpkin_helm">Pumpkin Helm</text>
+		<text id="wand">마법 막대기</text>
+		<text id="flying_broom">마법 지팡이</text>
+		<text id="robes">로브</text>
+		<text id="witch_hat">마법사 모자</text>
+		<text id="black_cat">검은 고양이</text>
+		<text id="pumpkin_helm">호박모자</text>
 		<text id="scale_mail">Scale Mail</text>
 		
 		<text id="ladder">강철 사다리</text>
-		<text id="walkway">강철 통로</text>
-		<text id="grass_walkway">잔디 통로</text>
+		<text id="walkway">강철 발판</text>
+		<text id="grass_walkway">잔디 발판</text>
 		
 		<text id="bunker_blueprint">벙커 설계도</text>
 		<text id="bunker_kitchen_blueprint">벙커 부엌 설계도</text>
 		<text id="bunker_depot_blueprint">벙커 창고 설계도</text>
-		<text id="hydroponics_blueprint">Hydroponics 설계도</text>
+		<text id="hydroponics_blueprint">수경재배소 설계도</text>
 		<text id="bunker_factory_blueprint">벙커 공장 설계도</text>
 		<text id="bunker_farm_blueprint">벙커 농장 설계도</text>
 		<text id="earth_lab_blueprint">드론 공장 설계도</text>
-		<text id="vending_machine_blueprint">Vending Machine 설계도</text>
+		<text id="vending_machine_blueprint">자판기 설계도</text>
 		
-		<text id="small_module_blueprint">Small Module 설계도</text>
-		<text id="large_module_blueprint">Large Module 설계도</text>
-		<text id="connector_module_blueprint">Connector Module 설계도</text>
-		<text id="station_dock_blueprint">우주 기지 설계도</text>
-		<text id="xlarge_module_blueprint">X-Large Module 설계도</text>
+		<text id="small_module_blueprint">소형 우주정거장 모듈 설계도</text>
+		<text id="large_module_blueprint">대형 우주정거장 모듈 설계도</text>
+		<text id="connector_module_blueprint">우주정거장 연결 모듈설계도</text>
+		<text id="station_dock_blueprint">우주선 선착장 설계도</text>
+		<text id="xlarge_module_blueprint">초대형 우주정거장 모듈 설계도</text>
 		
 		<text id="exotic_matter">외우주 물질</text>
-		<text id="magnegem">Magnegem</text>
-		<text id="chromium">Chromium</text>
+		<text id="magnegem">마그네젬</text>
+		<text id="chromium">크로뮴</text>
 		<text id="o2_canister">산소통</text>
 		<text id="fighter.cannon">플라즈마 캐논</text>
 		<text id="fighter.gun">플라즈마 건</text>
 		<text id="fighter.launcher">반물질 런처</text>
 		<text id="antimatter_missile">반물질 미사일</text>
-		<text id="o2_generator_blueprint">O2 Generator Blueprint</text>
+		<text id="o2_generator_blueprint">산소 생성기 설계도</text>
 		<text id="jumpship">소형 우주선</text>
 		
 		<text id="dragon_ship.cannon">Heavy Fire</text>
 		<text id="dragon_ship.gun">Rapid Fire</text>
 		<text id="dragon_ship.burst">Burst Fire</text>
-		<text id="mini_synthesizer">Mini Synthesizer</text>
+		<text id="mini_synthesizer">소형 합성기</text>
 		
 		<text id="dragon_backpack">Dragon Ship Heart</text>
 		
 		<text id="steel_fence">강철 울타리</text>
 		<text id="ai_core">AI 코어</text>
 		<text id="keycard">키카드</text>
-		<text id="keycard1">고수의 키카드</text>
+		<text id="keycard1">교수의 키카드</text>
 		<text id="disabled_keycard">망가진 키카드</text>
 		
-		<text id="spacefarer">Automated Suit</text>
-		<text id="drone.ship">Drone Ship</text>
-		<text id="drone.drill">Drone Drill</text>
-		<text id="drone.sub">Drone Sub</text>
-		<text id="drone.scout">Drone Scout</text>
-		<text id="drone_control">Drone Controller</text>
+		<text id="spacefarer">자동화 수트</text>
+		<text id="drone.ship">드론 우주선</text>
+		<text id="drone.drill">드론 드릴</text>
+		<text id="drone.sub">드론 잠수함</text>
+		<text id="drone.scout">드론 정찰기</text>
+		<text id="drone_control">드론 컨트롤러</text>
 		
-		<text id="blueprint_paper">Polymer Paper</text>
-		<text id="blueprint_printer_blueprint">Blueprint Printer Blueprint</text>
-		<text id="paper_maker_blueprint">Polymer Assembler Blueprint</text>
-		<text id="particle_accelerator_blueprint">Particle Accelerator B.P.</text>
-		<text id="interstellar_teleportal_blueprint">Interstellar Teleportal B.P.</text>
+		<text id="blueprint_paper">고분자 용지</text>
+		<text id="blueprint_printer_blueprint">설계도 제작기 설계도</text>
+		<text id="paper_maker_blueprint">고분자 중합기 설계도</text>
+		<text id="particle_accelerator_blueprint">입자가속기 설계도</text>
+		<text id="interstellar_teleportal_blueprint">성간 텔레포탈 설계도</text>
 		<text id="brilliant_potion">Brilliant Potion</text>
 		
 		<text id="hq_library_seed">HQ Library Seed</text>
@@ -522,7 +522,7 @@
 		<text id="exo_sword">Exotic Sword</text>
 		<text id="exo_pack">Exotic Pack</text>
 		
-		<text id="alien_locator">Alien Locator</text>
+		<text id="alien_locator">외계인 탐색기</text>
 		
 		<text id="exo_fighter">Exo Fighter</text>
 		<text id="exo_mech">Exo Mech</text>
@@ -530,12 +530,12 @@
 		<text id="exo_mech.gun">Exo Mech Gun</text>
 		<text id="exo_shields">Exo Shield Generator</text>
 		<text id="exo_mech.light">Light Emitter</text>
-		<text id="dragomech">Dragomech</text>
+		<text id="dragomech">드래고메크</text>
 		
-		<text id="terraformer_blueprint">Terraformer Blueprint</text>
+		<text id="terraformer_blueprint">테라포머 설계도</text>
 		<text id="exo_factory_blueprint">Exo Factory Blueprint</text>
 		
-		<text id="alien_heart">Alien Heart</text>
+		<text id="alien_heart">외계인 심장</text>
 		<text id="carapace">Carapace</text>
 		
 		<text id="hoarder_gun">Hoarder Magnum</text>
@@ -546,8 +546,8 @@
 		
 		<text id="translation_book">Book of Translation</text>
 		<text id="magne_queen_drill">Amethyst Queen Drill</text>
-		<text id="coral_farm_seed">Coral Farm Seed</text>
-		<text id="staff">Magic Staff</text>
+		<text id="coral_farm_seed">산호 농장 씨앗</text>
+		<text id="staff">마법 지팡이</text>
 		<text id="venatrix_seed">Spirit Tree Seed</text>
 		<text id="storehouse_seed">Spirit Storehouse Seed</text>
 		<text id="spirit_arrow">Spirit Arrow</text>
@@ -564,27 +564,27 @@
 		<text id="magnetrap">Magnetrap</text>
 		<text id="element_table">Element Table</text>
 		<text id="magnestone">Magnestone</text>
-		<text id="mars_fish">Stygian</text>
+		<text id="mars_fish">스티지언</text>
 		<text id="carapace_armor">Carapace Armor</text>
-		<text id="ilaser_trap">Laser Trap</text>
-		<text id="ftl_broom">Interstellar Broom</text>
+		<text id="ilaser_trap">레이저 함정</text>
+		<text id="ftl_broom">별빛 마법빗자루</text>
 		
 		<text id="house_upgrade">Space House Blueprint</text>
-		<text id="sci_light_blueprint">Electric Lamp Blueprint</text>
+		<text id="sci_light_blueprint">가로등 설계도</text>
 		<text id="weap_market_blueprint">Weapon Market Blueprint</text>
 		<text id="mineral_market_blueprint">Mineral Market Blueprint</text>
 		<text id="cafeteria_blueprint">Cafeteria Blueprint</text>
 		
-		<text id="earth_key">골램 키</text>
+		<text id="earth_key">골렘 키</text>
 		<text id="megolemech">Megolemech</text>
 		<text id="mega_earth_armor">Mega Earth Armor</text>
 		<text id="mega_earth_helm">Mega Earth Helm</text>
 		<text id="mega_earth_axe">Mega Earth Axe</text>
 		
-		<text id="arcade1_blueprint">Shooter Arcade Blueprint</text>
-		<text id="arcade2_blueprint">Platformer Arcade Blueprint</text>
+		<text id="arcade1_blueprint">슈팅게임 게임기 설계도</text>
+		<text id="arcade2_blueprint">플랫포머 게임기 설계도</text>
 		
-		<text id="shovel2">Chromium Shovel</text>
+		<text id="shovel2">크로뮴 삽</text>
 		
 		<text id="meat_tree_seed">Meat Tree Seed</text>
 		<text id="werewolf_paws">Paws</text>
@@ -605,22 +605,22 @@
 		<text id="werewolf_ferocious_head_dna">Ferocious Head DNA</text>
 		<text id="acid_raptor">Acid Raptor</text>
 		
-		<text id="moissanite">Moissanite</text>
-		<text id="bone_shard">Bone Shard</text>
-		<text id="crystal_shard">Crystal Frond</text>
-		<text id="monolith_seed">Monolith Seed</text>
-		<text id="beacon_book">Book of Beacons</text>
+		<text id="moissanite">모이사나이트</text>
+		<text id="bone_shard">뼛조각</text>
+		<text id="crystal_shard">수정 잎사귀</text>
+		<text id="monolith_seed">모노리스 씨앗</text>
+		<text id="beacon_book">신호기의 마법서</text>
 		<text id="torpedo2">Mega Torpedo</text>
 		<text id="ice_torpedo2">Mega Ice Torpedo</text>
 		<text id="fire_torpedo2">Mega Heat Torpedo</text>
 		<text id="water_torpedo2">Mega Water Torpedo</text>
-		<text id="sonar">Sonar</text>
+		<text id="sonar">소나</text>
 		<text id="dragon_armor2">Draconian Armor</text>
 		
 		<text id="advanced_net">전문 덫</text>
 		
 		<text id="drone_factory_upgrade">드론 공장 업그레이드</text>
-		<text id="wood">목재</text>
+		<text id="wood">나무</text>
 		<text id="coal">석탄</text>
 		<text id="iron">철광석</text>
 		<text id="quartz">석영</text>
@@ -650,11 +650,11 @@
 		<text id="cheeseburger">치즈버거</text>
 		<text id="cake">케이크</text>
 		<text id="candy_apple">사과 사탕</text>
-		<text id="dragonblood">용의 피</text>
+		<text id="dragonblood">용혈</text>
 		<text id="stone_axe">돌 도끼</text>
 		<text id="stone_pickaxe">돌 곡괭이</text>
 		<text id="broken_pickaxe">부서진 곡괭이</text>
-		<text id="coin_purse">주화 주머니</text>
+		<text id="coin_purse">지갑</text>
 		<text id="iron_pickaxe">철 곡괭이</text>
 		<text id="iron_sword">철 검</text>
 		<text id="iron_armor">철 갑옷</text>
@@ -663,7 +663,7 @@
 		<text id="steel_armor">강철 갑옷</text>
 		<text id="titanium_armor">훌륭한 갑옷</text>
 		<text id="bow">활</text>
-		<text id="recurve_bow">리커브 활</text>
+		<text id="recurve_bow">곡궁</text>
 		<text id="arrow">화살</text>
 		<text id="ice_arrow">얼음 화살</text>
 		<text id="fire_arrow">불화살</text>
@@ -694,18 +694,18 @@
 		<text id="dragon">아기 용</text>
 		<text id="young_dragon">어린 용</text>
 		<text id="adult_dragon">드래곤</text>
-		<text id="cockatiel">앵무세</text>
+		<text id="cockatiel">앵무새</text>
 		<text id="wolf">길들인 늑대</text>
 		<text id="cat">고양이</text>
 		<text id="boat">보트</text>
 		<text id="fence">울타리</text>
 		<text id="torch">횃불</text>
 		<text id="trap">함정</text>
-		<text id="workbench">간이 작업대</text>
-		<text id="steel_workbench">강철 간이 작업대</text>
+		<text id="workbench">작업대</text>
+		<text id="steel_workbench">강철 작업대</text>
 		<text id="anvil">모루</text>
 		<text id="chest">상자</text>
-		<text id="jakolantern">잭오랜턴</text>
+		<text id="jakolantern">잭 오 랜턴</text>
 		<text id="sign">표지판</text>
 		<text id="area_name_sign">이름판</text>
 		<text id="rusty_axe">녹슨 도끼</text>
@@ -718,13 +718,13 @@
 		<text id="rockfish">띠볼락</text>
 		<text id="coral_cod">산호 대구</text>
 		<text id="fertilizer">비료</text>
-		<text id="yeti_fur">얼음 모피</text>
-		<text id="dark_fur">그림자 모피</text>
-		<text id="fire_gem">화염석</text>
-		<text id="water_gem">수중석</text>
-		<text id="earth_gem">대지석</text>
-		<text id="ice_gem">얼음석</text>
-		<text id="plant_gem">자연석</text>
+		<text id="yeti_fur">얼음 털</text>
+		<text id="dark_fur">그림자 털</text>
+		<text id="fire_gem">파이어 젬</text>
+		<text id="water_gem">워터 젬</text>
+		<text id="earth_gem">어스 젬</text>
+		<text id="ice_gem">아이스 젬</text>
+		<text id="plant_gem">플랜트 젬</text>
 		<text id="buckler">둥근 방패</text>
 		<text id="kite_shield">연꼴 방패</text>
 		<text id="ice_shield">마법 방패</text>
@@ -758,16 +758,16 @@
 		<text id="rail">레일</text>
 		<text id="map">지도</text>
 		<text id="shovel">삽</text>
-		<text id="crowbar">노루발</text>
+		<text id="crowbar">쇠지레</text>
 		<text id="landmine">지뢰</text>
-		<text id="alter_gem">알터 덩어리</text>
-		<text id="focus_gem">포커스 덩어리</text>
-		<text id="spirit_gem">영혼 덩어리</text>
-		<text id="blood_gem">피 덩어리</text>
-		<text id="baby_cannon">Baby Cannon</text>
-		<text id="dragonflame">Dragonflame</text>
+		<text id="alter_gem">알터 젬</text>
+		<text id="focus_gem">포커스 젬</text>
+		<text id="spirit_gem">스피릿 젬</text>
+		<text id="blood_gem">블러드 젬</text>
+		<text id="baby_cannon">아기용 대포</text>
+		<text id="dragonflame">드래곤플레임</text>
 		<text id="wyrm_drill">웜 드릴</text>
-		<text id="dragon_armor">Dragon Armor</text>
+		<text id="dragon_armor">드래곤 아머</text>
 		<text id="ice_sword">얼음 검</text>
 		<text id="fire_sword">화염 검</text>
 		<text id="water_sword">물의 검</text>
@@ -779,7 +779,7 @@
 		<text id="plant_axe">식물 도끼</text>
 		<text id="drain_axe">흡수 도끼</text>
 		<text id="goggles">영혼 고글</text>
-		<text id="furnace">용광로</text>
+		<text id="furnace">화로</text>
 		<text id="campfire">모닥불</text>
 		<text id="bandage">붕대</text>
 		<text id="tent">텐트</text>
@@ -791,36 +791,36 @@
 		<text id="plant_bag">Plant Bag</text>
 		<text id="jetpack">제트팩</text>
 		<text id="shadow_cape">그림자 망토</text>
-		<text id="golem">골램</text>
-		<text id="gold_golem">금 골램</text>
+		<text id="golem">골렘</text>
+		<text id="gold_golem">황금 골렘</text>
 		<text id="purple_golem">자수정 골램</text>
-		<text id="earth_armor">대지의 갑옷r</text>
+		<text id="earth_armor">대지의 갑옷</text>
 		<text id="earth_helm">대지의 투구</text>
 		<text id="earth_hammer">대지의 망치</text>
 		<text id="diode_wolf">전기 늑대</text>
-		<text id="steel_wyrm">Mecha Wyrm</text>
+		<text id="steel_wyrm">기계 웜</text>
 		<text id="cyborg_body">Cyborg Body</text>
 		<text id="cyborg_back">Cyborg Back</text>
 		<text id="cyborg_eye">Cyborg Eye</text>
 		<text id="machine_gun_arm">Machine Gun Arm</text>
-		<text id="electric_eel">전기장어</text>
+		<text id="electric_eel">전기뱀장어</text>
 		<text id="horn">뿔</text>
 		<text id="frost_shield">얼음 방패</text>
 		<text id="ice_heart">얼음 심장</text>
 		<text id="owl">올빼미</text>
-		<text id="dismantle">건물해체</text>
+		<text id="dismantle">해체</text>
 		<text id="hut_blueprint">오두막 설계도</text>
-		<text id="storehouse_blueprint">창고(돌) 설계도</text>
+		<text id="storehouse_blueprint">창고 설계도</text>
 		<text id="kitchen_blueprint">부엌 설계도</text>
 		<text id="kitchen_upgrade">부엌 업그레이드</text>
 		<text id="smelter_blueprint">제련소 설계도</text>
-		<text id="workshop_blueprint">작업장 설계도</text>
-		<text id="farm_blueprint">곳간 설계도</text>
-		<text id="pen_blueprint">축사 설계도</text>
+		<text id="workshop_blueprint">작업실 설계도</text>
+		<text id="farm_blueprint">농장 설계도</text>
+		<text id="pen_blueprint">가축우리 설계도</text>
 		<text id="lab_blueprint">연구소 설계도</text>
 		<text id="wyrm_pen_blueprint">웜 우리 설계도</text>
-		<text id="dock_blueprint">부두집 설계도</text>
-		<text id="warehouse_blueprint">창고(나무) 설계도</text>
+		<text id="dock_blueprint">부두 설계도</text>
+		<text id="warehouse_blueprint">선착장 설계도</text>
 		<text id="wheat_seed">밀 씨앗</text>
 		<text id="orchard_seed">사과 씨앗</text>
 		<text id="sugar_seed">사탕수수 씨앗</text>
@@ -830,7 +830,7 @@
 		<text id="conifer_seed">침엽수 묘목</text>
 		<text id="bush_seed">덤불 씨앗</text>
 		<text id="red_bush_seed">빨간 덤불 씨앗</text>
-		<text id="ice_bush_seed">얾음 덤불 씨앗</text>
+		<text id="ice_bush_seed">얼음 덤불 씨앗</text>
 		<text id="helium_sac">헬륨 주머니</text>
 		<text id="steel_axe">강철 도끼</text>
 		<text id="steel_hammer">강철 망치</text>
@@ -840,92 +840,92 @@
 		<text id="power_plant_blueprint">발전소 설계도</text>
 		<text id="workshop_upgrade">공장 설계도</text>
 		<text id="elevator_blueprint">엘리베이터 설계도</text>
-		<text id="powerline_blueprint">Powerline Blueprint</text>
+		<text id="powerline_blueprint">전신주 설계도</text>
 		<text id="purple_tree_seed">보라색나무 묘목</text>
 	</section>
 	<section id="item.descriptions">
-		<text id="com_device">Communicate with anyone in your contact list.</text>
-		<text id="powerplant">전력 용품.</text>
+		<text id="com_device">통화 목록에 있는 사람들과 통화할 수 있다.</text>
+		<text id="powerplant">전력을 공급한다.</text>
 		<text id="clock">시간을 보여준다.</text>
 		<text id="cable">발전소와 건물을 연결해준다.</text>
 		<text id="pump">주변 물을 흡수한다.</text>
 		<text id="cost_per_tile">타일당 {value}.</text>
-		<text id="block_stamina">[tile=stamina] [color=006600]기력[/color]으로 방어.</text>
-		<text id="block_power">[tile=power] [color=444400]전력[/color]으로 방어.</text>
-		<text id="omnidirectional">Blocks attacks from all directions.</text>
-		<text id="blockIgnoreArmor">Blocks all attacks, even spirit ones.</text>
-		<text id="patrol_boat">A faster, stronger boat that can mount weapons.</text>
-		<text id="sub">Explore the depths of the ocean!</text>
-		<text id="jet">Fly the skies!</text>
+		<text id="block_stamina">[tile=stamina] [color=006600]기력[/color]을 사용해 방어한다.</text>
+		<text id="block_power">[tile=power] [color=444400]전력[/color]을 사용해 방어한다.</text>
+		<text id="omnidirectional">모든 방향의 공격을 방어한다.</text>
+		<text id="blockIgnoreArmor">스피릿의 공격을 포함한 모든 공격을 방어한다.</text>
+		<text id="patrol_boat">무기를 장착할 수 있는 빠르고 강력한 보트.</text>
+		<text id="sub">해저를 탐험하십시오!</text>
+		<text id="jet">하늘을 나십시오!</text>
 		<text id="jeep">전기로 움직이는 ATV!</text>
 		<text id="bigdrill">채굴하기 쉽게 만든 대형 드릴 기계!</text>
-		<text id="worker_bot_builder">건물을 더 빠르게 지으며 [item=wood]를 수집합니다.</text>
-		<text id="worker_bot_miner">채광 4단계로 광석을 채굴합니다.</text>
-		<text id="worker_bot_farmer">농사를 짓고 작물을 수집합니다.</text>
-		<text id="patrol_bot">좌우로 순찰하며 강력한 레이저 총으로 적을 쏩니다.</text>
-		<text id="nuke">Causes a powerful nuclear explosion on hit.</text>
-		<text id="element_trap">4x capture against {element}.</text>
-		<text id="teleport_book">Returns you to dungeon exits or resting places.</text>
-		<text id="water_barrier_book">Creates a magical barrier that water cannot pass through.\nCan also be cast to remove barriers.</text>
-		<text id="plant_feed_book">Feeds and re-enchants equipment and familiars.</text>
-		<text id="summon_golem_book">Summons a [item=golem] familiar.</text>
-		<text id="time_book">Allows you to change the time of day.</text>
-		<text id="light_book">Creates a temporary orb of light that follows you.</text>
-		<text id="heal_book">Creates a temporary healing circle that heals 5 [tile=health] [color=770000]Health[/color] per second.</text>
+		<text id="worker_bot_builder">건물을 더 빠르게 지으며, [item=wood]를 수집한다.</text>
+		<text id="worker_bot_miner">4의 채광력으로 광물을 채굴한다.</text>
+		<text id="worker_bot_farmer">농사를 짓고 작물을 수집한다.</text>
+		<text id="patrol_bot">좌우로 순찰하며 강력한 레이저 총으로 적을 격퇴한다.</text>
+		<text id="nuke">강력한 핵폭발을 일으킨다.</text>
+		<text id="element_trap">{element} 속성의 적을 4배 더 쉽게 포획할 수 있다.</text>
+		<text id="teleport_book">던전의 출구나 집으로 즉시 돌아갈 수 있다.</text>
+		<text id="water_barrier_book">물이 흐르지 않는 마법의 장막을 소환한다.\n다시 시전하면 장막을 없앤다.</text>
+		<text id="plant_feed_book">장비를 즉시 수리하거나 펫에게 즉시 먹이를 준다.</text>
+		<text id="summon_golem_book">[item=golem] 펫을 소환한다.</text>
+		<text id="time_book">현재 시간을 바꿀 수 있다.</text>
+		<text id="light_book">따라다니는 발광 구체를 소환한다.</text>
+		<text id="heal_book">초당 [tile=health] [color=770000]체력[/color] 5를 회복하는 구체를 소환한다.</text>
 		<text id="boost_stat">[tile=stat.{stat}] [text=stats.{stat}]: +{value}</text>
-		<text id="jumpship">잔해들로 만들어진 FTL 우주선.</text>
-		<text id="dragon_ship.burst">Fires 5 projectiles at once.</text>
-		<text id="jump">Can travel between planets.</text>
-		<text id="fence_underground">적을 막아준다.\n지하에 설치할 수 있다.</text>
-		<text id="drone_control">Allows you to take control of drones you have built anywhere (in any system).</text>
+		<text id="jumpship">잔해들로 만들어진 성간 비행 우주선.</text>
+		<text id="dragon_ship.burst">한 번에 5개의 투사체를 발사한다.</text>
+		<text id="jump">행성간 이동이 가능하다.</text>
+		<text id="fence_underground">적의 접근을 막는다.\n지하에 설치할 수 있다.</text>
+		<text id="drone_control">설치된 드론을 어느 항성계에서든 원격 조작할 수 있다.</text>
 		
-		<text id="meteor_book">Calls down 10 powerful fireballs that fall randomly around you.</text>
-		<text id="flood_book">Creates a dangerous storm that deals damage over time to nearby enemies.</text>
-		<text id="growth_book">Grows a large plant with draining vines and flowers that spawn deadly spores.</text>
-		<text id="spikes_book">Impales nearby enemies with 6 deadly earth spikes.</text>
-		<text id="tornado_book">Creates an icy tornado that hunts down enemies.</text>
+		<text id="meteor_book">자신 주변에 무작위로 떨어지는 강력한 운석 10개를 소환한다.</text>
+		<text id="flood_book">주변 적에게 지속 대미지를 입히는 폭풍우를 소환한다.</text>
+		<text id="growth_book">식물을 과대성장시켜 체력을 흡수하는 넝쿨과 치명적인 포자를 뿌리는 꽃을 소환한다.</text>
+		<text id="spikes_book">치명적인 대지의 송곳 6개로 근처의 적을 꿰뚫는다.</text>
+		<text id="tornado_book">적을 추적하는 빙결의 폭풍을 소환한다.</text>
 		
-		<text id="auto_fire">Automatically fires at enemies once every second unless attack is disabled.</text>
+		<text id="auto_fire">공격이 활성화되었을 때 1초마다 자동으로 적을 공격한다.</text>
 		
-		<text id="alien_locator">Detects alien technology, adding an indicator next to planets in the star nav.</text>
+		<text id="alien_locator">우주 지도에 외계인 기술을 확인하는 표식을 추가한다.</text>
 		
-		<text id="alien_heart">It couldn't still be beating... could it?</text>
+		<text id="alien_heart">심장이 계속 뛰고 있다... 어떻게 그게 가능하지?</text>
 		
 		<text id="use_item">사용: {item}</text>
 		
-		<text id="translation_book">Translates speech between languages.</text>
-		<text id="coral_farm_seed">Plants a farm that can harvest from [color=770000]Coral Pens[/color] and [color=770000]Wyrm Pens[/color] on the same island.</text>
-		<text id="staff">Can bind to spellbooks to cast them.</text>
-		<text id="venatrix_seed">Plants a spirit tree.</text>
-		<text id="exo_shields">Produces shields from [item=exotic_matter].</text>
+		<text id="translation_book">서로 다른 언어의 대화를 번역한다.</text>
+		<text id="coral_farm_seed">같은 섬의 [color=770000]산호 우리[/color]와 [color=770000]웜 우리[/color]를 관리할 수 있는 농장을 심는다.</text>
+		<text id="staff">마법서를 장착해, 대신 시전할 수 있다.</text>
+		<text id="venatrix_seed">스피릿 트리를 심는다..</text>
+		<text id="exo_shields">[item=exotic_matter]를 이용해 방어막을 전개한다.</text>
 		
-		<text id="storehouse_seed">Plants a storehouse that can store and retrieve items from the spirit void.</text>
+		<text id="storehouse_seed">영혼의 공허에서 물건을 저장하고 가져올 수 있는 창고를 심는다.</text>
 		
-		<text id="earth_key">What could it open?</text>
-		<text id="werewolf_ferocious_head">Lets out a terrifying roar when the ability hotkey is hit while equipped.</text>
-		<text id="dexterous_paws_dna">Evolves [item=dexterous_paws] on Werewolves that can handle any equipment.</text>
-		<text id="beacon_book">Creates a beacon that the [item=teleport_book] will take you to.</text>
-		<text id="sonar">Detects nearby objects and obstacles.</text>
-		<text id="boat">Sail the World.</text>
+		<text id="earth_key">이걸로 무엇을 열 수 있을까?</text>
+		<text id="werewolf_ferocious_head">장착시 무서운 포효 능력을 추가한다.</text>
+		<text id="dexterous_paws_dna">웨어울프의 손을 로 진화시켜, 어떠한 장비도 다룰 수 있게 된다.</text>
+		<text id="beacon_book">[item=teleport_book]으로 순간이동할 수 있는 신호기를 생성한다. </text>
+		<text id="sonar">주변의 물체나 장애물을 탐지한다.</text>
+		<text id="boat">세계를 항해하자!</text>
 		<text id="fence">적을 막아준다.</text>
-		<text id="furnace">Smelts ore.</text>
-		<text id="campfire">[item=steak] 요리 가능.</text>
-		<text id="magic_box">Contains everything.</text>
-		<text id="craft">제작도구.</text>
-		<text id="repair">수리도구.</text>
-		<text id="freeze">Freezes enemies.</text>
+		<text id="furnace">광물을 제련한다.</text>
+		<text id="campfire">[item=steak]를 요리할 수 있다.</text>
+		<text id="magic_box">모든 것이 들어 있는 마법의 상자.</text>
+		<text id="craft">아이템을 제작할 수 있다.</text>
+		<text id="repair">아이템을 수리할 수 있다.</text>
+		<text id="freeze">적을 빙결시킨다.</text>
 		<text id="burn">화상</text>
-		<text id="drain">Health Drain</text>
-		<text id="undrain">Health Decay</text>
-		<text id="transform_other">Transforms items.</text>
-		<text id="fill">구멍을 매꾼다.</text>
-		<text id="collect_rail">레일, 케이블 및 사다리를 수집한다.</text>
-		<text id="storehouse">아이템 보관.</text>
-		<text id="sign">메세지 표시.</text>
-		<text id="view_hidden">Reveals spirits.</text>
+		<text id="drain">체력 흡수</text>
+		<text id="undrain">반동 대미지</text>
+		<text id="transform_other">아이템을 다른 것으로 바꿀 수 있다.</text>
+		<text id="fill">구멍을 메꾼다.</text>
+		<text id="collect_rail">레일, 전선 및 사다리를 수집한다.</text>
+		<text id="storehouse">아이템을 보관할 수 있다.</text>
+		<text id="sign">메시지를 표시할 수 있다.</text>
+		<text id="view_hidden">영혼계를 볼 수 있다.</text>
 		<text id="tent">휴식을 취하고 [tile=stamina] [color=006600]기력[/color]을 회복한다.</text>
-		<text id="spawn">Spawns {item}.</text>
-		<text id="light">장비시 주변에 빛을 제공합니다.</text>
+		<text id="spawn">{item}을 낳는다.</text>
+		<text id="light">장비시 주변에 빛을 제공한다.</text>
 		<text id="cost_per_s">{value}/s.</text>
 		<text id="cost_per_s_daylight">낮에 {value}제공.</text>
 		<text id="cost_per_s_darkness">{value} per sec in darkness.</text>
@@ -934,31 +934,31 @@
 		<text id="cost_per_s_injured">{value} per sec injured.</text>
 		<text id="cost_per_s_damaged">{value}/s (연료가 가득차지 않은경우)</text>
 		<text id="cost_per_s_undamaged">{value} per sec when full.</text>
-		<text id="hide">Hides the wearer.</text>
-		<text id="critical">Always gets a critical hit.</text>
+		<text id="hide">장착한 사람을 숨긴다.</text>
+		<text id="critical">반드시 치명상을 입힌다.</text>
 		<text id="max_weight">최대 무게</text>
-		<text id="reflect">Reflect Damage</text>
+		<text id="reflect">반사 대미지</text>
 		<text id="fires">{projectile} 사용</text>
-		<text id="cocoon">Hatches in [color=770000]Wyrm Pen[/color].</text>
+		<text id="cocoon">[color=770000]웜 우리[/color]에서 부화한다.</text>
 		<text id="builds">건설</text>
-		<text id="upgrades">Upgrades</text>
-		<text id="dismantle">Breaks down structures you have a [tile=blueprint.ico] [color=770000]Blueprint[/color] for.</text>
-		<text id="collect">주변 아이템을 수집한다.</text>
+		<text id="upgrades">업그레이드</text>
+		<text id="dismantle">[tile=blueprint.ico] [color=770000]설계도[/color]가 있는 건물을 철거한다.</text>
+		<text id="collect">주변의 아이템을 수집한다.</text>
 		<text id="plants">Plants</text>
 		<text id="plant_cost">설치 비용</text>
 		<text id="place_cost">설치 비용</text>
-		<text id="area_name_sign">설치한 섬의 이름을 정합니다.</text>
-		<text id="equipOn">상용처</text>
-		<text id="underwater">물 안에서 사용 가능.</text>
-		<text id="passTile">Passes through tiles.</text>
-		<text id="leftRight">Fires in front and behind.</text>
-		<text id="element.resist">Resists Elemental Attacks</text>
-		<text id="pierce">Pierces through enemies.</text>
-		<text id="no_kill">Does not kill (stops at 1hp).</text>
-		<text id="spirit_detector">Detects nearby life sources.</text>
+		<text id="area_name_sign">설치한 섬의 이름을 정한다.</text>
+		<text id="equipOn">사용처</text>
+		<text id="underwater">수중에서 사용 가능</text>
+		<text id="passTile">타일을 뚫고 공격할 수 있다.</text>
+		<text id="leftRight">양 옆으로 투사체를 발사한다.</text>
+		<text id="element.resist">원소 대미지 저항</text>
+		<text id="pierce">적 관통</text>
+		<text id="no_kill">적을 죽일 대미지를 주었더라도 무조건 HP를 1 남긴다.</text>
+		<text id="spirit_detector">주변의 생물을 탐지한다.</text>
 		<text id="flying">비행</text>
 		<text id="swimming">수영</text>
-		<text id="hammer">Builds blueprints on hit.</text>
+		<text id="hammer">건설 중인 건물을 빠르게 건축한다.</text>
 	</section>
 	<section id="achievement.names">
 		<text id="sub">Submersive</text>
@@ -1000,84 +1000,84 @@
 		<text id="hq_structures">Turning Traitor</text>
 		<text id="master_spellcaster">Master Spellcaster</text>
 		<text id="magne_queen_drill">Ultimate Wyrm Drill</text>
-		<text id="splicer">Non GMO</text>
+		<text id="splicer">반GMO</text>
 		<text id="draconian_wizard">Depths of Madness</text>
 		<text id="hut">Shelter</text>
-		<text id="boar">Instant Meat</text>
-		<text id="storehouse">Infinite Space</text>
+		<text id="boar">즉석 고기</text>
+		<text id="storehouse">무한한 저장공간</text>
 		<text id="farm">Sharecropping</text>
 		<text id="orchard">Apples</text>
-		<text id="smelter">Metallurgy</text>
-		<text id="kitchen">Bon Appetit</text>
+		<text id="smelter">금속공학</text>
+		<text id="kitchen">맛있게 드세요!</text>
 		<text id="backpack">Heavy Lifter</text>
-		<text id="workshop">Crafting Time</text>
-		<text id="wyrm">Wyrmslayer</text>
-		<text id="golem">Rockslayer</text>
+		<text id="workshop">제작할 시간</text>
+		<text id="wyrm">웜 슬레이어</text>
+		<text id="golem">골렘 슬레이어</text>
 		<text id="diamond">Shiny</text>
 		<text id="market">A Good Trade</text>
 		<text id="bigpack">Heavier Lifter</text>
-		<text id="capture_wyrm">Get Wyrm</text>
+		<text id="capture_wyrm">웜을 잡았다!</text>
 		<text id="pen">Milking Pigs</text>
 		<text id="pizza">Mmm, Cheese</text>
 		<text id="dock">Distant Shores</text>
 		<text id="boat">Setting Sail</text>
-		<text id="lab">Experiments</text>
-		<text id="wyrm_pen">Infinite Blood</text>
-		<text id="dragon">Hatchling</text>
+		<text id="lab">실험 개시</text>
+		<text id="wyrm_pen">무한한 피</text>
+		<text id="dragon">해츨링</text>
 		<text id="powerplant">Power Up</text>
-		<text id="factory">Industrialize</text>
+		<text id="factory">산업화</text>
 		<text id="elevator">Going Up?</text>
-		<text id="bandits">Justice</text>
+		<text id="bandits">정의는 우리 편</text>
 		<text id="diode_wolf">Shocking</text>
-		<text id="mirrows">Human Testing</text>
-		<text id="medicom">The Full Story</text>
+		<text id="mirrows">인체실험</text>
+		<text id="medicom">비하인드 스토리</text>
 		<text id="electric_eel">Charging Up</text>
-		<text id="full_cyborg">Cyborgification</text>
-		<text id="labyrinth">Taurus</text>
-		<text id="dragon_flight">Dragon Tamer</text>
+		<text id="full_cyborg">사이보그화</text>
+		<text id="labyrinth">크라토스의 미궁</text>
+		<text id="dragon_flight">드래곤 길들이기</text>
 		<text id="wyrm_queen">Queenslayer</text>
-		<text id="synthesizer">Synthetic Steak</text>
+		<text id="synthesizer">스테이크 합성</text>
 		<text id="forge">Forging Ahead</text>
-		<text id="enchanted_chainsaw">Techno Mage</text>
-		<text id="elemental">Elementary</text>
+		<text id="enchanted_chainsaw">기술적 마법</text>
+		<text id="elemental">원소술사</text>
 		<text id="purple_tree">Whomp</text>
 		<text id="full_dragon">Dragon Master</text>
-		<text id="time_manipulator">Rewind</text>
+		<text id="time_manipulator">되감기</text>
 		<text id="oldone">Face the Enemy</text>
 		<text id="blueprints">Building My Way</text>
 		<text id="skills">Powering Up</text>
 		<text id="golemech">Statue Smasher</text>
 	</section>
 	<section id="achievement.descriptions">
-		<text id="sub">Build a [color=ff2222]Submarine[/color].</text>
-		<text id="jeep">Build a [color=ff2222]SUV[/color].</text>
-		<text id="jet">Build a [color=ff2222]Jet[/color].</text>
+		<text id="sub">[color=ff2222]잠수함[/color]을 만든다.</text>
+		<text id="jeep">[color=ff2222]SUV[/color]를 만든다.</text>
+		<text id="jet">[color=ff2222]제트기[/color]를 만든다.</text>
 		<text id="com_station">Build the [color=ff2222]Com Station[/color].</text>
 		<text id="fighter">Repair the [color=ff2222]Fighter Escort[/color] ship.</text>
-		<text id="kraken">Defeat the [color=ff2222]Kraken[/color].</text>
-		<text id="hut_upgrade">Upgrade your [color=ff2222]Hut[/color].</text>
-		<text id="life_pod">Discover a [color=ff2222]Life Pod[/color].</text>
-		<text id="clam_pearl">Collect a [color=ff2222]Pearl[/color].</text>
-		<text id="pirates">Complete the [color=ff2222]Pirates[/color] quest.</text>
-		<text id="worker_bot">Build any type of [color=ff2222]Worker Bot[/color].</text>
+		<text id="kraken"> [color=ff2222]크라켄[/color]을 쓰러뜨린다.</text>
+		<text id="hut_upgrade">[color=ff2222]오두막[/color]을 업그레이드한다.</text>
+		<text id="life_pod">[color=ff2222]구조정[/color]을 발견한다.</text>
+		<text id="clam_pearl">[color=ff2222]진주[/color]를 발견한다.</text>
+		<text id="pirates">[color=ff2222]해적[/color] 퀘스트를 클리어한다.</text>
+		<text id="worker_bot">아무 [color=ff2222]로봇[/color]이나 제작한다.</text>
 		<text id="growth">Activate the [color=ff2222]Vine Copse[/color].</text>
-		<text id="spellbook">Craft your first [color=ff2222]Spellbook[/color].</text>
-		<text id="evo_gem">Forge an [color=ff2222]Evolution Gem[/color].</text>
+		<text id="spellbook">첫 [color=ff2222]마법서[/color]를 제작한다.</text>
+		<text id="evo_gem">[color=ff2222]에보 젬[/color]을 제련한다.</text>
 		<text id="ice_boss">Defeat the [color=ff2222]Hail Storm[/color].</text>
 		<text id="dragon_ship">Evolve a [color=ff2222]Dragon Ship[/color]!</text>
-		<text id="witch">Obtain a full set of witch equipment.</text>
-		<text id="space_station">Build your first [color=ff2222]Space Station[/color].</text>
-		<text id="bombardment">End the [color=ff2222]Alien Bombardment[/color].</text>
-		<text id="drones">Disable the rogue [color=ff2222]Drones[/color].</text>
-		<text id="research">Build the [color=ff2222]Mobile Research Lab[/color].</text>
-		<text id="alien_locator">Research the [color=ff2222]Alien Locator[/color].</text>
-		<text id="dragomech">Defeat a [color=ff2222]Dragomech[/color].</text>
-		<text id="colony">Find the [color=ff2222]Colony World[/color].</text>
-		<text id="alien_cruiser">Defeat an [color=ff2222]Enemy Cruiser[/color].</text>
+		<text id="witch">모든 마법사 장비를 획득한다.</text>
+		<text id="space_station">[color=ff2222]우주정거장[/color]을 건축한다.</text>
+		<text id="bombardment">[color=ff2222]외계인 폭격[/color]을 저지한다.</text>
+		<text id="drones">적대적 [color=ff2222]드론[/color]을 비활성화한다.</text>
+		<text id="research">[color=ff2222]이동형 연구소[/color]를 만든다.</text>
+		<text id="alien_locator">[color=ff2222]외계인 추적기[/color]를 연구한다.</text>
+		<text id="dragomech">[color=ff2222]드래고메크[/color]를 쓰러뜨린다.</text>
+		<text id="colony">[color=ff2222]캡틴A의 식민지[/color]를 발견한다.</text>
+		<text id="alien_cruiser">[color=ff2222]외계인 순양함[/color]을 쓰러뜨린다.</text>
 		<text id="exo_set">Obtain a full set of [color=ff2222]Exotic Matter[/color] equipment.</text>
-		<text id="cyborg2">Install a full set of upgraded Cyborg gear.</text>
-		<text id="terraformer">Build the [color=ff2222]Terraformer[/color].</text>
-		<text id="museum">Complete the [color=ff2222]Museum[/color].</text>
+		<text id="cyborg2">업그레이드된 사이보그 장비를 모두 장착한다.</text>
+		<text id="terraformer">[color=ff2222]테라포머[/color]를 건축한다.</text>
+		<text id="museum">C[color=ff2222]박물관[/color]을 모두 완료한다.</text>
 		<text id="exo_pilot">Build an [color=ff2222]Exo Fighter[/color] for the [color=ff2222]Pilot[/color].</text>
 		<text id="virus">Launch a virus to breach the [color=ff2222]Enemy HQ[/color].</text>
 		<text id="nursery_crab">Defeat the [color=ff2222]Alien Nursery[/color].</text>
@@ -1147,26 +1147,26 @@
 		<text id="too_cold">The [color=770000]Dragon Ship Factory[/color] is too frozen to use...</text>
 		<text id="sleep_day">Sleep until Day</text>
 		<text id="sleep_night">Sleep until Night</text>
-		<text id="o2_generator">O2 Generator</text>
+		<text id="o2_generator">산소 생성기</text>
 		<text id="unlock">{item}으로 잠긴 문을 열으시겠습니까?</text>
-		<text id="missing_key">You need a {item} to unlock this door.</text>
-		<text id="cost">Cost</text>
+		<text id="missing_key">이 문을 여는데 {item}이(가) 필요합니다.</text>
+		<text id="cost">비용</text>
 		<text id="research_lab">Research Lab</text>
-		<text id="researchers">Researchers:</text>
-		<text id="coral_pen">Coral Pen</text>
-		<text id="coral_farm">Coral Farm</text>
+		<text id="researchers">연구원:</text>
+		<text id="coral_pen">산호 우리</text>
+		<text id="coral_farm">산호 농장</text>
 		<text id="alien_hq.library">HQ Library</text>
 		<text id="alien_hq.factory">HQ Dragon Chamber</text>
 		<text id="alien_hq.growth">HQ Talon Copse</text>
 		<text id="magic_forge">Forge</text>
 		<text id="growth_name">Vine Copse</text>
-		<text id="magic_house2">Magic House</text>
-		<text id="evo_house">Evo Magic House</text>
-		<text id="sci.light">Electric Lamp</text>
+		<text id="magic_house2">마법의 집</text>
+		<text id="evo_house">진화된 마법집</text>
+		<text id="sci.light">가로등</text>
 		<text id="colony.weaps_market">AI Weapon Market</text>
 		<text id="colony.mineral_market">AI Mineral Market</text>
 		<text id="colony.cafeteria2">AI Cafeteria</text>
-		<text id="research.arcade">Arcade</text>
+		<text id="research.arcade">게임기</text>
 		<text id="repair_colony_ship">Would you like to repair the [color=770000]Colony Ship[/color] with the following resources?</text>
 		<text id="colony.drone_factory">Colony Ship Drone Factory</text>
 		<text id="ask_uproot">Would you like to uproot this structure?</text>
@@ -1180,18 +1180,18 @@
 		<text id="pen">축사</text>
 		<text id="produces">-- 생산 --</text>
 		<text id="slots">-- 슬롯 --</text>
-		<text id="plant">Change Crop</text>
-		<text id="fertilizer">Fertilizer</text>
+		<text id="plant">작물 변경</text>
+		<text id="fertilizer">비료 주기</text>
 		<text id="activate_fail">There is something missing that's needed to activate this.</text>
 		<text id="search_fail">Hmm, nothing of interest here.</text>
 		<text id="get_pumpkin_seeds">Found some [item=pumpkin_seed]!</text>
-		<text id="sail_boat">Sail Boat</text>
+		<text id="sail_boat">항해</text>
 		<text id="manage_storage">저장소 관리</text>
 		<text id="elevator">엘리베이터</text>
-		<text id="overweight">The [tile=boat.ico] Boat is too heavy to sail!</text>
-		<text id="rest_boat">Rest in Boat</text>
-		<text id="activate">Would you like to use a {item} to activate this structure?</text>
-		<text id="enchant_recipe">The pillar reveals this enchantment:\n{enchant} + {items} = {creates}.</text>
+		<text id="overweight">[tile=boat.ico]보트를 움직이기에는 너무 무겁습니다!</text>
+		<text id="rest_boat">보트에서 쉬기</text>
+		<text id="activate">{item}을(를) 사용해서 이 건물을 활성화하겠습니까?</text>
+		<text id="enchant_recipe">레시피 기둥이 레시피를 드러냈습니다.:\n{enchant} + {items} = {creates}.</text>
 		<text id="enchant_added">The enchantment recipe has been added to the [color=770000]Forge[/color].</text>
 		<text id="place_in_lair">Requires {item} in this lair.</text>
 		<text id="golem_factory">The structure's power is all being drawn into that statue...</text>
@@ -1201,7 +1201,7 @@
 		<text id="plant_cost">Would you like to plant {structure} for the following resources?</text>
 		<text id="place_cost">Would you like to place {structure} for the following resources?</text>
 		<text id="dragon_lair">Dragon in Lair:</text>
-		<text id="change_appearance">Change Appearance</text>
+		<text id="change_appearance">외모 변경</text>
 		<text id="forge">Activate the Forge.</text>
 		<text id="synthesizer">Activate the Synthesizer.</text>
 	</section>
@@ -1212,12 +1212,12 @@
 		<text id="advanced_lab">전문연구소</text>
 		<text id="inspect">Inspect Structure</text>
 		<text id="fish.market">수산시장</text>
-		<text id="fish.library">마법책 제작</text>
-		<text id="evolve_dragon">Evolve Elder Dragon</text>
-		<text id="evolve">Evolve</text>
+		<text id="fish.library">마법서 제작</text>
+		<text id="evolve_dragon">엘더 드래곤 진화</text>
+		<text id="evolve">진화</text>
 		<text id="rest">휴식</text>
 		<text id="spaceship">우주선 탑승</text>
-		<text id="oxygen">Refill Oxygen</text>
+		<text id="oxygen">산소 회복</text>
 		<text id="portal">포탈</text>
 		<text id="spaceship_inv">Transfer Items to Spaceship</text>
 		<text id="sub_inv">Transfer Items to Submarine</text>
@@ -1242,9 +1242,9 @@
 		<text id="pen">축사 관리</text>
 		<text id="cage">우리 관리</text>
 		<text id="summon_alchemist">연금술사 부르기</text>
-		<text id="dragon_lair2">Raise Dragons</text>
-		<text id="raise_into">Raise into {into}</text>
-		<text id="fly_dragon">Fly Dragon</text>
+		<text id="dragon_lair2">드래곤 키우기</text>
+		<text id="raise_into">{into}로 키우기</text>
+		<text id="fly_dragon">드래곤에 탑승</text>
 		<text id="activate">작동시키기</text>
 		<text id="enter">입장</text>
 		<text id="tent">텐트에서 휴식</text>
@@ -1412,7 +1412,7 @@
 		<text id="coral_pen">우리 관리</text>
 		<text id="revitalize_dragon">Revitalize Dragon</text>
 		<text id="witch_potion">바다의 마녀</text>
-		<text id="wand">당신의 첫번째 원드</text>
+		<text id="wand">당신의 첫번째 지팡이</text>
 		<text id="sushi">해산물</text>
 		<text id="power_core">우주로!</text>
 		<text id="bombardment">End the Siege</text>
@@ -1455,18 +1455,18 @@
 		<text id="hut">오두막 수리</text>
 		<text id="storehouse">창고 건설</text>
 		<text id="storehouse2">창고 건설</text>
-		<text id="smelter">용광로 건설</text>
-		<text id="workshop">작업장 건설</text>
+		<text id="smelter">제련소 건설</text>
+		<text id="workshop">작업실 건설</text>
 		<text id="kitchen">부엌 건설</text>
 		<text id="kitchen2">부엌 업그레이드</text>
 		<text id="farm">농장 건설</text>
 		<text id="orchard">사과 씨앗</text>
-		<text id="market">상가 건설</text>
-		<text id="market2">상가 건설</text>
-		<text id="dock">부두집 건설</text>
-		<text id="dock2">부두집 건설</text>
-		<text id="pen">돼지우리 건설</text>
-		<text id="boat">보트 건설</text>
+		<text id="market">상점 건설</text>
+		<text id="market2">상점 건설</text>
+		<text id="dock">부두 건설</text>
+		<text id="dock2">부두 건설</text>
+		<text id="pen">축사 건설</text>
+		<text id="boat">보트 제작</text>
 		<text id="lab">마법 재료</text>
 		<text id="wyrm_pen">웜 우리</text>
 		<text id="hatch_dragons">용 부화</text>
@@ -1477,8 +1477,8 @@
 		<text id="powerplant">발전소 수리</text>
 		<text id="factory">공장 건설</text>
 		<text id="elevator">엘리베이터 건설</text>
-		<text id="mirrows">미로우 남매와 대결</text>
-		<text id="mirrows2">미로우 남매 설득</text>
+		<text id="mirrows">미로우 부부와 대결</text>
+		<text id="mirrows2">미로우 부부 설득</text>
 		<text id="fisherman_cat">페리을 찾아서</text>
 		<text id="bandits">강도 퇴치</text>
 		<text id="boars">멧돼지 사냥</text>
@@ -1532,15 +1532,15 @@
 		<text id="storehouse">가 [color=550000]창고[/color]를 지으려 합니다.</text>
 		<text id="storehouse2">Build a [color=550000]Storehouse[/color] to store all your items.</text>
 		<text id="smelter">가 광물을 가공할 [color=550000]제련소[/color]를 원합니다</text>
-		<text id="workshop">가 [color=550000]작업장[/color]을 지으려 합니다.</text>
+		<text id="workshop">가 [color=550000]작업실[/color]을 지으려 합니다.</text>
 		<text id="kitchen">가 [color=550000]부엌[/color]을 지으려 합니다.</text>
 		<text id="kitchen2">가 [color=550000]부엌[/color]에서 [item=cheese]를 만들고 싶어합니다.</text>
 		<text id="farm">가 재배를 위한 [color=550000]농장[/color]을 짓기 원합니다.</text>
 		<text id="orchard">가 [item=fruit]로 [color=550000]과수원[/color]을 지으려 합니다.</text>
 		<text id="market">이 [color=550000]상가[/color]를 구성하고 싶어합니다.</text>
-		<text id="market2">[color=550000]상가[/color]를 짓고 [color=550000]부두집[/color]을 통해 교역을 하자.</text>
-		<text id="dock">이 [color=550000]부두집[/color]을지어 여행하고싶어합니다.</text>
-		<text id="dock2">[color=550000]부두집[/color]을 지어서 다른 생존자를 찾아보자.</text>
+		<text id="market2">[color=550000]상가[/color]를 짓고 [color=550000]부두[/color]를 통해 교역을 하자.</text>
+		<text id="dock">이 [color=550000]부두[/color]를 지어 여행하고 싶어합니다.</text>
+		<text id="dock2">[color=550000]부두[/color]를 지어서 다른 생존자를 찾아보자.</text>
 		<text id="pen">가 [color=550000]축사[/color]를 건설하고 싶어합니다.</text>
 		<text id="boat">세계를 항해할 시간이다! [color=550000]부두집[/color]에서 [tile=boat.ico] 보트를 만들자.</text>
 		<text id="lab">가 [item=wyrm]에게 얻을수 있는 [item=dragonblood]을 원합니다.</text>
@@ -1552,7 +1552,7 @@
 		<text id="wolf">이 새끼늑대를 길들이려 합니다.</text>
 		<text id="powerplant">이 [color=550000]발전소[/color]를 수리할 [item=titanium]을 원합니다.</text>
 		<text id="elevator">wants to build an [color=550000]Elevator[/color] to haul ore.</text>
-		<text id="mirrows">이 미로우 남매와 협상하길 원합니다.</text>
+		<text id="mirrows">이 미로우 부부와 협상하길 원합니다.</text>
 		<text id="mirrows2">wants you to find something special to sway the Mirrows.</text>
 		<text id="fisherman_cat">가 [item=toothfish]를 좋아하는 자신의 [item=cat]를 찾아주길 원합니다.</text>
 		<text id="bandits">상인들이 물건을 훔치는 강도들을 퇴치해주길 원합니다.</text>
@@ -1568,7 +1568,7 @@
 		<text id="jet">제트기</text>
 		<text id="bigdrill">채굴기계</text>
 		<text id="patrol_boat">전투함</text>
-		<text id="damage_bonus">Damage Bonus</text>
+		<text id="damage_bonus">추가 대미지</text>
 		<text id="fly_ship">Alright... lets see if this ship will fly!</text>
 		<text id="ancient_dragon">엘더 드래곤</text>
 		<text id="golemech">Golemech</text>
@@ -1585,10 +1585,10 @@
 		<text id="position">위치: {x}, {y}</text>
 		<text id="default_engine">Base Engine</text>
 		<text id="pack_up_item">정말로 {item}을(를) 수거할까요?</text>
-		<text id="submersible">Submersible</text>
+		<text id="submersible">잠수정</text>
 		<text id="dismount">내리기</text>
-		<text id="vehicle">Vehicle</text>
-		<text id="fly">이륙.</text>
+		<text id="vehicle">탈것</text>
+		<text id="fly">이륙</text>
 		<text id="overweight">The vehicle is too heavy to move!</text>
 		<text id="manage_items">아이템 관리</text>
 		<text id="manage_player">내 장비</text>
@@ -1601,7 +1601,7 @@
 		<text id="in_use">Unable to operate vehicle: another player is already operating it!</text>
 	</section>
 	<section id="npc">
-		<text id="mirrows">미로우 남매</text>
+		<text id="mirrows">미로우 부부</text>
 		<text id="worker_bot.builder">건설 봇</text>
 		<text id="worker_bot.miner">채굴 봇</text>
 		<text id="worker_bot.farmer">농부 봇</text>
@@ -1617,8 +1617,8 @@
 		<text id="president">기장</text>
 		<text id="pilot">조종사</text>
 		<text id="curator">Curator</text>
-		<text id="exiled">Exiled</text>
-		<text id="spirit_guide">Spirit</text>
+		<text id="exiled">추방자</text>
+		<text id="spirit_guide">영혼 인도자</text>
 		<text id="unnature.ranger">궁수</text>
 		<text id="unnature.splicer">Splicer</text>
 		<text id="depths.explorer">탐험가</text>
