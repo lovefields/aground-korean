@@ -1964,7 +1964,7 @@
 		<text id="bandits2">You seem strong. Think you could scare them off for us?</text>
 		<text id="bandits3">You actually beat the bandits! Please, take this gift as a token of our appreciation.</text>
 		<text id="bandits4">It's our lucky day - our prey came walking right up to us! Things are going great since we ran away from those Mirrows and their nasty experiments!</text>
-		<text id="ore_cave">This place feels weird, like I've entered another dimension. I have a feeling it will be different every time I enter.</text>
+		<text id="ore_cave">이곳의 느낌은 이상하다, 마치 내가 다른곳에 있는것 같다. 이곳을 방문할때마다 다른곳일 것 같다.</text>
 		<text id="no_coin_purse">You'll need a [item=coin_purse] if you want to trade with us. We can give you one for [var=recipe.sci1_coin_purse.sulfur] [item=sulfur].</text>
 		<text id="make_coin_purse">Trade [var=recipe.sci1_coin_purse.sulfur] [item=sulfur] for a [item=coin_purse]?</text>
 		<text id="lurker">Hey kid, would you like some rare goods? You can't buy these anywhere else!</text>
