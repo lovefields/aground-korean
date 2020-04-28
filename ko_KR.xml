@@ -943,7 +943,7 @@
 		<text id="builds">건설</text>
 		<text id="upgrades">Upgrades</text>
 		<text id="dismantle">Breaks down structures you have a [tile=blueprint.ico] [color=770000]Blueprint[/color] for.</text>
-		<text id="collect">Collects nearby items.</text>
+		<text id="collect">주변 아이템을 수집한다.</text>
 		<text id="plants">Plants</text>
 		<text id="plant_cost">설치 비용</text>
 		<text id="place_cost">설치 비용</text>
@@ -1196,8 +1196,8 @@
 		<text id="place_in_lair">Requires {item} in this lair.</text>
 		<text id="golem_factory">The structure's power is all being drawn into that statue...</text>
 		<text id="golemech">Build Golemech</text>
-		<text id="build">Would you like to build a {structure} for the following resources?</text>
-		<text id="dismantle">Would you like to dismantle the {structure} for the following resources?</text>
+		<text id="build">다음 재료를 사용해서 {structure}을(를) 건설할까요?</text>
+		<text id="dismantle">{structure}을(를) 철거하고 다음 재료를 수거할까요?</text>
 		<text id="plant_cost">Would you like to plant {structure} for the following resources?</text>
 		<text id="place_cost">Would you like to place {structure} for the following resources?</text>
 		<text id="dragon_lair">Dragon in Lair:</text>
@@ -1351,7 +1351,7 @@
 		<text id="no_effect">아무런 효과도 얻을 수 없습니다.</text>
 		<text id="drop_instead">대신 이것을 버리겠습니까?</text>
 		<text id="cannot_fire">Cannot fire {projectile} without {weapon}.</text>
-		<text id="no_projectiles">Cannot fire {weapon}: out of {projectile}s.</text>
+		<text id="no_projectiles">{weapon}사용 불가:{projectile}가 없습니다.</text>
 		<text id="max_items">아이템을 더이상 넣을수 없습니다!</text>
 		<text id="max_fuel">연료를 더이상 넣을수 없습니다!</text>
 		<text id="max_repair">It is already fully repaired!</text>
@@ -1545,7 +1545,7 @@
 		<text id="boat">세계를 항해할 시간이다! [color=550000]부두집[/color]에서 [tile=boat.ico] 보트를 만들자.</text>
 		<text id="lab">가 [item=wyrm]에게 얻을수 있는 [item=dragonblood]을 원합니다.</text>
 		<text id="wyrm_pen">가 [item=wyrm]을 잡아 실험하려 합니다.</text>
-		<text id="hatch_dragons">[item=dragon]을 부화하면 [item=adult_dragon]이 당신을 돕습니다.</text>
+		<text id="hatch_dragons">[item=dragon]을 부화시키면 [item=adult_dragon]이 당신을 돕습니다.</text>
 		<text id="thunder_axe">가 [item=rusty_axe]를 수리해주려 합니다.</text>
 		<text id="hunt">이 무기 사용을 연습하길 권합니다.</text>
 		<text id="fence">이 [item=fence]를 설치하려 합니다.</text>
@@ -1697,8 +1697,8 @@
 		<text id="pig">[item=pig]를 어떻게 얻냐구요? [item=net] 을 땅에 설치해서 [color=770000][tile=boar] 멧돼지[/color]를 유인해보세요. 운이 좋다면 길들일수 있을거에요!</text>
 		<text id="kitchen2">Milking a [item=pig]? Why not? This is a strange land. But what we could really use is some [item=cheese] - talk to the [object=builder] about improving the [color=770000]Kitchen[/color].</text>
 		<text id="halloween">I hope you don't mind, but I did a little decoratin' for the Harvest Festival! We could use a little celebrating around here. I also put some [item=jakolantern]s in the [color=770000]Storehouse[/color].</text>
-		<text id="add_sugar">This farm is getting pretty big! To celebrate I found some [item=sugar_seed]! Try planting a field of [item=sugar]!</text>
-		<text id="add_cotton">I met a few traders by the [color=770000]Dock[/color] and got some [item=cotton_seed]!</text>
+		<text id="add_sugar">농장이 꽤나 커졌어요! 축하기 위해서 [item=sugar_seed]을 찾아왔어요! 밭을 일구고 [item=sugar]을 얻어보죠!</text>
+		<text id="add_cotton">저는 [color=770000]부두집[/color]옆에서 몇몇 상인을 만났고 [item=cotton_seed]을 얻었어요!</text>
 		<text id="orchard1">이 주변에는 [item=fruit]가 많아요. 씨앗이 충분히 모이면 [color=770000]과수원[/color]을 지을수 있겠어요!</text>
 		<text id="orchard2">훌륭해요, 이제 우리는 [item=fruit]에서 [item=orchard_seed]을 얻었으니 [color=770000]과수원[/color]을 지을수 있어요!</text>
 		<text id="orchard3">[color=770000]과수원[/color]을 짓기위한 [item=fruit]가 충분히 모이면 알려주세요!</text>
@@ -1768,8 +1768,8 @@
 		<text id="market5">[item=gold_bar]를 만들기 위해서는 [item=gold]이 필요해, 이건 아주 깊은곳에서 찾을 수 있지. [object=miner]가 깊은곳을 채광하기 위한 좋은 팁들을 알고 있을거야.</text>
 		<text id="dock1">다른 세상을 보고싶지 않니? [color=770000]부두집[/color]을 짓는게 어떨까?</text>
 		<text id="dock2">[color=770000][tile=coin_purse.ico] 주화[/color] [var=quest.dock.coins]개와 [item=wood] [var=quest.dock.wood]개, [item=cloth] [var=quest.dock.cloth]개, [item=net] [var=quest.dock.net]개가 있으면 되.</text>
-		<text id="dock3">Excellent, let's get this [color=770000]Dock[/color] built!</text>
-		<text id="dock4">Once you build a [tile=boat.ico] Boat at the [color=770000]Dockhouse[/color], you'll be ready to travel across the sea!</text>
+		<text id="dock3">완벽해, 어서 [color=770000]부두집[/color]을 짓자고!</text>
+		<text id="dock4">[color=770000]부두집[/color]에서 [tile=boat.ico] 보트를 만들게 된다면, 드디어 너는 바다로 나갈 준비가 된거야!</text>
 		<text id="dock5">[color=770000]부두집[/color]은 [color=770000][tile=coin_purse.ico] 주화[/color] [var=quest.dock.coins]개와, [item=wood] [var=quest.dock.wood]개, [item=cloth] [var=quest.dock.cloth]개, [item=net] [var=quest.dock.net]개가 필요해.</text>
 		<text id="accept">제안 수락</text>
 		<text id="reject">돌려 보내기</text>
@@ -1842,8 +1842,8 @@
 		<text id="lair3">Aha! Done! With this lair, we can raise our own dragons. The lair seems to point east, perhaps we could fly a dragon that direction and discover more...</text>
 		<text id="axe1">그 [item=rusty_axe]좀 봐봅시다... 녹이 슬어 보기 힘들지만 저는 이 문양이 뭔지 알아요!</text>
 		<text id="axe2">이것에는 고대의 마법이 깃들어 있어요. 지금은 거의 사라졌지만... 어떤 마법의 재료를 가져오면 제가 고칠수 있겠어요.</text>
-		<text id="axe3">That [item=fire_tusk]... what kind of creature did you get it from? It seems to resonate with the [item=rusty_axe], perhaps that is the magical ingredient we were looking for!</text>
-		<text id="axe4">I have done it! I wonder who made this [item=thunder_axe], and how old it is? If you want to make more, I added the recipe to the laboratory.</text>
+		<text id="axe3">[item=fire_tusk]... 어떤 몬스터에게서 얻은건가요? 마치 [item=rusty_axe]랑 공명하고 있는것 같아요, 아마도 이거 우리가 찾던 마법재료 일거에요!</text>
+		<text id="axe4">해냈어요! 누가 [item=thunder_axe]를 만들었을까요? 그리고 얼마나 오래된 물건일까요? 만약 당신이 더 만들고 싶다면 제가 연구소에 제작법을 두었으니 한번 해보세요.</text>
 		<text id="shadow_cape1">Let me see that [item=dark_fur]! It appears to exist between the world of the spirits and the world of the living...</text>
 		<text id="shadow_cape2">I'll have to research it further, but I can easily turn it into a [item=shadow_cape] that will hide you from normal eyes. I added the recipe to the laboratory.</text>
 		<text id="magic_intro1">This island is overflowing with magic - we are definitely in the right place!</text>
@@ -2016,13 +2016,13 @@
 		<text id="fence2">혹시 [item=workbench]를 이용해서 [item=fence] [var=quest.fence.fence]개를 만들어 주시겠어요? 그러면 우리는 경계를 만들수 있어요.</text>
 		<text id="fence3">완벽해. [color=770000][tile=boar] 멧되지[/color]들은 [item=fence]를 넘어오지 못해요. 이제 우리는 안전해요.</text>
 		<text id="fence4">제가 여기에 하나 설치하겠어요. 다른 [item=fence]를 주변에 설치해서 숙소를 지켜보죠!</text>
-		<text id="wolf1">I've noticed a wolf pup hanging around our settlement. He seems lonely.</text>
-		<text id="wolf2">Doesn't he have a pack?</text>
-		<text id="wolf3">They must have left him behind.</text>
-		<text id="wolf4">With [var=quest.wolf.net] [item=net]s, [var=quest.wolf.trap] [item=trap]s and [var=quest.wolf.meat] [item=meat], we may be able to tame him.</text>
-		<text id="wolf5">Okay, let’s see what we can do with this pup.</text>
-		<text id="wolf6">Well done, he seems to trust you completely. You have a loyal companion now.</text>
-		<text id="wolf7">You can have the [item=wolf] follow you by using the [color=770000]Familiar[/color] slot in your [color=770000]Equipment[/color] window.</text>
+		<text id="wolf1">어린 늑대가 우리 거처 주변을 어슬렁 거리는걸 봤어요. 그는 혼자인것 같아요.</text>
+		<text id="wolf2">무리와 함께이지 않았어요?</text>
+		<text id="wolf3">무리에서 버림받은것 같아요.</text>
+		<text id="wolf4">[item=net] [var=quest.wolf.net]개, [item=trap] [var=quest.wolf.trap]개, [item=meat] [var=quest.wolf.meat]개가 있다면 그 늑대를 길들일수 있을지도 몰라요.</text>
+		<text id="wolf5">좋아요 그 새끼 늑대가 어떻게 하는지 봅시다.</text>
+		<text id="wolf6">좋았어, 새끼 늑대가 우리를 믿기 시작했어요. 괜찮은 동반자가 생겼네요.</text>
+		<text id="wolf7">[color=770000]장비[/color]창의 [color=770000]펫[/color]슬롯에서 [item=wolf]를 따라 다니도록 설정할 수 있어요.</text>
 	</section>
 	<section id="mechanic">
 		<text id="hut_upgrade1">You want to remodel the structures on your island? I suppose I can help you out.</text>
@@ -2185,7 +2185,7 @@
 		<text id="cat8">The cat is too fast for you to grab!</text>
 		<text id="cat9">She snatched the [item=toothfish] from my hand, but she’s too fast, I can’t catch her.</text>
 		<text id="cat11">Give Peri a [item=toothfish]?</text>
-		<text id="cat12">She didn’t bolt away as fast this time.</text>
+		<text id="cat12">She didn’t bolt away as fast this time.</text> 
 		<text id="cat13">Come here Peri... that's a good girl...</text>
 		<text id="cat15">One cat successfully captured!</text>
 		<text id="tip1">Fishing is all about timing. Use your fishing rod at the end of the dock and then hit [key=select] when there is something on the line - too soon or too late, and you'll lose the catch!</text>
