@@ -164,7 +164,7 @@
 		<text id="fishing_pull">지금 당겨!</text>
 		<text id="craft">몇 개를 제작하시겠습니까?</text>
 		<text id="uncraft">몇 개를 분해하시겠습니까?</text>
-		<text id="coins">동전</text>
+		<text id="coins">주화</text>
 		<text id="broken">{item}이(가) 망가졌습니다!</text>
 		<text id="damaged">{item}이(가) 곧 망가집니다!</text>
 		<text id="rem_storehouse_items">가방에 있는것만</text>
@@ -195,7 +195,7 @@
 		<text id="knockback">넉백:</text>
 		<text id="fight">싸우기</text>
 		<text id="run_away">도망치기</text>
-		<text id="complete">Complete</text>
+		<text id="complete">완료</text>
 		<text id="remove">해제</text>
 		<text id="time_manipulator">시간 조작기</text>
 		<text id="set_time">현재 시간을 몇 시로 설정하시겠습니까?(24시간 기준)</text>
@@ -305,7 +305,7 @@
 		<text id="rename">이름짓기</text>
 		<text id="fill">채우기</text>
 		<text id="synthesize">Synthesize</text>
-		<text id="enchant">Enchant</text>
+		<text id="enchant">인첸트</text>
 		<text id="setProjectile">발사체 지정</text>
 		<text id="enrage">도발</text>
 		<text id="enrage_prompt">정말로 [item=adult_dragon]을 도발하시겠습니까? 그는 당신을 영원히 적대할 것입니다.</text>
@@ -320,7 +320,7 @@
 		<text id="build">건축</text>
 		<text id="upgrade">업그레이드</text>
 		<text id="plant">심기</text>
-		<text id="merge_coins">동전 정리</text>
+		<text id="merge_coins">주화 정리</text>
 	</section>
 	<section id="item.names">
 		<text id="pearl">진주</text>
@@ -1139,7 +1139,7 @@
 	<section id="structure">
 		<text id="rice">논</text>
 		<text id="teleport">이동:</text>
-		<text id="uproot">Uproot</text>
+		<text id="uproot">뽑기</text>
 		<text id="evo_chamber">Evolution Chamber</text>
 		<text id="fish.library">Library</text>
 		<text id="growth">Activate the Vine Copse.</text>
@@ -1182,7 +1182,7 @@
 		<text id="slots">-- 슬롯 --</text>
 		<text id="plant">작물 변경</text>
 		<text id="fertilizer">비료 주기</text>
-		<text id="activate_fail">There is something missing that's needed to activate this.</text>
+		<text id="activate_fail">이것을 활성화 하기위해서는 무언가가 필요합니다</text>
 		<text id="search_fail">Hmm, nothing of interest here.</text>
 		<text id="get_pumpkin_seeds">Found some [item=pumpkin_seed]!</text>
 		<text id="sail_boat">항해</text>
@@ -1359,7 +1359,7 @@
 		<text id="max_feed">사료를 더이사 줄수 없습니다!</text>
 		<text id="max_coins">You cannot hold any more coins!</text>
 		<text id="send_bug_report">Something went wrong! Would you like to send a bug report?</text>
-		<text id="not_powered">There is no power!</text>
+		<text id="not_powered">전력이 없습니다!</text>
 		<text id="power">Not enough battery power!</text>
 		<text id="rations">Not enough rations!</text>
 		<text id="fuel">Not enough fuel!</text>
@@ -1551,12 +1551,13 @@
 		<text id="fence">이 [item=fence]를 설치하려 합니다.</text>
 		<text id="wolf">이 새끼늑대를 길들이려 합니다.</text>
 		<text id="powerplant">이 [color=550000]발전소[/color]를 수리할 [item=titanium]을 원합니다.</text>
+		<text id="factory">이 [color=550000]공장[/color]을 건설하려 합니다.</text>
 		<text id="elevator">wants to build an [color=550000]Elevator[/color] to haul ore.</text>
 		<text id="mirrows">이 미로우 부부와 협상하길 원합니다.</text>
 		<text id="mirrows2">wants you to find something special to sway the Mirrows.</text>
 		<text id="fisherman_cat">가 [item=toothfish]를 좋아하는 자신의 [item=cat]를 찾아주길 원합니다.</text>
 		<text id="bandits">상인들이 물건을 훔치는 강도들을 퇴치해주길 원합니다.</text>
-		<text id="wyrm_hive">wants you to find the secrets of the [item=wyrm]s.</text>
+		<text id="wyrm_hive">가 [item=wyrm]의 비밀을 풀고싶어합니다.</text>
 		<text id="spirit_gem">wants you to use [item=spirit_gem]s to catch spirits.</text>
 		<text id="alter_gem">needs more help to finish his [item=wyrm] research!</text>
 		<text id="oldone">wants to find the source of the magical energy spikes.</text>
@@ -1593,7 +1594,7 @@
 		<text id="manage_items">아이템 관리</text>
 		<text id="manage_player">내 장비</text>
 		<text id="battery">Charge from Batteries</text>
-		<text id="explain">[color=770000]TIP:[/color] When riding a vehicle or animal, you can hit [key=equipment] to see details about what you're riding, and feed or fuel it.</text>
+		<text id="explain">[color=770000]팁:[/color] 탈것 을 탄 상태로 [key=equipment]키를 누르면 세부사항을 보고 연료나 먹이를 줄 수 있습니다.</text>
 		<text id="flight_height">This vehicle cannot fly any higher!</text>
 		<text id="deploy">배치</text>
 		<text id="pack_up">수거</text>
@@ -1828,12 +1829,12 @@
 		<text id="dragon7">오래된 어떠한것들이 떠낫기 때문이지, 그들도 마법과 진실을 추구하는 자들이었다. 하지만 그들은 우리 종족을 배신했지.</text>
 		<text id="dragon8">그렇다면 저희가 도와드리겠습니다! 대가로 지식을 원할뿐이에요.</text>
 		<text id="dragon9">그대들이 가능할거라 생각하나? 그렇다면 증명하게. 만약 그대들이 [item=dragon] [var=quest.hatch_dragons.dragon]을 부화해서 데려오게, 그렇다면 이야기를 해보지. 그렇지 못한다면 다음을 알고 있겟지?</text>
-		<text id="dragon10">I knew you would betray me! Taste my wrath!</text>
-		<text id="dragon11">I don't think we should wake her again until we have the [item=dragon]s.</text>
-		<text id="dragon12">You have done it? Perhaps there is yet hope for my race.</text>
-		<text id="dragon12_a">Excellent! So, you'll tell us the secrets of magic?</text>
-		<text id="dragon13">Unfortunately, I do not know the secrets you seek. The old ones created us, and they built this lair to raise us.</text>
-		<text id="dragon14">However, answers may lie on the islands to the east. Return to this lair when you are ready, and I will fly you there.</text>
+		<text id="dragon10">그대가 배신할줄 알았지! 내 분노를 느껴보아라!</text>
+		<text id="dragon11">우리가 [item=dragon]을 부화하기 전까지는 말을 걸지 않는게 좋을것 같아요.</text>
+		<text id="dragon12">해냈는가? 아직 우리종족이 멸종할 때는 아닌가 보군.</text>
+		<text id="dragon12_a">좋아요! 그럼 이제 우리에게 마법과 진실을 알려주시겠어요?</text>
+		<text id="dragon13">불행하게도, 그대들이 알고싶어하는 지식을 알고있지는 않네. 옛것들이 우리를 창조했고 우리를 기르기 위해서 이 은신처를 만들었지.</text>
+		<text id="dragon14">하지만 동쪽 섬에는 답이 있을수도 있네. 준비를 하고 나에게 말을 걸어준다면 내가 그곳으로 데려다 주겟네.</text>
 		<text id="dragon15">Another dragon lair! Imagine how many dragons were once raised in lairs like these with magic! I wonder why... in any case, allow me to activate this lair.</text>
 		<text id="dragon16">I also built a [color=770000]Wyrm Pen[/color] here, in case we need to raise more dragons! But don't expect me to harvest [item=dragonblood] here, I've got more important things to research.</text>
 		<text id="call_dragon">Where did you leave the dragon? I'll call it over here - try not to lose track of it.</text>
@@ -1846,13 +1847,13 @@
 		<text id="axe4">해냈어요! 누가 [item=thunder_axe]를 만들었을까요? 그리고 얼마나 오래된 물건일까요? 만약 당신이 더 만들고 싶다면 제가 연구소에 제작법을 두었으니 한번 해보세요.</text>
 		<text id="shadow_cape1">Let me see that [item=dark_fur]! It appears to exist between the world of the spirits and the world of the living...</text>
 		<text id="shadow_cape2">I'll have to research it further, but I can easily turn it into a [item=shadow_cape] that will hide you from normal eyes. I added the recipe to the laboratory.</text>
-		<text id="magic_intro1">This island is overflowing with magic - we are definitely in the right place!</text>
-		<text id="magic_intro2">I’ve seen this kind of magic before. These structures are partially organic and are all hibernating. They’ll need to be awoken.</text>
-		<text id="magic_intro3">I already know how to activate this purple chamber, but the other structures will require more study.</text>
-		<text id="magic_intro4">This should be a good base of operations. I'll set up some supplies.</text>
-		<text id="wyrm1">Clues for activating the other structures might lie with the [item=wyrm]s.</text>
-		<text id="wyrm2">You should follow one on this island and learn their secrets, while I translate some of these markings.</text>
-		<text id="wyrm3">Don't worry - you've dealt with [item=wyrm]s before. Following one to its den should be no problem!</text>
+		<text id="magic_intro1">이 섬은 마력으로 넘쳐 흐르고 있어요- 적절한 곳에 온것 같네요!</text>
+		<text id="magic_intro2">이런 마력은 저번에도 느껴본적 있어요. 여기 있는 구조물은 일부분 유기물로 이루어져 있고 전부 동면중이네요. 깨울 필요가 있어보여요.</text>
+		<text id="magic_intro3">저는 이 보라색 건물을 작동시키는 방법을 알고있어요. 하지만 다른 건물은 좀더 연구가 필요해요.</text>
+		<text id="magic_intro4">이곳을 베이스캠프로 삼죠. 제가 보급품을 준비할게요.</text>
+		<text id="wyrm1">다른 구조물을 깨우기 위해서는 [item=wyrm]에게서 단서를 얻을수 있을거에요.</text>
+		<text id="wyrm2">제가 이 상형문자를 번역하는 동안, 섬에있는 비밀을 찾아주세요.</text>
+		<text id="wyrm3">걱정 말아요- 당신은 저번에 [item=wyrm]을 잡았잖아요. 그들의 소굴까지 가는건 문제없을거에요!</text>
 		<text id="wyrm4">What's that? There was a Wyrm Queen? That's irrelevant, look at the [item=spirit_gem] you found! I'm certain this is what we need to make a breakthrough!</text>
 		<text id="wyrm5">Here, try these [item=goggles]. The markings helped me invent them, and while they didn't help me see the secret behind these structures, they may help you see what we are missing.</text>
 		<text id="wyrm6">You should follow the [item=wyrm]s on the eastern island, not here! I've already studied the [item=wyrm]s here!</text>
@@ -1953,22 +1954,22 @@
 		<text id="market2">That's everything I need for the [color=770000]Market[/color]!</text>
 		<text id="market3">It looks like there really were traders out there! They even gave me a [item=coin_purse] to store coins for buying and selling.</text>
 		<text id="market4">Now we just need to build a [tile=boat.ico] Boat at the [color=770000]Dockhouse[/color]!</text>
-		<text id="farewell1">I don’t know what’s out there, but I mean to find out before I return.</text>
-		<text id="farewell2">Bring back some good things to eat!</text>
-		<text id="farewell3">Don't forget to explore below the surface, you never know what you might discover.</text>
-		<text id="farewell4">Don’t leave us hangin’ - come back soon.</text>
-		<text id="farewell5">Don’t get involved with anything too dangerous.</text>
-		<text id="farewell6">It's an uncertain world out there.</text>
-		<text id="farewell7">You're going the wrong way, the secrets are all off to the east!</text>
-		<text id="bandits1">It's great to be back in business! Now if only we could get rid of those thieving bandits!</text>
-		<text id="bandits2">You seem strong. Think you could scare them off for us?</text>
-		<text id="bandits3">You actually beat the bandits! Please, take this gift as a token of our appreciation.</text>
-		<text id="bandits4">It's our lucky day - our prey came walking right up to us! Things are going great since we ran away from those Mirrows and their nasty experiments!</text>
+		<text id="farewell1">저밖에는 무엇이 있을지 모릅니다. 하지만 돌아오기 전에는 알아내서 올게요.</text>
+		<text id="farewell2">좋은 먹거리좀 가져와주세요!</text>
+		<text id="farewell3">해저를 탐사하는것도 잊지 마세요, 당신이 무엇을 찾을수 있을지 아무도 몰라요.</text>
+		<text id="farewell4">우리를 너무 오래 기다리게는 하지 마세요, 금방 돌아오실거죠?</text>
+		<text id="farewell5">너무 위험한 일에는 말려들지 마세요.</text>
+		<text id="farewell6">이섬 밖은 불확실한 것 투성이에요.</text>
+		<text id="farewell7">제 생각에는 그쪽길이 아닌것 같은데요, 비밀은 동쪽에 있어요!</text>
+		<text id="bandits1">다시 장사를 할 수 있게 되서 기뻐요! 이제 저 망할 강도들만 없다면 말이죠!</text>
+		<text id="bandits2">당신은 강해보이는군요. 우리를 위해 강도를 퇴치해 주실수 있나요?</text>
+		<text id="bandits3">정말로 강도를 퇴치해 주셨군요! 저희의 사례를 받아주세요.</text>
+		<text id="bandits4">오늘은 운이 좋군- 먹이감이 제발로 들어왔잖아? 우리가 미로우 부부의 끔찍한 실험에서 도망친 이후 모든게 잘되고 있어!</text>
 		<text id="ore_cave">이곳의 느낌은 이상하다, 마치 내가 다른곳에 있는것 같다. 이곳을 방문할때마다 다른곳일 것 같다.</text>
 		<text id="no_coin_purse">You'll need a [item=coin_purse] if you want to trade with us. We can give you one for [var=recipe.sci1_coin_purse.sulfur] [item=sulfur].</text>
 		<text id="make_coin_purse">Trade [var=recipe.sci1_coin_purse.sulfur] [item=sulfur] for a [item=coin_purse]?</text>
-		<text id="lurker">Hey kid, would you like some rare goods? You can't buy these anywhere else!</text>
-		<text id="lurker_empty">Thank you for your business. Sorry, no refunds.</text>
+		<text id="lurker">이봐 꼬맹이, 희귀한 물건이 필요하지 않아? 이물건들은 다른곳에서 구할 수 없다고!</text>
+		<text id="lurker_empty">거래 고맙네, 미안하지만 환불은 안 돼.</text>
 	</section>
 	<section id="hunter">
 		<text id="bombardment">I hate to say it, but I think the only way we're getting out of this mess is by teaming up with the [object=mirrows]. They should be to the west where the main ship crashed.</text>
@@ -2073,36 +2074,36 @@
 		<text id="werewolf">Don’t expect me to be surprised every time you wander off and return looking completely different!</text>
 		<text id="colony_ship1">What do you think of repairing those crashed [color=770000]Colony Ship[/color]s? They would take a lot of resources to repair, but they could be useful.</text>
 		<text id="colony_ship2">Bring the resources to a [color=770000]Colony Ship[/color] to repair it!</text>
-		<text id="introduce1">It’s totally fried! This is awful!</text>
-		<text id="introduce2">What happened?</text>
-		<text id="introduce3">The Mirrows tried to re-route the power and almost blew the whole thing up!</text>
-		<text id="introduce4">Expecting us to clean up after their failed experiments... gah!</text>
-		<text id="introduce5">I don't even have any [item=titanium] left, so there's no way to repair it...</text>
-		<text id="powerplant1">Wow, I didn’t expect you to really come back with [item=titanium].</text>
-		<text id="powerplant2">Thanks, now I can get this fixed up in no time.</text>
-		<text id="powerplant3">Back in business! We can use [item=coal] or [item=refined_oil] to power the plant. You can also make a [item=battery] here.</text>
-		<text id="powerplant4">Oh, and take this scrap metal from the repair as thanks for the [item=titanium]!</text>
-		<text id="powerplant5">I'll never find any more [item=titanium], it's hopeless!</text>
+		<text id="introduce1">완전이 타버렸어! 망했어!</text>
+		<text id="introduce2">무슨일이에요?</text>
+		<text id="introduce3">미로우 부부가 전력을 다시 복구하려 했지만 실패했어요. 거의 모든게 날라갈뻔 했다구요!</text>
+		<text id="introduce4">실패한 뒷처리는 저희한테 넘긴 상태로 말이에요... 젠장할!</text>
+		<text id="introduce5">더이상 [item=titanium]도 없어요. 이제 고칠 재료도 없다구요...</text>
+		<text id="powerplant1">우와, 저는 당신이 정말로 [item=titanium]을 구해올줄 몰랐어요.</text>
+		<text id="powerplant2">감사해요, 이제 바로 고칠수 있어요.</text>
+		<text id="powerplant3">이제 다시 일해야해요! [item=coal]이나 [item=refined_oil]을 이용해서 발전소를 운영할수 있어요. 여기서 [item=battery]도 만들수 있어요.</text>
+		<text id="powerplant4">아, 그리고 [item=titanium]을 구해주신 답례에요!</text>
+		<text id="powerplant5">저는 [item=titanium]을 더이상 찾을 수 없어요! 이제 희망이 없어요...</text>
 		<text id="battery">Let me know when you've made a [item=battery], as we'll be able to make some cool stuff once we have a mobile power source!</text>
-		<text id="tip1">Use [item=sulfur] and a [item=steel_bar] to make a [item=battery] at the [color=770000]Power Plant[/color]. You can recharge them there, too.</text>
-		<text id="tip2">Simply add a [item=battery] to your inventory to power your equipment.</text>
-		<text id="tip3">Your total [tile=power] [color=444400]Power[/color] will be displayed below your [tile=health] [color=770000]Health[/color] and [tile=stamina] [color=006600]Stamina[/color] .</text>
-		<text id="factory1">Now that we finally have power again, I wish we had some new machinery to play with.</text>
-		<text id="factory2">If you help me get a [color=770000]Factory[/color] set up, we could manufacture all sorts of things!</text>
-		<text id="factory3">This will be awesome. Finally a new project to tinker with!</text>
-		<text id="factory4">Now we can refine materials and build [item=drill]s, [item=chainsaw]s, [item=shotgun]s, and other cool stuff.</text>
+		<text id="tip1">[item=sulfur]이랑 [item=steel_bar]를 사용하면 [color=770000]발전소[/color]에서 [item=battery]를 만들 수 있어요. 그리고 충전도 할 수 있죠.</text>
+		<text id="tip2">장비에 전력을 공급하고 싶다면, 간단해요 [item=battery]를 가방에 넣어두세요.</text>
+		<text id="tip3">당신이 가진 [tile=power] [color=444400]전력[/color]은 [tile=health] [color=770000]체력[/color]과 [tile=stamina] [color=006600]기력[/color] 아래에 표기될거에요.</text>
+		<text id="factory1">드디어 우리는 전력을 되찾았어요. 이제 우리가 사용할 새로운 기계가 필요해요.</text>
+		<text id="factory2">만약 단신이 [color=770000]공장[/color] 건설을 도와준다면 우리는 모든 종류의 기계를 만들 수 있을거에요!</text>
+		<text id="factory3">이건 정말 멋져요! 새로운 프로젝트라니!</text>
+		<text id="factory4">이제 우리는  [item=drill], [item=chainsaw], [item=shotgun], 그리고 다른 멋진 것들을 만들 수 있어요.</text>
 		<text id="elevator1">I noticed you’ve been doing a lot of mining.</text>
 		<text id="elevator2">Wouldn’t it be convenient to have a contraption to help you haul everything back to the surface?!</text>
 		<text id="elevator3">Nice! Let's do this!</text>
 		<text id="elevator4">Going up? Or should I say down!</text>
 		<text id="repair">Need anything repaired? I’m your gal!</text>
 		<text id="dragon">What is that fire-breathing creature powering the plant? It better not break it!</text>
-		<text id="intro1">There are more survivors here than I expected!</text>
-		<text id="intro2">Yeah? But it's not enough. If we're to survive as a species we'll need to join up with other colonies.</text>
-		<text id="intro3">You think they made it?</text>
-		<text id="intro4">I'm sure they're out there. We just need a way to find and reach them.</text>
-		<text id="intro5">And if we're attacked on the way?</text>
-		<text id="intro6">Then at least we tried! I'm not going to sit here clammed up on this planet just because it feels safe for the moment.</text>
+		<text id="intro1">이곳은 생각보다 생존자가 많네요!</text>
+		<text id="intro2">그래요? 하지만 생존하기에 충분하지 않아요. 우리가 생존하기 위해서는 다른 식민지 협력해야해요.</text>
+		<text id="intro3">가능할것 같나요?</text>
+		<text id="intro4">틀림없이 저 밖에 있을거에요. 우리는 단지 그들과 연락할 수단이 필요하죠.</text>
+		<text id="intro5">만약 그들이 저희를 공격한다면요?</text>
+		<text id="intro6">그럼 적어도 시도는 한거잖아요! 저는 이 행성이 안전하다고해서 여기에 쳐박혀 있진 않을거에요.</text>
 		<text id="mirrows1">Hey, what’s wrong? You look down.</text>
 		<text id="mirrows2">I tried asking the Mirrows to stop harassing everyone, but they won’t listen and I don't want to fight them.</text>
 		<text id="mirrows3">Good of you to try. But they’re stubborn as mules, and don't listen to anything except strength.</text>
@@ -2134,23 +2135,23 @@
 		<text id="win1">Welcome to the Golden Key! Finest inn and historic site on the planet where humanity’s resurgence began!</text>
 		<text id="win2">Ah, it’s the star who brought about our final victory! It would be my honor to let you stay here, at no charge of course!</text>
 		<text id="win3">Just keep the other guests entertained with war stories, and make sure to tell them of my generosity!</text>
-		<text id="intro1">Welcome to the Golden Key! Finest (and only) room and board this side of the desert!</text>
-		<text id="intro2">So this is an inn? Do you get many people through here?</text>
-		<text id="intro3">A fair few come through Sunset Haven - exploring, trading, looking for a place to call home.</text>
-		<text id="intro4">But if we don't get power back soon who knows if anyone will stay. I can't tell you how many times I've been tempted to go and give those Mirrows a piece of my mind!</text>
-		<text id="power1">Wonderful! The power is back!</text>
-		<text id="power2">No thanks to those darn Mirrows. I can’t believe we all still pay them dues to keep the technology running around here!</text>
-		<text id="power3">And not only do they fry the power plant, they can’t be bothered to come around and fix it?!</text>
-		<text id="power4">Can’t you just stop paying them?</text>
-		<text id="power5">I can’t leave the inn, but if someone would go to the desert and confront them about it, maybe we could back out of this unfair arrangement.</text>
-		<text id="no_power">I'm afraid we can't let you stay here until the power comes back on.</text>
-		<text id="visit">Would you like to spend the night? Only 50 [color=770000][tile=coin_purse.ico] Coins[/color], and I'll include a hot meal!</text>
+		<text id="intro1">골든 키에 어서오세요! 이 사막에서 유일하게 질좋은 객실을 제공합니다!</text>
+		<text id="intro2">그럼 여기가 여관인가요? 사람들이 많이 이용하나요?</text>
+		<text id="intro3">많은 사람들이 노을빛 피난처를 통해서 이곳으로 오죠. 탐험하고, 거래하고, 집에 전화할 곳을 찾고있어요.</text>
+		<text id="intro4">하지만 전력을 복구하지 않으면 누가 살아남을지 장담할 수 없죠. 제가 얼마나 미로우 부부에게 가서 따지고싶은지 당신은 모를거에요!</text>
+		<text id="power1">굉장해요! 전력이 다시 돌아왔어요!</text>
+		<text id="power2">그 망할 미로우 부부 덕이 아니에요. 아직도 이 기술을 사용하기 위해 미로우 부부에게 비용을 지불해야 한다니!</text>
+		<text id="power3">그들은 발전소를 망가트린것도 모자라 고치는것도 귀찮아 한다고!</text>
+		<text id="power4">그들에게 돈을 안내면 안되요?</text>
+		<text id="power5">저는 여관을 떠날수 없어요. 누군가 대신 그들에게 가서 협상한다면 이 불공평한 합의를 없엘수 있겟죠.</text>
+		<text id="no_power">전기가 다시 들어오기 전까지는 여관을 이용하기 어려울것 같아요.</text>
+		<text id="visit">하룻밤 묵을건가요? 비용은 [color=770000][tile=coin_purse.ico] 주화[/color] 50개에요, 물론 식사도 제공합니다!</text>
 		<text id="no_money">Not enough money? Then I'm afraid you can't stay here. This isn't a charity you know!</text>
-		<text id="scene1">I hear the main ship crashed around here somewhere? How did you survive without life pods?</text>
-		<text id="scene2">That's exactly our problem. The Mirrows saved us. They did some unbelievable last minute enhancements and protected an entire sector from obliteration. So we're in their debt.</text>
-		<text id="scene3">But now, they destroyed our power, and they’re letting strange creatures loose to wreak havoc.</text>
-		<text id="scene4">I've even heard that some folk have gone missing in the desert, where the Mirrows were last seen.</text>
-		<text id="scene5">And they expect us to put up with all this? And even pay dues to them? It’s become too much.</text>
+		<text id="scene1">광물 상인에게 함선이 이곳에 추락했다고 들었어요. 여기서 어떻게 살아남은 건가요?</text>
+		<text id="scene2">그게 저희의 문제입니다. 미로우 부부가 저희를 구해주었죠. 그들은 추락 직전에 조치를 취했고 함선이 전부 망가지는것을 방지했어요. 즉, 저희는 그들에게 빚이 있죠.</text>
+		<text id="scene3">하지만 지금은, 그들은 우리 발전소를 망가트렸고, 이상한 생명체를 풀어놓아서 골치덩어리에요.</text>
+		<text id="scene4">심지어 미로우 부부를 마지막으로 본 사막에서 몇몇 사람들이 실종됬다는 소문도 있어요.</text>
+		<text id="scene5">그들은 우리가 이 모든걸 참길 바라고 있어요! 그리고 그들에게 회비까지 내고있죠! 이건 너무 심해요.</text>
 		<text id="mirrows1">The Mirrows agreed to stop asking you for money and experimenting on people!</text>
 		<text id="mirrows2">Excellent! Maybe we can finally have some peace around here now.</text>
 		<text id="mirrows3">Here, take this as a token of my appreciation.</text>
@@ -2167,30 +2168,30 @@
 		<text id="win4">I was wondering where everyone had gone! It was starting to feel pretty empty here. I’ll head over there now!</text>
 		<text id="win5">Just one thing before I go - can you take care of my [item=cat], Peri? She won’t come to me, and I’d feel a lot better if someone looked after her when I’m gone.</text>
 		<text id="intro1">Finally back on land again! You look like you just arrived too!</text>
-		<text id="intro1_alt">Hey there! It's nice to see other survivors sailing out here!</text>
-		<text id="intro2">Don't mind her, that's just Polly’s way of saying hello. Hope you don’t mind a bit of seawater on your boots!</text>
-		<text id="intro3">So, have you been to this island before?</text>
-		<text id="intro3_alt">So, do you know what island lies ahead?</text>
-		<text id="intro4">Sure have, this island's called Sunset Haven, and it has more survivors than any other island I've seen.</text>
-		<text id="intro4_alt">Sure do, the island's called Sunset Haven, and it has more survivors than any other island I've seen.</text>
-		<text id="intro5">Makes sense too - as it is where the main ship crashed.</text>
-		<text id="intro6">But watch yourself. I've heard some bad rumors about Sunset Haven lately...</text>
-		<text id="cat1">Hey, my [item=cat] Peri ran away from me again! Do you think you could help me find her?</text>
-		<text id="cat2">I think she’s trying to avoid sailing. Not a fan of the water.</text>
-		<text id="cat3">If you help me out, I'll teach you what I know of fishing.</text>
-		<text id="cat4">Awesome, thanks! Here's a spare [item=fishing_rod], talk to me if you want fishing tips!</text>
-		<text id="cat5">[item=toothfish] are Peri's favorite food, maybe you can tempt her with some of those?</text>
-		<text id="cat6">Hey, you found my [item=cat]! Thanks, man.</text>
-		<text id="cat7">Sheesh, looks like you completely won her over. I bet she’d be happier with you. Why don’t you keep her?</text>
-		<text id="cat8">The cat is too fast for you to grab!</text>
-		<text id="cat9">She snatched the [item=toothfish] from my hand, but she’s too fast, I can’t catch her.</text>
-		<text id="cat11">Give Peri a [item=toothfish]?</text>
-		<text id="cat12">She didn’t bolt away as fast this time.</text> 
-		<text id="cat13">Come here Peri... that's a good girl...</text>
-		<text id="cat15">One cat successfully captured!</text>
-		<text id="tip1">Fishing is all about timing. Use your fishing rod at the end of the dock and then hit [key=select] when there is something on the line - too soon or too late, and you'll lose the catch!</text>
-		<text id="tip2">If it says "Wait for it...", the fish needs a little more coaxing. Wait until it says "Pull now!" then hit [key=select] again!</text>
-		<text id="tip3">Some fish are more difficult to catch and require more keys. Keep an eye on the tooltip, and hit the key it shows!</text>
+		<text id="intro1_alt">안녕하세요! 다른 생존자가 항해중인걸 보니 기분이 좋네요!</text>
+		<text id="intro2">그녀는 신경쓰지 마세요, 그건 폴리의 인사 방식이에요. 부츠가 좀 젖어도 괜찮길 바래요!</text>
+		<text id="intro3">그렇군요, 당신은 이점에 방문한 적이 있나요?</text>
+		<text id="intro3_alt">그렇군요, 당신은 이앞에 어떤 섬이 있는지 아시나요?</text>
+		<text id="intro4">그럼요, 이 섬은 노을빛 피난처이고 제가 본 어느 섬보다 생존자가 많아요.</text>
+		<text id="intro4_alt">그럼요, 앞에 섬은 노을빛 피난처이고 제가 본 어느 섬보다 생존자가 많아요.</text>
+		<text id="intro5">그곳은 저희 함선이 추락한 곳이니 사람이 많죠.</text>
+		<text id="intro6">하지만 조심하세요, 최근 노을빛 피난처에서 안좋은 소문이 돌아요...</text>
+		<text id="cat1">저기요, 제 [item=cat] 페리 가 또 도망가 버렸어요! 제가 페리를 찾게 도와주실수 있나요?</text>
+		<text id="cat2">아마도 항해하고 싶지 않아서 그런것 같아요. 물을 싫어하거든요.</text>
+		<text id="cat3">저를 도와주신다면, 낚시하는 법을 알려드릴게요.</text>
+		<text id="cat4">감사해요! 여기 남는 [item=fishing_rod]에요 받으세요. 낚시에 대해서 궁금한점이 있으면 제게 말을 걸어주세요!</text>
+		<text id="cat5">[item=toothfish]는 페리가 가장 좋아하는 먹이에요, 아마도 그걸로 페리를 유혹할 수 있을걸요?</text>
+		<text id="cat6">오, 내 [item=cat]를 찾으셨군요! 고마워요 정말로.</text>
+		<text id="cat7">이런, 페리는 당신이 더 좋은가봐요. 당신이 페리를 돌보는게 어때요?</text>
+		<text id="cat8">그 고양이는 너무 빨라서 잡을수 없다!</text>
+		<text id="cat9">페리가 내 손에서 [item=toothfish]를 가로채 갓지만 너무 빨라서 잡을수 없다.</text>
+		<text id="cat11">페리에게 [item=toothfish]를 줄까?</text>
+		<text id="cat12">이번에는 페리가 그렇게 빠르게 도망가지는 않았다.</text> 
+		<text id="cat13">착하지... 이리온 페리...</text>
+		<text id="cat15">페리를 성공적으로 잡았다!</text>
+		<text id="tip1">낚시에서 가장 중요한점은 타이밍이에요. 선착장 에서 낚시대를 사용한다음 [key=select]키를 눌러야하는데, 너무 빨리 누르거나 너무 늦게 누른다면 물고기를 잡을 수 없을거에요!</text>
+		<text id="tip2">만약 "기다려봐..."가 뜬다면 좀더 물고기를 달랠필요가 있어요. "지금 당겨!"가 뜰때 [key=select]키를 누르세요!</text>
+		<text id="tip3">어떤 물고기는 잡기가 어려워요. 툴팁이 더 많이 뜰거고 더많은 키를 사용해야 할거에요. 툴팁이 알려주는 키를 잘 누르세요!</text>
 		<text id="scene1">Me, this is all I need - a roof over my head, sunshine, and the vast ocean to fish.</text>
 		<text id="scene2">And you? What’s your dream?</text>
 		<text id="scene3">I’d really like to know if there’s a way off this planet.</text>
