@@ -718,8 +718,8 @@
 		<text id="rockfish">띠볼락</text>
 		<text id="coral_cod">산호 대구</text>
 		<text id="fertilizer">비료</text>
-		<text id="yeti_fur">얼음 털</text>
-		<text id="dark_fur">그림자 털</text>
+		<text id="yeti_fur">얼음 모피</text>
+		<text id="dark_fur">그림자 모피</text>
 		<text id="fire_gem">파이어 젬</text>
 		<text id="water_gem">워터 젬</text>
 		<text id="earth_gem">어스 젬</text>
@@ -1193,14 +1193,14 @@
 		<text id="activate">{item}을(를) 사용해서 이 건물을 활성화하겠습니까?</text>
 		<text id="enchant_recipe">레시피 기둥이 레시피를 드러냈습니다.:\n{enchant} + {items} = {creates}.</text>
 		<text id="enchant_added">The enchantment recipe has been added to the [color=770000]Forge[/color].</text>
-		<text id="place_in_lair">Requires {item} in this lair.</text>
+		<text id="place_in_lair">{item} 이 필요합니다.</text>
 		<text id="golem_factory">The structure's power is all being drawn into that statue...</text>
 		<text id="golemech">Build Golemech</text>
 		<text id="build">다음 재료를 사용해서 {structure}을(를) 건설할까요?</text>
 		<text id="dismantle">{structure}을(를) 철거하고 다음 재료를 수거할까요?</text>
 		<text id="plant_cost">Would you like to plant {structure} for the following resources?</text>
 		<text id="place_cost">Would you like to place {structure} for the following resources?</text>
-		<text id="dragon_lair">Dragon in Lair:</text>
+		<text id="dragon_lair">드래곤 안식처:</text>
 		<text id="change_appearance">외모 변경</text>
 		<text id="forge">Activate the Forge.</text>
 		<text id="synthesizer">Activate the Synthesizer.</text>
@@ -1243,7 +1243,7 @@
 		<text id="cage">우리 관리</text>
 		<text id="summon_alchemist">연금술사 부르기</text>
 		<text id="dragon_lair2">드래곤 키우기</text>
-		<text id="raise_into">{into}로 키우기</text>
+		<text id="raise_into">{into} 키우기</text>
 		<text id="fly_dragon">드래곤에 탑승</text>
 		<text id="activate">작동시키기</text>
 		<text id="enter">입장</text>
@@ -1284,8 +1284,8 @@
 		<text id="familiar">펫:</text>
 		<text id="attack">무기:</text>
 		<text id="engine">Engine:</text>
-		<text id="vanity">Select a vanity item to change your appearance without changing your actual equipment.</text>
-		<text id="vanity_fail">You cannot set a vanity item for this slot.</text>
+		<text id="vanity">실제 장비를 바꾸지 않고 외관을 변경하려면 치장을 위한 아이템을 선택해주세요.</text>
+		<text id="vanity_fail">이 슬롯에 대해 치장 아이템을 선택할 수 없습니다.</text>
 		<text id="defend">보조시스템:</text>
 	</section>
 	<section id="capture">
@@ -1845,8 +1845,8 @@
 		<text id="axe2">이것에는 고대의 마법이 깃들어 있어요. 지금은 거의 사라졌지만... 어떤 마법의 재료를 가져오면 제가 고칠수 있겠어요.</text>
 		<text id="axe3">[item=fire_tusk]... 어떤 몬스터에게서 얻은건가요? 마치 [item=rusty_axe]랑 공명하고 있는것 같아요, 아마도 이거 우리가 찾던 마법재료 일거에요!</text>
 		<text id="axe4">해냈어요! 누가 [item=thunder_axe]를 만들었을까요? 그리고 얼마나 오래된 물건일까요? 만약 당신이 더 만들고 싶다면 제가 연구소에 제작법을 두었으니 한번 해보세요.</text>
-		<text id="shadow_cape1">Let me see that [item=dark_fur]! It appears to exist between the world of the spirits and the world of the living...</text>
-		<text id="shadow_cape2">I'll have to research it further, but I can easily turn it into a [item=shadow_cape] that will hide you from normal eyes. I added the recipe to the laboratory.</text>
+		<text id="shadow_cape1">[item=dark_fur]좀 봐보죠! 이건 영혼과 산자의 세계와의 경계에 존재하는것 같군요...</text>
+		<text id="shadow_cape2">좀더 연구해봐야 겠지만, 다른 사람 눈에 안보일수 있는 [item=shadow_cape]를 만들 수 있겟군요. 제 연구실에 제작법을 등록해 두었어요.</text>
 		<text id="magic_intro1">이 섬은 마력으로 넘쳐 흐르고 있어요- 적절한 곳에 온것 같네요!</text>
 		<text id="magic_intro2">이런 마력은 저번에도 느껴본적 있어요. 여기 있는 구조물은 일부분 유기물로 이루어져 있고 전부 동면중이네요. 깨울 필요가 있어보여요.</text>
 		<text id="magic_intro3">저는 이 보라색 건물을 작동시키는 방법을 알고있어요. 하지만 다른 건물은 좀더 연구가 필요해요.</text>
@@ -1856,7 +1856,7 @@
 		<text id="wyrm3">걱정 말아요- 당신은 저번에 [item=wyrm]을 잡았잖아요. 그들의 소굴까지 가는건 문제없을거에요!</text>
 		<text id="wyrm4">What's that? There was a Wyrm Queen? That's irrelevant, look at the [item=spirit_gem] you found! I'm certain this is what we need to make a breakthrough!</text>
 		<text id="wyrm5">Here, try these [item=goggles]. The markings helped me invent them, and while they didn't help me see the secret behind these structures, they may help you see what we are missing.</text>
-		<text id="wyrm6">You should follow the [item=wyrm]s on the eastern island, not here! I've already studied the [item=wyrm]s here!</text>
+		<text id="wyrm6">동쪽 섬의 [item=wyrm]을 따라가야해요! 이미 여기있는 [item=wyrm]은 조사가 끝났어요!</text>
 		<text id="sleep">I need more time to study this. Why don't you rest in the purple chamber?</text>
 		<text id="forest">That forest to the east feels dangerous. I set up a [item=fence], and I recommend you don't go beyond it.</text>
 		<text id="elementals1">I have determined that a [item=spirit_gem] can capture a spirit of fire or water, resulting in a [item=fire_gem] or [item=water_gem]. The infused gems should allow us to activate the structures.</text>
@@ -1914,10 +1914,10 @@
 		<text id="oldone_tips1">[tile=alchemist anim=alchemist.idle] I'll set up a defensive barrier and healing magic. Stay behind me while it attacks, and then hit it when it overloads.</text>
 		<text id="oldone_attack">[tile=alchemist anim=alchemist.idle] Attack it now!</text>
 		<text id="oldone_beam">[tile=alchemist anim=alchemist.idle] I'm detecting a magical energy spike! I don't think my barrier will be able to block this attack!</text>
-		<text id="return1">What are you doing here?!</text>
-		<text id="return2">I’m using the laboratory to analyze samples from the eastern island.</text>
-		<text id="return3">I mean, how did you get back here so fast?</text>
-		<text id="return4">The same way I get everywhere! By teleporting. Obviously. Now stop bothering me, I need to finish my analysis.</text>
+		<text id="return1">여기서 뭐하고 있어요?!</text>
+		<text id="return2">동쪽 섬에서 가저온 샘플들을 분석하고 있었어요.</text>
+		<text id="return3">그게아니라, 어떻게 이렇게 빨리 돌아온거에요?</text>
+		<text id="return4">어디든 내가 가능 방식으로! 텔레포트 하는거죠. 이제 그만 괴롭혀 주세요, 분석을 마쳐야해요.</text>
 		<text id="muttering">Gemstone synthesis... nested carapace... evolution indefinitely... [font=drachenklaue]mumbo jumbo[/font]...</text>
 		<text id="oldone_choice">You're no match for this creature. We'll need a plan if we want to survive!</text>
 		<text id="work_together">Work Together</text>
