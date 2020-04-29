@@ -799,10 +799,10 @@
 		<text id="earth_hammer">대지의 망치</text>
 		<text id="diode_wolf">전기 늑대</text>
 		<text id="steel_wyrm">기계 웜</text>
-		<text id="cyborg_body">Cyborg Body</text>
-		<text id="cyborg_back">Cyborg Back</text>
+		<text id="cyborg_body">사이보그 몸</text>
+		<text id="cyborg_back">사이보그 가방</text>
 		<text id="cyborg_eye">Cyborg Eye</text>
-		<text id="machine_gun_arm">Machine Gun Arm</text>
+		<text id="machine_gun_arm">기계총 팔</text>
 		<text id="electric_eel">전기뱀장어</text>
 		<text id="horn">뿔</text>
 		<text id="frost_shield">얼음 방패</text>
@@ -931,7 +931,7 @@
 		<text id="cost_per_s_darkness">{value} per sec in darkness.</text>
 		<text id="cost_per_s_day">{value} per sec daytime.</text>
 		<text id="cost_per_s_night">{value} per sec night.</text>
-		<text id="cost_per_s_injured">{value} per sec injured.</text>
+		<text id="cost_per_s_injured">{value}/s (부상시)</text>
 		<text id="cost_per_s_damaged">{value}/s (연료가 가득차지 않은경우)</text>
 		<text id="cost_per_s_undamaged">{value} per sec when full.</text>
 		<text id="hide">장착한 사람을 숨긴다.</text>
@@ -1258,8 +1258,8 @@
 		<text id="golemech2">Alert: Uncontrollable.</text>
 		<text id="read">읽기</text>
 		<text id="operate">조작</text>
-		<text id="operate_self">Operate on Self</text>
-		<text id="operate_other">Operate on Animal</text>
+		<text id="operate_self">자신 개조</text>
+		<text id="operate_other">동물 개조</text>
 		<text id="crop">수확</text>
 		<text id="stall">축사 관리</text>
 		<text id="summon_boat">보트 소환</text>
@@ -1360,9 +1360,9 @@
 		<text id="max_coins">You cannot hold any more coins!</text>
 		<text id="send_bug_report">Something went wrong! Would you like to send a bug report?</text>
 		<text id="not_powered">전력이 없습니다!</text>
-		<text id="power">Not enough battery power!</text>
+		<text id="power">베터리 전력 부족!</text>
 		<text id="rations">Not enough rations!</text>
-		<text id="fuel">Not enough fuel!</text>
+		<text id="fuel">연료 부족!</text>
 		<text id="no_item">There is no {item} here.</text>
 		<text id="item_hungry">The {item} is too hungry to make the journey!</text>
 		<text id="no_fill">You cannot fill this tile!</text>
@@ -1494,7 +1494,7 @@
 		<text id="ship_parts">want you to find [item=ship_parts] underwater.</text>
 		<text id="com_station">wants to build a [color=770000]Com Station[/color] to contact survivors.</text>
 		<text id="repair_escort">want to repair the broken [color=770000]Fighter Escort[/color] ship.</text>
-		<text id="pirates">가 [color=770000]Sunset Haven[/color]의 해석을 퇴치해주길 원합니다.</text>
+		<text id="pirates">가 [color=770000]노을빛 피난처[/color]의 해적을 퇴치해주길 원합니다.</text>
 		<text id="go_east">wants you to learn magic before THEY come.</text>
 		<text id="cultivator">wants you to activate the [color=770000]Vine Copse[/color].</text>
 		<text id="dragon_ship">wants to evolve an [object=fly_ancient_dragon] into a ship.</text>
@@ -1552,7 +1552,7 @@
 		<text id="wolf">이 새끼늑대를 길들이려 합니다.</text>
 		<text id="powerplant">이 [color=550000]발전소[/color]를 수리할 [item=titanium]을 원합니다.</text>
 		<text id="factory">이 [color=550000]공장[/color]을 건설하려 합니다.</text>
-		<text id="elevator">wants to build an [color=550000]Elevator[/color] to haul ore.</text>
+		<text id="elevator">이 [color=550000]엘리베이터[/color]를 건설하려 합니다.</text>
 		<text id="mirrows">이 미로우 부부와 협상하길 원합니다.</text>
 		<text id="mirrows2">wants you to find something special to sway the Mirrows.</text>
 		<text id="fisherman_cat">가 [item=toothfish]를 좋아하는 자신의 [item=cat]를 찾아주길 원합니다.</text>
@@ -1776,9 +1776,9 @@
 		<text id="reject">돌려 보내기</text>
 		<text id="sail">Isn't it a beautiful day for sailing?</text>
 		<text id="pirate">Someone stole everything! All my hard work! Who would do such a thing?!</text>
-		<text id="shipping1">Now that you have items spread across multiple islands, wouldn't it be nice to be able to transfer them from storehouse to storehouse? With my new shipping service, you can - for a small fee!</text>
-		<text id="shipping2">What island would you like to ship items from?</text>
-		<text id="shipping3">I can ship items from [color=770000]{area}[/color] for 0.20 [color=770000][tile=coin_purse.ico] Coins[/color] per weight. Let me know what items you want me to ship:</text>
+		<text id="shipping1">이제 여러섬에 창고를 가지게 되었으니 창고에서 창고로 이동이 가능한게 좋지 않겟어? 내 새로운 서비스를 이용한다면 적은 비용으로 가능하게 해줄게.</text>
+		<text id="shipping2">어느섬에 물건을 전달할래?</text>
+		<text id="shipping3">[color=770000]{area}[/color]에 보내는데는 무게당 0.20 [color=770000][tile=coin_purse.ico]주화[/color]가 필요해. 어떤 물건을 보낼건지 알려줘:</text>
 		<text id="shipping4">What island would you like to ship the selected items to for {coins} [color=770000][tile=coin_purse.ico] Coins[/color]?</text>
 		<text id="shipping5">The items are on their way - you should see them there the next time you visit. Let me know if there are any other items you'd like to ship, and a pleasure doing business with you!</text>
 	</section>
@@ -2092,11 +2092,11 @@
 		<text id="factory2">만약 단신이 [color=770000]공장[/color] 건설을 도와준다면 우리는 모든 종류의 기계를 만들 수 있을거에요!</text>
 		<text id="factory3">이건 정말 멋져요! 새로운 프로젝트라니!</text>
 		<text id="factory4">이제 우리는  [item=drill], [item=chainsaw], [item=shotgun], 그리고 다른 멋진 것들을 만들 수 있어요.</text>
-		<text id="elevator1">I noticed you’ve been doing a lot of mining.</text>
-		<text id="elevator2">Wouldn’t it be convenient to have a contraption to help you haul everything back to the surface?!</text>
-		<text id="elevator3">Nice! Let's do this!</text>
-		<text id="elevator4">Going up? Or should I say down!</text>
-		<text id="repair">Need anything repaired? I’m your gal!</text>
+		<text id="elevator1">광물을 많이 캐셨더군요.</text>
+		<text id="elevator2">물건들을 땅위로 가져올수 있는 기구를 설치하는게 편하지 않을까요?</text>
+		<text id="elevator3">좋아요! 해봅시다!</text>
+		<text id="elevator4">올라가요? 아니면 제가 내려가라고 해야했을까요?</text>
+		<text id="repair">뭔가 수리하고싶나요? 제가 고쳐드릴게요!</text>
 		<text id="dragon">What is that fire-breathing creature powering the plant? It better not break it!</text>
 		<text id="intro1">이곳은 생각보다 생존자가 많네요!</text>
 		<text id="intro2">그래요? 하지만 생존하기에 충분하지 않아요. 우리가 생존하기 위해서는 다른 식민지 협력해야해요.</text>
@@ -2152,11 +2152,11 @@
 		<text id="scene3">하지만 지금은, 그들은 우리 발전소를 망가트렸고, 이상한 생명체를 풀어놓아서 골치덩어리에요.</text>
 		<text id="scene4">심지어 미로우 부부를 마지막으로 본 사막에서 몇몇 사람들이 실종됬다는 소문도 있어요.</text>
 		<text id="scene5">그들은 우리가 이 모든걸 참길 바라고 있어요! 그리고 그들에게 회비까지 내고있죠! 이건 너무 심해요.</text>
-		<text id="mirrows1">The Mirrows agreed to stop asking you for money and experimenting on people!</text>
-		<text id="mirrows2">Excellent! Maybe we can finally have some peace around here now.</text>
-		<text id="mirrows3">Here, take this as a token of my appreciation.</text>
+		<text id="mirrows1">미로우 부부가 회비를 걷고 사람들을 데리고 실험하는걸 그만하기로 했습니다.</text>
+		<text id="mirrows2">잘하셨어요! 드디어 이 주변이 평화로워 지겠군요.</text>
+		<text id="mirrows3">여기, 제 감사의 표시에요.</text>
 		<text id="mirrows4">... [item=coal]?</text>
-		<text id="mirrows5">What? I’m not running a charity, you know.</text>
+		<text id="mirrows5">왜요? 저는 자선단체를 운영하지 않아요.</text>
 	</section>
 	<section id="fisherman">
 		<text id="bombardment">I hate being stuck here, unable to see the open sky or sail the seas. At least we're all still alive, but I just feel so useless here!</text>
@@ -2200,10 +2200,10 @@
 		<text id="scene6">Listen my friend, I saw one firsthand before we launched from Earth. All you need to know is how to avoid them.</text>
 	</section>
 	<section id="mirrows">
-		<text id="water_cave1">Many essential ship components landed in the ocean when we crashed. If we could salvage them, we could perhaps find a way off this planet.</text>
-		<text id="water_cave2">But how can we retrieve them from underwater? Could we build a submarine?</text>
-		<text id="water_cave3">Certainly, if we had a good launch point. I think there's an underground cave on the western side of this island that has access to the ocean.</text>
-		<text id="water_cave4">If you find this cave and bring us some materials, we could build a [color=770000]Sub Pen[/color]!</text>
+		<text id="water_cave1">우리가 추락할때 많은 부품들이 바다에 떨어졌어. 그것들을 다시 회수할 수 있다면 우리는 이 행성에서 탈출 할 수 있을거야.</text>
+		<text id="water_cave2">하지만 수중에 있는 것들을 회수할수 있을까요? 잠수함을 만들 수 있나요?</text>
+		<text id="water_cave3">물론이지, 적절한 장소가 있다면 말이지. 이 섬의 서쪽에 바다와 통하는 동굴이 하나 있는 것같아.</text>
+		<text id="water_cave4">만약 네가 그 동굴로 재료를 가져오면 [color=770000]잠수함 기지[/color]를 지을수 있어!</text>
 		<text id="water_cave5">You've found the cave and gathered the materials? Excellent, let's head there right away!</text>
 		<text id="water_cave6">You can build and upgrade a [object=sub] at the [color=770000]Sub Pen[/color]! You can also recharge the [object=sub]'s battery power here.</text>
 		<text id="water_cave7">Based on the water currents, the [item=ship_parts] should have traveled west. If you can find some, it will open the doors to many powerful inventions!</text>
@@ -2283,26 +2283,26 @@
 		<text id="win3">Very true. We’ll just have to prepare for the next war! Whether it’s with humans or aliens, you can be sure there will always be another!</text>
 		<text id="werewolf1">Fascinating - this [object=unnature.splicer] must be a master of manipulating genomes! You don’t even appear to be human anymore!</text>
 		<text id="werewolf2">If you were expecting help from us, you’ll be disappointed. We are not veterinarians, our expertise is with human cyborgification!</text>
-		<text id="intro1">Are you two the Mirrows? Why have you been tormenting Sunset Haven and creating those strange mutants?</text>
-		<text id="intro2">You don't understand! We're doing this for the good of everyone! We cannot survive without ultimate weapons!</text>
-		<text id="intro3">When they come to exterminate the last of us, we'll be ready! The sacrifices made have been necessary.</text>
-		<text id="intro4">You can't just go around sacrificing people for a future that may never come to be! There are better ways to save everyone!</text>
-		<text id="intro5">If you’re determined to work against us, we have no choice but to fight you.</text>
-		<text id="intro6">I have a feeling your body is just what I need for my new Cyborg invention!</text>
-		<text id="defeat0">Unbelievable! Somehow you are stronger than I am, even with our advanced cybernetics!</text>
-		<text id="defeat1">You must tell us the secrets of your strength - you could be the key to saving humanity!</text>
-		<text id="defeat2">If I tell you my secrets will you agree to stop harassing the townsfolk and asking them for money?</text>
-		<text id="defeat3">Of course. Why would we need those dull specimens when we have you!?</text>
-		<text id="defeat4">This will be a whole new line of research for us!</text>
-		<text id="defeat5">Feel free to use our surgery lab. We’d be very interested to see how powerful you become with our cybernetic enhancements!</text>
-		<text id="tip1">You can remove cybernetic enhancements at any time by selecting it in your equipment window and choosing remove. You can re-install enhancements later at the surgery lab, but it will cost more resources.</text>
-		<text id="nav1">Looks like the navigation screen is still working. According to this, we are currently on Unoiks 428c.</text>
-		<text id="nav2">Did the Mirrows add this note?! I have to ask them about this...</text>
-		<text id="nav3">We're on the Enemy Homeworld? How do you know?</text>
-		<text id="nav4">We can't be certain... but we took samples of many ruins on this planet. Not only are they a match for their technology, but they date back over a million years ago!</text>
-		<text id="nav5">But they're gone now?</text>
-		<text id="nav6">We haven't detected them on this planet, but even if they did leave, they are sure to return eventually.</text>
-		<text id="nav7">This is why we were willing to sacrifice everything for strength... from the day we landed on this planet, a confrontation with them became inevitable.</text>
+		<text id="intro1">당신들이 미로우 부부인가요? 왜 노을빛 피난처를 괴롭히고 이상한 돌연변이를 만드는거죠?</text>
+		<text id="intro2">당신은 이해하지 못할거야! 이건 모두를 위해서라고! 궁극의 무기가 없으면 우리는 살아남을수 없어!</text>
+		<text id="intro3">그들이 마지막으로 남겨진 우리를 죽이러 올때를 대비해야 했어! 대의를 위한 희생은 불가피하지.</text>
+		<text id="intro4">알수 없는 미래를 위해서 사람을 희생시킬수는 없어요! 모두를 구할 수 있는 더 좋은 방법이 있잖아요!</text>
+		<text id="intro5">우리의 의견에 동의하지 않는다면. 우리가 싸울수 밖에 없겠군.</text>
+		<text id="intro6">내 새로운 사이보그 발명품에 당신의 몸이 필요할것 같군!</text>
+		<text id="defeat0">믿을수 없어! 어덯게 우리의 발달된 기술보다도 강한거지?</text>
+		<text id="defeat1">비밀을 알려줘! 어떻게 우리보다 강한거지? 너는 인류의 열쇠가 될수 있어!</text>
+		<text id="defeat2">제가 비밀을 알려준다면, 마을 사람들을 괴롭히고 회비를 걷는걸 그만할건가요?</text>
+		<text id="defeat3">물론이지. 당신이 있으니 그런 저급 표본은 필요없어!</text>
+		<text id="defeat4">이건 우리 연구의 새로운 지표라구!</text>
+		<text id="defeat5">우리 연구실을 마음껏 써도 돼. 우리가 사용하는 기술의 강력한 힘을 확인해봐!</text>
+		<text id="tip1">장비창에서 우리의 과학기술로 신체 향상기능을 선택하거나 제거할수 있어. 단 수술실에서 다시 신체 향상 기능을 부여할땐 많은 재료가 들꺼야.</text>
+		<text id="nav1">아직 네비게이션 화면이 작동한다. 화면에 따르면 우리는 어노익스 428c에 있다.</text>
+		<text id="nav2">미로우 부부가 이 노트를 적었나?! 그들에게 물어봐야겠어...</text>
+		<text id="nav3">우리가 적들의 고향에 있는거에요? 어떻게 알고 있는거죠?</text>
+		<text id="nav4">아직 확신할수는 없어... 하지만 우리는 이곳에서 많은 유적은 채취했고 그 기술들은 적들의 기술과 매우 유사해! 심지어 백만년 전 유적들이라구!</text>
+		<text id="nav5">하지만 그들은 지금 없지않나요?</text>
+		<text id="nav6">이행성에서 그들을 찾지는 못했지. 하지만 그들이 이곳을 떠낫다고 해도 언젠가 다시 돌아올거야.</text>
+		<text id="nav7">그래서 강해지기 위해 모든것을 희생했던거야... 우리가 이 행성에 착륙한 이후로부터 그들과의 전쟁은 불가피해.</text>
 	</section>
 	<section id="scene.hut">
 		<text id="first1">꽤 나쁘지 않군... 누가 이 건물을 지으려 한건지 궁금하다... 그리고 그들은 왜 멈춘거지? 최근에 지으려 한것 같은데...</text>
@@ -2332,15 +2332,15 @@
 		<text id="hunter3">우와, 그럼 사냥하는 법은 어떻게 알아낸거에요?</text>
 		<text id="hunter4">사람은 생각보다 살아남아야 할때 많은 기지를 발위하는 법이죠.</text>
 		<text id="hunter5">당신도 그럴거에요. 예전에 당신으 알고 있던 사람들은 당신을 못알아 볼 정도로 말이죠.</text>
-		<text id="mirrows1">They’ve been rebuilding technology?</text>
-		<text id="mirrows2">Yeah, Sunset Haven has power and industrial equipment.</text>
-		<text id="mirrows3">But the folks there aren’t too happy with the Mirrows who set it all up.</text>
-		<text id="mirrows4">The Mirrows survived!?</text>
-		<text id="mirrows5">You know them?</text>
-		<text id="mirrows6">Unfortunately. We were part of the same research group back home, studying genetics.</text>
-		<text id="mirrows7">After the attack, they started doing awful stuff like human experimentation. I could no longer work with them.</text>
-		<text id="mirrows8">Hey, we should rebuild some technology here, too! If they can do it, why not us?</text>
-		<text id="mirrows9">That's the spirit! This place will feel just like home in no time.</text>
+		<text id="mirrows1">기술을 재구축 한다구요?</text>
+		<text id="mirrows2">네, 노을빛 피난처에는 전력도 있고 공업용 장비도 있었어요.</text>
+		<text id="mirrows3">하지만 그곳 사람들은 그 모든걸 만든 미로우 부부에게 호전적이지 않아요.</text>
+		<text id="mirrows4">비로우 부부가 살아남았다고?!</text>
+		<text id="mirrows5">알고있나요?</text>
+		<text id="mirrows6">불행이도, 그들은 유전학을 연구하는 연구실의 동료였어요.</text>
+		<text id="mirrows7">전투 이후, 그들은 인간을 데려가 끔찍한 생체실험을 하기 시작했어요. 저는 더이상 그들과 함께 일할 수 없었죠.</text>
+		<text id="mirrows8">좋아, 우리도 이곳의 기술력을 높여야해. 그들이 가능하다면 우리도 가능할거야!</text>
+		<text id="mirrows9">바로 그거에요! 이곳이 집처럼 느껴지게 될거에요.</text>
 	</section>
 	<section id="medicom">
 		<text id="water_cave">3/22 - Relocating lab to a water cave. Attempting to recover [item=ship_parts] using a [object=sub] with the help of a willing subject.</text>
@@ -2640,9 +2640,9 @@
 		<text id="default_desc">Aground 기본 버전.</text>
 	</section>
 	<section id="pirates">
-		<text id="intro1">The waters east of Sunset Haven have been pretty dangerous lately - I keep finding the wreckage of boats, and some of them were fellow traders...</text>
-		<text id="intro2">I'm certain it's pirates, but I haven't been able to find them, and they must be packing some serious firepower.</text>
-		<text id="intro3">If you built a [object=patrol_boat] and dealt with the pirates, all of us seafaring folk would be very grateful!</text>
+		<text id="intro1">노을빛 피난처의 동쪽 해안은 최근 위험합니다 - 많은 배의 잔해를 발견했고 그중 몇몇은 동료 무역가들의 배였죠...</text>
+		<text id="intro2">분명 해적들의 짓일거에요, 하지만 저는 흔적을 찾지 못했어요. 그들은 분명 좋은 화력의 순양함을 가지고 있을거에요.</text>
+		<text id="intro3">만약 당신이 [object=patrol_boat]을 만들어서 해석을 퇴치해 준다면, 우리 선원들이 좋아할거에요!</text>
 		<text id="hint1">The pirates hunting grounds are definitely between here and the island you crashed on. But they must have a base somewhere, and I couldn't find any islands nearby...</text>
 		<text id="hint2">I'm certain the pirates are packing some serious firepower. Make certain you have some strong weapons yourself, maybe try building a [object=patrol_boat] at the [color=770000]Warehouse[/color].</text>
 		<text id="structure_lock">The structure is locked... you'll have to defeat the pirates before you can unlock it!</text>
