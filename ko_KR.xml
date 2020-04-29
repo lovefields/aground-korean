@@ -183,7 +183,7 @@
 		<text id="auto_repair">Repair {item} with the following?{list}</text>
 		<text id="retransform">{item}이(가) 거의 파괴될 것 같습니다! 다음 항목을 사용해 수리하시겠습니까?{list}</text>
 		<text id="uses">사용</text>
-		<text id="enchantment">Enchantment</text>
+		<text id="enchantment">마력</text>
 		<text id="cooldown">재사용 시간</text>
 		<text id="durability">내구도</text>
 		<text id="damage">공격력</text>
@@ -348,7 +348,7 @@
 		<text id="generator">발전기</text>
 		<text id="ink">잉크</text>
 		<text id="jet_engine">제트기 엔진 업그레이드</text>
-		<text id="battery_unit">Battery Unit</text>
+		<text id="battery_unit">베터리 묶음</text>
 		<text id="solar_generator">태양열 발전기</text>
 		<text id="nuclear_generator">원자력 발전기</text>
 		<text id="hut_upgrade">집 설계도</text>
@@ -1351,7 +1351,7 @@
 		<text id="no_effect">아무런 효과도 얻을 수 없습니다.</text>
 		<text id="drop_instead">대신 이것을 버리겠습니까?</text>
 		<text id="cannot_fire">Cannot fire {projectile} without {weapon}.</text>
-		<text id="no_projectiles">{weapon}사용 불가:{projectile}가 없습니다.</text>
+		<text id="no_projectiles">{weapon}사용 불가:{projectile}이(가) 없습니다.</text>
 		<text id="max_items">아이템을 더이상 넣을수 없습니다!</text>
 		<text id="max_fuel">연료를 더이상 넣을수 없습니다!</text>
 		<text id="max_repair">It is already fully repaired!</text>
@@ -1693,7 +1693,7 @@
 		<text id="pen1">이 [color=770000]농장[/color]에 뭐가 더 필요한지 아시나요? 가축이에요! [item=net]으로 [color=770000][tile=boar] 멧돼지[/color]를 잡는게 어떨까요?</text>
 		<text id="pen2">[color=770000]축사[/color]에 필요한 [item=pig] [var=quest.pen.pig]마리와 [item=wood] [var=quest.pen.wood]개를 준비해주세요.</text>
 		<text id="pen3">여태까지 본 [item=pig]들중 가장 뚱뚱하고 맛있어 보이지 않나요?</text>
-		<text id="pen4">우리에 넣었어요, 이제 우리는 [item=meat]과 [item=milk]를 얻을 수 있어요!</text>
+		<text id="pen4">돼지를 우리에 넣었어요, 이제 우리는 [item=meat]과 [item=milk]를 얻을 수 있어요!</text>
 		<text id="pen5">[color=770000]축사[/color]를 더 짓고싶다면, [item=pen_blueprint]를 사용하세요.</text>
 		<text id="pig">[item=pig]를 어떻게 얻냐구요? [item=net] 을 땅에 설치해서 [color=770000][tile=boar] 멧돼지[/color]를 유인해보세요. 운이 좋다면 길들일수 있을거에요!</text>
 		<text id="kitchen2">Milking a [item=pig]? Why not? This is a strange land. But what we could really use is some [item=cheese] - talk to the [object=builder] about improving the [color=770000]Kitchen[/color].</text>
@@ -2054,9 +2054,9 @@
 		<text id="com_station5">So Earth really was wiped out... if there are survivors there, they no longer have access to FTL communications.</text>
 		<text id="com_station6">But some of the colony worlds must have survived! If we can input their coordinates into the [color=770000]Com Station[/color], we can search for signals!</text>
 		<text id="com_station_self">It's receiving a signal! Oh, it connected to itself, that's not very helpful...</text>
-		<text id="teleportal1">I finished studying the pirates' base, and it looks like they landed at the crash site of the research bay!</text>
-		<text id="teleportal2">I looked through the logs and was able to finish one of the in-progress designs!</text>
-		<text id="teleportal3">I bet these [tile=teleportal.ico] [color=770000]Teleportals[/color] will be quite useful for getting around!</text>
+		<text id="teleportal1">해적들의 부품을 조사해봤는데요. 그들은 연구실이 있는 섬에 추락했나봐요.</text>
+		<text id="teleportal2">그들의 일지를 확인하고 나서 그들이 진행중이던 설계도를 완성할 수 있었어!</text>
+		<text id="teleportal3">이 [tile=teleportal.ico] [color=770000]텔레포탈[/color]은 돌아다니는데 꽤 유용할거에요!</text>
 		<text id="bombardment">Those [object=mirrows] think this bunker will last for years, but not without lots of maintenance! Of course they don't offer to help me keep everything up and running!</text>
 		<text id="bombardment2">I can't believe they bombed their own planet! We're all okay though, we're hiding in the [color=770000]Colony Ship[/color]'s cargo area.</text>
 		<text id="bombardment3">We never got along...[pause=1] and they were terrible parents...[pause=1] I never thought losing them would hurt so much...[pause=1]</text>
@@ -2192,12 +2192,12 @@
 		<text id="tip1">낚시에서 가장 중요한점은 타이밍이에요. 선착장 에서 낚시대를 사용한다음 [key=select]키를 눌러야하는데, 너무 빨리 누르거나 너무 늦게 누른다면 물고기를 잡을 수 없을거에요!</text>
 		<text id="tip2">만약 "기다려봐..."가 뜬다면 좀더 물고기를 달랠필요가 있어요. "지금 당겨!"가 뜰때 [key=select]키를 누르세요!</text>
 		<text id="tip3">어떤 물고기는 잡기가 어려워요. 툴팁이 더 많이 뜰거고 더많은 키를 사용해야 할거에요. 툴팁이 알려주는 키를 잘 누르세요!</text>
-		<text id="scene1">Me, this is all I need - a roof over my head, sunshine, and the vast ocean to fish.</text>
-		<text id="scene2">And you? What’s your dream?</text>
-		<text id="scene3">I’d really like to know if there’s a way off this planet.</text>
-		<text id="scene4">What, why!? Do you have a death wish? Those things have no mercy.</text>
-		<text id="scene5">I want to know more about them... and why things happened the way they did...</text>
-		<text id="scene6">Listen my friend, I saw one firsthand before we launched from Earth. All you need to know is how to avoid them.</text>
+		<text id="scene1">제게 필요한건 이거에요- 안락한 집, 햇빛, 그리고 물고기가 잡히는 드넓은 바다.</text>
+		<text id="scene2">당신은 어떤가요? 당신의 꿈은 뭐에요?</text>
+		<text id="scene3">저는 이 행성을 벗어날 방법이 있는지 알고싶어요.</text>
+		<text id="scene4">네? 왜요?! 죽기를 원하는거에요? 그들은 자비가 없다구요!</text>
+		<text id="scene5">저는 그들에 대해서 더 알고싶어요... 그리고 왜 이런 일이 일어났는지...</text>
+		<text id="scene6">잘들어요 내친구. 저는 지구에서 발사되기 전에 직접 봤어요. 당신이 알아야할 것은 어떻게 그들을 피하느냐 에요.</text>
 	</section>
 	<section id="mirrows">
 		<text id="water_cave1">우리가 추락할때 많은 부품들이 바다에 떨어졌어. 그것들을 다시 회수할 수 있다면 우리는 이 행성에서 탈출 할 수 있을거야.</text>
@@ -2645,17 +2645,17 @@
 		<text id="intro3">만약 당신이 [object=patrol_boat]을 만들어서 해석을 퇴치해 준다면, 우리 선원들이 좋아할거에요!</text>
 		<text id="hint1">The pirates hunting grounds are definitely between here and the island you crashed on. But they must have a base somewhere, and I couldn't find any islands nearby...</text>
 		<text id="hint2">I'm certain the pirates are packing some serious firepower. Make certain you have some strong weapons yourself, maybe try building a [object=patrol_boat] at the [color=770000]Warehouse[/color].</text>
-		<text id="structure_lock">The structure is locked... you'll have to defeat the pirates before you can unlock it!</text>
-		<text id="structure_unlock">You unlocked the structure with the pirate's key!</text>
+		<text id="structure_lock">잠겨있다... 해적을 물리치고 열쇠를 얻어야할것 같다.</text>
+		<text id="structure_unlock">해적이 가지고 있던 열쇠로 열었어!</text>
 		<text id="mechanic1">I'm detecting the signature of some advanced technology! Try scanning it with the [item=com_device]!</text>
 		<text id="mechanic2">I don't know how they built it, but that's an [color=770000]Advanced Laboratory[/color]! I should be able to design a blueprint for it using the scanned schematics...</text>
 		<text id="mechanic3">Perfect! I'm already drooling over all the new equipment we should be able to build with this!</text>
-		<text id="complete1">Awesome job - the seas are finally safe again! I think this deserves a reward, and I know just what, follow me to the inn!</text>
-		<text id="complete2">Hey Mortimer, the waters are safe from pirates thanks to my friend here! I think you should give them a medal of honor and let them stay at the inn for free!</text>
-		<text id="complete3">Stay here for free? Preposterous! Food and housing isn't cheap on this god-forsaken planet!</text>
-		<text id="complete4">I think you owe it to all of us traders and fishermen! If we had all been killed by pirates, there would be no food, period!</text>
-		<text id="complete5">Fine. They can stay here for free. But I'm not giving them any medals!</text>
-		<text id="stay_free">Fine... You can stay here for free. Just don't tell anyone, or everyone will be begging for free meals!</text>
+		<text id="complete1">일처리가 완벽하군요! 이제 이 주변 바다는 안전해 졌어요! 이 일은 보상을 받아 마땅해요, 저를따라 여관까지 오시겠어요?</text>
+		<text id="complete2">이봐 모티머, 여기있는 분이 해적을 소탕해줘서 인근 바다가 안전해졌어. 이분에게 훈장을 수여하고 여관을 무료로 제공하는게 좋다고 생각해!</text>
+		<text id="complete3">무료로? 말도안되! 버려진 이 행성에서의 숙식은 결코 싸지 않아!</text>
+		<text id="complete4">그건 전부 상인과 어부들이 제공한거일텐데? 우리가 모두 해적에게 죽임을 당했다면 너도 여관을 운영하지 못했을껄?</text>
+		<text id="complete5">알았어. 하지만 난 저분에게 훈장을 수여하지 안을꺼야!</text>
+		<text id="stay_free">그래요... 무료로 이곳을 이용할 수 있게 해드릴게요. 하지만 절때 다른사람에게 말하지마세요! 그들이 알게되면 구걸을 할거에요!</text>
 	</section>
 	<section id="dragon">
 		<text id="intro1">이런, 당신을 보지 못할뻔 했어... 당신은 너무 작군...</text>
