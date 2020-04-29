@@ -10,7 +10,7 @@
 		<text id="nuclear_plant">원자력 발전소</text>
 		<text id="teleportal">텔레포탈</text>
 		<text id="contact_list">통화 목록</text>
-		<text id="add_contact">{npc}이(가) 통화 목록에 추가되었습니다!<ㄷ/text>
+		<text id="add_contact">{npc}이(가) 통화 목록에 추가되었습니다!</text>
 		<text id="calling">{npc}에게 통화중...</text>
 		<text id="incoming_call">{npc}의 통화요청...</text>
 		<text id="coming_soon">곧 뵈요!</text>
