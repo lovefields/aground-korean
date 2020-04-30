@@ -164,7 +164,7 @@
 		<text id="fishing_pull">지금 당겨!</text>
 		<text id="craft">몇 개를 제작하시겠습니까?</text>
 		<text id="uncraft">몇 개를 분해하시겠습니까?</text>
-		<text id="coins">주화</text>
+		<text id="coins">금화</text>
 		<text id="broken">{item}이(가) 망가졌습니다!</text>
 		<text id="damaged">{item}이(가) 곧 망가집니다!</text>
 		<text id="rem_storehouse_items">가방에 있는것만</text>
@@ -320,7 +320,7 @@
 		<text id="build">건축</text>
 		<text id="upgrade">업그레이드</text>
 		<text id="plant">심기</text>
-		<text id="merge_coins">주화 정리</text>
+		<text id="merge_coins">금화 정리</text>
 	</section>
 	<section id="item.names">
 		<text id="pearl">진주</text>
@@ -1357,7 +1357,7 @@
 		<text id="max_repair">이미 전부 수리된 항목입니다!</text>
 		<text id="max_rations">You cannot add any more rations!</text>
 		<text id="max_feed">사료를 더 이상 줄수 없습니다!</text>
-		<text id="max_coins">더 이상 주화를 담을 수 없습니다!</text>
+		<text id="max_coins">더 이상 금화를 담을 수 없습니다!</text>
 		<text id="send_bug_report">무언가에 오류가 있습니다! 버그를 제보 하시겠습니까?</text>
 		<text id="not_powered">전력이 없습니다!</text>
 		<text id="power">베터리 전력 부족!</text>
@@ -1763,22 +1763,22 @@
 		<text id="introduce8">미안하지만 도둑은 믿을수 없어요. 이섬을 떠나서 다시는 돌아오지마세요.</text>
 		<text id="introduce9">도둑질을 할 섬은 얼마든지 있어. 뭐가 사라진지도 모르잖아?</text>
 		<text id="market1">완벽해! 이제 우리 비즈니스의 시작이야.</text>
-		<text id="market2">[item=coin_purse]를 줄게. 주화를 보관할때 필요할거야. 왠만하면 [item=mega_backpack]을 빨리 구하는걸 추천해, 그들은 진짜니까!</text>
-		<text id="market3">[color=770000]상점[/color]에서는 좋은걸 팔아 주화를 얻고, 주화를 이용해서 좋은걸 살수 있지.</text>
+		<text id="market2">[item=coin_purse]를 줄게. 금화를 보관할때 필요할거야. 왠만하면 [item=mega_backpack]을 빨리 구하는걸 추천해, 그들은 진짜니까!</text>
+		<text id="market3">[color=770000]상점[/color]에서는 좋은걸 팔아 금화를 얻고, 금화를 이용해서 좋은걸 살수 있지.</text>
 		<text id="market4">[color=770000]상점[/color]에는 가끔 좋은 물건이 들어와, 만약 좋은 물건이 없다면 나중에 다시 확인해 보는게 좋을거야.</text>
 		<text id="market5">[item=gold_bar]를 만들기 위해서는 [item=gold]이 필요해, 이건 아주 깊은곳에서 찾을 수 있지. [object=miner]가 깊은곳을 채광하기 위한 좋은 팁들을 알고 있을거야.</text>
 		<text id="dock1">다른 세상을 보고싶지 않니? [color=770000]부두집[/color]을 짓는게 어떨까?</text>
-		<text id="dock2">[color=770000][tile=coin_purse.ico] 주화[/color] [var=quest.dock.coins]개와 [item=wood] [var=quest.dock.wood]개, [item=cloth] [var=quest.dock.cloth]개, [item=net] [var=quest.dock.net]개가 있으면 되.</text>
+		<text id="dock2">[color=770000][tile=coin_purse.ico] 금화[/color] [var=quest.dock.coins]개와 [item=wood] [var=quest.dock.wood]개, [item=cloth] [var=quest.dock.cloth]개, [item=net] [var=quest.dock.net]개가 있으면 되.</text>
 		<text id="dock3">완벽해, 어서 [color=770000]부두집[/color]을 짓자고!</text>
 		<text id="dock4">[color=770000]부두집[/color]에서 [tile=boat.ico] 보트를 만들게 된다면, 드디어 너는 바다로 나갈 준비가 된거야!</text>
-		<text id="dock5">[color=770000]부두집[/color]은 [color=770000][tile=coin_purse.ico] 주화[/color] [var=quest.dock.coins]개와, [item=wood] [var=quest.dock.wood]개, [item=cloth] [var=quest.dock.cloth]개, [item=net] [var=quest.dock.net]개가 필요해.</text>
+		<text id="dock5">[color=770000]부두집[/color]은 [color=770000][tile=coin_purse.ico] 금화[/color] [var=quest.dock.coins]개와, [item=wood] [var=quest.dock.wood]개, [item=cloth] [var=quest.dock.cloth]개, [item=net] [var=quest.dock.net]개가 필요해.</text>
 		<text id="accept">제안 수락</text>
 		<text id="reject">돌려 보내기</text>
 		<text id="sail">Isn't it a beautiful day for sailing?</text>
 		<text id="pirate">Someone stole everything! All my hard work! Who would do such a thing?!</text>
 		<text id="shipping1">이제 여러섬에 창고를 가지게 되었으니 창고에서 창고로 이동이 가능한게 좋지 않겟어? 내 새로운 서비스를 이용한다면 적은 비용으로 가능하게 해줄게.</text>
 		<text id="shipping2">어느섬에 물건을 전달할래?</text>
-		<text id="shipping3">[color=770000]{area}[/color]에 보내는데는 무게당 0.20 [color=770000][tile=coin_purse.ico]주화[/color]가 필요해. 어떤 물건을 보낼건지 알려줘:</text>
+		<text id="shipping3">[color=770000]{area}[/color]에 보내는데는 무게당 0.20 [color=770000][tile=coin_purse.ico]금화[/color]가 필요해. 어떤 물건을 보낼건지 알려줘:</text>
 		<text id="shipping4">What island would you like to ship the selected items to for {coins} [color=770000][tile=coin_purse.ico] Coins[/color]?</text>
 		<text id="shipping5">The items are on their way - you should see them there the next time you visit. Let me know if there are any other items you'd like to ship, and a pleasure doing business with you!</text>
 	</section>
@@ -2145,7 +2145,7 @@
 		<text id="power4">그들에게 돈을 안내면 안되요?</text>
 		<text id="power5">저는 여관을 떠날수 없어요. 누군가 대신 그들에게 가서 협상한다면 이 불공평한 합의를 없엘수 있겟죠.</text>
 		<text id="no_power">전기가 다시 들어오기 전까지는 여관을 이용하기 어려울것 같아요.</text>
-		<text id="visit">하룻밤 묵을건가요? 비용은 [color=770000][tile=coin_purse.ico] 주화[/color] 50개에요, 물론 식사도 제공합니다!</text>
+		<text id="visit">하룻밤 묵을건가요? 비용은 [color=770000][tile=coin_purse.ico] 금화[/color] 50개에요, 물론 식사도 제공합니다!</text>
 		<text id="no_money">Not enough money? Then I'm afraid you can't stay here. This isn't a charity you know!</text>
 		<text id="scene1">광물 상인에게 함선이 이곳에 추락했다고 들었어요. 여기서 어떻게 살아남은 건가요?</text>
 		<text id="scene2">그게 저희의 문제입니다. 미로우 부부가 저희를 구해주었죠. 그들은 추락 직전에 조치를 취했고 함선이 전부 망가지는것을 방지했어요. 즉, 저희는 그들에게 빚이 있죠.</text>
@@ -2246,7 +2246,7 @@
 		<text id="jet_door3">Now that the [object=mirrows] are gone, I guess this [object=jet] belongs to Cass...</text>
 		<text id="jet_door4">There's no one left who can claim this [object=jet]... it was a long and hard journey, but the time has finally come to steal it!</text>
 		<text id="boring_machine">Why are you building boring machines? We have much more important things to do right now!</text>
-		<text id="ship_bed">이 회복 포트를 이용할까? [color=770000][tile=coin_purse.ico]50 주화[/color]로 이용할 수 있다.</text>
+		<text id="ship_bed">이 회복 포트를 이용할까? [color=770000][tile=coin_purse.ico]금화[/color] 50개로 이용할 수 있다.</text>
 		<text id="no_money">But you don't have 50 [color=770000][tile=coin_purse.ico] Coins[/color]... Maybe try selling some junk at the [color=770000]Market[/color], that's what we do when we're strapped for cash!</text>
 		<text id="blueprints1">We need more funds for our research, so we decided to start selling inventions and [tile=blueprint.ico] [color=770000]Blueprint[/color]s!</text>
 		<text id="blueprints2">All sales go towards a good cause. Make sure to come back, as anytime we invent something new we'll add it to the store!</text>
