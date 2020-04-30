@@ -1835,8 +1835,8 @@
 		<text id="dragon12_a">좋아요! 그럼 이제 우리에게 마법과 진실을 알려주시겠어요?</text>
 		<text id="dragon13">불행하게도, 그대들이 알고 싶어하는 지식을 알고있지는 않네. 옛것들이 우리를 창조했고 우리를 기르기 위해서 이 은신처를 만들었지.</text>
 		<text id="dragon14">하지만 동쪽 섬에는 답이 있을 수도 있네. 준비를 하고 나에게 말을 걸어준다면 내가 그곳으로 데려다 주겠네.</text>
-		<text id="dragon15">Another dragon lair! Imagine how many dragons were once raised in lairs like these with magic! I wonder why... in any case, allow me to activate this lair.</text>
-		<text id="dragon16">I also built a [color=770000]Wyrm Pen[/color] here, in case we need to raise more dragons! But don't expect me to harvest [item=dragonblood] here, I've got more important things to research.</text>
+		<text id="dragon15">또다른 드래곤 둥지! 한때 얼마나 많은 마법과 용들이 살아있었는지 상상해보세요! 그들은 어째서.... 어쨋든 제가 이것을 다시 작동시키기 위해 도와주세요.</text>
+		<text id="dragon16">여기에도 [color=770000]웜 우리[/color]를 지을게요. 용을 더 키울때를 대비해서요! 하지만 이번에는 제가 [item=dragonblood]을 수확하는건 기대하지 마세요. 저는 연구가 더 중요하거든요.</text>
 		<text id="call_dragon">Where did you leave the dragon? I'll call it over here - try not to lose track of it.</text>
 		<text id="lair1">I knew it! This lair is artificial, made by magic! It looks like its purpose was to raise dragons!</text>
 		<text id="lair2">I bet I can activate it...</text>
@@ -1862,7 +1862,7 @@
 		<text id="elementals1">[item=spirit_gem]은 불이나 물의 정령을 이용해 [item=fire_gem] 또는 [item=water_gem]을 생성 한다는걸 발견했어요. 건물에 사용하면 작동시킬 수 있을 거에요.</text>
 		<text id="elementals2">Having trouble finding elemental spirits? They are invisible to the naked eye, but my [item=goggles] should reveal them!</text>
 		<text id="elementals3">You can place [item=spirit_gem]s like traps, then capture spirits by luring them onto them!</text>
-		<text id="spirit_gem">Now all the structures are activated! I think we deserve a break in the purple chamber before we continue our research!</text>
+		<text id="spirit_gem">이제 모든 건물이 활성화 되었어요! 연구를 계속하기 전에 보라색 방에서 쉬었다가 시작하죠!</text>
 		<text id="magic_farm1">What are you waiting for? Use the [item=water_gem] at the blue structure to activate it!</text>
 		<text id="magic_farm2">The blue structure is a magical synthesizer! It can create items from magic!</text>
 		<text id="magic_farm3">Use [item=focus_gem]s to power the synthesizer.</text>
@@ -1871,28 +1871,28 @@
 		<text id="magic_forge2">The red structure is some sort of ancient magical forge. It can enchant items!</text>
 		<text id="magic_forge3">Try experimenting with different combinations of items and magical ingredients at the Forge - you may stumble upon something brilliant!</text>
 		<text id="magic_forge4">We still need a [item=fire_gem] to power the red structure! Use a [item=spirit_gem] to capture a fire elemental!</text>
-		<text id="alter_gem1">I’ve been in deep contemplation, trying to decode the secrets of the [item=wyrm]s.</text>
-		<text id="alter_gem2">If you bring me [var=quest.alter_gem.wyrm] [item=wyrm], [var=quest.alter_gem.fire_tusk] [item=fire_tusk] and [var=quest.alter_gem.yeti_fur] [item=yeti_fur], I will be able to finish my research.</text>
-		<text id="alter_gem3">I have done it! I have created an [item=alter_gem]! This will allow us to transform [item=wyrm]s - and probably other creatures - into usable equipment!</text>
-		<text id="alter_gem4">We must continue to explore this branch of magic! Take this [item=alter_gem] and use it on a [item=wyrm] yourself! If you need more [item=alter_gem]s, I have added the recipe to the synthesizer.</text>
-		<text id="alter_gem5">To use the [item=alter_gem], select it in your inventory, choose Transform, and choose a creature to transform.</text>
-		<text id="alter_gem6">Don’t be afraid to try [item=alter_gem]s with other creatures... like a [item=dragon]. Or, dare I suggest it - an [item=adult_dragon]?!</text>
-		<text id="alter_gem7">Running out of [item=alter_gem]s? You can find them deep underground or create them at the synthesizer.</text>
-		<text id="alter_gem8">Make sure you use [item=alter_gem]s on well-fed creatures. Hungry creatures won't stay transformed long!</text>
+		<text id="alter_gem1">저는 [item=wyrm]의 비밀을 알아내기위해 깊이 연구해 보았어요.</text>
+		<text id="alter_gem2">만약 저에게 [item=wyrm] [var=quest.alter_gem.wyrm]마리, [item=fire_tusk] [var=quest.alter_gem.fire_tusk]개, [item=yeti_fur] [var=quest.alter_gem.yeti_fur]개 를 가져다 주신다면 연구를 마칠 수 있을것 같아요.</text>
+		<text id="alter_gem3">해냈어요! 제가 [item=alter_gem]을 만들었어요! 이건 우리가 [item=wyrm]이나 다른 생명체를 쓸만한 도구로 만들 수 있게 해줄거에요!</text>
+		<text id="alter_gem4">우리는 반드시 이 마법에 대해서 연구해야해요! 여기 [item=alter_gem]을 받으세요 그래고 [item=wyrm]에게 사용해보세요! [item=alter_gem]가 더 필요하다면 합성기에서 제작 가능하게 해두었어요.</text>
+		<text id="alter_gem5">[item=alter_gem]을 사용하려면, 가방에서 사용하기를 누른다음 변형할 생명체를 선택하세요.</text>
+		<text id="alter_gem6">[item=alter_gem]을 생명체에게 사용하는걸 두려워하지 마세요...[item=dragon]처럼. 아, [item=adult_dragon]에게 사용해보는건 어떤가요?!</text>
+		<text id="alter_gem7">[item=alter_gem]이 부족하다구요? 지하 깊은 곳에서 캐거나 합성기에서 만드세요.</text>
+		<text id="alter_gem8">[item=alter_gem]을 생물에게 사용해보세요. 허기진 생물은 변형하는데 오래걸릴거에요!</text>
 		<text id="first1">당신은 저희 우주선과 충돌한 건가요?</text>
 		<text id="first2">아니요, 저는 식민지 지배를 위한 정찰 임무 중이였어요.</text>
 		<text id="first3">우리는 총 4명이였고, 3명은 죽었어요. 그들이 이 행성에 왔을때, 저는 이 행성이 저주받았다는 걸 알았죠.</text>
 		<text id="first4">저는 마법에 대해 배운 지식으로 겨우 살아 남았어요. 아마도 그 때 제가 [item=goggles]을 가지고 있었다면 상황은 달라졌겠죠.</text>
 		<text id="first5">그들이 왔다구요?! 당신 이후에?</text>
 		<text id="first6">네, 확실하진 않지만 제 마법에 질투를 느낀거겠죠. 겁 먹은 건가요?</text>
-		<text id="second1">You met them on this planet ten years ago? That's before they tried to wipe out humanity and destroy Earth!</text>
-		<text id="second2">Correct. I was the first to encounter them, and the first they tried to kill.</text>
-		<text id="second3">I don't know what I could've done differently to stop the war. They arrived suddenly with their biological weapons and attacked without a word.</text>
-		<text id="second4">If only there was a way to communicate with them...</text>
-		<text id="second5">We probably could communicate with them now, using my magic translation.</text>
-		<text id="second6">But, hopefully we'll never encounter them again, now that they seem content to ignore us.</text>
-		<text id="oldone1">I’ve been noticing some very strange spikes in the magical energy lately. It could be nothing, but it could be one of them.</text>
-		<text id="oldone2">If you find it, summon me immediately. If it really is one of them, we are all in grave danger.</text>
+		<text id="second1">10년전에 이 행성에서 그들을 만났다구요? 그건 그들이 지구에 처들어오기 한참 전이에요!</text>
+		<text id="second2">맞아요. 제가 그들을 처음 만났고. 그들은 처음으로 저를 죽이려 들었죠.</text>
+		<text id="second3">전쟁을 막기 위해 제가 할 수 있는 일은 없었어요. 그들은 생물학 무기를 들고 무작정 죽이기 시작했거든요.</text>
+		<text id="second4">그들와 소통할 수 있는 방법이 있었다면...</text>
+		<text id="second5">제 마법 번역을 이용해서 이제 그들와 대화할 수 있을거에요.</text>
+		<text id="second6">하지만, 그들이 적대적인걸 생가하면 다시 그들과 만나고 싶지는 않네요.</text>
+		<text id="oldone1">최근 마법의 기운이 급상승 하는걸 감지했어요. 아닐수도 있지만 그들중 하나일 수 있어요.</text>
+		<text id="oldone2">만약 찾게 된다면 즉시 저를 불러주세요. 정말로 그들이라면 우리는 전부 엄청난 위험에 처할거에요.</text>
 		<text id="oldone3">Alright, let’s see if my translation works!</text>
 		<text id="oldone4">Who are you and what are you doing here?</text>
 		<text id="oldone5">What right have you to ask me that? This is my home, my planet! You are the trespassers here!</text>
@@ -2231,18 +2231,18 @@
 		<text id="escort_ship4">뭐? 뭘 기다리는거야? 바로 그곳으로 가야해! [object=jet]를 준비해!</text>
 		<text id="escort_ship5">꽤 상태가 안 좋지만, 수리할 수 있어. 수리하는데 많은 [item=ship_parts]가 필요할거야!</text>
 		<text id="escort_ship6">좋아! 모든 재료를 모으면 우리에게 연락해!</text>
-		<text id="escort_ship7">I said to give us a call once you had EVERYTHING! If you forgot what we need to repair the ship, check your quest log with [key=quest].</text>
-		<text id="escort_ship8">The relocation of the lab is pretty much finished. Now we just need those parts to repair the ship, and we'll really be going places!</text>
-		<text id="escort_ship9">The spaceship will need a [item=power_core] to fly, but try entering it and checking out all the systems - especially the control room!</text>
+		<text id="escort_ship7">내가 모든걸 모았을때 연락하라고 했지! 만약 수리할 재료를 잊어먹었다면 [key=quest]키를 눌러서 다시 확인해봐.</text>
+		<text id="escort_ship8">연구소 이사는 거의다 끝났어. 이제 우주선을 수리하기 위한 부품만 있으면 돼. 그리고 우리는 정말로 우주로 갈 수 있을거야.</text>
+		<text id="escort_ship9">우주선이 날기 위해서는 [item=power_core]가 필요해, 하지만 그전에 들어가서 모든걸 확인해봐! 특히 제어실!</text>
 		<text id="escort_power_core1">You could create a [item=power_core] from [item=power_core_parts] in an [color=770000]Advanced Laboratory[/color], but that section of the [color=770000]Colony Ship[/color] broke off.</text>
 		<text id="escort_power_core2">Perhaps enough of it is intact somewhere for the [object=mechanic] to repair it?</text>
-		<text id="escort_ship10">You got everything? Perfect, let's see if this ship can still be repaired! Meet us at the crash site!</text>
-		<text id="escort_ship11">Well look at that! It looks as good as new, and ready to launch into space!</text>
-		<text id="escort_ship12">It's quite the accomplishment! It won't be able to defeat them without weapons, but it sure gives us options!</text>
+		<text id="escort_ship10">다 챙겼어? 완벽해, 이제 배를 수리할 수 있는지 보자! 추락 현장에서 만나!</text>
+		<text id="escort_ship11">이것좀 봐! 완전히 새것처럼 되었어! 이제 우주로 나갈 준비가 된거야!</text>
+		<text id="escort_ship12">이건 대단한 업적이야! 무기 없이는 그들을 이길 수 없겟지만 적어도 대항할 수는 있겟지!</text>
 		<text id="ride_back">우리는 동굴로 돌아갈건데, 태워줄까?</text>
 		<text id="ride_water_cave">Do you want us to pick you up and fly you to the water cave?</text>
-		<text id="jet_door">The door leads to a launch pad for the [object=mirrows] private [object=jet].</text>
-		<text id="jet_door2">No, I shouldn't steal their [object=jet], as tempting as that sounds.</text>
+		<text id="jet_door">이 문은 [object=mirrows] 전용 [object=jet]로 이어져 있습니다.</text>
+		<text id="jet_door2">안돼, 그들의 [object=jet]를 훔치는건 좋지않아, 하지만 유혹적이긴 하네.</text>
 		<text id="jet_door3">Now that the [object=mirrows] are gone, I guess this [object=jet] belongs to Cass...</text>
 		<text id="jet_door4">There's no one left who can claim this [object=jet]... it was a long and hard journey, but the time has finally come to steal it!</text>
 		<text id="boring_machine">Why are you building boring machines? We have much more important things to do right now!</text>
