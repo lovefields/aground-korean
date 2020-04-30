@@ -1183,8 +1183,8 @@
 		<text id="plant">작물 변경</text>
 		<text id="fertilizer">비료 주기</text>
 		<text id="activate_fail">이것을 활성화 하기위해서는 무언가가 필요합니다</text>
-		<text id="search_fail">Hmm, nothing of interest here.</text>
-		<text id="get_pumpkin_seeds">Found some [item=pumpkin_seed]!</text>
+		<text id="search_fail">음, 이곳엔 아무것도 없습니다.</text>
+		<text id="get_pumpkin_seeds">[item=pumpkin_seed]을 찾았습니다!</text>
 		<text id="sail_boat">항해</text>
 		<text id="manage_storage">저장소 관리</text>
 		<text id="elevator">엘리베이터</text>
@@ -1192,7 +1192,7 @@
 		<text id="rest_boat">보트에서 쉬기</text>
 		<text id="activate">{item}을(를) 사용해서 이 건물을 활성화하겠습니까?</text>
 		<text id="enchant_recipe">레시피 기둥이 레시피를 드러냈습니다.:\n{enchant} + {items} = {creates}.</text>
-		<text id="enchant_added">The enchantment recipe has been added to the [color=770000]Forge[/color].</text>
+		<text id="enchant_added">마법 레시피가 [color=770000]용광로[/color]에 추가되었습니다.</text>
 		<text id="place_in_lair">{item} 이 필요합니다.</text>
 		<text id="golem_factory">The structure's power is all being drawn into that statue...</text>
 		<text id="golemech">Build Golemech</text>
@@ -1202,8 +1202,8 @@
 		<text id="place_cost">Would you like to place {structure} for the following resources?</text>
 		<text id="dragon_lair">드래곤 안식처:</text>
 		<text id="change_appearance">외모 변경</text>
-		<text id="forge">Activate the Forge.</text>
-		<text id="synthesizer">Activate the Synthesizer.</text>
+		<text id="forge">용광로 활성화.</text>
+		<text id="synthesizer">합성기 활성화.</text>
 	</section>
 	<section id="structure.tooltip">
 		<text id="check_logs">탈출정 기록 읽기</text>
@@ -1493,7 +1493,7 @@
 		<text id="water_cave">가 동굴을 찾아 [object=sub]을 설치하려 합니다.</text>
 		<text id="ship_parts">가 수중에서 [item=ship_parts]를 찾아달라 합니다.</text>
 		<text id="com_station">이 [color=770000]통신 기지[/color]를 통해 생존자를 찾으려 합니다.</text>
-		<text id="repair_escort">want to repair the broken [color=770000]Fighter Escort[/color] ship.</text>
+		<text id="repair_escort">가 [color=770000]전투 호휘함[/color]을 수리하려 합니다.</text>
 		<text id="pirates">가 [color=770000]노을빛 피난처[/color]의 해적을 퇴치해주길 원합니다.</text>
 		<text id="go_east">wants you to learn magic before THEY come.</text>
 		<text id="cultivator">wants you to activate the [color=770000]Vine Copse[/color].</text>
@@ -1558,7 +1558,7 @@
 		<text id="fisherman_cat">가 [item=toothfish]를 좋아하는 자신의 [item=cat]를 찾아주길 원합니다.</text>
 		<text id="bandits">상인들이 물건을 훔치는 강도들을 퇴치해주길 원합니다.</text>
 		<text id="wyrm_hive">가 [item=wyrm]의 비밀을 풀고싶어합니다.</text>
-		<text id="spirit_gem">wants you to use [item=spirit_gem]s to catch spirits.</text>
+		<text id="spirit_gem">가 [item=spirit_gem]을 사용하라고 권합니다.</text>
 		<text id="alter_gem">가 [item=wyrm] 연구를 끝낼 무언가를 원합니다!</text>
 		<text id="oldone">wants to find the source of the magical energy spikes.</text>
 		<text id="minecart">가 [item=minecart]를 설치해 채광을 쉽게 하고 싶어 합니다.</text>
@@ -1854,12 +1854,12 @@
 		<text id="wyrm1">다른 구조물을 깨우기 위해서는 [item=wyrm]에게서 단서를 얻을수 있을거에요.</text>
 		<text id="wyrm2">제가 이 상형문자를 번역하는 동안, 섬에있는 비밀을 찾아주세요.</text>
 		<text id="wyrm3">걱정 말아요- 당신은 저번에 [item=wyrm]을 잡았잖아요. 그들의 소굴까지 가는건 문제없을거에요!</text>
-		<text id="wyrm4">What's that? There was a Wyrm Queen? That's irrelevant, look at the [item=spirit_gem] you found! I'm certain this is what we need to make a breakthrough!</text>
-		<text id="wyrm5">Here, try these [item=goggles]. The markings helped me invent them, and while they didn't help me see the secret behind these structures, they may help you see what we are missing.</text>
+		<text id="wyrm4">그게 뭐죠? 웜 여왕이 있었다구요? 그건 됫고 당신이 찾은 [item=spirit_gem]좀 보세요! 분명 우리가 살아남기 위한 열쇠 일거에요!</text>
+		<text id="wyrm5">여기 [item=goggles]을 받으세요. 문양을 통해서 고글을 발명했어요. 건물의 비밀을 풀지는 못했지만, 우리가 놓치고 있는 것들을 보는데 도움이 될거에요.</text>
 		<text id="wyrm6">동쪽 섬의 [item=wyrm]을 따라가야해요! 이미 여기있는 [item=wyrm]은 조사가 끝났어요!</text>
-		<text id="sleep">I need more time to study this. Why don't you rest in the purple chamber?</text>
-		<text id="forest">That forest to the east feels dangerous. I set up a [item=fence], and I recommend you don't go beyond it.</text>
-		<text id="elementals1">I have determined that a [item=spirit_gem] can capture a spirit of fire or water, resulting in a [item=fire_gem] or [item=water_gem]. The infused gems should allow us to activate the structures.</text>
+		<text id="sleep">저는 이것을 연구하는데 시간이 더 필요해요. 보라색 건물에서 쉬는게 어때요?</text>
+		<text id="forest">동쪽의 숲은 매우 위험해 보여요. [item=fence]를 설치했으니 그 이상은 가지 않기를 바래요.</text>
+		<text id="elementals1">[item=spirit_gem]은 불이나 물의 영혼을 이용해 [item=fire_gem] 또는 [item=water_gem]을 생성 한다는걸 발견했어요. 구조물에 사용하면 작동시킬수 있을거에요.</text>
 		<text id="elementals2">Having trouble finding elemental spirits? They are invisible to the naked eye, but my [item=goggles] should reveal them!</text>
 		<text id="elementals3">You can place [item=spirit_gem]s like traps, then capture spirits by luring them onto them!</text>
 		<text id="spirit_gem">Now all the structures are activated! I think we deserve a break in the purple chamber before we continue our research!</text>
@@ -1879,12 +1879,12 @@
 		<text id="alter_gem6">Don’t be afraid to try [item=alter_gem]s with other creatures... like a [item=dragon]. Or, dare I suggest it - an [item=adult_dragon]?!</text>
 		<text id="alter_gem7">Running out of [item=alter_gem]s? You can find them deep underground or create them at the synthesizer.</text>
 		<text id="alter_gem8">Make sure you use [item=alter_gem]s on well-fed creatures. Hungry creatures won't stay transformed long!</text>
-		<text id="first1">You didn’t crash with the rest of us?</text>
-		<text id="first2">No, I was part of a scouting mission for the colonization program.</text>
-		<text id="first3">We were four. But, the other three died, and when they came soon after, I knew this planet was cursed.</text>
-		<text id="first4">I barely survived, using what I'd learned of magic. Perhaps if I’d had those [item=goggles] back then, things would've been different.</text>
-		<text id="first5">They were here?! After you?</text>
-		<text id="first6">Yes. I believe they were jealous of my magic. Or frightened of it? It’s hard to say for sure...</text>
+		<text id="first1">당신은 저희 함선과 충돌한건가요?</text>
+		<text id="first2">아니요, 저는 식민지 지배를 위한 정찰임무 중이였어요.</text>
+		<text id="first3">우리는 총 4명이였고, 3명은 죽었어요. 그들이 이 행성에 왔을때, 저는 이 행성이 저주 받았다는걸 알았죠.</text>
+		<text id="first4">저는 마법에 대해 배운 지식으로 겨우 살아 남았어요. 아마도 그때 제가 [item=goggles]을 가지고 있었다면 상황은 달라졌겠죠.</text>
+		<text id="first5">그들이 왔다구요?! 당신 이후에?</text>
+		<text id="first6">네, 확실하진 않지만 제 마법에 질투를 느낀거겠죠. 겁먹은건가요?</text>
 		<text id="second1">You met them on this planet ten years ago? That's before they tried to wipe out humanity and destroy Earth!</text>
 		<text id="second2">Correct. I was the first to encounter them, and the first they tried to kill.</text>
 		<text id="second3">I don't know what I could've done differently to stop the war. They arrived suddenly with their biological weapons and attacked without a word.</text>
@@ -1925,8 +1925,8 @@
 		<text id="battle">Stand back! This fight is not for the inexperienced!</text>
 	</section>
 	<section id="player">
-		<text id="escort_ship">Looks like the wreckage of one of the escort ships. It's pretty broken up,  but the damage isn't too bad... Maybe the [object=mirrows] can fix it?</text>
-		<text id="escort_ship2">Looks like the wreckage of one of the escort ships. It's pretty broken up,  but the damage isn't too bad...</text>
+		<text id="escort_ship">메인 함선을 호위하던 우주선의 잔해 같다. 상당히 부셔졌지만 고칠수 있어 보인다... [object=mirrows]가 고칠수 있을까?</text>
+		<text id="escort_ship2">메인 함선을 호위하던 우주선의 잔해 같다. 상당히 부셔졌지만 고칠수 있어 보인다...</text>
 		<text id="go_east">I made an [item=evo_gem], but it looks like there's a lot more to learn about magic. I better see what this new island holds...</text>
 		<text id="burned">The structure is ruined. Would you like to dismantle it?</text>
 		<text id="abandoned">This market is abandoned. Would you like to dismantle it?</text>
@@ -2036,7 +2036,7 @@
 		<text id="sub_tip2">You can bring some extra [item=battery default=Batteries] to recharge the [object=sub] while travelling by hitting [key=equipment].</text>
 		<text id="sub_tip3">The [object=sub] can carry more weight than you can, but it still has a limit. Check the [object=sub]'s inventory by hitting [key=inventory], as it can't move if overweight.</text>
 		<text id="sub_tip4">Did you know you can use hotkeys to repair the [object=sub]? Just set [item=titanium] to a hotkey and use it while riding the [object=sub]!</text>
-		<text id="make_ship_parts">If you need more [item=ship_parts], I upgraded the [color=770000]Factory[/color] to be able to manufacture them. The process is inefficient with our current technology, but it could be helpful!</text>
+		<text id="make_ship_parts">만약 [item=ship_parts]가 더 필요하다면, 업그레이드 한 [color=770000]공장[/color]에서 만들 수 있어요. 비효율적 이겠지만 도움은 될거에요!</text>
 		<text id="build_com1">[item=ship_parts]를 이용해서 지구나 다른 식민지에 연락을 해볼수 있지 않을까요? 다른 생존자가 있는지 알아보는게 어떨까요?</text>
 		<text id="build_com2">좋아요! [item=ship_parts]를 가지고 있다면 저에게 연락해주세요. 제가 그것을 설치할 수 있어요!</text>
 		<text id="build_com2.1">저에게 연락할 수단이 필요해요? 여기, [item=com_device]를 받으세요!</text>
@@ -2045,15 +2045,15 @@
 		<text id="build_com5">그곳은 [color=770000]통신기지[/color]를 건설하기 좋은 곳이네요! [item=ship_parts]만 있으면 설정할 수 있겠어요!</text>
 		<text id="build_com6">흠... [color=770000]통신 기지를[/color] 그곳에... 그곳 보다는 행성에서 가장 높은 곳을 찾는게 좋을것 같아요.</text>
 		<text id="build_com7">행성에서 가장 높은 곳에 있는것 같아요! [item=ship_parts]가 있다면 [color=770000]통신 기지[/color]를 건설하러 갈게요!</text>
-		<text id="com_station1">Inputting data for {planet}.[pause=1].[pause=1].[pause=1] Calibrating.[pause=1].[pause=1].[pause=1] Searching for signals.[pause=1].[pause=1].[pause=1].[pause=1].[pause=1].[pause=1]</text>
-		<text id="com_station_incoming">Incoming signal detected from {planet}.[pause=1].[pause=1].[pause=1] Calibrating.[pause=1].[pause=1].[pause=1]</text>
-		<text id="com_station2">[color=770000]Error:[/color] No signals found!</text>
-		<text id="com_station2.5">Located distress beacon. No other signals found, FTL communication impossible.</text>
-		<text id="com_station3">Well? Did it work? What did you find?</text>
-		<text id="com_station4">Only a distress beacon, most likely set off during the attack... no other signals on Earth...</text>
-		<text id="com_station5">So Earth really was wiped out... if there are survivors there, they no longer have access to FTL communications.</text>
-		<text id="com_station6">But some of the colony worlds must have survived! If we can input their coordinates into the [color=770000]Com Station[/color], we can search for signals!</text>
-		<text id="com_station_self">It's receiving a signal! Oh, it connected to itself, that's not very helpful...</text>
+		<text id="com_station1">{planet}.[pause=1].[pause=1].[pause=1]에 대한 데이터 입력중... 교정중...[pause=1].[pause=1].[pause=1]에서 신호 찾는 중...[pause=1].[pause=1].[pause=1].[pause=1].[pause=1].[pause=1]</text>
+		<text id="com_station_incoming">{planet}에서 신호 받는 중.[pause=1].[pause=1].[pause=1] 보정.[pause=1].[pause=1].[pause=1]</text>
+		<text id="com_station2">[color=770000]오류:[/color] 신호를 찾지 못했습니다!</text>
+		<text id="com_station2.5">조난 신호 발견. 다른 신호가 없어 FTL통신이 불가능합니다.</text>
+		<text id="com_station3">어때요? 작동하나요? 뭔가 찾았어요?</text>
+		<text id="com_station4">조난 신호만이 잡히고 있어... 공격 받을때 파괴된것 같아... 지구에서는 아무런 신호가 없어...</text>
+		<text id="com_station5">정말... 지구는 전멸했군요... 그들이 살아 있다고 해도 FTL 통신 장치에 오래 머물수 없겟죠.</text>
+		<text id="com_station6">하지만 몇몇 식민지는 살아 남았을거에요! 만약 [color=770000]통신 기지[/color]에 그곳의 좌표를 입력할 수 있다면, 그곳의 신호를 찾을 수 있을거에요!</text>
+		<text id="com_station_self">신호를 받는중! 아 나의 신호였어, 도움될만 한건 아니네...</text>
 		<text id="teleportal1">해적들의 부품을 조사해봤는데요. 그들은 연구실이 있는 섬에 추락했나봐요.</text>
 		<text id="teleportal2">그들의 일지를 확인하고 나서 그들이 진행중이던 설계도를 완성할 수 있었어!</text>
 		<text id="teleportal3">이 [tile=teleportal.ico] [color=770000]텔레포탈[/color]은 돌아다니는데 꽤 유용할거에요!</text>
@@ -2225,12 +2225,12 @@
 		<text id="ship_parts1">You found the [item=ship_parts]? Excellent! Return to the Sunset Haven cave, we've already come up with something to make use of the [item=ship_parts]!</text>
 		<text id="ship_parts2">Or you could explore a bit more, perhaps there is more to find out west.</text>
 		<text id="ship_parts3">우리는 네가 찾아준 [item=ship_parts]를 잘 활용하기 위해 연구소를 개선하고 있어. 너도 꾸준히 발전하면서 서쪽의 잔해들을 찾아봐.</text>
-		<text id="escort_ship1">You found the wreckage of an escort ship? That would be a lot smaller and easier to repair than the [color=770000]Colony Ship[/color]!</text>
-		<text id="escort_ship2">Bring us some [item=ship_parts], and then we'll take a look at the wreckage!</text>
-		<text id="escort_ship3">We're on our way to survey the damage, meet us there. This could be a major breakthrough!</text>
-		<text id="escort_ship4">Well, what are we waiting for? We must head there immediately! Prep the [object=jet]!</text>
-		<text id="escort_ship5">It looks bad, but we can work with this. It'll need a lot of [item=ship_parts] to repair though!</text>
-		<text id="escort_ship6">Excellent! Give us a call when you have everything!</text>
+		<text id="escort_ship1">호위 우주선을 찾았다고? 그건 [color=770000]식민지 함선[/color]보다 작고 수리하기 쉬울거야!</text>
+		<text id="escort_ship2">우리에게 [item=ship_parts]을 구해주면, 잔해를 살펴볼게!</text>
+		<text id="escort_ship3">그곳을 조사하러 가는 중이야, 거기서 보자. 이건 우리에게 큰 희망일거야!</text>
+		<text id="escort_ship4">뭐? 뭘 기다리는거야? 바로 그곳으로 가야해! [object=jet]를 준비해!</text>
+		<text id="escort_ship5">꽤 상태가 안좋지만, 수리할 수 있어. 수리하는데 많은 [item=ship_parts]가 필요할거야!</text>
+		<text id="escort_ship6">좋아! 모든 재료를 모으면 우리에게 연락해!</text>
 		<text id="escort_ship7">I said to give us a call once you had EVERYTHING! If you forgot what we need to repair the ship, check your quest log with [key=quest].</text>
 		<text id="escort_ship8">The relocation of the lab is pretty much finished. Now we just need those parts to repair the ship, and we'll really be going places!</text>
 		<text id="escort_ship9">The spaceship will need a [item=power_core] to fly, but try entering it and checking out all the systems - especially the control room!</text>
@@ -2239,7 +2239,7 @@
 		<text id="escort_ship10">You got everything? Perfect, let's see if this ship can still be repaired! Meet us at the crash site!</text>
 		<text id="escort_ship11">Well look at that! It looks as good as new, and ready to launch into space!</text>
 		<text id="escort_ship12">It's quite the accomplishment! It won't be able to defeat them without weapons, but it sure gives us options!</text>
-		<text id="ride_back">We're heading back to the water cave, do you want a ride?</text>
+		<text id="ride_back">우리는 동굴로 돌아갈건데, 태워줄까?</text>
 		<text id="ride_water_cave">Do you want us to pick you up and fly you to the water cave?</text>
 		<text id="jet_door">The door leads to a launch pad for the [object=mirrows] private [object=jet].</text>
 		<text id="jet_door2">No, I shouldn't steal their [object=jet], as tempting as that sounds.</text>
@@ -3276,7 +3276,7 @@
 		<text id="research2">Bring it closer and I will board it!</text>
 		<text id="research3">It’ll be good working together again - I think we make a good team!</text>
 		<text id="distress_orbit">There's a distress signal from the surface of the planet... I wonder if any survivors made it here?</text>
-		<text id="com_station">Interesting - there weren't meant to be any humans on this planet, but if there's a distress signal, perhaps some survivors crash landed there?</text>
+		<text id="com_station">흥미롭다 - 이곳은 인간이 존재할수 없는곳인데... 조난 신호가 있다면, 몇몇 생존자들이 그곳에 착륙 했을지도 모른다.</text>
 		<text id="dice1">Hello there! I'm happy you found me!</text>
 		<text id="dice2">You see, I don't get many visitors here, in the middle of these dark and dangerous tunnels.</text>
 		<text id="dice3">I do so hope you'll stay for dinner, you look quite tasty, and it's been a while since I really had to flex my muscles!</text>
