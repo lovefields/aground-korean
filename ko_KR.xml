@@ -1082,7 +1082,7 @@
 		<text id="virus">[color=ff2222]외계인 본거지[/color]를 뚫는 바이러스를 발사한다.</text>
 		<text id="nursery_crab">[color=ff2222]외계인 보모[/color]를 쓰러뜨린다.</text>
 		<text id="final_boss">[color=ff2222]외계인 본거지[/color]의 중핵을 쓰러뜨린다.</text>
-		<text id="free_ship">[color=ff2222]적 드래곤십[/color]을 풀어준다.</text>
+		<text id="free_ship">[color=ff2222]적 드래곤 우주선[/color]을 풀어준다.</text>
 		<text id="spirit_portal">[color=ff2222]영혼의 문[/color]을 개방한다.</text>
 		<text id="spirit_tree">[color=ff2222]영혼목[/color]을 심는다.</text>
 		<text id="hq_structures">[color=ff2222]외계인 본거지[/color]의 건물에게 공물을 바친다.</text>
@@ -1561,7 +1561,7 @@
 		<text id="spirit_gem">wants you to use [item=spirit_gem]s to catch spirits.</text>
 		<text id="alter_gem">가 [item=wyrm] 연구를 끝낼 무언가를 원합니다!</text>
 		<text id="oldone">wants to find the source of the magical energy spikes.</text>
-		<text id="minecart">가 [item=minecart]를 설치해 ㅡ광을 쉽게 하고 싶어 합니다.</text>
+		<text id="minecart">가 [item=minecart]를 설치해 채광을 쉽게 하고 싶어 합니다.</text>
 	</section>
 	<section id="vehicle">
 		<text id="submarine">잠수함</text>
