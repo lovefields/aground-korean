@@ -802,7 +802,7 @@
 		<text id="cyborg_body">사이보그 몸</text>
 		<text id="cyborg_back">사이보그 가방</text>
 		<text id="cyborg_eye">Cyborg Eye</text>
-		<text id="machine_gun_arm">기관총 팔</text>
+		<text id="machine_gun_arm">기계총 팔</text>
 		<text id="electric_eel">전기뱀장어</text>
 		<text id="horn">뿔</text>
 		<text id="frost_shield">얼음 방패</text>
@@ -1079,20 +1079,20 @@
 		<text id="terraformer">[color=ff2222]테라포머[/color]를 건축한다.</text>
 		<text id="museum">C[color=ff2222]박물관[/color]을 모두 완료한다.</text>
 		<text id="exo_pilot">Build an [color=ff2222]Exo Fighter[/color] for the [color=ff2222]Pilot[/color].</text>
-		<text id="virus">[color=ff2222]외계인 본거지[/color]를 뚫는 바이러스를 발사한다.</text>
-		<text id="nursery_crab">[color=ff2222]외계인 보모[/color]를 쓰러뜨린다.</text>
-		<text id="final_boss">[color=ff2222]외계인 본거지[/color]의 중핵을 쓰러뜨린다.</text>
-		<text id="free_ship">[color=ff2222]적 드래곤십[/color]을 풀어준다.</text>
-		<text id="spirit_portal">[color=ff2222]영혼의 문[/color]을 개방한다.</text>
-		<text id="spirit_tree">[color=ff2222]영혼목[/color]을 심는다.</text>
-		<text id="hq_structures">[color=ff2222]외계인 본거지[/color]의 건물에게 공물을 바친다.</text>
-		<text id="master_spellcaster">[color=ff2222]마법서[/color]를 제작한다.</text>
+		<text id="virus">Launch a virus to breach the [color=ff2222]Enemy HQ[/color].</text>
+		<text id="nursery_crab">Defeat the [color=ff2222]Alien Nursery[/color].</text>
+		<text id="final_boss">Defeat the [color=ff2222]Enemy HQ[/color]'s Heart.</text>
+		<text id="free_ship">Free an [color=ff2222]Enemy Dragon Ship[/color].</text>
+		<text id="spirit_portal">Create a [color=ff2222]Spirit Portal[/color].</text>
+		<text id="spirit_tree">Plant a [color=ff2222]Spirit Tree[/color].</text>
+		<text id="hq_structures">Bribe the [color=ff2222]Enemy HQ[/color]'s structures.</text>
+		<text id="master_spellcaster">Craft every [color=ff2222]Spellbook[/color] in game.</text>
 		<text id="magne_queen_drill">Craft an [color=ff2222]Amethyst Queen Drill[/color].</text>
 		<text id="splicer">Defeat the [color=ff2222]Splicer[/color].</text>
-		<text id="draconian_wizard">[color=ff2222]불명예스러운 자[/color]를 쓰러뜨린다.</text>
-		<text id="hut">[color=ff2222]오두막[/color]을 수리한다.</text>
-		<text id="boar">[color=ff2222]멧돼지[/color]를 잡는다.</text>
-		<text id="storehouse">Build the [color=ff2222]창고[/color]를 .</text>
+		<text id="draconian_wizard">Defeat the [color=ff2222]Dishonored One[/color].</text>
+		<text id="hut">Repair the [color=ff2222]Hut[/color].</text>
+		<text id="boar">Defeat a [color=ff2222]Boar[/color].</text>
+		<text id="storehouse">Build the [color=ff2222]Storehouse[/color].</text>
 		<text id="farm">Build the [color=ff2222]Farm[/color].</text>
 		<text id="orchard">Add an [color=ff2222]Orchard[/color] to the [color=ff2222]Farm[/color].</text>
 		<text id="smelter">Build the [color=ff2222]Smelter[/color].</text>
@@ -1207,7 +1207,7 @@
 	</section>
 	<section id="structure.tooltip">
 		<text id="check_logs">Read Life-Pod Logs</text>
-		<text id="manage_cargo">화물칸 관리</text>
+		<text id="manage_cargo">Manage Cargo</text>
 		<text id="manage_ship">함선 관리</text>
 		<text id="advanced_lab">전문연구소</text>
 		<text id="inspect">Inspect Structure</text>
@@ -1219,9 +1219,9 @@
 		<text id="spaceship">우주선 탑승</text>
 		<text id="oxygen">산소 회복</text>
 		<text id="portal">포탈</text>
-		<text id="spaceship_inv">아이템을 우주선으로 보내기</text>
-		<text id="sub_inv">아이템을 잠수함으로 보내기</text>
-		<text id="change_equip">장비 장착</text>
+		<text id="spaceship_inv">Transfer Items to Spaceship</text>
+		<text id="sub_inv">Transfer Items to Submarine</text>
+		<text id="change_equip">Install Equipment</text>
 		<text id="cafeteria">Order from Cafeteria</text>
 		<text id="change_modifier">Change Vehicle Modifier</text>
 		<text id="spirit_storehouse">Manage Spirit Storage</text>
@@ -1294,8 +1294,8 @@
 		<text id="almost">아깝다!</text>
 	</section>
 	<section id="warning">
-		<text id="no_power_core">설치할[item=power_core]가 없습니다!</text>
-		<text id="not_powered_house">집에서 쉬었지만, 전력이 없어서 회복하지 못했습니다.</text>
+		<text id="no_power_core">You have no [item=power_core]s to install!</text>
+		<text id="not_powered_house">You rest in the house, but there was no power.</text>
 		<text id="laser_gun">[item=laser_gun]이(가) 과열 되었습니다!</text>
 		<text id="teleport_fail">There is no dungeon exit or resting place to return to here!</text>
 		<text id="teleport_blocked">There's a barrier stopping you from teleporting.</text>
@@ -1326,68 +1326,68 @@
 		<text id="crush">Below Dive Depth, Losing Health!</text>
 		<text id="growing">아직 수확할 수 없습니다! 나중에 다시오세요.</text>
 		<text id="additions">No addition slots remaining!</text>
-		<text id="durability">너무 망가져서 쓸 수 없습니다!</text>
+		<text id="durability">Too damaged to use!</text>
 		<text id="focus">클릭해서 활성화 시키세요</text>
 		<text id="ingredients">재료가 부족합니다.</text>
-		<text id="place_surface">지하에 설치할 수 없습니다.</text>
+		<text id="place_surface">You cannot place this object below the surface.</text>
 		<text id="place_overlap">이미 다른 오브젝트가 설치되어 있습니다.</text>
-		<text id="place_no_room">설치하기에는 더 큰 공간이 필요합니다.</text>
-		<text id="no_place">여기에 설치할 수 없습니다!<text>
-		<text id="no_use">여기서 사용할 수 없습니다!</text>
-		<text id="place_height">설치하기에는 너무 높습니다.</text>
-		<text id="structure_surface">이 건물은 지하에 건설할 수 없습니다.</text>
-		<text id="structure_underwater">이 건물은 수중에 건설할 수 없습니다.</text>
-		<text id="structure_water">이 건물은 물 위에 지어져야 합니다./text>
-		<text id="structure_tile">이 건물을 짓기에는 공간이 부족합니다.</text>
-		<text id="structure_overlap">다른 건물이나 작물과 겹쳐서 건물을 지을 수 없습니다.</text>
-		<text id="structure_adjacent">이 구조물은 반드시 {structure} 옆에 건설해야 합니다.</text>
+		<text id="place_no_room">You must dig out a bigger area to place this object.</text>
+		<text id="no_place">You cannot place that here!</text>
+		<text id="no_use">You cannot use that here!</text>
+		<text id="place_height">You cannot place that this high up.</text>
+		<text id="structure_surface">This structure cannot be built below the surface.</text>
+		<text id="structure_underwater">This structure cannot be built underwater.</text>
+		<text id="structure_water">This structure must be built on water.</text>
+		<text id="structure_tile">You must dig out a bigger area to build this structure.</text>
+		<text id="structure_overlap">You cannot build structures on top of structures or crops.</text>
+		<text id="structure_adjacent">이 구조물은 반드시 {structure}옆에 건설해야 합니다.</text>
 		<text id="structure_adjacent_left">이 구조물은 반드시 {structure} 왼쪽에 건설해야합니다.</text>
 		<text id="structure_adjacent_right">이 구조물은 반드시 {structure} 오른쪽에 건설해야합니다.</text>
-		<text id="structure_coast">이 건물은 빈 해안가에 지어져야 합니다.</text>
+		<text id="structure_coast">This structure must be built next to an empty coast.</text>
 		<text id="structure_vehicle">You cannot build this structure inside a vehicle.</text>
-		<text id="plant_structure">다른 건물이나 작물과 겹쳐서 심을 수 없습니다.</text>
-		<text id="plant_grass">비옥한 토양에만 심을 수 있습니다.</text>
+		<text id="plant_structure">You cannot plant on top of structures or crops.</text>
+		<text id="plant_grass">You can only plant on fertile grass tiles.</text>
 		<text id="place_rooms">You must place this entirely in a single room.</text>
 		<text id="no_effect">아무런 효과도 얻을 수 없습니다.</text>
 		<text id="drop_instead">대신 이것을 버리겠습니까?</text>
-		<text id="cannot_fire">{projectile} without {weapon}이(가) 없이 {projectile}을(를) 쏠 수 없습니다.</text>
+		<text id="cannot_fire">Cannot fire {projectile} without {weapon}.</text>
 		<text id="no_projectiles">{weapon}사용 불가:{projectile}이(가) 없습니다.</text>
-		<text id="max_items">아이템을 더 이상 넣을수 없습니다!</text>
-		<text id="max_fuel">연료를 더 이상 넣을수 없습니다!</text>
-		<text id="max_repair">이미 전부 수리된 항목입니다!</text>
+		<text id="max_items">아이템을 더이상 넣을수 없습니다!</text>
+		<text id="max_fuel">연료를 더이상 넣을수 없습니다!</text>
+		<text id="max_repair">It is already fully repaired!</text>
 		<text id="max_rations">You cannot add any more rations!</text>
-		<text id="max_feed">사료를 더 이상 줄수 없습니다!</text>
-		<text id="max_coins">더이상 돈을 담을 수 없습니다!</text>
-		<text id="send_bug_report">무언가에 오류가 있습니다! 버그 제보를 하시겠습니까?</text>
+		<text id="max_feed">사료를 더이사 줄수 없습니다!</text>
+		<text id="max_coins">더이상 주화를 담을 수 없습니다!</text>
+		<text id="send_bug_report">Something went wrong! Would you like to send a bug report?</text>
 		<text id="not_powered">전력이 없습니다!</text>
 		<text id="power">베터리 전력 부족!</text>
 		<text id="rations">Not enough rations!</text>
 		<text id="fuel">연료 부족!</text>
-		<text id="no_item">{item}이(가) 없습니다.</text>
-		<text id="item_hungry">{item}은(는) 같이 여정을 떠나기엔 너무 배고픕니다!</text>
-		<text id="no_fill">이 타일을 메꿀 수 없습니다!</text>
+		<text id="no_item">There is no {item} here.</text>
+		<text id="item_hungry">The {item} is too hungry to make the journey!</text>
+		<text id="no_fill">You cannot fill this tile!</text>
 		<text id="load_fail">The core game failed to load. This usually means you are missing files, re-download and extract the entire contents of the zip archive into a folder.</text>
 		<text id="load_fail_js">The core game failed to load. This usually means you are missing files, try Shift+Refresh to do a hard reload of the page.</text>
-		<text id="incomplete">미완성된 부분입니다. 다음 업데이트를 기대해 주세요!</text>
-		<text id="no_flying">비행 도중 사용할 수 없습니다!</text>
-		<text id="sleep_underwater">수중에서 잘 수 없습니다!</text>
-		<text id="sleep_vehicle">탈것에 탄 상태로 잘 수 없습니다!</text>
-		<text id="flight_weight">너무 무거워서 {item}(으)로 날 수 없습니다!</text>
+		<text id="incomplete">This is incomplete. You'll have to wait for a future update.</text>
+		<text id="no_flying">You can't do that while flying!</text>
+		<text id="sleep_underwater">You can't sleep underwater!</text>
+		<text id="sleep_vehicle">You can't sleep while riding a vehicle!</text>
+		<text id="flight_weight">You are too heavy to fly with {item}!</text>
 		<text id="overweight">너무 무거워서 움직일 수 없습니다!</text>
-		<text id="no_equip">{item}을(를) 장착할 수 없습니다.</text>
-		<text id="no_structure">철거할 건물이 없습니다.</text>
+		<text id="no_equip">You cannot equip {item}.</text>
+		<text id="no_structure">철거 할 건물이 없습니다.</text>
 		<text id="no_upgrade">업그레이드 할 수 있는 건물이 없습니다.</text>
 		<text id="no_blueprint">이 건물에 대한 설계도가 없습니다.</text>
-		<text id="one_structure">이 건물은 섬 당 하나만 지을 수 있습니다.</text>
-		<text id="no_use_vehicle">탈것에 탄 상태에서 사용할 수 없습니다.</text>
-		<text id="no_use_underwater">수중에서 사용할 수 없습니다.</text>
-		<text id="remove_cyborg">{item}을(를) 장비 해제하시겠습니까? 유전자 연구소에서 다시 장비하지 않는 이상 영원히 없어집니다.</text>
-		<text id="not_enough">{item}이(가) 충분하지 않습니다!</text>
-		<text id="skill_points">이 스킬을 올리기에는 스킬 포인트가 충분하지 않습니다!</text>
-		<text id="have_blueprint">이미 설계도가 있습니다!</text>
-		<text id="collect_progress">정말로 이 항목을 없애시겠습니까? 모든 진행 상황이 취소됩니다.</text>
-		<text id="inventory_full">아이템을 더 이상 보관할 수 없습니다!</text>
-		<text id="cooldown">지금은 사용할 수 없습니다. 잠시 후 다시 사용하십시오.</text>
+		<text id="one_structure">You can only build one of this structure per island.</text>
+		<text id="no_use_vehicle">You cannot do that while riding in a vehicle.</text>
+		<text id="no_use_underwater">You cannot do that while swimming.</text>
+		<text id="remove_cyborg">Do you want to remove the {item}? It will be gone for good and you will have to re-install it at the surgery lab if you want it back.</text>
+		<text id="not_enough">Not enough {item}!</text>
+		<text id="skill_points">You do not have enough skill points remaining to increase this skill!</text>
+		<text id="have_blueprint">You already have that blueprint!</text>
+		<text id="collect_progress">Are you sure you wish to remove this item? All progress will be cancelled.</text>
+		<text id="inventory_full">You cannot add any more items!</text>
+		<text id="cooldown">You must wait for the attack to cooldown before you can use it again.</text>
 	</section>
 	<section id="market">
 		<text id="closed">밤에는 열지 않습니다.</text>
@@ -1420,15 +1420,15 @@
 		<text id="bunker">Mysterious Ores</text>
 		<text id="station">Exotic Matter</text>
 		<text id="keycard">Drone Access</text>
-		<text id="professor">생존자</text>
+		<text id="professor">Survivors</text>
 		<text id="find_professor">교수 찾기</text>
-		<text id="research_lab">항성 연구</text>
-		<text id="brilliant_potion">비밀의 포션</text>
-		<text id="locate_hq">연구할 시간이야!</text>
+		<text id="research_lab">Study the Stars</text>
+		<text id="brilliant_potion">Secret Potion</text>
+		<text id="locate_hq">Research Time!</text>
 		<text id="exo_fighter">Time to Fly!</text>
 		<text id="virus">Virus Key</text>
 		<text id="exo_factory">Exo Factory</text>
-		<text id="launch_virus">바이러스 발사</text>
+		<text id="launch_virus">Launch Virus</text>
 		<text id="alien_hq">Return to Enemy HQ</text>
 		<text id="defeat_cruisers">Destroy or Disable Cruisers</text>
 		<text id="cyborg2">Cyborg Carapace</text>
@@ -1501,7 +1501,7 @@
 		<text id="coral_pen">wants to experiment with fish and coral.</text>
 		<text id="revitalize_dragon">can help revitalize the [object=ancient_dragon_npc].</text>
 		<text id="witch_potion">가 허리에 좋은 약을 원합니다.</text>
-		<text id="wand">가 나무 하나를 진화시키려고 합니다.</text>
+		<text id="wand">wants you to evolve a piece of wood.</text>
 		<text id="sushi">이 [item=sushi]을 원합니다.</text>
 		<text id="power_core">우주선이 날기 위해서는 [item=power_core]가 필요합니다.</text>
 		<text id="bombardment">want you to destroy the enemy [color=770000]Bomber[/color].</text>
@@ -1530,7 +1530,7 @@
 		<text id="colony_ship">wants to repair a [color=770000]Colony Ship[/color].</text>
 		<text id="hut">폭풍을 피할수 있도록 [color=550000]오두막[/color]을 수리하세요.</text>
 		<text id="storehouse">가 [color=550000]창고[/color]를 지으려 합니다.</text>
-		<text id="storehouse2">모든 아이템을 보관할 수 있는 [color=550000]창고[/color]를 지읍시다.</text>
+		<text id="storehouse2">Build a [color=550000]Storehouse[/color] to store all your items.</text>
 		<text id="smelter">가 광물을 가공할 [color=550000]제련소[/color]를 원합니다</text>
 		<text id="workshop">가 [color=550000]작업실[/color]을 지으려 합니다.</text>
 		<text id="kitchen">가 [color=550000]부엌[/color]을 지으려 합니다.</text>
@@ -1559,9 +1559,9 @@
 		<text id="bandits">상인들이 물건을 훔치는 강도들을 퇴치해주길 원합니다.</text>
 		<text id="wyrm_hive">가 [item=wyrm]의 비밀을 풀고싶어합니다.</text>
 		<text id="spirit_gem">wants you to use [item=spirit_gem]s to catch spirits.</text>
-		<text id="alter_gem">가 [item=wyrm] 연구를 끝낼 무언가를 원합니다!</text>
+		<text id="alter_gem">needs more help to finish his [item=wyrm] research!</text>
 		<text id="oldone">wants to find the source of the magical energy spikes.</text>
-		<text id="minecart">가 [item=minecart]를 설치해 채광을 쉽게 하고 싶어 합니다.</text>
+		<text id="minecart">가 [item=minecart]를 설치해 채광을 쉽게 하고싶어 합니다.</text>
 	</section>
 	<section id="vehicle">
 		<text id="submarine">잠수함</text>
@@ -1574,7 +1574,7 @@
 		<text id="ancient_dragon">엘더 드래곤</text>
 		<text id="golemech">Golemech</text>
 		<text id="wyrm_queen">Wyrm Queen</text>
-		<text id="lifepod">구조정</text>
+		<text id="lifepod">Lifepod</text>
 		<text id="no_power_cores">You have no [item=power_core]s installed...</text>
 		<text id="not_enough_cores">Cannot operate: {count} of {total} [item=power_core]s installed.</text>
 		<text id="power_core">Perfect! Now I just need to install this [item=power_core] and see if the ship will fly!</text>
@@ -1590,12 +1590,12 @@
 		<text id="dismount">내리기</text>
 		<text id="vehicle">탈것</text>
 		<text id="fly">이륙</text>
-		<text id="overweight">너무 무거워서 이 탈것을 움직일 수 없습니다!</text>
+		<text id="overweight">The vehicle is too heavy to move!</text>
 		<text id="manage_items">아이템 관리</text>
 		<text id="manage_player">내 장비</text>
-		<text id="battery">배터리로 충전</text>
-		<text id="explain">[color=770000]팁:[/color] 탈것을 탄 상태로 [key=equipment]키를 누르면 세부사항을 보고 연료나 먹이를 줄 수 있습니다.</text>
-		<text id="flight_height">이 탈것은 더 높이 날 수 없습니다!</text>
+		<text id="battery">Charge from Batteries</text>
+		<text id="explain">[color=770000]팁:[/color] 탈것 을 탄 상태로 [key=equipment]키를 누르면 세부사항을 보고 연료나 먹이를 줄 수 있습니다.</text>
+		<text id="flight_height">This vehicle cannot fly any higher!</text>
 		<text id="deploy">배치</text>
 		<text id="pack_up">수거</text>
 		<text id="boat_pack_up">If you pack up the boat now, you'll end up swimming with the fishes!</text>
@@ -1617,7 +1617,7 @@
 		<text id="professor">교수</text>
 		<text id="president">기장</text>
 		<text id="pilot">조종사</text>
-		<text id="curator">큐레이터</text>
+		<text id="curator">Curator</text>
 		<text id="exiled">추방자</text>
 		<text id="spirit_guide">영혼 인도자</text>
 		<text id="unnature.ranger">궁수</text>
@@ -1687,7 +1687,7 @@
 		<text id="farm1">좋아요! [item=wheat_seed]을 줄게요 헛간을 세우고 밭을 지정해주세요!</text>
 		<text id="farm2">이제 우리는 [color=770000]농장[/color]이 생겼어요! 생각 날때마다 농작물을 재배하세요. 농작물이 당신의 [tile=stamina] [color=006600]기력[/color]을 회복하는데 도움이 될거에요. 기다리는 동안 [item=bread]을 줄테니 먹고 힘좀내요.</text>
 		<text id="farm3">You can get [item=wood] by chopping down trees.</text>
-		<text id="farm4">많이 수확하고 싶다면 많이 심으세요! 모든건 헛간에서 관리할수 있어요.</text>
+		<text id="farm4">많이 수확 하고 싶다면 많이 심으세요! 모든건 헛간에서 관리할수 있어요.</text>
 		<text id="farm5">Look at our awesome [color=770000]Farm[/color]! It's as good as anything I used to grow back home! But if you want to grow more, I can always make more seeds.</text>
 		<text id="kitchen">Raw [item=wheat] isn’t very tasty, but I bet we could make something better if you and the [object=builder] made a [color=770000]Kitchen[/color].</text>
 		<text id="pen1">이 [color=770000]농장[/color]에 뭐가 더 필요한지 아시나요? 가축이에요! [item=net]으로 [color=770000][tile=boar] 멧돼지[/color]를 잡는게 어떨까요?</text>
@@ -1706,8 +1706,8 @@
 		<text id="orchard4">공간이 충분이 확보된 풀이 있는 곳이라면 씨앗을 심을 수 있어요. [item=orchard_seed]을 어디에 심을지 알려주세요!</text>
 		<text id="orchard5">[color=770000]곳간[/color] 에서 씨앗을 이용해 농장 종류를 바꿀수 있어요. 원하는 씨앗이 있다면 내가 만들어 줄게요!</text>
 		<text id="snowman">The first snowfall is here! That makes it as good a time as any to celebrate! I even made a magic [item=snowman] from [item=ice_berries], I hope you like it!</text>
-		<text id="sign1">이곳이 고향처럼 느껴지기 시작했어요, 안 그래요? 이곳에 이름을 정하는게 어떨까요?</text>
-		<text id="sign2">여기 [item=area_name_sign]을 받으세요, 이 섬의 이름을 정해주세요!</text>
+		<text id="sign1">이곳이 고향처럼 느껴지기 시작했어요, 안그래요? 이곳에 이름을 정하는게 어떨까요?</text>
+		<text id="sign2">여기 [item=area_name_sign]을 받으세요, 이섬의 이름을 정해주세요!</text>
 	</section>
 	<section id="miner">
 		<text id="bombardment">This cave is weird... it's so large and empty, not a single thing to mine!</text>
@@ -2437,8 +2437,8 @@
 		<text id="controller">컨트롤러</text>
 		<text id="import">세이브파일 가저오기</text>
 		<text id="export">세이브파일 내보내기</text>
-		<text id="import_save">타이틀 화면에서만 세이브 파일을 가져올 수 있습니다.</text>
-		<text id="import_html5">세이브 파일을 가져오기 위해서는 .asav 파일을 게임 화면에 끌어다 놓고, 어느 슬롯에 저장할지 선택하십시오.</text>
+		<text id="import_save">Can only import files on Title Screen.</text>
+		<text id="import_html5">To import: drag .asav file into game window, then select a slot to place the save.</text>
 		<text id="file_import">불러올 저장 파일 선택.</text>
 		<text id="file_export">Where do you wish to export the save slot?</text>
 		<text id="import_fail">불러올수 없음: 파일 손상됨.</text>
@@ -2456,14 +2456,14 @@
 		<text id="hide_element_critical">요소, 중요요소 숨기기</text>
 		<text id="hide_queue_element_critical">전부 숨기기</text>
 		<text id="move_all">전부 이동 버튼 허용.(경고창)</text>
-		<text id="move_all_confirm">이 버튼은 모든 제품을 다른 저장소로 이동시킵니다. 정말로 이동하겠습니까?</text>
+		<text id="move_all_confirm">이 버튼은 모든 제품을 다른 저장소로 이동시킵니다. 정말로 이동 시킬건가요?</text>
 		<text id="fade_ui">UI 투명도:</text>
 		<text id="prompt_count">제작시 갯수 물어보기.</text>
 		<text id="allow_flash">깜빡임(빛) 허용.</text>
-		<text id="notify_away">다른 섬에 있을 때 NPC 알림.</text>
+		<text id="notify_away">섬에 없을때 NPC알림.</text>
 		<text id="blueprint_all">모든 탭에서 설계도 보기.</text>
-		<text id="mine_walkways">발판 채굴 허용.</text>
-		<text id="warn_toss">아이템 버릴 때 확인하기.</text>
+		<text id="mine_walkways">작업로 채굴 허용.</text>
+		<text id="warn_toss">아이템 버릴때 확인하기.</text>
 		<text id="item_discover">새로운 아이템 발견 팝업 보기.</text>
 		<text id="blueprint_place">재료가 있을 경우만 건물 설치</text>
 		<text id="talk_quest">NPC 우선 순위</text>
@@ -2481,12 +2481,12 @@
 		<text id="fade_ui">GUI (체력바, 버튼, 기타등)의 불투명도를 설정합니다.</text>
 		<text id="prompt_count">활성화 할 경우 아이템을 제작할때 몇개를 제작할지 물어봅니다. 비활성화 할 경우 무조건 한개의 아이템만 제작합니다.</text>
 		<text id="allow_flash">비활성화 할 경우 깜빡이는 조명(강한 빛)을 줄여줍니다. 모든 모드가 지원되는것은 아닙니다.</text>
-		<text id="notify_away">활성화시 다른 섬에 있는 경우에도 NPC가 창고에 아이템을 넣으면 알림이 옵니다. 비활성화할 경우 섬에 있는 경우에만 알림이 옵니다.</text>
-		<text id="mine_walkways">설치한 발판의 수집 유무를 결정합니다. 실수로 수집하고 싶지 않다면 체크를 해제하세요.</text>
-		<text id="blueprint_place">건물 위치를 미리 지정하고 나중에 재료를 추가하고 싶다면 비활성화하세요.</text>
+		<text id="notify_away">활성화시 섬에 없는 경우에도 NPC가 창고에 아이템을 넣으면 알림이 옵니다. 비활성화 할 경우 섬에 있는 경우에만 알림이 옵니다.</text>
+		<text id="mine_walkways">설치한 작업로의 수집 유무를 결정합니다. 실수로 수집하고 싶지 않다면 체크를 해제하세요.</text>
+		<text id="blueprint_place">건물 위치를 미리 지정하고 나중에 재료를 추가하고 싶다면 비활성화 하세요.</text>
 		<text id="talk_quest">퀘스트가 없을경우, NPC와 건물 사이의 우선순위를 정합니다. 체크할 경우 NPC가 우선시 잡힙니다.</text>
-		<text id="auto_collect">적을 물리치거나, 채광, 수확을 할 경우 자동으로 아이템을 수집합니다.</text>
-		<text id="hotkey_switch">단축키로 장비를 변경할 경우 착용중인 장비와 단축키의 장비를 맞바꿉니다.</text>
+		<text id="auto_collect">적을 물리치거나, 채광, 수확 을 할 경우 자동으로 아이템을 수집한다.</text>
+		<text id="hotkey_switch">단축키로 장비를 변경할 경우 착용중인 장비와 단축키의 장비를 스위칭합니다.</text>
 		<text id="storehouse_priority">재료를 소비할 기본 저장소의 우선순위를 결정합니다. 체크할 경우 창고의 아이템이 우선 소모됩니다.</text>
 	</section>
 	<section id="controls">
@@ -2533,14 +2533,14 @@
 		<text id="all_synced">모든 세이브 파일 동기화됨!</text>
 		<text id="unsynced">동기화 안된 세이브 파일이 있습니다!</text>
 		<text id="sync_now">지금 동기화</text>
-		<text id="overwrite">이 슬롯에 두개의 저장본이 있습니다!\n어느 것을 저장하실 건가요?</text>
-		<text id="close_syncing">동기화 중입니다. 정말로 동기화가 되기 전에 떠날 건가요?</text>
-		<text id="confirm_logout">정말 로그아웃 하실 건가요?</text>
+		<text id="overwrite">이 슬롯에 두개의 저장본이 있습니다!\n어느것을 저장 하실건가요?</text>
+		<text id="close_syncing">동기화 중입니다. 정말로 동기화가 되기 전에 떠날건가요?</text>
+		<text id="confirm_logout">정말 로그아웃 하실건가요?</text>
 	</section>
 	<section id="modio">
 		<text id="login">We use mod.io to install and manage mods. Enter your e-mail to begin!</text>
 		<text id="email">E-Mail:</text>
-		<text id="email_error">유효한 E메일이 아닙니다!</text>
+		<text id="email_error">Not a valid e-mail address!</text>
 		<text id="enter_code">Enter the 5 digit code sent to your e-mail:</text>
 		<text id="bad_email_error">Unable to find your e-maill address on mod.io!</text>
 		<text id="code_error">The code you entered was not correct!</text>
@@ -2555,7 +2555,7 @@
 		<text id="button_browse">브라우저 모드</text>
 		<text id="button_logout">Mod.io에서 로그아웃</text>
 		<text id="not_logged_in">Mod.io에 로그인되어 있지 않음.</text>
-		<text id="preview">당신의 모드를 업로드 하기 위해서는 모드 폴더에 preview.png가 있어야 합니다!</text>
+		<text id="preview">당신의 모드르 업로드 하기 위해서는 모드 폴더에 preview.png가 있어야 합니다!</text>
 		<text id="visit_website">웹사이트 방문</text>
 		<text id="disable_warning">{mod}을(를) 정말 비활성화 할건가요?</text>
 		<text id="bad_mod">The .zip file does not have a mod.xml file or is not a valid mod.</text>
@@ -2597,7 +2597,7 @@
 		<text id="hair_style">머리 모양:</text>
 		<text id="shirt_style">셔츠 단추:</text>
 		<text id="beard_style">수염:</text>
-		<text id="fur">모피 색:</text>
+		<text id="fur">Fur Color:</text>
 	</section>
 	<section id="colors">
 		<text id="black">검정</text>
@@ -2652,10 +2652,10 @@
 		<text id="mechanic3">Perfect! I'm already drooling over all the new equipment we should be able to build with this!</text>
 		<text id="complete1">일처리가 완벽하군요! 이제 이 주변 바다는 안전해 졌어요! 이 일은 보상을 받아 마땅해요, 저를따라 여관까지 오시겠어요?</text>
 		<text id="complete2">이봐 모티머, 여기있는 분이 해적을 소탕해줘서 인근 바다가 안전해졌어. 이분에게 훈장을 수여하고 여관을 무료로 제공하는게 좋다고 생각해!</text>
-		<text id="complete3">무료로? 말도 안 돼! 버려진 이 행성에서의 숙식은 결코 싸지 않아!</text>
-		<text id="complete4">그건 전부 상인과 어부들이 제공한 것일텐데? 우리가 모두 해적에게 죽임을 당했다면 너도 여관을 운영하지 못했을껄?</text>
-		<text id="complete5">알았어. 하지만 난 저 분에게 훈장을 수여하지 안을꺼야!</text>
-		<text id="stay_free">그래요... 무료로 이곳을 이용할 수 있게 해드릴게요. 하지만 절때 다른 사람에게 말하지 마세요! 그들이 알게되면 구걸을 할거에요!</text>
+		<text id="complete3">무료로? 말도안되! 버려진 이 행성에서의 숙식은 결코 싸지 않아!</text>
+		<text id="complete4">그건 전부 상인과 어부들이 제공한거일텐데? 우리가 모두 해적에게 죽임을 당했다면 너도 여관을 운영하지 못했을껄?</text>
+		<text id="complete5">알았어. 하지만 난 저분에게 훈장을 수여하지 안을꺼야!</text>
+		<text id="stay_free">그래요... 무료로 이곳을 이용할 수 있게 해드릴게요. 하지만 절때 다른사람에게 말하지마세요! 그들이 알게되면 구걸을 할거에요!</text>
 	</section>
 	<section id="dragon">
 		<text id="intro1">이런, 당신을 보지 못할뻔 했어... 당신은 너무 작군...</text>
@@ -3346,19 +3346,19 @@
 		<text id="full">서버 가득참</text>
 		<text id="accept">{name}이(가) 당신의 게임에 입장하려고 합니다. 수락할까요?</text>
 		<text id="disconnect">호스트 연결 끊김!</text>
-		<text id="add_quest">[color=ff2222]{user}[/color]이(가) [color=ff2222]{quest}[/color]을(를) 수락했습니다!</text>
-		<text id="complete_quest">[color=ff2222]{user}[/color]이(가) [color=ff2222]{quest}[/color]을(를) 완료했습니다!</text>
+		<text id="add_quest">[color=ff2222]{user}[/color] accepted the quest [color=ff2222]{quest}[/color]!</text>
+		<text id="complete_quest">[color=ff2222]{user}[/color] completed the quest [color=ff2222]{quest}[/color]!</text>
 		<text id="in_use">호스트 저장 불가: 사용중인 포트입니다!</text>
 		<text id="give_items">아이템 주기</text>
-		<text id="death">[color=ff2222]{user}[/color]이(가) 죽었습니다!</text>
+		<text id="death">[color=ff2222]{user}[/color] has died!</text>
 		<text id="join_title">You can only join a game from the title screen. Exit this game and try again.</text>
 		<text id="other">다른곳 입장중...</text>
 		<text id="call_busy">The line is busy... someone else must be calling them.</text>
-		<text id="give">[color=ff2222]{user}[/color]이(가) 당신에게 {item} {count}개를 줬습니다..</text>
-		<text id="public">전체 공개.</text>
+		<text id="give">[color=ff2222]{user}[/color] gave you {count} {item}.</text>
+		<text id="public">전채 공개.</text>
 		<text id="invite">친구초대...</text>
 		<text id="search">게임 찾는중...</text>
-		<text id="unknown_game">{id}는(은) 알 수 없는 게임입니다.</text>
+		<text id="unknown_game">{id}는(은) 알수 없는 게임입니다.</text>
 		<text id="max_length">Unable to send: Maximum message length is {len} chars!</text>
 		<text id="joined">-- {name}이(가) 입장함</text>
 		<text id="left">-- {name}이(가) 떠남</text>
