@@ -1332,7 +1332,7 @@
 		<text id="place_surface">지하에 설치할 수 없습니다.</text>
 		<text id="place_overlap">이미 다른 오브젝트가 설치되어 있습니다.</text>
 		<text id="place_no_room">설치하기에는 더 큰 공간이 필요합니다.</text>
-		<text id="no_place">여기에 설치할 수 없습니다!<text>
+		<text id="no_place">여기에 설치할 수 없습니다!</text>
 		<text id="no_use">여기서 사용할 수 없습니다!</text>
 		<text id="place_height">설치하기에는 너무 높습니다.</text>
 		<text id="structure_surface">이 건물은 지하에 건설할 수 없습니다.</text>
