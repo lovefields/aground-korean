@@ -388,11 +388,11 @@
 		<text id="plant_trap">식물덫</text>
 		<text id="enchanted_net">마법 덫</text>
 		
-		<text id="fire_bird">Cockatrice</text>
+		<text id="fire_bird">코카트리스</text>
 		<text id="crawler">Crawler</text>
 		<text id="icer">Icer</text>
 		<text id="shark">상어</text>
-		<text id="fire_boar">Fire Boar</text>
+		<text id="fire_boar">파이어 보어</text>
 		<text id="yeti">예티</text>
 		<text id="shadow_cat">Panther</text>
 		
@@ -944,7 +944,7 @@
 		<text id="upgrades">업그레이드</text>
 		<text id="dismantle">[tile=blueprint.ico] [color=770000]설계도[/color]가 있는 건물을 철거한다.</text>
 		<text id="collect">주변의 아이템을 수집한다.</text>
-		<text id="plants">Plants</text>
+		<text id="plants">설치</text>
 		<text id="plant_cost">설치 비용</text>
 		<text id="place_cost">설치 비용</text>
 		<text id="area_name_sign">설치한 섬의 이름을 정한다.</text>
@@ -1206,7 +1206,7 @@
 		<text id="synthesizer">Activate the Synthesizer.</text>
 	</section>
 	<section id="structure.tooltip">
-		<text id="check_logs">Read Life-Pod Logs</text>
+		<text id="check_logs">탈출정 기록 읽기</text>
 		<text id="manage_cargo">화물칸 관리</text>
 		<text id="manage_ship">함선 관리</text>
 		<text id="advanced_lab">전문연구소</text>
@@ -1398,8 +1398,8 @@
 		<text id="water_cave">수중 동굴</text>
 		<text id="find_water_cave">수중 동굴 찾기</text>
 		<text id="ship_parts">함선 부품</text>
-		<text id="com_station">Build Com Station</text>
-		<text id="highest_mountain">Reach Summit</text>
+		<text id="com_station">통신기지 건설</text>
+		<text id="highest_mountain">산 정상에 오르기</text>
 		<text id="repair_escort">우주선 수리</text>
 		<text id="pirates">해적 퇴치</text>
 		<text id="go_east">마법 공부</text>
@@ -1492,7 +1492,7 @@
 	<section id="quest.description">
 		<text id="water_cave">가 동굴을 찾아 [object=sub]을 설치하려 합니다.</text>
 		<text id="ship_parts">가 수중에서 [item=ship_parts]를 찾아달라 합니다.</text>
-		<text id="com_station">wants to build a [color=770000]Com Station[/color] to contact survivors.</text>
+		<text id="com_station">이 [color=770000]통신 기지[/color]를 통해 생존자를 찾으려 합니다.</text>
 		<text id="repair_escort">want to repair the broken [color=770000]Fighter Escort[/color] ship.</text>
 		<text id="pirates">가 [color=770000]노을빛 피난처[/color]의 해적을 퇴치해주길 원합니다.</text>
 		<text id="go_east">wants you to learn magic before THEY come.</text>
@@ -1688,7 +1688,7 @@
 		<text id="farm2">이제 우리는 [color=770000]농장[/color]이 생겼어요! 생각 날때마다 농작물을 재배하세요. 농작물이 당신의 [tile=stamina] [color=006600]기력[/color]을 회복하는데 도움이 될거에요. 기다리는 동안 [item=bread]을 줄테니 먹고 힘좀내요.</text>
 		<text id="farm3">You can get [item=wood] by chopping down trees.</text>
 		<text id="farm4">많이 수확하고 싶다면 많이 심으세요! 모든건 헛간에서 관리할수 있어요.</text>
-		<text id="farm5">Look at our awesome [color=770000]Farm[/color]! It's as good as anything I used to grow back home! But if you want to grow more, I can always make more seeds.</text>
+		<text id="farm5">우리의 멋진 [color=770000]농장[/color]좀 보세요! 고향에 있는 그 어떤 것들 보다도 훌륭해요! 그리고 만약 당신이 더 재배하고 싶다면, 저는 씨앗을 더 만들어 드릴 수 있어요.</text>
 		<text id="kitchen">Raw [item=wheat] isn’t very tasty, but I bet we could make something better if you and the [object=builder] made a [color=770000]Kitchen[/color].</text>
 		<text id="pen1">이 [color=770000]농장[/color]에 뭐가 더 필요한지 아시나요? 가축이에요! [item=net]으로 [color=770000][tile=boar] 멧돼지[/color]를 잡는게 어떨까요?</text>
 		<text id="pen2">[color=770000]축사[/color]에 필요한 [item=pig] [var=quest.pen.pig]마리와 [item=wood] [var=quest.pen.wood]개를 준비해주세요.</text>
@@ -2037,14 +2037,14 @@
 		<text id="sub_tip3">The [object=sub] can carry more weight than you can, but it still has a limit. Check the [object=sub]'s inventory by hitting [key=inventory], as it can't move if overweight.</text>
 		<text id="sub_tip4">Did you know you can use hotkeys to repair the [object=sub]? Just set [item=titanium] to a hotkey and use it while riding the [object=sub]!</text>
 		<text id="make_ship_parts">If you need more [item=ship_parts], I upgraded the [color=770000]Factory[/color] to be able to manufacture them. The process is inefficient with our current technology, but it could be helpful!</text>
-		<text id="build_com1">I wonder if we could use [item=ship_parts] to contact Earth and the other colony worlds... maybe see if there are other survivors out there?</text>
-		<text id="build_com2">Awesome! Once you have [item=ship_parts], head to the highest mountain you can then give me a call and we can set it up!</text>
-		<text id="build_com2.1">You need a way to call me? Here, try this [item=com_device]!</text>
-		<text id="build_com3">You're at the summit? I'll be right there - I think I know where I can borrow a [object=jet]!</text>
-		<text id="build_com4">... and that should do it! Unfortunately, I gotta jet, but give it a try and see if you can find anyone!</text>
-		<text id="build_com5">That's a great location for the [color=770000]Com Station[/color]! Just bring the [item=ship_parts] there and we can set it up!</text>
-		<text id="build_com6">Hmm, that location isn't high enough for the [color=770000]Com Station[/color]... We'll need to place it at the top of the tallest peak on the planet.</text>
-		<text id="build_com7">It looks like you're at the summit of the tallest mountain on this planet! If you can get [item=ship_parts] up there, give me a call and we can set up the [color=770000]Com Station[/color]!</text>
+		<text id="build_com1">[item=ship_parts]를 이용해서 지구나 다른 식민지에 연락을 해볼수 있지 않을까요? 다른 생존자가 있는지 알아보는게 어떨까요?</text>
+		<text id="build_com2">좋아요! [item=ship_parts]를 가지고 있다면 저에게 연락해주세요. 제가 그것을 설치할 수 있어요!</text>
+		<text id="build_com2.1">저에게 연락할 수단이 필요해요? 여기, [item=com_device]를 받으세요!</text>
+		<text id="build_com3">정상에 있다구요? 금방 갈게요- [object=jet]를 빌릴 수 있는 곳을 알것 같아요!</text>
+		<text id="build_com4">... 그렇게 하죠! 미안하지만 나는 가봐야해, 다른 생존자가 연결되는지 봐봐!</text>
+		<text id="build_com5">그곳은 [color=770000]통신기지[/color]를 건설하기 좋은 곳이네요! [item=ship_parts]만 있으면 설정할 수 있겠어요!</text>
+		<text id="build_com6">흠... [color=770000]통신 기지를[/color] 그곳에... 그곳 보다는 행성에서 가장 높은 곳을 찾는게 좋을것 같아요.</text>
+		<text id="build_com7">행성에서 가장 높은 곳에 있는것 같아요! [item=ship_parts]가 있다면 [color=770000]통신 기지[/color]를 건설하러 갈게요!</text>
 		<text id="com_station1">Inputting data for {planet}.[pause=1].[pause=1].[pause=1] Calibrating.[pause=1].[pause=1].[pause=1] Searching for signals.[pause=1].[pause=1].[pause=1].[pause=1].[pause=1].[pause=1]</text>
 		<text id="com_station_incoming">Incoming signal detected from {planet}.[pause=1].[pause=1].[pause=1] Calibrating.[pause=1].[pause=1].[pause=1]</text>
 		<text id="com_station2">[color=770000]Error:[/color] No signals found!</text>
@@ -2208,11 +2208,11 @@
 		<text id="water_cave6">[color=770000]잠수함 기지[/color]에서 [object=sub]을 만들거나 업그레이드 할 수 있어! 여기서 [object=sub]의 전력도 충전할 수 있어.</text>
 		<text id="water_cave7">물의 흐름으로 봣을때 [item=ship_parts]는 서쪽으로 흘러갓을꺼야. 찾을수만 있다면 발전에 큰 도움이 될거야!</text>
 		<text id="water_cave8">그리고 이 [item=com_device]를 받아. 행성 어디서든 우리와 연락할 수 있을거야. 새로운걸 찾으면 연락해!</text>
-		<text id="airport1">They're a little rusted, but we already designed some [item=airport_blueprint]s that will make good use of these [item=ship_parts]!</text>
-		<text id="airport2">The [color=770000]Airport[/color] will allow you to build [object=jet]s. While they can't reach outer space, they can fly pretty high and will make getting around a lot easier!</text>
-		<text id="spaceship1">If we want to repair the spaceship, we'll need a lot more [item=ship_parts]... and some [item=power_core]s too. See what you can find with the [object=sub].</text>
-		<text id="build_sub1">Ah, you built the [object=sub]! When riding the [object=sub], hit [key=equipment] to repair, recharge and customize it!</text>
-		<text id="build_sub2">You might want to install a weapon system like the [item=torpedo_launcher] too, otherwise you'll be defenseless! Hit [key=attack] to fire the installed weapon.</text>
+		<text id="airport1">조금 녹슬긴 했지만 [item=airport_blueprint]를 미리 만들어 두었어. [item=ship_parts]를 활용하기 좋을거야!</text>
+		<text id="airport2">[color=770000]공항[/color]에서 [object=jet]를 만들 수 있어. 제트기로 우주에는 갈 수 없겟지만, 더 높이 빠르게 돌아다닐 수 있을거야!</text>
+		<text id="spaceship1">우주선을 수리하려면 더 많은 [item=ship_parts]가 필요해... 그리고 [item=power_core]도. [object=sub]으로 찾을 수 있는건 다 찾아봐.</text>
+		<text id="build_sub1">오, [object=sub]을 만들었구나! [object=sub]을 탄 상태로 [key=equipment]키를 눌러 수리하고, 정비할 수 있어!</text>
+		<text id="build_sub2">무방비 상태가 되고싶지 않다면, [item=torpedo_launcher]도 반드시 설치하는게 좋을거야. [key=attack]키를 눌러서 무기를 사용할 수 있어.</text>
 		<text id="sub_empty1">I got a signal that the [object=sub] is out of juice! Hopefully you have some [item=battery default=Batteries].</text>
 		<text id="sub_empty2">You can restore the [object=sub]'s power by hitting [key=equipment] and then selecting [tile=battery.ico] Charge from Batteries.</text>
 		<text id="sub1">You sound like you're lost. Try returning to the Water Cave, we can guide you to the [item=ship_parts] from there.</text>
@@ -2224,7 +2224,7 @@
 		<text id="mirrow_power_core">You found [item=power_core_parts]? Keep track of those, we may be able to build a [item=power_core] which will let us power the spaceship.</text>
 		<text id="ship_parts1">You found the [item=ship_parts]? Excellent! Return to the Sunset Haven cave, we've already come up with something to make use of the [item=ship_parts]!</text>
 		<text id="ship_parts2">Or you could explore a bit more, perhaps there is more to find out west.</text>
-		<text id="ship_parts3">We're improving the lab to better utilize the [item=ship_parts] you found. Make yourself useful and keep searching for other debris out west.</text>
+		<text id="ship_parts3">우리는 네가 찾아준 [item=ship_parts]를 잘 활용하기 위해 연구소를 개선하고 있어. 너도 꾸준히 발전하면서 서쪽의 잔해들을 찾아봐.</text>
 		<text id="escort_ship1">You found the wreckage of an escort ship? That would be a lot smaller and easier to repair than the [color=770000]Colony Ship[/color]!</text>
 		<text id="escort_ship2">Bring us some [item=ship_parts], and then we'll take a look at the wreckage!</text>
 		<text id="escort_ship3">We're on our way to survey the damage, meet us there. This could be a major breakthrough!</text>
@@ -2246,7 +2246,7 @@
 		<text id="jet_door3">Now that the [object=mirrows] are gone, I guess this [object=jet] belongs to Cass...</text>
 		<text id="jet_door4">There's no one left who can claim this [object=jet]... it was a long and hard journey, but the time has finally come to steal it!</text>
 		<text id="boring_machine">Why are you building boring machines? We have much more important things to do right now!</text>
-		<text id="ship_bed">Ah, do you want to try our amazing rejuvenation pod? If you pay 50 [color=770000][tile=coin_purse.ico] Coins[/color] for the energy cost, we'll let you.</text>
+		<text id="ship_bed">이 회복 포트를 이용할까? [color=770000][tile=coin_purse.ico]50 주화[/color]로 이용할 수 있다.</text>
 		<text id="no_money">But you don't have 50 [color=770000][tile=coin_purse.ico] Coins[/color]... Maybe try selling some junk at the [color=770000]Market[/color], that's what we do when we're strapped for cash!</text>
 		<text id="blueprints1">We need more funds for our research, so we decided to start selling inventions and [tile=blueprint.ico] [color=770000]Blueprint[/color]s!</text>
 		<text id="blueprints2">All sales go towards a good cause. Make sure to come back, as anytime we invent something new we'll add it to the store!</text>
@@ -2344,7 +2344,7 @@
 	</section>
 	<section id="medicom">
 		<text id="water_cave">3/22 - 실험실을 수중 동굴로 옮기는중. 지원한 표본의 도움으로 [object=sub]을 이용해 [item=ship_parts]을 되찾는 중.</text>
-		<text id="lifepod1">Fish are nibbling on the decayed corpse inside the life-pod. The medkit contains some usable [item=bandage]s...</text>
+		<text id="lifepod1">물고기가 탈출정안의 시체를 갉아먹고 있다. 구급상자에는 쓸만한 [item=bandage]가 몇개 남아있다...</text>
 		<text id="lifepod2">사용자 기록: 행성을 향해서 항해 했어야 했는데...나는 무서웠다. 이제 추진력은 잃었고 이 궤도로 행성에 도착 하는데는 몇달이 걸리겟지...내가 살아 남을 확률은 적다...</text>
 		<text id="lifepod3">사용자 기록: 나는 탈출정을 훔쳐야 했다. 그 미친 과학자들이 뭐라고 하던, 우주선이 착륙한다고 해도 생존 가능성은 극히 낮다. 난 죽기만을 기다리지 않을거야!</text>
 		<text id="lifepod4">이 탈출정은 내가 사용한 것과 같은 넘버를 가지고 있다. 분명 어딘가에 우주선이 추락했겟지!</text>
