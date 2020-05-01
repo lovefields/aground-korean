@@ -1558,9 +1558,9 @@
 		<text id="fisherman_cat">가 [item=toothfish]를 좋아하는 자신의 [item=cat]를 찾아주길 원합니다.</text>
 		<text id="bandits">상인들이 물건을 훔치는 강도들을 퇴치해주길 원합니다.</text>
 		<text id="wyrm_hive">가 [item=wyrm]의 비밀을 풀고싶어합니다.</text>
-		<text id="spirit_gem">wants you to use [item=spirit_gem]s to catch spirits.</text>
+		<text id="spirit_gem">가 [item=spirit_gem]으로 영혼을 잡아보라 합니다.</text>
 		<text id="alter_gem">가 [item=wyrm] 연구를 끝낼 무언가를 원합니다!</text>
-		<text id="oldone">wants to find the source of the magical energy spikes.</text>
+		<text id="oldone">가 큰 마력이 느껴지는 곳을 찾아달라고 합니다.</text>
 		<text id="minecart">가 [item=minecart]를 설치해 채광을 쉽게 하고 싶어 합니다.</text>
 	</section>
 	<section id="vehicle">
@@ -2250,7 +2250,7 @@
 		<text id="no_money">그런데 넌 [color=770000][tile=coin_purse.ico] 금화[/color] 50개 조차도 없네... 잡동사니를 [color=770000]상점[/color]에 팔아 봐! 우리도 돈이 궁할 때 그렇게 하거든.</text>
 		<text id="blueprints1">더 많은 연구 자금을 얻기 위해, 우리의 발명품과 [tile=blueprint.ico] [color=770000]설계도[/color]를 팔기로 결정했단다!</text>
 		<text id="blueprints2">All sales go towards a good cause. Make sure to come back, as anytime we invent something new we'll add it to the store!</text>
-		<text id="blueprints3">Feel free to stop by the {area} and check out what we have!</text>
+		<text id="blueprints3">언제든지 {area}로 와서 우리가 가지고 있는것들을 확인해봐!</text>
 		<text id="bombardment1">They came too soon! We knew this was coming and tried to prepare, but we just didn't have enough time!</text>
 		<text id="bombardment2">I'm certain this is only their first wave - we'll need to act fast to destroy their bomber before the second wave arrives!</text>
 		<text id="bombardment3">To destroy the bomber, we'll first need a spaceship, and we'll also need some powerful weapons. It won't be easy, but perhaps with your help we can do something!</text>
