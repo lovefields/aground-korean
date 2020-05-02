@@ -1502,7 +1502,7 @@
 		<text id="revitalize_dragon">can help revitalize the [object=ancient_dragon_npc].</text>
 		<text id="witch_potion">가 허리에 좋은 약을 원합니다.</text>
 		<text id="wand">가 나무 하나를 진화시키려고 합니다.</text>
-		<text id="sushi">이 [item=sushi]을 알려주려 합니다.</text>
+		<text id="sushi">이 [item=sushi]의 레시피를 알려주려 합니다.</text>
 		<text id="power_core">우주선이 날기 위해서는 [item=power_core]가 필요합니다.</text>
 		<text id="bombardment">가 외계인 [color=770000]폭격기[/color]를 파괴하기를 원합니다.</text>
 		<text id="bunker">광물 상인이 가까운 행성에서 귀중한 광물을 찾고 싶어합니다.</text>
