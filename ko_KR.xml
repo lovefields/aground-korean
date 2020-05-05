@@ -36,11 +36,11 @@
 		<text id="station.dock">우주선 선착장</text>
 		<text id="station.module.xlarge">초대형 우주정거장 모듈</text>
 		
-		<text id="rations_per_hit">Rations per Hit:</text>
+		<text id="rations_per_hit">공격당 소모량:</text>
 		<text id="full_heal">체력과 기력이 완전히 회복되었습니다.</text>
 		
 		<text id="terraformer">테라포머</text>
-		<text id="exo_factory">Exo Factory</text>
+		<text id="exo_factory">Exo 공장</text>
 		
 		<text id="research_item">{item} 연구</text>
 		<text id="research_complete">{item} 연구가 완료되었습니다!\n레시피가 {structure}에 추가됩니다.</text>
@@ -390,7 +390,7 @@
 		
 		<text id="fire_bird">코카트리스</text>
 		<text id="crawler">크롤러</text>
-		<text id="icer">Icer</text>
+		<text id="icer">아이서</text>
 		<text id="shark">상어</text>
 		<text id="fire_boar">파이어 보어</text>
 		<text id="yeti">예티</text>
@@ -411,7 +411,7 @@
 		<text id="helium_pack">헬륨 가방</text>
 		<text id="evo_shard">진화의 조각</text>
 		<text id="evo_gem">진화의 돌</text>
-		<text id="blue_claw">Blue Claw</text>
+		<text id="blue_claw">파란 집게발</text>
 		<text id="clam_gun">조개총</text>
 		
 		<text id="fish_scale">비늘</text> 
@@ -447,7 +447,7 @@
 		<text id="witch_hat">마법사 모자</text>
 		<text id="black_cat">검은 고양이</text>
 		<text id="pumpkin_helm">호박모자</text>
-		<text id="scale_mail">Scale Mail</text>
+		<text id="scale_mail">비늘 갑옷</text>
 		
 		<text id="ladder">강철 사다리</text>
 		<text id="walkway">강철 발판</text>
@@ -469,7 +469,7 @@
 		<text id="xlarge_module_blueprint">초대형 우주정거장 모듈 설계도</text>
 		
 		<text id="exotic_matter">외우주 물질</text>
-		<text id="magnegem">마그네젬</text>
+		<text id="magnegem">자성 덩어리</text>
 		<text id="chromium">크로뮴</text>
 		<text id="o2_canister">산소통</text>
 		<text id="fighter.cannon">플라즈마 캐논</text>
@@ -484,7 +484,7 @@
 		<text id="dragon_ship.burst">버스트 파이어</text>
 		<text id="mini_synthesizer">소형 합성기</text>
 		
-		<text id="dragon_backpack">Dragon Ship Heart</text>
+		<text id="dragon_backpack">드래곤 우주선 심장</text>
 		
 		<text id="steel_fence">강철 울타리</text>
 		<text id="ai_core">AI 코어</text>
@@ -506,9 +506,9 @@
 		<text id="interstellar_teleportal_blueprint">성간 텔레포탈 설계도</text>
 		<text id="brilliant_potion">찬란한 포션</text>
 		
-		<text id="hq_library_seed">HQ Library Seed</text>
-		<text id="hq_factory_seed">HQ Dragon Chamber Seed</text>
-		<text id="hq_growth_seed">HQ Talon Copse Seed</text>
+		<text id="hq_library_seed">HQ 연구실 씨앗</text>
+		<text id="hq_factory_seed">HQ Dragon Chamber 씨앗</text>
+		<text id="hq_growth_seed">HQ Talon Copse 씨앗</text>
 		
 		<text id="cyborg_plate">사이보그 흉갑</text>
 		<text id="cyborg_visor">사이보그 바이저</text>
@@ -545,7 +545,7 @@
 		<text id="hoarder_backpack">Hoarder Backpack</text>
 		
 		<text id="translation_book">번역의 마법서</text>
-		<text id="magne_queen_drill">Amethyst Queen Drill</text>
+		<text id="magne_queen_drill">자수정 퀴 드릴</text>
 		<text id="coral_farm_seed">산호 농장 씨앗</text>
 		<text id="staff">마법 지팡이</text>
 		<text id="venatrix_seed">영혼목 씨앗</text>
@@ -763,7 +763,7 @@
 		<text id="alter_gem">알터 젬</text>
 		<text id="focus_gem">포커스 젬</text>
 		<text id="spirit_gem">영혼 덩어리</text>
-		<text id="blood_gem">블러드 젬</text>
+		<text id="blood_gem">핏덩이</text>
 		<text id="baby_cannon">아기용 대포</text>
 		<text id="dragonflame">드래곤플레임</text>
 		<text id="wyrm_drill">웜 드릴</text>
@@ -928,7 +928,7 @@
 		<text id="light">장비시 주변에 빛을 제공한다.</text>
 		<text id="cost_per_s">{value}/s.</text>
 		<text id="cost_per_s_daylight">낮에 {value}제공.</text>
-		<text id="cost_per_s_darkness">{value} per sec in darkness.</text>
+		<text id="cost_per_s_darkness">밤에 {value}제공.</text>
 		<text id="cost_per_s_day">{value} per sec daytime.</text>
 		<text id="cost_per_s_night">{value} per sec night.</text>
 		<text id="cost_per_s_injured">{value}/s (부상시)</text>
@@ -976,7 +976,7 @@
 		<text id="spellbook">마법사</text>
 		<text id="evo_gem">진화</text>
 		<text id="ice_boss">The Storm</text>
-		<text id="dragon_ship">Dragon Ship</text>
+		<text id="dragon_ship">드래곤 우주선</text>
 		<text id="witch">흑마법</text>
 		<text id="space_station">우주정거장</text>
 		<text id="bombardment">행성의 수호자</text>
@@ -1064,7 +1064,7 @@
 		<text id="spellbook">첫 [color=ff2222]마법서[/color]를 제작한다.</text>
 		<text id="evo_gem">[color=ff2222]진화의 조각[/color]을 제련한다.</text>
 		<text id="ice_boss">Defeat the [color=ff2222]Hail Storm[/color].</text>
-		<text id="dragon_ship">Evolve a [color=ff2222]Dragon Ship[/color]!</text>
+		<text id="dragon_ship">[color=ff2222]드래곤 우주선[/color]으로 진화!</text>
 		<text id="witch">모든 마법사 장비를 획득한다.</text>
 		<text id="space_station">[color=ff2222]우주정거장[/color]을 건축한다.</text>
 		<text id="bombardment">[color=ff2222]외계인 폭격[/color]을 저지한다.</text>
@@ -1405,9 +1405,9 @@
 		<text id="go_east">마법 공부</text>
 		<text id="find_magic2">동쪽으로</text>
 		<text id="plant_boss">Defeat the Cultivator</text>
-		<text id="ice_boss">Defeat the Storm</text>
+		<text id="ice_boss">스톰 퇴치</text>
 		<text id="cultivator">수호수</text>
-		<text id="dragon_ship">Evolve Dragon Ship</text>
+		<text id="dragon_ship">드래곤 우주선 진화</text>
 		<text id="floating_island">용의 부유섬 찾기</text>
 		<text id="coral_pen">우리 관리</text>
 		<text id="revitalize_dragon">Revitalize Dragon</text>
@@ -1580,7 +1580,7 @@
 		<text id="power_core">완벽해! 이제 난 이 [item=power_core]를 설치해서 우주선이 날 수 있을지를 봐야겠어!</text>
 		<text id="jump_cost">다음 자원을 소모해서 {planet}으로 점프하시겠습니까?</text>
 		<text id="jump">이동</text>
-		<text id="evolve">Evolve Weapon</text>
+		<text id="evolve">무기 진화</text>
 		<text id="select_drone">드론 선택</text>
 		<text id="area">장소: {area}</text>
 		<text id="position">위치: {x}, {y}</text>
@@ -1792,12 +1792,12 @@
 		<text id="east7">He didn’t give me a lot to work with. But, it’s a start - I should go east, and try to learn more about that weird chamber that appeared when the Old One died.</text>
 		<text id="east8">저는 여기서 알아낼수 있는걸 전부 알아냈어요. 실험실로 돌아가서 그들이 돌아오기전에 다른것들을 알아낼 수 있는지 볼게요...</text>
 		<text id="return_lab">I think we've learned everything we can on this island. I will return to my laboratory and see if I can uncover anything else using what we learned here...</text>
-		<text id="spellbook1">Some fish taught you how to write down spells as spellbooks? That is incredible! Let me try to make one myself!</text>
-		<text id="spellbook2">It worked! Here, try this [item=heal_book]! I also wrote down the recipe if you want to make more at the fish library!</text>
-		<text id="bombardment1">Ah, welcome! I have restored this cave's enchantment and brought the others here, it is now the perfect hiding place.</text>
-		<text id="bombardment2">I sheltered in this cave for years the last time they were hunting for me. It is quite safe.</text>
-		<text id="bombardment3">But, unless we want to wait for them to give up thinking we are dead or fled, we must continue our research and gain enough magical power to destroy them!</text>
-		<text id="bombardment4">Here, take these [tile=blueprint.ico] [color=770000]Blueprint[/color]s, they may aid you in our quest!</text>
+		<text id="spellbook1">어떤 물고기가 마법책을 만드는 법을 알려줬다구요? 대단해요! 한번 만들어 볼게요!</text>
+		<text id="spellbook2">해냈어요! 여기 [item=heal_book]를 받으세요! 도서관에서 만들수 있도록 제작법도 등록해놨어요!</text>
+		<text id="bombardment1">아, 어서오세요! 저는 이 동굴의 마력을 회복하고 다른 동굴을 불러오는데 성공했어요. 이제 이곳은 완벽한 은신처에요.</text>
+		<text id="bombardment2">지난번에 그들이 저를 사냥할때 저는 이 동굴에 숨었어요. 여기는 꽤 안전해요.</text>
+		<text id="bombardment3">하지만, 그들이 우리가 죽었거나 도망갓다고 생각하고 그만둘때까지 기다릴게 아니라면, 저희는 연구를 계속해서 그들을 파괴할 수 있는 충분한 마법의 힘을 얻어야해요!</text>
+		<text id="bombardment4">여기 [tile=blueprint.ico] [color=770000]설계도[/color]를 받으세요. 우리 연구에 도움이 될지도 몰라요!</text>
 		<text id="evo_chamber">Strange... this structure appeared when the [color=770000]Old One[/color] died... I wonder what it does?</text>
 		<text id="brilliant_potion1">I have been studying the ancient carvings, looking for new potion recipes... and the strangest thing happened! A new recipe that wasn't there yesterday suddenly appeared on the stones!</text>
 		<text id="brilliant_potion2">It must be special, it's even called a [item=brilliant_potion]. We must make it at once!</text>
@@ -1928,7 +1928,7 @@
 		<text id="escort_ship">메인 함선을 호위하던 우주선의 잔해 같다. 상당히 부셔졌지만 고칠수 있어 보인다... [object=mirrows]가 고칠수 있을까?</text>
 		<text id="escort_ship2">메인 함선을 호위하던 우주선의 잔해 같다. 상당히 부셔졌지만 고칠수 있어 보인다...</text>
 		<text id="go_east">[item=evo_gem]을 만들었다, 하지만 마법에 대해서 더많이 배워야 할 것 같다. 새로운 섬에 어떤게 있을지 찾아봐야겠다...</text>
-		<text id="burned">The structure is ruined. Would you like to dismantle it?</text>
+		<text id="burned">구조물이 망가졌습니다. 철거 하시겠습니까?</text>
 		<text id="abandoned">This market is abandoned. Would you like to dismantle it?</text>
 		<text id="witch_hut">이상하게 생긴 오두막이다... 누군가...여기 누군가 살고있나?</text>
 		<text id="no_signal">There's no response from the [item=com_device]...</text>
@@ -2574,7 +2574,7 @@
 		<text id="science2">The Heights</text>
 		<text id="science3">분리된 섬</text>
 		<text id="fighter">함선 관리</text>
-		<text id="dragon_ship">드래곤 함선</text>
+		<text id="dragon_ship">드래곤 우주선</text>
 		<text id="dragon_fighter">드래곤 전투기</text>
 		<text id="dragon_bomber">드래곤 폭격기</text>
 		<text id="dragon_cruiser">드래곤 순양함</text>
@@ -2682,22 +2682,22 @@
 		<text id="betrayal8">Oh.[pause=1] Well, keep it in mind if the opportunity arises!</text>
 		<text id="fish_village1">Normally, I eat fish without listening to their screams. But sometimes I use my translation magic for fun, and I heard something that may be useful.</text>
 		<text id="fish_village2">Apparently, there's a colony of fish studying magic off the east coast of the [color=770000]Cultivator[/color]'s island. I wouldn't take fish too seriously, but perhaps they could help.</text>
-		<text id="ship1">You have made an [item=evo_gem]? That is how they made us into [object=fly_ancient_dragon]s! Simply use the evolution gem on an [item=adult_dragon]!</text>
-		<text id="ship2">Once you have raised an [object=fly_ancient_dragon], the next step is to evolve it into a [color=770000]Dragon Ship[/color] at the top of the large floating island to the east called [color=770000]Dragon Island[/color].</text>
-		<text id="ship2.1">Unfortunately, [color=770000]Dragon Island[/color] is guarded by a dangerous ice monster. Only powerful [color=770000][tile=fire.ico] Fire[/color] magic will harm it.</text>
-		<text id="ship3">While they created [color=770000]Dragon Ships[/color] millenia ago and are sure to have something more powerful now, this could be the first step towards defeating them!</text>
-		<text id="ship4">Once they learned our potential for becoming organic spaceships, they no longer treated us as sentient beings, but instead as machines for turning into their fleet.</text>
-		<text id="ship5">They began to seek ultimate power, and no longer cared about trying to help us like they once had.</text>
-		<text id="ship6">I gave you the secret of [color=770000]Dragon Ships[/color] willingly so that we could fight them... please don’t abuse us the same way they did.</text>
-		<text id="ship7">You have done it? Then I have given you all the help I can - I know no more of their ships or magic.</text>
-		<text id="ship8">I would join you in the fight, but I was never able to turn into a [color=770000]Dragon Ship[/color]. Besides, it is the job of the elderly to send the young off on perilous quests rife with danger, no?</text>
-		<text id="ship9">The Exiled thinks that you can help me. I’m trying to discover their magical secrets.</text>
+		<text id="ship1">자네 [item=evo_gem]을 만들줄 아는가? 그게바로 우리같은 [object=fly_ancient_dragon]을 만든거라네! 간단하게 [item=adult_dragon]에게 사용해보게!</text>
+		<text id="ship2">[object=fly_ancient_dragon]을 부화하면, 다음으로 [color=770000]드래곤 섬[/color]이라고 불리는 동쪽의 떠다니는 섬의 꼭대기에서 [color=770000]드래곤 우주선[/color]을 만드는 걸세.</text>
+		<text id="ship2.1">불행하게도, [color=770000]드래곤 섬[/color]은 얼음 괴물이 지키고 있다네. 그것은 강한 [color=770000][tile=fire.ico] 불[/color] 마법 만이 피해를 줄 수 있지.</text>
+		<text id="ship3">그들이 [color=770000]드래곤 우주선[/color] 밀레나를 처음 만들었고 지금은 더 강력한 무언가를 가지고 있을것이오. 하지만 이건 그들을 물리치기 위한 첫걸음이 될 수 있소!</text>
+		<text id="ship4">그들은 우리가 우주선이 될수 있다는걸 알게 되자, 더이상 우리를 지적 존재로 취급하지 않고 그들의 함대로 변하는 기계로 취급했다오.</text>
+		<text id="ship5">그들은 권력에 심취했고. 더이상 우리를 도우는데 신경쓰지 않게 되었다오.</text>
+		<text id="ship6">내가 [color=770000]드래곤 우주선[/color]의 비밀을 알려드렸소... 그러니 제발 그들처럼 우리 종족을 학대하지 말아주시게.</text>
+		<text id="ship7">해냈소? 그럼 내가 도울 수 있는 모든걸 했소 - 난 더이상 그들의 마법이나 우주선에 대해 알지 못하오.</text>
+		<text id="ship8">나도 싸움에 동참하고 싶지만. [color=770000]드래곤 우주선[/color]으로 변할 수 없었소. 게다가, 위험천만한 일에는 젊은이를 보내는게 늙은이의 일이지. 안그렇소?</text>
+		<text id="ship9">추방자는 자네가 날 도울수 있다고 생각하오. 나는 그들의 마법의 비밀을 파해치는 중이오.</text>
 		<text id="ship10">You would listen to one of them and discover their secrets!? Well, I do owe you a debt, so I will tell you what I know.</text>
 		<text id="ship11">They used to use [item=evo_gem]s to evolve us into [color=770000]Dragon Ships[/color] at the top of the large floating island to the east called [color=770000]Dragon Island[/color].</text>
 		<text id="ship12">Perhaps this secret will help you - I can only hope that you will not abuse us the same way they did.</text>
 		<text id="win1">You have defeated them?! Vengeance is fulfilled! Then why do I feel so empty? It must just be old age...</text>
 		<text id="win2">You defeated them? Then I owe you a debt of gratitude after they betrayed me and my kind!</text>
-		<text id="dragon_backpack">But now that you know how to create [color=770000]Dragon Ships[/color], you should be able to use an [item=alter_gem] on a packed up [item=ancient_dragon] to create a [item=dragon_backpack].</text>
+		<text id="dragon_backpack">하지만 [color=770000]드래곤 우주선[/color]을 제작할줄 알게 되었으니, 자네는 [item=alter_gem] 을 [item=ancient_dragon]에 사용해서 [item=dragon_backpack]을 만들어야하네.</text>
 	</section>
 	<section id="fish">
 		<text id="welcome1">안녕하세요!</text>
@@ -2705,12 +2705,12 @@
 		<text id="welcome3">물론 텔레파시로 의사소통을 하고 있습니다. 이외에도 의사소통을 할 수 있는 방법이 있나요?</text>
 		<text id="welcome4">아...네... 그래서 제 마음을 읽고 있는건가요?</text>
 		<text id="welcome5">표면적인 것만요! 마음 깊은 곳까지 읽는건 예의에 어긋나요!</text>
-		<text id="citizen1">What a pleasant surprise - we rarely see outsiders here!</text>
-		<text id="citizen2">We have lived here since time immemorial, before the Old Ones, before the others, and before the dragons.</text>
-		<text id="citizen3">No one thinks much of us. And that’s okay. We're safe down here and we like it that way!</text>
-		<text id="citizen4">Pardon me if I'm assuming incorrectly, but you breathe air, yes?</text>
-		<text id="citizen5">You should really craft a [item=water_helm] if you want to hang around down here! Here, I can give you the recipe!</text>
-		<text id="citizen6">There's also a cave to the west that we blocked off with magic so it has air if you need it!</text>
+		<text id="citizen1">놀랍지만 기분이 좋네요. 저희는 여기서 외부인을 볼 기회가 거의 없어요!</text>
+		<text id="citizen2">저희는 태곳적부터, 옛것이 있기 전부터, 다른 사람들이 태어나기 전부터 여기 살았어요.</text>
+		<text id="citizen3">아무도 우리를 대수롭게 여기지 않아요. 그건 괜찮아요. 여기는 안전하고 저희는 안전한게 좋아요.</text>
+		<text id="citizen4">제가 잘못 생각하고 있다면 죄송하지만, 당신은 공기를 마시고 있군요. 그렇죠?</text>
+		<text id="citizen5">여기서 오래 돌아다니고 싶으면 [item=water_helm]을 만들어야 할거에요. 제가 제작법을 알려드릴게요!</text>
+		<text id="citizen6">서쪽에는 마법으로 막아둔 동굴이 있어요. 공기가 필요할 경우 거기로 가보세요!</text>
 		<text id="recipe">You telepathically learned the following recipe:\n{enchant} + {items} = {creates}.</text>
 		<text id="merchant1">안녕하세요 여행자님. 제 잡화점에 오신걸 환영해요.</text>
 		<text id="merchant2">당신은 이쪽의 화폐를 가지고 있지 않은것 같군요- 하지만 괜찮아요. 화폐의 가치가 있다면 다른 화폐도 받을 의양이 있습니다.</text>
@@ -2720,8 +2720,8 @@
 		<text id="merchant5">제가 해냈어요! 제가 [color=770000]산호 우리[/color]를 발명 했어요! 우리에서는 [item=scale_fish]같은 생명체에서 마법 재료를 수확할 수 있을거에요!!</text>
 		<text id="merchant6">제 가게에 [item=coral_pen_seed]를 추가했어요. 몇개 사서 이용해 보세요!</text>
 		<text id="merchant7">[item=scale_fish]는 잡기 어렵지만 만약 [item=water_trap]을 사용한다면 잡을 수 있을거에요.</text>
-		<text id="merchant8">Our underwater trade routes were once flowing with gems, potions, and magical ingredients. Now, we are so few - and all hidden away in quiet spots like this one, there is barely a trade route to speak of.</text>
-		<text id="merchant9">Nevertheless! We still prosper, for the sea floor is abundant.</text>
+		<text id="merchant8">한때 저희의 수중 교역로는 보석과 포션 그리고 마법재료들을 운반했었어요. 하지만, 이제 우리는 소수만이 남았어요. 그리고 모두 이렇게 조용한 곳에 숨어있기 때문에 사용할 수 있는 교역로가 거의 없어요.</text>
+		<text id="merchant9">그럼에도 불구하고! 저희는 번창합니다. 해저에는 자원이 풍부하거든요!</text>
 		<text id="merchant10">Have you built many [color=770000]Coral Pen[/color]s? I was trying to figure out a way to manage them more efficiently, and came up with a new coral structure - the [color=770000]Coral Farm[/color]!</text>
 		<text id="merchant11">You can now buy [item=coral_farm_seed]s in the store. Plant them, and you will be able to access and harvest all the [color=770000]Coral Pen[/color]s and [color=770000]Wyrm Pen[/color]s on the same island!</text>
 		<text id="librarian1">저는 이 마을의 사서에요, 마법책을 관리하죠!</text>
@@ -2741,8 +2741,8 @@
 		<text id="revitalize4">But the [object=ancient_dragon_npc] can barely fly!</text>
 		<text id="revitalize5">Ah, well old age gets us all in the end. But, there is a special potion that can revitalize the elderly for a short period of time. If you can gather the ingredients, I will create it for you.</text>
 		<text id="revitalize6">You have all the ingredients? Here is the potion - give it to the [object=ancient_dragon_npc] and see if that helps him! I'll add the recipe for the potion to your laboratory in case you need to make more.</text>
-		<text id="revitalize7">What is this potion? I feel like I can do anything! I could even finally become a [color=770000]Dragon Ship[/color] myself!</text>
-		<text id="revitalize8">That bout of invincibility didn’t last long. Still old and frail. But, at least I burned that ice monster to a crisp! That’s the most fun I’ve had in ages - literally!</text>
+		<text id="revitalize7">이 포션은 뭔가? 뭐든지 할수 있을것 같네! 드디어 내가 [color=770000]드래곤 우주선[/color]이 될 수 있을 것 같소!</text>
+		<text id="revitalize8">내 변신은 그리 오래가지 못했소. 난 늙고 허약하오. 하지만 난 그 얼음 괴물을 불태워 버렸소! 근 몇백년 만에 가장 즐거울 일이였소!</text>
 		<text id="potion1">아, 당신 [object=sea_witch]를 만낫군요? 그녀는 우리와 함께 여기에 살았었지만, 불멸의 비밀을 알아내기 위해 지상으로 올라갔어요.</text>
 		<text id="potion2">용감해! 저는 그녀를 갈켰고 그들의 발자취를 따라갓죠! 그리고... 그들의 지식은 대단했요. 연구실에 포션을 마드는 제조법을 추가해드렸어요!</text>
 		<text id="potion3">Ah, well old age gets us all in the end. But maybe try that [item=revitalize_potion] I taught you for the [object=sea_witch] - it should help your dragon friend too! The recipe should still be in your laboratory.</text>
@@ -2761,9 +2761,9 @@
 		<text id="potion2">아, 이방인! 당신은 저르 도울수 있어 보이는군요, 늙은 나를 위해 [item=revitalize_potion] 하나만 가져와 주겠어요? 그게 저를 낫게 해줄거에요!</text>
 		<text id="potion3">물론이죠, 도와드릴게요! [item=revitalize_potion]은 어디서 찾을 수 있죠?</text>
 		<text id="potion4">전부 설명해줘야 하는거에요? 알았어요, 물고기 사서에게 가보세요. 그는 사람을 돕는걸 좋아해요! 서쪽은 깊은 물 속에서 그를 찾을 수 있ㅇ르거에요. 그는 제가 태어나기 전부터 사서로 있었어요.</text>
-		<text id="potion5">Ahhhh! That's the stuff! Now if I could only figure out the secret to immortality...</text>
-		<text id="potion6">You expect a reward? I thought you were just a good samaritan helping a troubled old lady in need... Well, I suppose I could help you craft some [item=robes], that... thing you're wearing is just atrocious!</text>
-		<text id="robes">Need more [item=robes]? I will always help people make the right fashion choices.</text>
+		<text id="potion5">아! 바로 그거에요! 이제 불멸의 비밀만 알아낼수 있다면...</text>
+		<text id="potion6">보상을 기대했나요? 저는 늙은이를 도와주는 선량한 사마리아인 인줄 알았는데... 어쨋든, [item=robes]를 만들어 드릴게요, 그... 당신이 입고 있는건 흉측해요!</text>
+		<text id="robes">[item=robes]가 더필요해요? 제가 항상 올바른 옷을 입게 도와드릴게요.</text>
 		<text id="wand1">You look great in those [item=robes]! Now you need to make your first [item=wand]! I remember when I made my first [item=wand]...</text>
 		<text id="wand2">It's actually quite simple! Just evolve a piece of [item=wood]! Don't bother worrying about what tree the wood came from or its special properties for your first wand.</text>
 		<text id="wand3">And here you go! [item=wand]s allow you to channel magic through wood without a spellbook, making them faster and convenient.</text>
