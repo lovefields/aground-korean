@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <mod>
-    <name>Korean v2.0.5</name>
-    <description>한국어를 지원합니다.\n게임이 8~10px의 폰트만 지원하기에 한글을 적용하면 UI가 조금 커지게 됩니다.\n개발자와 이야기해 11px을 적용하기로 했고 볼수 없는 수치는 없도록 작업했습니다.</description>
+    <name>Korean - beta</name>
+    <description>한국어를 지원합니다.\n게임이 8~10px의 폰트만 지원하기에 한글을 적용하면 UI가 조금 커지게 됩니다.\n개발자와 이야기해 11px을 적용하기로 했고 볼수 없는 수치는 없도록 작업했습니다.\n현재 스토리 중반부까지 번역되었습니다.</description>
     <author>Lovefield</author>
-    <version>2.0.5</version>
+    <version>0.0.1</version>
     <init>
       <include id="ko_kr.xml" includeRoot="true" />
     </init>

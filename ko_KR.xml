@@ -394,7 +394,7 @@
 		<text id="shark">상어</text>
 		<text id="fire_boar">파이어 보어</text>
 		<text id="yeti">예티</text>
-		<text id="shadow_cat">Panther</text>
+		<text id="shadow_cat">흙표범</text>
 		
 		<text id="forge_seed">용광로 씨앗</text>
 		<text id="synthesizer_seed">합성기 씨앗</text>
@@ -515,12 +515,12 @@
 		<text id="cyborg_railgun">사이보그 레일건</text>
 		<text id="cyborg_chainsaw">사이보그 전기톱</text>
 		<text id="cyborg_core">사이보그 파워코어</text>
-		<text id="exo_armor">Exotic Armor</text>
+		<text id="exo_armor">외우주 아머</text>
 		<text id="stealth_helm">스텔스 헬멧</text>
-		<text id="exo_drill">Exotic Drill</text>
-		<text id="exo_gun">Exotic Gun</text>
-		<text id="exo_sword">Exotic Sword</text>
-		<text id="exo_pack">Exotic Pack</text>
+		<text id="exo_drill">외우주 드릴</text>
+		<text id="exo_gun">외우주 총</text>
+		<text id="exo_sword">외우주 소드</text>
+		<text id="exo_pack">외우주 가방</text>
 		
 		<text id="alien_locator">외계인 탐색기</text>
 		
@@ -1418,7 +1418,7 @@
 		<text id="bombardment">공습을 저지하라</text>
 		<text id="bomber">외계인 폭격기 파괴</text>
 		<text id="bunker">신비한 광물</text>
-		<text id="station">Exotic Matter</text>
+		<text id="station">외우주 물질</text>
 		<text id="keycard">드론 접속</text>
 		<text id="professor">생존자</text>
 		<text id="find_professor">교수 찾기</text>
@@ -1636,9 +1636,9 @@
 		<text id="fisherman">어부</text>
 	</section>
 	<section id="builder">
-		<text id="no_alchemist1">What is this place?</text>
-		<text id="no_alchemist2">I'm not sure... I followed some glowing orbs of light, and they led me here. It seems safe from the bombardment, but there's not much here...</text>
-		<text id="bombardment">Just when I thought it couldn't get any worse... Let me just crawl into a cave... oh wait, I'm already in one!</text>
+		<text id="no_alchemist1">여긴 뭐지?</text>
+		<text id="no_alchemist2">잘 모르겠네요... 흔들리는 불꽃을 따라왔을 뿐이에요. 폭격에는 안전할 것 같지만 별로...</text>
+		<text id="bombardment">더이상 나빠질수 없다고 생각될때... 그냥 이 동굴에 들어오게 해줘... 아, 잠깐, 저 들어왔어요!</text>
 		<text id="win1">The war is over?! Then let’s get out of this cave! I can’t wait to see the sun again!</text>
 		<text id="win2">This calls for a celebration! Time to make some [item=pizza]!</text>
 		<text id="homeworld1">Will there be lots of food there?</text>
@@ -1674,7 +1674,7 @@
 	</section>
 	<section id="farmer">
 		<text id="bombardment">I really can't think of anything positive to say... if we're going to be attacked no matter where we go, we should've just stayed on Earth and died with our planet.</text>
-		<text id="bombardment2">The bomber may be gone, but now that they know we're here, more will be coming. We might as well make the best of our new underground base!</text>
+		<text id="bombardment2">폭격기는 사라졌지만 우리가 여기있다는걸 알게되었으니, 더 많이 몰려올거에요. 저희는 새로운 지하기지를 최대한 활용하는게 좋겟군요!</text>
 		<text id="win1">See, I told you it wasn’t the end of the world! As long as there’s life, there’s hope!</text>
 		<text id="win2">I never would’ve guessed it when we crash landed here, but this planet has really started to feel like a home. Not just a place we can live, but a place we want to live.</text>
 		<text id="win3">It’ll take a lot of work to get this planet back to what it was in its glory days, but I’m up for the challenge!</text>
@@ -2571,7 +2571,7 @@
 		<text id="new_id">새로 만들기</text>
 	</section>
 	<section id="world">
-		<text id="science2">The Heights</text>
+		<text id="science2">고지대</text>
 		<text id="science3">분리된 섬</text>
 		<text id="fighter">함선 관리</text>
 		<text id="dragon_ship">드래곤 우주선</text>
@@ -2781,9 +2781,9 @@
 		<text id="ftl_broom3">Now, there's nothing wrong with a [item=flying_broom], but if you want to literally be out of this world, you'll need an [item=ftl_broom]!</text>
 	</section>
 	<section id="merchants">
-		<text id="intro1">I thought you were a robot!</text>
-		<text id="intro2">Ha! I'm the Ore Merchant - this is my old exosuit from World War 3. Given how things are going, I figured now was a good time to get used to it again.</text>
-		<text id="intro3">Not that I expect an exosuit to be much use in this battle... I'll probably be more useful staying here and selling ores...</text>
+		<text id="intro1">저는 당신이 로봇인줄 알았어요!</text>
+		<text id="intro2">하! 저는 광물 상인이에요 - 이건 3차 세계 대전의 제 오랜 유산이에요. 현재 상황으로 볼때, 저는 지금 이거에 익숙해지는게 좋을거라 생각했어요.</text>
+		<text id="intro3">이 전투에서 외우주갑옷이 도움이 될거라 생각하진 않지만... 여기 머물면서 광물을 팔기엔 유용할거에요.</text>
 		<text id="bunker1">It looks like we might have to stay here a while if another wave could come any day now. It might be a good time to explore and improve this bunker.</text>
 		<text id="bunker2">The inner-most planet of this solar system might have some rare ores, if you could find some and bring them back, I will help you improve this bunker!</text>
 		<text id="bunker3">These [item=magnegem]s are definitely interesting! While I study them, you can use these [tile=blueprint.ico] [color=770000]Blueprint[/color]s to improve the bunker!</text>
