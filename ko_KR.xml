@@ -389,7 +389,7 @@
 		<text id="enchanted_net">마법 덫</text>
 		
 		<text id="fire_bird">코카트리스</text>
-		<text id="crawler">Crawler</text>
+		<text id="crawler">크롤러</text>
 		<text id="icer">Icer</text>
 		<text id="shark">상어</text>
 		<text id="fire_boar">파이어 보어</text>
@@ -405,10 +405,10 @@
 		<text id="house_seed">마법의 집 씨앗</text>
 		<text id="house_seed2">진화된 마법집 씨앗</text>
 		
-		<text id="water_helm">Water Helm</text>
+		<text id="water_helm">물 헬멧</text>
 		<text id="coral_bow">산호 활</text>
 		<text id="coral_sword">산호 검</text>
-		<text id="helium_pack">Helium Pack</text>
+		<text id="helium_pack">헬륨 가방</text>
 		<text id="evo_shard">진화의 조각</text>
 		<text id="evo_gem">진화의 돌</text>
 		<text id="blue_claw">Blue Claw</text>
@@ -438,7 +438,7 @@
 		<text id="scale_fish">비늘고기</text>
 		<text id="snaptopus">깨물문어</text>
 		<text id="minotaur">미노타우르스</text>
-		<text id="queen_drill">Queen Drill</text>
+		<text id="queen_drill">퀸 드릴</text>
 		<text id="revitalize_potion">활력의 포션</text>
 		
 		<text id="wand">마법 막대기</text>
@@ -1062,7 +1062,7 @@
 		<text id="worker_bot">아무 [color=ff2222]로봇[/color]이나 제작한다.</text>
 		<text id="growth">Activate the [color=ff2222]Vine Copse[/color].</text>
 		<text id="spellbook">첫 [color=ff2222]마법서[/color]를 제작한다.</text>
-		<text id="evo_gem">[color=ff2222]에보 젬[/color]을 제련한다.</text>
+		<text id="evo_gem">[color=ff2222]진화의 조각[/color]을 제련한다.</text>
 		<text id="ice_boss">Defeat the [color=ff2222]Hail Storm[/color].</text>
 		<text id="dragon_ship">Evolve a [color=ff2222]Dragon Ship[/color]!</text>
 		<text id="witch">모든 마법사 장비를 획득한다.</text>
@@ -1927,10 +1927,10 @@
 	<section id="player">
 		<text id="escort_ship">메인 함선을 호위하던 우주선의 잔해 같다. 상당히 부셔졌지만 고칠수 있어 보인다... [object=mirrows]가 고칠수 있을까?</text>
 		<text id="escort_ship2">메인 함선을 호위하던 우주선의 잔해 같다. 상당히 부셔졌지만 고칠수 있어 보인다...</text>
-		<text id="go_east">I made an [item=evo_gem], but it looks like there's a lot more to learn about magic. I better see what this new island holds...</text>
+		<text id="go_east">[item=evo_gem]을 만들었다, 하지만 마법에 대해서 더많이 배워야 할 것 같다. 새로운 섬에 어떤게 있을지 찾아봐야겠다...</text>
 		<text id="burned">The structure is ruined. Would you like to dismantle it?</text>
 		<text id="abandoned">This market is abandoned. Would you like to dismantle it?</text>
-		<text id="witch_hut">This is a weird looking hut... I wonder if someone... or something lives here?</text>
+		<text id="witch_hut">이상하게 생긴 오두막이다... 누군가...여기 누군가 살고있나?</text>
 		<text id="no_signal">There's no response from the [item=com_device]...</text>
 		<text id="storehouse_burned">A message was left behind... it looks like all the items were moved to a bunker before the structure was destroyed!</text>
 		<text id="inn_burned">The inn is destroyed... and a corpse is clutching a message: "Head to the [color=770000]Colony Ship[/color]'s cargo hold, in the desert to the west."</text>
@@ -2249,7 +2249,7 @@
 		<text id="ship_bed">이 회복 포트를 이용할까? [color=770000][tile=coin_purse.ico]금화[/color] 50개로 이용할 수 있다.</text>
 		<text id="no_money">그런데 넌 [color=770000][tile=coin_purse.ico] 금화[/color] 50개 조차도 없네... 잡동사니를 [color=770000]상점[/color]에 팔아 봐! 우리도 돈이 궁할 때 그렇게 하거든.</text>
 		<text id="blueprints1">더 많은 연구 자금을 얻기 위해, 우리의 발명품과 [tile=blueprint.ico] [color=770000]설계도[/color]를 팔기로 결정했단다!</text>
-		<text id="blueprints2">All sales go towards a good cause. Make sure to come back, as anytime we invent something new we'll add it to the store!</text>
+		<text id="blueprints2">너가 구매를 해줄 수록 좋아. 우리가 새로운 물건을 발명 할 때마다 추가해 놓을테니 반드시 돌아오렴!</text>
 		<text id="blueprints3">언제든지 {area}로 와서 우리가 가지고 있는것들을 확인해봐!</text>
 		<text id="bombardment1">They came too soon! We knew this was coming and tried to prepare, but we just didn't have enough time!</text>
 		<text id="bombardment2">I'm certain this is only their first wave - we'll need to act fast to destroy their bomber before the second wave arrives!</text>
@@ -2717,24 +2717,24 @@
 		<text id="merchant3">지하에서 채굴한 금속조각을 사용한다구요? 이상하군요, 하지만 [color=770000][tile=coin_purse.ico] 금화[/color] 는 확실히 가치가 있군요. 당신은 육지 생물이니 그게 당연하겠군요.</text>
 		<text id="coin_purse">Here's a purse I had lying around you can use to carry [color=770000][tile=coin_purse.ico] Coins[/color]!</text>
 		<text id="merchant4">저는 바다 생물과 산호의 마법적 성질을 연구해왔어요. 만약 당신이 살아있는 [item=scale_fish]을 잡아주신다면 값진걸 만들어 드릴 수 있어요.</text>
-		<text id="merchant5">I have done it! I have invented the [color=770000]Coral Pen[/color]! It can harvest magical materials from creatures like [item=scale_fish], and will make restocking much easier!</text>
-		<text id="merchant6">I added [item=coral_pen_seed]s to my store. Buy a few and see what you think!</text>
+		<text id="merchant5">제가 해냈어요! 제가 [color=770000]산호 우리[/color]를 발명 했어요! 우리에서는 [item=scale_fish]같은 생명체에서 마법 재료를 수확할 수 있을거에요!!</text>
+		<text id="merchant6">제 가게에 [item=coral_pen_seed]를 추가했어요. 몇개 사서 이용해 보세요!</text>
 		<text id="merchant7">[item=scale_fish]는 잡기 어렵지만 만약 [item=water_trap]을 사용한다면 잡을 수 있을거에요.</text>
 		<text id="merchant8">Our underwater trade routes were once flowing with gems, potions, and magical ingredients. Now, we are so few - and all hidden away in quiet spots like this one, there is barely a trade route to speak of.</text>
 		<text id="merchant9">Nevertheless! We still prosper, for the sea floor is abundant.</text>
 		<text id="merchant10">Have you built many [color=770000]Coral Pen[/color]s? I was trying to figure out a way to manage them more efficiently, and came up with a new coral structure - the [color=770000]Coral Farm[/color]!</text>
 		<text id="merchant11">You can now buy [item=coral_farm_seed]s in the store. Plant them, and you will be able to access and harvest all the [color=770000]Coral Pen[/color]s and [color=770000]Wyrm Pen[/color]s on the same island!</text>
-		<text id="librarian1">I am the village librarian, curator of spellbooks!</text>
-		<text id="librarian2">Unlike some... well, others... we enjoy sharing our knowledge!</text>
-		<text id="librarian3">You are welcome to use our library to learn how to create spellbooks of your own!</text>
-		<text id="librarian4">Unlike other forms of magic, spellbooks channel the power within you.</text>
-		<text id="librarian5">At first, this will tire you out quickly, but if you gain skill in [color=770000][tile=stat.spellcast] Spellcasting[/color], you’ll be able to cast many more spells without resting.</text>
-		<text id="librarian6">Spells can be very powerful, but they also take time to cast. Be careful about when and where you use them - if you are attacked while casting the spell, it will be cancelled.</text>
-		<text id="librarian7">Always remember - magic is only a tool - it is up to the one using the tool that determines its value. Do not hate magic because of what they have done with it.</text>
-		<text id="librarian8">Magic is the art of change. It can change a simple item into a powerful force. And the more you use magic, the more it changes YOU.</text>
-		<text id="librarian9">Once, our villages sprawled across the vastness of this sea. Now, we hide in this quiet little nook of the ocean floor, content to keep to ourselves and avoid the hostilities of the universe.</text>
-		<text id="librarian10">Some of our ancestors ventured out of the sea and changed themselves, using the magic of the depths to propel themselves into the skies. Now, they are the enemy of many.</text>
-		<text id="librarian11">We do not fear them, but we do regret the path they have taken - one of secrecy and jealousy.</text>
+		<text id="librarian1">저는 이 마을의 사서에요, 마법책을 관리하죠!</text>
+		<text id="librarian2">다른...종족과는 달리... 우리는 지식을 공유하는걸 좋아해요!</text>
+		<text id="librarian3">저희 도서관을 이용해서 마법책을 어떻게 만드는지 배우셔도 되요!</text>
+		<text id="librarian4">다른 형태의 마법과는 달리 마법책은 당신 안의 마력을 사용해요.</text>
+		<text id="librarian5">처음에는, 빠르게 지칠거에요, 하지만 [color=770000][tile=stat.spellcast] 마법 시전[/color] 스킬을 올린다면, 당신은 더 많은 마법을 사용할 수 있을거에요.</text>
+		<text id="librarian6">주문은 매우 강력한 것들도 있어요. 하지만 강력할수록 시전하는 시간은 오래 걸려요. 적에게 공격을 받으면 시전이 취소되니 사용할 상황을 잘 고려하세요.</text>
+		<text id="librarian7">마법은 도구일 뿐이에요. 마법에 대한 가치는 어떻게 사용하느냐에 따라 달라요. 그들이 마법으로 저지른 일 때문에 마법을 싫어하진 말아주세요.</text>
+		<text id="librarian8">마법은 변화하는 기술이에요. 마법은 간단한 아이템을 강력하게 만들 수 있죠. 마법을 많이 사용할수록 변하는건 당신이에요.</text>
+		<text id="librarian9">원래는, 우리 마을은 광활한 바다를 가로질러 있었어요. 지금은 이 조용한 해저 구석에서 조용히 숨어서, 우리를 지키고 우주에 적대관계를 만들지 않는것에 만족해요.</text>
+		<text id="librarian10">우리 조상들중 몇몇은 위험을 무릅쓰고 스스로 육지로 올라가 진화했어요. 고대 마법을 이용해 하늘까지 진출했죠. 지금, 그들은 많은 이들의 적이에요.</text>
+		<text id="librarian11">우리는 그들으 두려워하지 않아요. 하지만 그들이 걸어간 길은 후회해요. 그건 질투와 비밀의 결정채에요.</text>
 		<text id="revitalize1">An [object=ancient_dragon_npc] is helping you create a [color=770000]Dragon Ship[/color]? I never thought I’d hear that! Then again, we don’t hear much down here.</text>
 		<text id="revitalize2">But the [color=770000]Dragon Ship Factory[/color] is guarded by a very powerful ice monster! Is there any way you could help me defeat it?</text>
 		<text id="revitalize3">Well, if it’s made of [color=770000][tile=ice.ico] Ice[/color], the [item=fire_book] should be able to hurt it. Your [object=ancient_dragon_npc] friend could defeat it as well if it was imbued with the power of a [item=horn].</text>
@@ -2743,24 +2743,24 @@
 		<text id="revitalize6">You have all the ingredients? Here is the potion - give it to the [object=ancient_dragon_npc] and see if that helps him! I'll add the recipe for the potion to your laboratory in case you need to make more.</text>
 		<text id="revitalize7">What is this potion? I feel like I can do anything! I could even finally become a [color=770000]Dragon Ship[/color] myself!</text>
 		<text id="revitalize8">That bout of invincibility didn’t last long. Still old and frail. But, at least I burned that ice monster to a crisp! That’s the most fun I’ve had in ages - literally!</text>
-		<text id="potion1">Ahh, so you met the [object=sea_witch]? She used to live down here with us, but decided to go ashore to learn the secret of immortality.</text>
-		<text id="potion2">The nerve! Following in their footsteps after everything I taught her! But... I can't well deny you the knowledge. I'll add the recipe for the potion to your laboratory!</text>
+		<text id="potion1">아, 당신 [object=sea_witch]를 만낫군요? 그녀는 우리와 함께 여기에 살았었지만, 불멸의 비밀을 알아내기 위해 지상으로 올라갔어요.</text>
+		<text id="potion2">용감해! 저는 그녀를 갈켰고 그들의 발자취를 따라갓죠! 그리고... 그들의 지식은 대단했요. 연구실에 포션을 마드는 제조법을 추가해드렸어요!</text>
 		<text id="potion3">Ah, well old age gets us all in the end. But maybe try that [item=revitalize_potion] I taught you for the [object=sea_witch] - it should help your dragon friend too! The recipe should still be in your laboratory.</text>
 		<text id="sea_witch1">What strange times... they might be returning and the [object=sea_witch] has returned to the sea...</text>
 		<text id="sea_witch2">Of course, we had to accept her back with open arms. She even taught me what she learned on the surface, and I created several new spells! Check out the library, there are many new spellbooks now!</text>
 		<text id="sea_witch3">What strange times... they have been defeated and the [object=sea_witch] has returned to the sea...</text>
 		<text id="sushi1">배고파 보이는군요... 당신도 [item=sushi]은 먹을줄 알겠죠. 그냥 줄수도 있지만, 당신도 알다싶이... 고식지계...</text>
 		<text id="sushi2">재료를 가저오면, 만드는 법을 알려드릴게요!</text>
-		<text id="sushi3">Excellent! Watch carefully - I make [item=sushi] quickly!</text>
-		<text id="sushi4">And it's done! Enjoy it while it's fresh, and feel free to make your own!</text>
+		<text id="sushi3">좋아요! 제가 [item=sushi]을 만들테니 잘 보세요!</text>
+		<text id="sushi4">그리고 이렇게 하면! 신선할때 먹는데 좋아요! 이제 자유롭게 만들어 보세요.</text>
 		<text id="exiled1">I have taught you everything I know about magic. Only one of them would be able to teach you more.</text>
 		<text id="exiled2">But... perhaps there is one who would help you. Seek out The Exiled on the planet you call Mars.</text>
 	</section>
 	<section id="witch">
-		<text id="potion1">Ohh... my aching back... Why did I leave the sea? Floating weightless all the time...</text>
-		<text id="potion2">Ah, a stranger! You look helpful, why don't you do an old lady a favor and fetch me a [item=revitalize_potion]? That should fix me right up!</text>
-		<text id="potion3">Sure, I'll help you out! Where can I find a [item=revitalize_potion]?</text>
-		<text id="potion4">Do I have to explain everything? I know! Talk to the librarian - he loves helping people! You can find him deep underwater to the west, he hasn't left that library since before I was born!</text>
+		<text id="potion1">아...허리가 아파... 내가 왜 바다를 떠낫을까? 바다는 중력이 거의 없었는데...</text>
+		<text id="potion2">아, 이방인! 당신은 저르 도울수 있어 보이는군요, 늙은 나를 위해 [item=revitalize_potion] 하나만 가져와 주겠어요? 그게 저를 낫게 해줄거에요!</text>
+		<text id="potion3">물론이죠, 도와드릴게요! [item=revitalize_potion]은 어디서 찾을 수 있죠?</text>
+		<text id="potion4">전부 설명해줘야 하는거에요? 알았어요, 물고기 사서에게 가보세요. 그는 사람을 돕는걸 좋아해요! 서쪽은 깊은 물 속에서 그를 찾을 수 있ㅇ르거에요. 그는 제가 태어나기 전부터 사서로 있었어요.</text>
 		<text id="potion5">Ahhhh! That's the stuff! Now if I could only figure out the secret to immortality...</text>
 		<text id="potion6">You expect a reward? I thought you were just a good samaritan helping a troubled old lady in need... Well, I suppose I could help you craft some [item=robes], that... thing you're wearing is just atrocious!</text>
 		<text id="robes">Need more [item=robes]? I will always help people make the right fashion choices.</text>
