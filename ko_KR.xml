@@ -1517,7 +1517,7 @@
 		<text id="exo_factory">가 [item=exo_drill]을 업그레이드 하려 합니다.</text>
 		<text id="launch_virus">가 적의 본진에 바이러스를 퍼트리려 합니다.</text>
 		<text id="cyborg2">가 사이보그 업그레이드를 연구하려 합니다.</text>
-		<text id="exiled">가 화성에서 [color=770000]추장자[/color]를 찾아달라 합니다.</text>
+		<text id="exiled">가 화성에서 [color=770000]추장자[/color]를 찾으라 합니다.</text>
 		<text id="activate_hq_structures">본진 건물의 비밀을 알아내기 위해 거래를 합니다.</text>
 		<text id="spirit_hq">적의 본진으로 가기위해 [color=770000][tile=spirit anim=spirit] 정령[/color]으로 길을 만드려합니다.</text>
 		<text id="spirit_portal">가 [color=770000]드래곤 우주선[/color]에서 마법을 배우길 원합니다.</text>
@@ -1922,21 +1922,21 @@
 		<text id="oldone_choice">당신은 이 생물을 이길수 없을거에요, 살아남기 위해서는 계획이 필요할겁니다!</text>
 		<text id="work_together">협력한다</text>
 		<text id="alchemist_fight">연금술사와 싸운다</text>
-		<text id="battle">Stand back! This fight is not for the inexperienced!</text>
+		<text id="battle">물러서요! 이 싸움은 경험이 없는 사람을 위한게 아니에요!</text>
 	</section>
 	<section id="player">
 		<text id="escort_ship">메인 함선을 호위하던 우주선의 잔해 같다. 상당히 부셔졌지만 고칠수 있어 보인다... [object=mirrows]가 고칠수 있을까?</text>
 		<text id="escort_ship2">메인 함선을 호위하던 우주선의 잔해 같다. 상당히 부셔졌지만 고칠수 있어 보인다...</text>
 		<text id="go_east">[item=evo_gem]을 만들었다, 하지만 마법에 대해서 더많이 배워야 할 것 같다. 새로운 섬에 어떤게 있을지 찾아봐야겠다...</text>
 		<text id="burned">구조물이 망가졌습니다. 철거 하시겠습니까?</text>
-		<text id="abandoned">This market is abandoned. Would you like to dismantle it?</text>
+		<text id="abandoned">이 상점은 버려졌습니다. 회수 하시겠습니까?</text>
 		<text id="witch_hut">이상하게 생긴 오두막이다... 누군가...여기 누군가 살고있나?</text>
-		<text id="no_signal">There's no response from the [item=com_device]...</text>
+		<text id="no_signal">[item=com_device]에 반응이 없습니다...</text>
 		<text id="storehouse_burned">A message was left behind... it looks like all the items were moved to a bunker before the structure was destroyed!</text>
 		<text id="inn_burned">The inn is destroyed... and a corpse is clutching a message: "Head to the [color=770000]Colony Ship[/color]'s cargo hold, in the desert to the west."</text>
 		<text id="use_translation_book">Would you like to use the [item=translation_book] to translate?</text>
 		<text id="no_translate">There is nothing here to translate.</text>
-		<text id="static">There's nothing but static...</text>
+		<text id="static">정적만이 있다...</text>
 		<text id="homeworld">We’re setting up a new colony for humanity on {area}!</text>
 		<text id="storm1">너무 추워...[pause=1] 그리고 지쳤어...[pause=1] 쉴 곳이 필요해... 주변에 떨어진 나무들밖에 보이지 않아...</text>
 		<text id="storm3">[item=wood]를 간신히 짊어지고 있어! 이동하려면 [tile=stamina] [color=006600]기력[/color]이 많이 들지도 몰라. 하지만 난 여기서 멈출 수 없어! 난 쉴 곳을 찾아야해!</text>
@@ -2746,15 +2746,15 @@
 		<text id="potion1">아, 당신 [object=sea_witch]를 만낫군요? 그녀는 우리와 함께 여기에 살았었지만, 불멸의 비밀을 알아내기 위해 지상으로 올라갔어요.</text>
 		<text id="potion2">용감해! 저는 그녀를 갈켰고 그들의 발자취를 따라갓죠! 그리고... 그들의 지식은 대단했요. 연구실에 포션을 마드는 제조법을 추가해드렸어요!</text>
 		<text id="potion3">Ah, well old age gets us all in the end. But maybe try that [item=revitalize_potion] I taught you for the [object=sea_witch] - it should help your dragon friend too! The recipe should still be in your laboratory.</text>
-		<text id="sea_witch1">What strange times... they might be returning and the [object=sea_witch] has returned to the sea...</text>
-		<text id="sea_witch2">Of course, we had to accept her back with open arms. She even taught me what she learned on the surface, and I created several new spells! Check out the library, there are many new spellbooks now!</text>
-		<text id="sea_witch3">What strange times... they have been defeated and the [object=sea_witch] has returned to the sea...</text>
+		<text id="sea_witch1">이상한 일이에요... 그들의 힘이 돌아왔고. [object=sea_witch]도 바다로 돌아왔어요</text>
+		<text id="sea_witch2">물론, 저는 그녀를 두팔벌려 환영했어요. 그녀는 지상에서 배운것 들을 알려주었고, 저는 몇몇 새로운 마법책을 만들었어요! 도서관을 확인해보세요!</text>
+		<text id="sea_witch3">이상한 일이에요... 그들의 힘이 돌아왔고. [object=sea_witch]도 바다로 돌아왔어요</text>
 		<text id="sushi1">배고파 보이는군요... 당신도 [item=sushi]은 먹을줄 알겠죠. 그냥 줄수도 있지만, 당신도 알다싶이... 고식지계...</text>
 		<text id="sushi2">재료를 가저오면, 만드는 법을 알려드릴게요!</text>
 		<text id="sushi3">좋아요! 제가 [item=sushi]을 만들테니 잘 보세요!</text>
 		<text id="sushi4">그리고 이렇게 하면! 신선할때 먹는데 좋아요! 이제 자유롭게 만들어 보세요.</text>
-		<text id="exiled1">I have taught you everything I know about magic. Only one of them would be able to teach you more.</text>
-		<text id="exiled2">But... perhaps there is one who would help you. Seek out The Exiled on the planet you call Mars.</text>
+		<text id="exiled1">제가 알고있는 마법의 모든걸 알려드렸어요. 이제 그들중 한명만이 당신을 갈킬수 있을거에요.</text>
+		<text id="exiled2">그러니... 당신을 도와줄 사람을 찾아보세요. 화성이라는 곳에서 추방자를 만나보세요.</text>
 	</section>
 	<section id="witch">
 		<text id="potion1">아...허리가 아파... 내가 왜 바다를 떠낫을까? 바다는 중력이 거의 없었는데...</text>
@@ -2770,12 +2770,12 @@
 		<text id="halloween">Ke ke ke! Happy Halloween! Here, have a [item=pumpkin_helm] - it'll look absolutely ridiculous on your head!</text>
 		<text id="cat1">Ahh, you can finally understand what I'm saying! I love Halloween!</text>
 		<text id="cat2">[item=black_cat]s are the best! If you agree, try using a [item=dark_fur] on a normal [item=cat] in the [color=770000]Vine Copse[/color] to turn it into a [item=black_cat]!</text>
-		<text id="sea1">You evolved a [color=770000]Dragon Ship[/color] of your own? This is bad.</text>
-		<text id="sea2">They created that storm guardian for a reason. There is no worse crime in their eyes than stealing their magic, and [color=770000]Dragon Ship[/color]s are a powerful magical secret!</text>
-		<text id="sea3">When they find out, their wrath will cover this entire planet! The surface has become too dangerous, I'm high-tailing it underwater and I suggest you do the same.</text>
-		<text id="sea4">It feels weird to be back home... and everyone is just the same as before. At least I learned something while I was ashore... the librarian is really excited about it.</text>
-		<text id="sea5">You defeated their headquarters? You, a lone human? I guess their "magic secrets" weren't as amazing as I had been led to believe.</text>
-		<text id="sea6">No point staying on dry land trying to learn their secrets then! I'm heading back to sea, it was easier on my back there anyways.</text>
+		<text id="sea1">당신만의 [color=770000]드래곤 우주선[/color]을 진화시켰다구요? 좋지 않아요.</text>
+		<text id="sea2">그들이 천둥번개를 만든 이유가 있어요. 그들에게 있어서 마법을 훔치는 건 중범죄에요. 그리고 [color=770000]드래곤 우주선[/color]은 강력한 비밀 마법중 하나죠!</text>
+		<text id="sea3">그들이 알게 되면, 그들의 분노가 이 행성을 뒤덮을 거에요. 수면위는 위험해졌어요. 저는 물속으로 숨을테니, 당신도 그렇게 해요.</text>
+		<text id="sea4">짐에오니 기분이 이상해요... 모든게 예전과 똑같아요. 육지에 있는동안 뭐 하나라도 배우긴 했지만... 사서는 그것에 흥미를 가지더군요.</text>
+		<text id="sea5">본부를 파괴했다구요? 당신 혼자 힘으로? 그들의 "마법의 비밀" 제가 생각한 것 보다 대단하지 않나보군요.</text>
+		<text id="sea6">그렇다면 그들의 비밀을 파해치기 위해 건조한 지상에서 지내는건 의미가 없어요! 저는 바다로 돌아가겠어요. 어쨋든 거기선 등이 안아프니까요.</text>
 		<text id="ftl_broom1">I can't believe you found [item=spirit_robes] and are not wearing them!</text>
 		<text id="ftl_broom2">Those [item=spirit_robes] are quite classy! They put my old [item=robes] to shame! With that much style, you'll need a better broom to go with them!</text>
 		<text id="ftl_broom3">Now, there's nothing wrong with a [item=flying_broom], but if you want to literally be out of this world, you'll need an [item=ftl_broom]!</text>
@@ -3033,19 +3033,19 @@
 		<text id="toxic">You're not sure why you ordered something described as "revoltingly toxic," but this putrid drink certainly lived up to its name. You feel a wave of weakness and nausea come over you, and silently vow to never drink it again.</text>
 	</section>
 	<section id="exiled">
-		<text id="intro1">A human who knows magic? Two of my favorite things together! You wouldn’t happen to know a purple hooded figure, would you?</text>
-		<text id="intro2.1">Ah, you have? And he’s still studying magic? Good for him!</text>
-		<text id="intro2.2">Ah, you have? But the Old One defeated him? I didn’t know she still had it in him.</text>
-		<text id="intro3">The rest of my kind are in a rage over him stealing their secrets. I would say it’s quite amusing. If it didn’t mean the death of your homeworld.</text>
-		<text id="intro3.1">His desire to learn magic quickly spiraled into quite the war! I would say it was amusing, if it didn't mean the death of your homeworld and the end of human TV reruns to watch.</text>
-		<text id="intro4">Here I am, stuck on this rock, and there won't even be any more human TV reruns to pass the time? Dark days are ahead...</text>
-		<text id="intro5">Ah. I should probably introduce myself. But I am only allowed to call myself ‘The Exiled.’ You see, I kind of broke some rules, so they sent me here.</text>
-		<text id="intro6">Ostensibly, I was sent here to watch over your planet, and I would be allowed back if I found anything concerning about the life here. But no one really believed you would pose a threat - until the hooded one appeared. They just wanted me out of their hair.</text>
-		<text id="intro7">So, of course I didn’t report anything, even when you first reached the stars. It was too entertaining to watch you. I wouldn’t do anything to harm or hinder you - you can think of me as a friendly observer.</text>
-		<text id="intro7.1">So, of course I didn’t report anything, even when you first reached the stars. It was too entertaining to watch you. Not even I could’ve imagined that you would one day defeat them!</text>
-		<text id="intro8">Am I talking too much? It’s really been rather boring since they torched your planet. I really am sorry for that.</text>
-		<text id="intro9">There are many things I cannot say or do, including leave this planet. But if you stop by to tell me of your adventures, I wouldn’t mind helping you in the ways I can.</text>
-		<text id="intro10">Believe me, I have no sympathy for the rest of my kind, after being exiled here for ten thousand years!</text>
+		<text id="intro1">마법을 아는 인간? 내가 가장 좋아하는 두가지를 같이?! 혹시 보라색 후드를 입은 사람은 아니겠지?</text>
+		<text id="intro2.1">아, 그래? 아직 마법 공부를 하는중이라고? 잘됐군!</text>
+		<text id="intro2.2">아, 그래? 옜것이 그를 이겼다고? 그녀가 아직도 그에게 빠져 있는줄은 몰랐네.</text>
+		<text id="intro3">다른 사람들은 그가 그들의 비밀을 훔쳐서 화가났어. 나는 꽤 재미있더라고, 그게 고향의 멸망을 의미하지만 않는다면.</text>
+		<text id="intro3.1">마술을 배우려는 그의 욕망이 순식간에 전쟁으로 변했어! 그게 너의 고향이 멸망하고 TV재방송이 나오지 안나오는걸 의미하는게 아니라면, 나는 재미있다고 말할거야.</text>
+		<text id="intro4">나는 여기 동굴에 숨어서 인간들의 TV를 보며 시간을 때우고있어. 하지만 더이상 TV 재방송도 나오지 않겟지... 암울한 날이 오고 있어...</text>
+		<text id="intro5">아, 내 소개를 하지. 날 반드시 ‘추방자’라고 불러야 할거야. 내가 규칙을 어겨서 이리로 오게 되었지.</text>
+		<text id="intro6">표면상으로, 나는 너의 행상을 감시하기 위해 여기로 보내졌고, 만약 그곳의 삶에대해서 무언가 발견한다면 돌아갈 수 있지. 하지만 아무도 당신이 위협을 가할거라 생각하지 않았어- 후드를 쓴 사람이 나타나기 전까진 말이지. 그들은 단지 내가 그들의 감시에서 사라지길 원했어.</text>
+		<text id="intro7">뭐, 물론 나는 아무것도 보고하지 않았어, 네가 별에 처음 도착 했을때도 말이지. 너를 보고 있는건 너무 재미있거든. 나는 너에대한 그 어떠한 간섭도 하지 않을거야 - 너는 나를 그냥 친절한 관찰자라고 생각해.</text>
+		<text id="intro7.1">뭐, 물론 나는 아무것도 보고하지 않았어, 네가 별에 처음 도착 했을때도 말이지. 너를 보고 있는건 너무 재미있거든. 네가 언젠가 그들을 이길거라고는 상상도 못했어!</text>
+		<text id="intro8">말이 너무 많은가? 그들의 너의 행성을 불태운 이후 너무 지루했어. 그건 미안하게 생각해.</text>
+		<text id="intro9">이 행성을 떠나는 것과, 내가 말하거나 행동하지 못하는 것들은 많이 있어. 하지만 네 모험담을 들려준다면, 내가 할 수 있는 방법으로 너를 도와줄게.</text>
+		<text id="intro10">날 믿어, 난 여기 만년동안 유배되어 있었어. 다른 종족에 동정심따위 느끼지 않아.</text>
 		<text id="ship1">As I said, there are things I cannot say. But, there is one with no such restrictions, who is bitter towards my kind.</text>
 		<text id="ship2">If you travel east from where you crash landed on our homeworld, there is an ancient dragon who may help you.</text>
 		<text id="evo_chamber">Here, let me create an [color=770000]Evolution Chamber[/color]. It may help you.</text>
