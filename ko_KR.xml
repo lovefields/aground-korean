@@ -324,6 +324,12 @@
 		<text id="merge_coins">금화 정리</text>
 	</section>
 	<section id="item.names">
+		<text id="spirit_armor">Spirit Armor</text>
+		<text id="spirit_bow">Spirit Bow</text>
+		<text id="spirit_scythe">Spirit Scythe</text>
+		<text id="spirit_box">Spirit Box</text>
+		<text id="spirit_cape">Spirit Cape</text>
+		
 		<text id="pearl">진주</text>
 		<text id="fin">지느러미</text>
 		<text id="ship_parts">최첨단 부품</text>
@@ -961,6 +967,7 @@
 		<text id="swimming">수영</text>
 		<text id="hammer">건설 중인 건물을 빠르게 건축한다.</text>
 		<text id="change_element">속성을 번경할 수 있다.</text>
+		<text id="spirit_box">Can store and retrieve items (up to 5k weight) from the spirit void for 5 [color=770000][tile=spirit anim=spirit] Spirit[/color].</text>
 	</section>
 	<section id="achievement.names">
 		<text id="sub">해저탐험</text>
@@ -1390,6 +1397,8 @@
 		<text id="collect_progress">정말로 이 항목을 없애시겠습니까? 모든 진행 상황이 취소됩니다.</text>
 		<text id="inventory_full">아이템을 더 이상 보관할 수 없습니다!</text>
 		<text id="cooldown">지금은 사용할 수 없습니다. 잠시 후 다시 사용하십시오.</text>
+		<text id="spirit">Not enough [color=770000][tile=spirit anim=spirit] Spirit[/color]!</text>
+		<text id="lose_spirit">{amt} [color=770000][tile=spirit anim=spirit] Spirit[/color]</text>
 	</section>
 	<section id="market">
 		<text id="closed">밤에는 열지 않습니다.</text>
@@ -3407,6 +3416,14 @@
 		<text id="smileys">/smileys - [color=aaaaaa]shows a list of all smileys.</text>
 		<text id="rename">/rename player - [color=aaaaaa]changes a player's name. This will kick them if they are logged in. Host only.</text>
 	</section>
+	<section id="colosseum">
+		<text id="victory">+[global=points] [color=770000][tile=colosseum.points anim=colosseum.points] Spirit Points[/color]!</text>
+		<text id="build_staircase">Do you want to build this staircase for {points} [color=770000][tile=colosseum.points anim=colosseum.points] Spirit Points[/color]?</text>
+		<text id="fail_staircase">You need {points} [color=770000][tile=colosseum.points anim=colosseum.points] Spirit Points[/color] to unlock this staircase.</text>
+		<text id="focus_gem">This costs a [item=focus_gem] (you have [global=gems] total). Would you like use a [item=focus_gem]?</text>
+		<text id="fail_focus_gem">This costs a [item=focus_gem]. You do not have any [item=focus_gem]s to spend.</text>
+		<text id="points">Spirit Points</text>
+	</section>
 	<section id="elements">
 		<text id="change">속성 변경</text>
 		<text id="normal">속성 없음</text>
@@ -3415,5 +3432,38 @@
 		<text id="ice">[tile=ice.ico] 얼음</text>
 		<text id="earth">[tile=earth.ico] 흙</text>
 		<text id="plant">[tile=plant.ico] 식물</text>
+	</section>
+	<section id="beastmaster">
+		<text id="intro1">Welcome! I am very excited to see a living creature in the flesh! We don't get many visitors to the spirit world anymore.</text>
+		<text id="intro2">You may call me the Beastmaster. I have been studying creatures like you for a long time.</text>
+		<text id="intro3">This game room is my favorite - I have created copies of many dangerous creatures in their native environment - you can fight any of them just by entering a door!</text>
+		<text id="intro4">Don't worry about dying - like most of the spirit world, nothing in those rooms is fully real. However, if you beat them, I'll award you [color=770000][tile=colosseum.points anim=colosseum.points] Spirit Points[/color] which I can help you exchange for special prizes!</text>
+		<text id="learn_boss">Would you like to learn about any of the creatures here?</text>
+		<text id="minotaur">Minotaur</text>
+		<text id="yeti">Yeti</text>
+		<text id="bandits">Bandits</text>
+		<text id="dragon">Dragon</text>
+		<text id="wyrm_queen">Wyrm Queen</text>
+		<text id="golemech">Golemech</text>
+		<text id="oldone">Old One</text>
+		<text id="mirrows">Mirrows</text>
+		<text id="pirates">Pirates</text>
+		<text id="kraken">Kraken</text>
+		<text id="plant_boss">Cultivator</text>
+		<text id="ice_boss">Storm</text>
+		<text id="minotaur1">These beasts are fast and have dangerous [item=horn]s, but move endlessly back and forth and are easy to predict. Try keeping your distance and hitting them from behind.</text>
+		<text id="yeti1">Unlike many enemies, you can't hide under Yetis to attack them from behind. Try staying on the move and sneaking in hits while avoiding its icy breath and snowballs.</text>
+		<text id="bandits1">Like most groups, bandits aren't that dangerous one on one, but don't let them gang up on you! Pick them off one at a time, and pay special attention to the bandit with the heavy shield, he can only be hurt from behind!</text>
+		<text id="dragon1">With no ranged weapon, the Dragon's a challenge. Hit [key=defend] to block flames with the shield or hide behind tiles until it flies back to its den, then hit it from behind as much as you can, and don't forget [item=attack_potion]s!</text>
+		<text id="wyrm_queen1">This beast won't attack you - but it can only be hurt by striking its open mouth! While its brood of [item=wyrm]s are dangerous, they are a good source of [item=dragonblood] if you need to heal.</text>
+		<text id="golemech1">Beware the Golemech's eye attack - it takes time to recharge, but it is incredibly powerful. [color=770000][tile=plant.ico] Plant[/color] and [color=770000][tile=water.ico] Water[/color] attacks are effective against it.</text>
+		<text id="oldone1">The Old One has powerful attacks and is only vulnerable when it overheats and opens up its armor. Dodge or block its attacks with the shield, then hit it when vulnerable.</text>
+		<text id="mirrows1">The [item=shadow_cape] will help you avoid being attacked by both Mirrows at once. It will make you invisible every 5 seconds, allowing you to sneakily defeat one of them. You can also use [item=landmine]s while hidden for extra damage!</text>
+		<text id="pirates1">The Pirates have powerful laser weapons, but their range and speed are less than yours. Keep moving and firing, taking as few hits as possible, destroy one at a time, and they aren't that challenging.</text>
+		<text id="kraken1">This monster of the deep is very hazardous. Its arms are dangerous, and while they can be blasted off at the base, they regrow quickly. Destroy and get past the arms, then fire at the eyes to defeat it.</text>
+		<text id="plant_boss1">The Cultivator is weak to [color=770000][tile=fire.ico] Fire[/color] attacks. Burn it from the air where only its spores can hurt you. You will have to dodge the spores, as you don't have a lot of health for many hits.</text>
+		<text id="ice_boss1">The Storm can only be hurt by powerful [color=770000][tile=fire.ico] Fire[/color] attacks. Beware its tornado form, it is invulnerable and dangerous during that time. Climb the ruins to burn it when vulnerable, and run when it's in tornado form.</text>
+		<text id="points">How about spending those [color=770000][tile=colosseum.points anim=colosseum.points] Spirit Points[/color] for some nice rewards!</text>
+		<text id="buy">Spirit Rewards!</text>
 	</section>
 </lang>
