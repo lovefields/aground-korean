@@ -189,6 +189,7 @@
 		<text id="damage">공격력</text>
 		<text id="capture">포획</text>
 		<text id="capture_type">포획 유형</text>
+		<text id="spirit">기</text>
 		<text id="spirits">정령</text>
 		<text id="flight">비행 높이:</text>
 		<text id="depth">잠수 깊이:</text>
@@ -959,6 +960,7 @@
 		<text id="flying">비행</text>
 		<text id="swimming">수영</text>
 		<text id="hammer">건설 중인 건물을 빠르게 건축한다.</text>
+		<text id="change_element">속성을 번경할 수 있다.</text>
 	</section>
 	<section id="achievement.names">
 		<text id="sub">해저탐험</text>
@@ -2573,7 +2575,7 @@
 	<section id="world">
 		<text id="science2">고지대</text>
 		<text id="science3">분리된 섬</text>
-		<text id="fighter">함선 관리</text>
+		<text id="fighter">함선</text>
 		<text id="dragon_ship">드래곤 우주선</text>
 		<text id="dragon_fighter">드래곤 전투기</text>
 		<text id="dragon_bomber">드래곤 폭격기</text>
