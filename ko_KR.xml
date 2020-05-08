@@ -45,7 +45,7 @@
 		<text id="research_item">{item} 연구</text>
 		<text id="research_complete">{item} 연구가 완료되었습니다!\n레시피가 {structure}에 추가됩니다.</text>
 		
-		<text id="spirit_storehouse">영혼 창고</text>
+		<text id="spirit_storehouse">정령 창고</text>
 		<text id="space_house">우주집</text>
 		
 		<text id="quit_minigame">미니게임을 중단하시겠습니까?</text>
@@ -189,7 +189,7 @@
 		<text id="damage">공격력</text>
 		<text id="capture">포획</text>
 		<text id="capture_type">포획 유형</text>
-		<text id="spirits">영혼</text>
+		<text id="spirits">정령</text>
 		<text id="flight">비행 높이:</text>
 		<text id="depth">잠수 깊이:</text>
 		<text id="knockback">넉백:</text>
@@ -212,7 +212,7 @@
 		<text id="efficiency">효율</text>
 		<text id="victory">승리!</text>
 		<text id="item_found">새로운 아이템 발견!</text>
-		<text id="more">+{count} More...</text>
+		<text id="more">+{count} 더...</text>
 		<text id="dismantle_tip">이 건물을 지으려면, 당신은 이 건물을 이동하거나 겹치는 건물을 철거해야 합니다. 가방의 [item=dismantle]를 이용해 철거할 수 있습니다.</text>
 		<text id="delete_save">정말로 이 저장 슬롯을 삭제하시겠습니까?</text>
 		<text id="full">[tile=stat.full]배가 너무 부릅니다! 배가 꺼지기 전까지는 음식을 먹을 수 없습니다!</text>
@@ -524,19 +524,19 @@
 		
 		<text id="alien_locator">외계인 탐색기</text>
 		
-		<text id="exo_fighter">Exo Fighter</text>
-		<text id="exo_mech">Exo Mech</text>
-		<text id="exo_mech.chainsaw">Exo Mech Chainsaw</text>
-		<text id="exo_mech.gun">Exo Mech Gun</text>
-		<text id="exo_shields">Exo Shield Generator</text>
-		<text id="exo_mech.light">Light Emitter</text>
+		<text id="exo_fighter">외우주 전투기</text>
+		<text id="exo_mech">외우주 기계</text>
+		<text id="exo_mech.chainsaw">외우주 기계 전기톱</text>
+		<text id="exo_mech.gun">외우주 기계 총</text>
+		<text id="exo_shields">외우주 애너지 방패</text>
+		<text id="exo_mech.light">광선 방출기</text>
 		<text id="dragomech">드래고메크</text>
 		
 		<text id="terraformer_blueprint">테라포머 설계도</text>
-		<text id="exo_factory_blueprint">Exo Factory Blueprint</text>
+		<text id="exo_factory_blueprint">외우주 공장 설계도</text>
 		
 		<text id="alien_heart">외계인 심장</text>
-		<text id="carapace">Carapace</text>
+		<text id="carapace">갑각류</text>
 		
 		<text id="hoarder_gun">Hoarder Magnum</text>
 		<text id="hoarder_shield">Hoarder Shield</text>
@@ -548,16 +548,16 @@
 		<text id="magne_queen_drill">자수정 퀴 드릴</text>
 		<text id="coral_farm_seed">산호 농장 씨앗</text>
 		<text id="staff">마법 지팡이</text>
-		<text id="venatrix_seed">영혼목 씨앗</text>
-		<text id="storehouse_seed">영혼 창고 씨앗</text>
-		<text id="spirit_arrow">영혼의 화살</text>
-		<text id="spirit_fox_helm">영혼여우 투구</text>
-		<text id="spirit_fish">영혼 물고기</text>
-		<text id="spirit_robes">영혼의 로브</text>
-		<text id="spirit_glaive">영혼 언월도</text>
-		<text id="spirit_gem2">진화된 영혼 덩어리</text>
-		<text id="spirit_chest">영혼상자</text>
-		<text id="spirit_orb">영혼 구슬</text>
+		<text id="venatrix_seed">정령수 씨앗</text>
+		<text id="storehouse_seed">정령 창고 씨앗</text>
+		<text id="spirit_arrow">정령의 화살</text>
+		<text id="spirit_fox_helm">정령여우 투구</text>
+		<text id="spirit_fish">정령 물고기</text>
+		<text id="spirit_robes">정령의 로브</text>
+		<text id="spirit_glaive">정령 언월도</text>
+		<text id="spirit_gem2">진화된 정령 덩어리</text>
+		<text id="spirit_chest">정령상자</text>
+		<text id="spirit_orb">정령 구슬</text>
 		<text id="dragon_seed">드래곤 씨앗</text>
 		<text id="magic_wyrm">자수정 웜</text>
 		<text id="magnewyrm">마그네웜</text>
@@ -565,7 +565,7 @@
 		<text id="element_table">원소 상성표</text>
 		<text id="magnestone">마그네스톤</text>
 		<text id="mars_fish">스티지언</text>
-		<text id="carapace_armor">Carapace Armor</text>
+		<text id="carapace_armor">갑각류 갑옷</text>
 		<text id="ilaser_trap">레이저 함정</text>
 		<text id="ftl_broom">별빛 마법빗자루</text>
 		
@@ -577,9 +577,9 @@
 		
 		<text id="earth_key">골렘 키</text>
 		<text id="megolemech">메골레메크</text>
-		<text id="mega_earth_armor">Mega Earth Armor</text>
-		<text id="mega_earth_helm">Mega Earth Helm</text>
-		<text id="mega_earth_axe">Mega Earth Axe</text>
+		<text id="mega_earth_armor">대형 대지의 갑옷</text>
+		<text id="mega_earth_helm">대형 대지의 투구</text>
+		<text id="mega_earth_axe">대형 대지의 도끼</text>
 		
 		<text id="arcade1_blueprint">슈팅게임 게임기 설계도</text>
 		<text id="arcade2_blueprint">플랫포머 게임기 설계도</text>
@@ -610,10 +610,10 @@
 		<text id="crystal_shard">수정 잎사귀</text>
 		<text id="monolith_seed">모노리스 씨앗</text>
 		<text id="beacon_book">신호기의 마법서</text>
-		<text id="torpedo2">Mega Torpedo</text>
-		<text id="ice_torpedo2">Mega Ice Torpedo</text>
-		<text id="fire_torpedo2">Mega Heat Torpedo</text>
-		<text id="water_torpedo2">Mega Water Torpedo</text>
+		<text id="torpedo2">대형 어뢰</text>
+		<text id="ice_torpedo2">대형 얼음 어뢰</text>
+		<text id="fire_torpedo2">대형 화염 어뢰</text>
+		<text id="water_torpedo2">대형 물의 어뢰</text>
 		<text id="sonar">소나</text>
 		<text id="dragon_armor2">드라코니언 아머</text>
 		
@@ -762,7 +762,7 @@
 		<text id="landmine">지뢰</text>
 		<text id="alter_gem">알터 젬</text>
 		<text id="focus_gem">포커스 젬</text>
-		<text id="spirit_gem">영혼 덩어리</text>
+		<text id="spirit_gem">정령 덩어리</text>
 		<text id="blood_gem">핏덩이</text>
 		<text id="baby_cannon">아기용 대포</text>
 		<text id="dragonflame">드래곤플레임</text>
@@ -778,7 +778,7 @@
 		<text id="water_axe">물의 도끼</text>
 		<text id="plant_axe">풀의 도끼</text>
 		<text id="drain_axe">흡수 도끼</text>
-		<text id="goggles">영혼 고글</text>
+		<text id="goggles">정령 고글</text>
 		<text id="furnace">화로</text>
 		<text id="campfire">모닥불</text>
 		<text id="bandage">붕대</text>
@@ -836,7 +836,7 @@
 		<text id="steel_hammer">강철 망치</text>
 		<text id="spider">거미</text>
 		<text id="hide_slot">슬롯 감추기</text>
-		<text id="spirit_detector">영혼 탐지기</text>
+		<text id="spirit_detector">정령 탐지기</text>
 		<text id="power_plant_blueprint">발전소 설계도</text>
 		<text id="workshop_upgrade">공장 설계도</text>
 		<text id="elevator_blueprint">엘리베이터 설계도</text>
@@ -853,7 +853,7 @@
 		<text id="block_stamina">[tile=stamina] [color=006600]기력[/color]을 사용해 방어한다.</text>
 		<text id="block_power">[tile=power] [color=444400]전력[/color]을 사용해 방어한다.</text>
 		<text id="omnidirectional">모든 방향의 공격을 방어한다.</text>
-		<text id="blockIgnoreArmor">영혼의 공격을 포함한 모든 공격을 방어한다.</text>
+		<text id="blockIgnoreArmor">정령의 공격을 포함한 모든 공격을 방어한다.</text>
 		<text id="patrol_boat">무기를 장착할 수 있는 빠르고 강력한 보트.</text>
 		<text id="sub">해저를 탐험하십시오!</text>
 		<text id="jet">하늘을 나십시오!</text>
@@ -896,10 +896,10 @@
 		<text id="translation_book">서로 다른 언어의 대화를 번역한다.</text>
 		<text id="coral_farm_seed">같은 섬의 [color=770000]산호 우리[/color]와 [color=770000]웜 우리[/color]를 관리할 수 있는 농장을 심는다.</text>
 		<text id="staff">마법서를 장착해, 대신 시전할 수 있다.</text>
-		<text id="venatrix_seed">영혼목을 심는다.</text>
+		<text id="venatrix_seed">정령수를 심는다.</text>
 		<text id="exo_shields">[item=exotic_matter]를 이용해 방어막을 전개한다.</text>
 		
-		<text id="storehouse_seed">영혼의 공허에서 물건을 저장하고 가져올 수 있는 창고를 심는다.</text>
+		<text id="storehouse_seed">정령의 공허에서 물건을 저장하고 가져올 수 있는 창고를 심는다.</text>
 		
 		<text id="earth_key">이걸로 무엇을 열 수 있을까?</text>
 		<text id="werewolf_ferocious_head">장착시 무서운 포효 능력을 추가한다.</text>
@@ -922,7 +922,7 @@
 		<text id="collect_rail">레일, 전선 및 사다리를 수집한다.</text>
 		<text id="storehouse">아이템을 보관할 수 있다.</text>
 		<text id="sign">메시지를 표시할 수 있다.</text>
-		<text id="view_hidden">영혼계를 볼 수 있다.</text>
+		<text id="view_hidden">정령의 세계를 볼 수 있다.</text>
 		<text id="tent">휴식을 취하고 [tile=stamina] [color=006600]기력[/color]을 회복한다.</text>
 		<text id="spawn">{item}을 낳는다.</text>
 		<text id="light">장비시 주변에 빛을 제공한다.</text>
@@ -962,20 +962,20 @@
 	</section>
 	<section id="achievement.names">
 		<text id="sub">해저탐험</text>
-		<text id="jeep">Off-roading</text>
-		<text id="jet">Jet Setter</text>
+		<text id="jeep">비포장 도로</text>
+		<text id="jet">제트족</text>
 		<text id="com_station">외계에서의 신호</text>
 		<text id="fighter">우주로 갈 준비</text>
-		<text id="kraken">The Depths</text>
+		<text id="kraken">깊은곳</text>
 		<text id="hut_upgrade">리모델링</text>
 		<text id="life_pod">해난 구조대</text>
 		<text id="clam_pearl">준보석</text>
 		<text id="pirates">졸리 로저</text>
 		<text id="worker_bot">자동화</text>
-		<text id="growth">Cultivation</text>
+		<text id="growth">경작지</text>
 		<text id="spellbook">마법사</text>
 		<text id="evo_gem">진화</text>
-		<text id="ice_boss">The Storm</text>
+		<text id="ice_boss">천둥번개</text>
 		<text id="dragon_ship">드래곤 우주선</text>
 		<text id="witch">흑마법</text>
 		<text id="space_station">우주정거장</text>
@@ -990,14 +990,14 @@
 		<text id="cyborg2">슈퍼 사이보그</text>
 		<text id="terraformer">신지구</text>
 		<text id="museum">수집가</text>
-		<text id="exo_pilot">Ready to Fly</text>
+		<text id="exo_pilot">날아갈 준비</text>
 		<text id="virus">미생물학</text>
 		<text id="nursery_crab">대학살</text>
 		<text id="final_boss">최종보스</text>
 		<text id="free_ship">구속 해제</text>
 		<text id="spirit_portal">새로운 세상</text>
-		<text id="spirit_tree">Ghost Thumb</text>
-		<text id="hq_structures">Turning Traitor</text>
+		<text id="spirit_tree">정령의 길</text>
+		<text id="hq_structures">배신자의 길</text>
 		<text id="master_spellcaster">아크메이지</text>
 		<text id="magne_queen_drill">궁극의 웜 드릴</text>
 		<text id="splicer">반GMO</text>
@@ -1005,21 +1005,21 @@
 		<text id="hut">피난처</text>
 		<text id="boar">즉석 고기</text>
 		<text id="storehouse">무한한 저장공간</text>
-		<text id="farm">Sharecropping</text>
-		<text id="orchard">Apples</text>
+		<text id="farm">소작인</text>
+		<text id="orchard">사과</text>
 		<text id="smelter">금속공학</text>
 		<text id="kitchen">맛있게 드세요!</text>
-		<text id="backpack">Heavy Lifter</text>
+		<text id="backpack">배낭</text>
 		<text id="workshop">제작할 시간</text>
 		<text id="wyrm">웜 슬레이어</text>
 		<text id="golem">골렘 슬레이어</text>
-		<text id="diamond">Shiny</text>
+		<text id="diamond">반짝반짝</text>
 		<text id="market">거래를 하러 왔다</text>
-		<text id="bigpack">Heavier Lifter</text>
+		<text id="bigpack">큰 배낭</text>
 		<text id="capture_wyrm">웜을 잡았다!</text>
 		<text id="pen">젖 짜는 돼지</text>
-		<text id="pizza">Mmm, Cheese</text>
-		<text id="dock">Distant Shores</text>
+		<text id="pizza">음, 치즈~</text>
+		<text id="dock">먼 바다</text>
 		<text id="boat">항해 개시</text>
 		<text id="lab">실험 개시</text>
 		<text id="wyrm_pen">무한한 피</text>
@@ -1035,9 +1035,9 @@
 		<text id="full_cyborg">사이보그화</text>
 		<text id="labyrinth">크라토스의 미궁</text>
 		<text id="dragon_flight">드래곤 길들이기</text>
-		<text id="wyrm_queen">Queenslayer</text>
+		<text id="wyrm_queen">여왕</text>
 		<text id="synthesizer">스테이크 합성</text>
-		<text id="forge">Forging Ahead</text>
+		<text id="forge">활화산 분출</text>
 		<text id="enchanted_chainsaw">기술적 마법</text>
 		<text id="elemental">원소술사</text>
 		<text id="purple_tree">철썩!</text>
@@ -1045,7 +1045,7 @@
 		<text id="time_manipulator">되감기</text>
 		<text id="oldone">적과의 조우</text>
 		<text id="blueprints">내 손으로 지어요</text>
-		<text id="skills">Powering Up</text>
+		<text id="skills">파워 업</text>
 		<text id="golemech">석상 파괴자</text>
 	</section>
 	<section id="achievement.descriptions">
@@ -1053,17 +1053,17 @@
 		<text id="jeep">[color=ff2222]SUV[/color]를 만든다.</text>
 		<text id="jet">[color=ff2222]제트기[/color]를 만든다.</text>
 		<text id="com_station">[color=ff2222]통신 기지[/color]를 건설한다.</text>
-		<text id="fighter">Repair the [color=ff2222]Fighter Escort[/color] ship.</text>
+		<text id="fighter">[color=ff2222]전투 순양함[/color]을 수리한다.</text>
 		<text id="kraken"> [color=ff2222]크라켄[/color]을 쓰러뜨린다.</text>
 		<text id="hut_upgrade">[color=ff2222]오두막[/color]을 업그레이드한다.</text>
 		<text id="life_pod">[color=ff2222]구명정[/color]을 발견한다.</text>
 		<text id="clam_pearl">[color=ff2222]진주[/color]를 발견한다.</text>
 		<text id="pirates">[color=ff2222]해적[/color] 퀘스트를 클리어한다.</text>
 		<text id="worker_bot">아무 [color=ff2222]로봇[/color]이나 제작한다.</text>
-		<text id="growth">Activate the [color=ff2222]Vine Copse[/color].</text>
+		<text id="growth">[color=ff2222]수호수[/color]를 활성화 한다.</text>
 		<text id="spellbook">첫 [color=ff2222]마법서[/color]를 제작한다.</text>
 		<text id="evo_gem">[color=ff2222]진화의 조각[/color]을 제련한다.</text>
-		<text id="ice_boss">Defeat the [color=ff2222]Hail Storm[/color].</text>
+		<text id="ice_boss">[color=ff2222]천둥번개[/color]를 해치운다.</text>
 		<text id="dragon_ship">[color=ff2222]드래곤 우주선[/color]으로 진화!</text>
 		<text id="witch">모든 마법사 장비를 획득한다.</text>
 		<text id="space_station">[color=ff2222]우주정거장[/color]을 건축한다.</text>
@@ -1074,21 +1074,21 @@
 		<text id="dragomech">[color=ff2222]드래고메크[/color]를 쓰러뜨린다.</text>
 		<text id="colony">[color=ff2222]캡틴A의 식민지[/color]를 발견한다.</text>
 		<text id="alien_cruiser">[color=ff2222]외계인 순양함[/color]을 쓰러뜨린다.</text>
-		<text id="exo_set">Obtain a full set of [color=ff2222]Exotic Matter[/color] equipment.</text>
+		<text id="exo_set">[color=ff2222]외우주 물질[/color]로 만든 장비세트를 착용한다.</text>
 		<text id="cyborg2">업그레이드된 사이보그 장비를 모두 장착한다.</text>
 		<text id="terraformer">[color=ff2222]테라포머[/color]를 건설한다.</text>
 		<text id="museum">[color=ff2222]박물관[/color]을 모두 완료한다.</text>
-		<text id="exo_pilot">Build an [color=ff2222]Exo Fighter[/color] for the [color=ff2222]Pilot[/color].</text>
+		<text id="exo_pilot">[color=ff2222]조종사[/color]로 부터 [color=ff2222]외우주 전투기[/color]를 제작한다.</text>
 		<text id="virus">[color=ff2222]외계인 본거지[/color]를 뚫는 바이러스를 발사한다.</text>
 		<text id="nursery_crab">[color=ff2222]외계인 보모[/color]를 쓰러뜨린다.</text>
 		<text id="final_boss">[color=ff2222]외계인 본거지[/color]의 중핵을 쓰러뜨린다.</text>
 		<text id="free_ship">[color=ff2222]적 드래곤 우주선[/color]을 풀어준다.</text>
-		<text id="spirit_portal">[color=ff2222]영혼의 문[/color]을 개방한다.</text>
-		<text id="spirit_tree">[color=ff2222]영혼목[/color]을 심는다.</text>
+		<text id="spirit_portal">[color=ff2222]정령의 문[/color]을 개방한다.</text>
+		<text id="spirit_tree">[color=ff2222]정령수[/color]를 심는다.</text>
 		<text id="hq_structures">[color=ff2222]외계인 본거지[/color]의 건물에게 공물을 바친다.</text>
 		<text id="master_spellcaster">[color=ff2222]마법서[/color]를 제작한다.</text>
-		<text id="magne_queen_drill">Craft an [color=ff2222]Amethyst Queen Drill[/color].</text>
-		<text id="splicer">Defeat the [color=ff2222]Splicer[/color].</text>
+		<text id="magne_queen_drill">[color=ff2222]자수정 퀸 드릴[/color]을 제작한다.</text>
+		<text id="splicer">[color=ff2222]스프라이서[/color]를 해치운다.</text>
 		<text id="draconian_wizard">[color=ff2222]불명예스러운 자[/color]를 쓰러뜨린다.</text>
 		<text id="hut">[color=ff2222]오두막[/color]을 수리한다.</text>
 		<text id="boar">[color=ff2222]멧돼지[/color]를 잡는다.</text>
@@ -1144,7 +1144,7 @@
 		<text id="fish.library">서재</text>
 		<text id="growth">수호수 활성화</text>
 		<text id="drag_factory_ruins">이 이상한 폐허가 무엇을 하는지 궁금하다...</text>
-		<text id="too_cold">The [color=770000]Dragon Ship Factory[/color] is too frozen to use...</text>
+		<text id="too_cold">[color=770000]드래곤 우주선 공장[/color]을 사용하기에는 너무 춥다...</text>
 		<text id="sleep_day">아침까지 자기</text>
 		<text id="sleep_night">저녁까지 자기</text>
 		<text id="o2_generator">산소 생성기</text>
@@ -1155,9 +1155,9 @@
 		<text id="researchers">연구원:</text>
 		<text id="coral_pen">산호 우리</text>
 		<text id="coral_farm">산호 농장</text>
-		<text id="alien_hq.library">HQ Library</text>
-		<text id="alien_hq.factory">HQ Dragon Chamber</text>
-		<text id="alien_hq.growth">HQ Talon Copse</text>
+		<text id="alien_hq.library">외계인 본진 연구소</text>
+		<text id="alien_hq.factory">외계인 본진 드래곤 공장</text>
+		<text id="alien_hq.growth">외계인 본진 갈퀴목</text>
 		<text id="magic_forge">용광로</text>
 		<text id="growth_name">마법 덩굴</text>
 		<text id="magic_house2">마법의 집</text>
@@ -1168,14 +1168,14 @@
 		<text id="colony.cafeteria2">AI 음식점</text>
 		<text id="research.arcade">게임기</text>
 		<text id="repair_colony_ship">다음 재료를 사용해서 [color=770000]식민지 함선[/color]을 수리하시겠습니까?</text>
-		<text id="colony.drone_factory">Colony Ship Drone Factory</text>
+		<text id="colony.drone_factory">식민지 우주선 드론 공장</text>
 		<text id="ask_uproot">이 건물을 정말로 뽑겠습니까?</text>
 		<text id="wheat">밀밭</text>
 		<text id="orchard">과수원</text>
 		<text id="sugar">사탕수수 밭</text>
 		<text id="cotton">목화 밭</text>
 		<text id="pumpkin">호박 밭</text>
-		<text id="add_field">Expand Farm</text>
+		<text id="add_field">농장 확장</text>
 		<text id="add_stall">축사 짓기</text>
 		<text id="pen">축사</text>
 		<text id="produces">-- 생산 --</text>
@@ -1224,9 +1224,9 @@
 		<text id="change_equip">장비 장착</text>
 		<text id="cafeteria">음식 주문하기</text>
 		<text id="change_modifier">탈것 개조</text>
-		<text id="spirit_storehouse">Manage Spirit Storage</text>
-		<text id="watch">Watch</text>
-		<text id="couch">Rest on Couch</text>
+		<text id="spirit_storehouse">정령 창고 관리</text>
+		<text id="watch">보기</text>
+		<text id="couch">소파에서 휴식</text>
 		<text id="hut">오두막에서 휴식</text>
 		<text id="storehouse">창고 열기</text>
 		<text id="workshop">제작</text>
@@ -1254,7 +1254,7 @@
 		<text id="elevator">호출</text>
 		<text id="warehouse">창고</text>
 		<text id="factory">공장</text>
-		<text id="golemech">골렘 팩토리를 비활성화시킨다.</text>
+		<text id="golemech">골렘 공장을 비활성화시킨다.</text>
 		<text id="golemech2">경고: 제어 불가능</text>
 		<text id="read">읽기</text>
 		<text id="operate">조작</text>
@@ -1325,7 +1325,7 @@
 		<text id="oxygen">산소를 전부 소모해서 체력을 잃습니다!</text>
 		<text id="crush">너무 깊게 잠수해서 체력을 잃습니다!</text>
 		<text id="growing">아직 수확할 수 없습니다! 나중에 다시 오세요.</text>
-		<text id="additions">No addition slots remaining!</text>
+		<text id="additions">더이상 추가할 슬롯이 없습니다!</text>
 		<text id="durability">너무 망가져서 쓸 수 없습니다!</text>
 		<text id="focus">클릭해서 활성화시키십시오.</text>
 		<text id="ingredients">재료가 부족합니다.</text>
@@ -1347,7 +1347,7 @@
 		<text id="structure_vehicle">탈것에 탄 상태로 건물을 지을 수 없습니다.</text>
 		<text id="plant_structure">다른 건물이나 작물과 겹쳐서 심을 수 없습니다.</text>
 		<text id="plant_grass">비옥한 토양에만 심을 수 있습니다.</text>
-		<text id="place_rooms">You must place this entirely in a single room.</text>
+		<text id="place_rooms">하나의 방에만 이것을 설치할 수 있습니다.</text>
 		<text id="no_effect">아무런 효과도 얻을 수 없습니다.</text>
 		<text id="drop_instead">대신 이것을 버리겠습니까?</text>
 		<text id="cannot_fire">{weapon}이(가) 없이 {projectile}을(를) 쏠 수 없습니다.</text>
@@ -1355,19 +1355,19 @@
 		<text id="max_items">아이템을 더 이상 넣을수 없습니다!</text>
 		<text id="max_fuel">연료를 더 이상 넣을수 없습니다!</text>
 		<text id="max_repair">이미 전부 수리된 항목입니다!</text>
-		<text id="max_rations">You cannot add any more rations!</text>
+		<text id="max_rations">더이상 배급할 수 없습니다!</text>
 		<text id="max_feed">사료를 더 이상 줄수 없습니다!</text>
 		<text id="max_coins">더 이상 금화를 담을 수 없습니다!</text>
 		<text id="send_bug_report">무언가에 오류가 있습니다! 버그를 제보 하시겠습니까?</text>
 		<text id="not_powered">전력이 없습니다!</text>
 		<text id="power">베터리 전력 부족!</text>
-		<text id="rations">Not enough rations!</text>
+		<text id="rations">식량이 부족합니다!</text>
 		<text id="fuel">연료 부족!</text>
 		<text id="no_item">{item}이(가) 없습니다.</text>
 		<text id="item_hungry">{item}은(는) 같이 여정을 떠나기엔 너무 배고픕니다!</text>
 		<text id="no_fill">이 타일을 메꿀 수 없습니다!</text>
-		<text id="load_fail">The core game failed to load. This usually means you are missing files, re-download and extract the entire contents of the zip archive into a folder.</text>
-		<text id="load_fail_js">The core game failed to load. This usually means you are missing files, try Shift+Refresh to do a hard reload of the page.</text>
+		<text id="load_fail">중요한 게임 파일이 로드되지 않았습니다. 스팀의 경우 무결성을 확인해 주시고, 일반 다운로드는 zip을 다시 풀어주세요.</text>
+		<text id="load_fail_js">중요한 게임 파일이 로드되지 않았습니다. Shift+Refresh을 눌러 페이지를 새로고침 해주세요.</text>
 		<text id="incomplete">미완성된 부분입니다. 다음 업데이트를 기대해 주세요!</text>
 		<text id="no_flying">비행 도중 사용할 수 없습니다!</text>
 		<text id="sleep_underwater">수중에서 잘 수 없습니다!</text>
@@ -1391,7 +1391,7 @@
 	</section>
 	<section id="market">
 		<text id="closed">밤에는 열지 않습니다.</text>
-		<text id="restock">곧 새로운 재고를 들일거에요!</text>
+		<text id="restock">새로운 재고가 들어왔어요!</text>
 		<text id="no_power">[color=770000]발전소[/color]가 동작하지 않다니, 믿을 수 없어! 이런 상황에서 어떻게 우리가 장사해야 하지?</text>
 	</section>
 	<section id="quests">
@@ -1404,13 +1404,13 @@
 		<text id="pirates">해적 퇴치</text>
 		<text id="go_east">마법 공부</text>
 		<text id="find_magic2">동쪽으로</text>
-		<text id="plant_boss">Defeat the Cultivator</text>
+		<text id="plant_boss">수호수 처치</text>
 		<text id="ice_boss">스톰 퇴치</text>
 		<text id="cultivator">수호수</text>
 		<text id="dragon_ship">드래곤 우주선 진화</text>
 		<text id="floating_island">용의 부유섬 찾기</text>
 		<text id="coral_pen">우리 관리</text>
-		<text id="revitalize_dragon">Revitalize Dragon</text>
+		<text id="revitalize_dragon">드래곤 돕기</text>
 		<text id="witch_potion">바다의 마녀</text>
 		<text id="wand">당신의 첫번째 지팡이</text>
 		<text id="sushi">해산물</text>
@@ -1427,18 +1427,18 @@
 		<text id="locate_hq">연구할 시간이야!</text>
 		<text id="exo_fighter">비행할 시간이야!</text>
 		<text id="virus">바이러스의 열쇠</text>
-		<text id="exo_factory">Exo Factory</text>
+		<text id="exo_factory">외우주 공장</text>
 		<text id="launch_virus">바이러스 발사</text>
 		<text id="alien_hq">외계인 본거지로 귀환</text>
 		<text id="defeat_cruisers">외계인 순양함 파괴 또는 무력화</text>
-		<text id="cyborg2">Cyborg Carapace</text>
+		<text id="cyborg2">사이보그 갑갑류</text>
 		<text id="exiled">그들의 비밀</text>
 		<text id="find_exiled">추방자 발견</text>
 		<text id="activate_hq_structures">마법의 거래</text>
-		<text id="spirit_hq">영혼의 길</text>
+		<text id="spirit_hq">정령의 길</text>
 		<text id="spirit_portal">드래곤과의 대화</text>
 		<text id="magne_queen_drill">지도자에게로</text>
-		<text id="splicer">Genes Spliced!</text>
+		<text id="splicer">유전자 조작!</text>
 		<text id="werewolf_claws">손톱갈기</text>
 		<text id="werewolf_body">근력 트레이닝</text>
 		<text id="acid_raptors">애시드 랩터</text>
@@ -1484,7 +1484,7 @@
 		<text id="boars">멧돼지 사냥</text>
 		<text id="wyrm_hive">웜 둥지</text>
 		<text id="find_wyrm_hive">웜 둥지 찾기</text>
-		<text id="spirit_gem">영혼의 힘</text>
+		<text id="spirit_gem">정령의 힘</text>
 		<text id="alter_gem">웜 연구</text>
 		<text id="oldone">마법의 힘</text>
 		<text id="minecart">레일 설치</text>
@@ -1499,7 +1499,7 @@
 		<text id="cultivator">이 [color=770000]수호수[/color]를 활성화 시키려합니다..</text>
 		<text id="dragon_ship">이 [object=fly_ancient_dragon]을 우주선으로 진화시키기를 원합니다.</text>
 		<text id="coral_pen">이 물고기와 산호로 실험하고 싶어합니다.</text>
-		<text id="revitalize_dragon">can help revitalize the [object=ancient_dragon_npc].</text>
+		<text id="revitalize_dragon">가 [object=ancient_dragon_npc]을 도우려 합니다.</text>
 		<text id="witch_potion">가 허리에 좋은 약을 원합니다.</text>
 		<text id="wand">가 나무 하나를 진화시키려고 합니다.</text>
 		<text id="sushi">이 [item=sushi]의 레시피를 알려주려 합니다.</text>
@@ -1513,20 +1513,20 @@
 		<text id="brilliant_potion">가 [item=brilliant_potion]을 만들고 싶어합니다.</text>
 		<text id="locate_hq">가[item=alien_locator]를 연구하고 싶어합니다.</text>
 		<text id="exo_fighter">이 조종할 [item=exo_fighter]를 원합니다.</text>
-		<text id="virus">wants to research a virus to breach the enemy HQ.</text>
-		<text id="exo_factory">wants to improve the factory to build [item=exo_drill]s.</text>
-		<text id="launch_virus">wants to launch the virus on the enemy HQ.</text>
-		<text id="cyborg2">want to research cyborg upgrades.</text>
-		<text id="exiled">suggests you seek [color=770000]The Exiled[/color] on Mars.</text>
-		<text id="activate_hq_structures">The HQ structures will make a deal to reveal their secrets.</text>
-		<text id="spirit_hq">will create a path to the enemy HQ for enough [color=770000][tile=spirit anim=spirit] Spirit[/color].</text>
-		<text id="spirit_portal">wants you to learn about magic from [color=770000]Dragon Ship[/color]s.</text>
-		<text id="magne_queen_drill">will help you craft a [item=magne_queen_drill].</text>
-		<text id="splicer">suggests you get [color=770000]Splicer[/color] to unsplice your genes.</text>
-		<text id="werewolf_claws">wants you to gather food and gain [item=werewolf_claws].</text>
-		<text id="werewolf_body">wants you to get used to your [item=werewolf_body].</text>
-		<text id="submersible">wants to build a [object=submersible] to explore the depths.</text>
-		<text id="monoliths">wants to activate all the [color=770000]Monoliths[/color].</text>
+		<text id="virus">가 적의 본진을 공격하기 위해 바이러스를 연구하려 합니다.</text>
+		<text id="exo_factory">가 [item=exo_drill]을 업그레이드 하려 합니다.</text>
+		<text id="launch_virus">가 적의 본진에 바이러스를 퍼트리려 합니다.</text>
+		<text id="cyborg2">가 사이보그 업그레이드를 연구하려 합니다.</text>
+		<text id="exiled">가 화성에서 [color=770000]추장자[/color]를 찾아달라 합니다.</text>
+		<text id="activate_hq_structures">본진 건물의 비밀을 알아내기 위해 거래를 합니다.</text>
+		<text id="spirit_hq">적의 본진으로 가기위해 [color=770000][tile=spirit anim=spirit] 정령[/color]으로 길을 만드려합니다.</text>
+		<text id="spirit_portal">가 [color=770000]드래곤 우주선[/color]에서 마법을 배우길 원합니다.</text>
+		<text id="magne_queen_drill">가 [item=magne_queen_drill]을 만드는걸 도와주려합니다.</text>
+		<text id="splicer">[color=770000]스플라이서[/color]에게 당신의 유전자를 제거하길 제안합니다.</text>
+		<text id="werewolf_claws">가 음식을 모아 [item=werewolf_claws]를 얻으라 합니다.</text>
+		<text id="werewolf_body">가 [item=werewolf_body]에 익숙해지라 합니다.</text>
+		<text id="submersible">가 [object=submersible]을 지어 깊은 곳으로 탑사하려 합니다.</text>
+		<text id="monoliths">가 모든[color=770000]모노리스[/color]를 활성화 하라 합니다.</text>
 		<text id="colony_ship">wants to repair a [color=770000]Colony Ship[/color].</text>
 		<text id="hut">폭풍을 피할수 있도록 [color=550000]오두막[/color]을 수리하세요.</text>
 		<text id="storehouse">가 [color=550000]창고[/color]를 지으려 합니다.</text>
@@ -1558,7 +1558,7 @@
 		<text id="fisherman_cat">가 [item=toothfish]를 좋아하는 자신의 [item=cat]를 찾아주길 원합니다.</text>
 		<text id="bandits">상인들이 물건을 훔치는 강도들을 퇴치해주길 원합니다.</text>
 		<text id="wyrm_hive">가 [item=wyrm]의 비밀을 풀고싶어합니다.</text>
-		<text id="spirit_gem">가 [item=spirit_gem]으로 영혼을 잡아보라 합니다.</text>
+		<text id="spirit_gem">가 [item=spirit_gem]으로 정령을 잡아보라 합니다.</text>
 		<text id="alter_gem">가 [item=wyrm] 연구를 끝낼 무언가를 원합니다!</text>
 		<text id="oldone">가 큰 마력이 느껴지는 곳을 찾아달라고 합니다.</text>
 		<text id="minecart">가 [item=minecart]를 설치해 채광을 쉽게 하고 싶어 합니다.</text>
@@ -1619,9 +1619,9 @@
 		<text id="pilot">조종사</text>
 		<text id="curator">큐레이터</text>
 		<text id="exiled">추방자</text>
-		<text id="spirit_guide">영혼 인도자</text>
+		<text id="spirit_guide">정령 인도자</text>
 		<text id="unnature.ranger">궁수</text>
-		<text id="unnature.splicer">Splicer</text>
+		<text id="unnature.splicer">스플라이서</text>
 		<text id="depths.explorer">탐험가</text>
 		<text id="talk">대화</text>
 		<text id="grab">Grab</text>
@@ -1845,7 +1845,7 @@
 		<text id="axe2">이것에는 고대의 마법이 깃들어 있어요. 지금은 거의 사라졌지만... 어떤 마법의 재료를 가져오면 제가 고칠 수 있겠어요.</text>
 		<text id="axe3">[item=fire_tusk]... 어떤 몬스터에게서 얻은건가요? 마치 [item=rusty_axe]랑 공명하고 있는것 같아요, 아마도 이거 우리가 찾던 마법 재료일 거에요!</text>
 		<text id="axe4">해냈어요! 누가 [item=thunder_axe]를 만들었을까요? 그리고 얼마나 오래된 물건일까요? 만약 당신이 더 만들고 싶다면 제가 실험실에 제작법을 두었으니 한번 해보세요.</text>
-		<text id="shadow_cape1">[item=dark_fur]좀 봐보죠! 이건 영혼과 산자의 세계와의 경계에 존재하는것 같군요...</text>
+		<text id="shadow_cape1">[item=dark_fur]좀 봐보죠! 이건 정령과 산자의 세계와의 경계에 존재하는것 같군요...</text>
 		<text id="shadow_cape2">좀 더 연구해봐야 겠지만, 다른 사람 눈에 안보일수 있는 [item=shadow_cape]를 만들 수 있겟군요. 제 실험실에 제작법을 등록해 두었어요.</text>
 		<text id="magic_intro1">이 섬은 마력으로 넘쳐 흐르고 있어요. 적절한 곳에 온 것 같네요!</text>
 		<text id="magic_intro2">이런 마력은 저번에도 느껴본적 있어요. 여기 있는 구조물은 일부분 유기물로 이루어져 있고 전부 동면중이네요. 깨울 필요가 있어 보여요.</text>
@@ -2579,7 +2579,7 @@
 		<text id="dragon_bomber">드래곤 폭격기</text>
 		<text id="dragon_cruiser">드래곤 순양함</text>
 		<text id="research">이동식 연구소</text>
-		<text id="spirit">영혼계</text>
+		<text id="spirit">정령세계</text>
 		<text id="rename">이 지역의 이름을 무엇으로 하시겠습니까?</text>
 		<text id="start">시작의 섬</text>
 		<text id="science1">노을빛 피난처</text>
