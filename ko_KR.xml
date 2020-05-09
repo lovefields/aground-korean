@@ -189,7 +189,7 @@
 		<text id="damage">공격력</text>
 		<text id="capture">포획</text>
 		<text id="capture_type">포획 유형</text>
-		<text id="spirit">기</text>
+		<text id="spirit">영력</text>
 		<text id="spirits">정령</text>
 		<text id="flight">비행 높이:</text>
 		<text id="depth">잠수 깊이:</text>
@@ -324,12 +324,11 @@
 		<text id="merge_coins">금화 정리</text>
 	</section>
 	<section id="item.names">
-		<text id="spirit_armor">Spirit Armor</text>
-		<text id="spirit_bow">Spirit Bow</text>
-		<text id="spirit_scythe">Spirit Scythe</text>
-		<text id="spirit_box">Spirit Box</text>
-		<text id="spirit_cape">Spirit Cape</text>
-		
+		<text id="spirit_armor">정령 갑옷</text>
+		<text id="spirit_bow">정령의 활</text>
+		<text id="spirit_scythe">정령의 낫</text>
+		<text id="spirit_box">정령의 상자</text>
+		<text id="spirit_cape">정령의 망토</text>
 		<text id="pearl">진주</text>
 		<text id="fin">지느러미</text>
 		<text id="ship_parts">최첨단 부품</text>
@@ -770,7 +769,7 @@
 		<text id="alter_gem">알터 젬</text>
 		<text id="focus_gem">포커스 젬</text>
 		<text id="spirit_gem">정령 덩어리</text>
-		<text id="blood_gem">핏덩이</text>
+		<text id="blood_gem">혈석</text>
 		<text id="baby_cannon">아기용 대포</text>
 		<text id="dragonflame">드래곤플레임</text>
 		<text id="wyrm_drill">웜 드릴</text>
@@ -1623,7 +1622,7 @@
 		<text id="fish_librarian">물고기 사서</text>
 		<text id="fish_villager">물고기 주민</text>
 		<text id="sea_witch">바다의 마녀</text>
-		<text id="scavenger">Scavenger</text>
+		<text id="scavenger">스캐빈저</text>
 		<text id="scavenger_hidden">알수없음</text>
 		<text id="professor">교수</text>
 		<text id="president">기장</text>
