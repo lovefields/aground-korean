@@ -40,7 +40,7 @@
 		<text id="full_heal">체력과 기력이 완전히 회복되었습니다.</text>
 		
 		<text id="terraformer">테라포머</text>
-		<text id="exo_factory">Exo 공장</text>
+		<text id="exo_factory">외우주 공장</text>
 		
 		<text id="research_item">{item} 연구</text>
 		<text id="research_complete">{item} 연구가 완료되었습니다!\n레시피가 {structure}에 추가됩니다.</text>
@@ -132,7 +132,7 @@
 		<text id="corrupt_slot">망가진 슬롯</text>
 		<text id="overwrite">정말로 덮어쓰시겠습니까?</text>
 		<text id="none">없음</text>
-		<text id="addition_slots">Fields:</text>
+		<text id="addition_slots">필드:</text>
 		<text id="placed">{item}을(를) 배치했습니다.</text>
 		<text id="level_up">레벨 업!</text>
 		<text id="level">레벨:</text>
@@ -386,14 +386,12 @@
 		<text id="laser_gun">레이저 건</text>
 		<text id="worker_bot">작업 로봇</text>
 		<text id="war_bot">전투 로봇</text>
-		
 		<text id="earth_trap">흙덫</text>
 		<text id="fire_trap">화염덫</text>
 		<text id="water_trap">수중덫</text>
 		<text id="ice_trap">얼음덫</text>
 		<text id="plant_trap">식물덫</text>
 		<text id="enchanted_net">마법 덫</text>
-		
 		<text id="fire_bird">코카트리스</text>
 		<text id="crawler">크롤러</text>
 		<text id="icer">아이서</text>
@@ -401,7 +399,6 @@
 		<text id="fire_boar">파이어 보어</text>
 		<text id="yeti">예티</text>
 		<text id="shadow_cat">흙표범</text>
-		
 		<text id="forge_seed">용광로 씨앗</text>
 		<text id="synthesizer_seed">합성기 씨앗</text>
 		<text id="time_manipulator_seed">시간 조작기 씨앗</text>
@@ -410,7 +407,6 @@
 		<text id="coral_pen_seed">산호 우리 씨앗</text>
 		<text id="house_seed">마법의 집 씨앗</text>
 		<text id="house_seed2">진화된 마법집 씨앗</text>
-		
 		<text id="water_helm">물 헬멧</text>
 		<text id="coral_bow">산호 활</text>
 		<text id="coral_sword">산호 검</text>
@@ -419,7 +415,6 @@
 		<text id="evo_gem">진화의 돌</text>
 		<text id="blue_claw">파란 집게발</text>
 		<text id="clam_gun">조개총</text>
-		
 		<text id="fish_scale">비늘</text> 
 		<text id="fire_book">화염의 마법서</text>
 		<text id="water_book">물줄기의 마법서</text>
@@ -434,19 +429,16 @@
 		<text id="light_book">발광의 마법서</text>
 		<text id="heal_book">치유의 마법서</text>
 		<text id="shield_book">수호의 마법서</text>
-		
 		<text id="meteor_book">유성의 마법서</text>
 		<text id="flood_book">홍수의 마법서</text>
 		<text id="growth_book">과대성장의 마법서</text>
 		<text id="spikes_book">지각변동의 마법서</text>
 		<text id="tornado_book">폭풍의 마법서</text>
-		
 		<text id="scale_fish">비늘고기</text>
 		<text id="snaptopus">깨물문어</text>
 		<text id="minotaur">미노타우르스</text>
 		<text id="queen_drill">퀸 드릴</text>
 		<text id="revitalize_potion">활력의 포션</text>
-		
 		<text id="wand">마법 막대기</text>
 		<text id="flying_broom">마법 빗자루</text>
 		<text id="robes">로브</text>
@@ -454,11 +446,9 @@
 		<text id="black_cat">검은 고양이</text>
 		<text id="pumpkin_helm">호박모자</text>
 		<text id="scale_mail">비늘 갑옷</text>
-		
 		<text id="ladder">강철 사다리</text>
 		<text id="walkway">강철 발판</text>
 		<text id="grass_walkway">잔디 발판</text>
-		
 		<text id="bunker_blueprint">벙커 설계도</text>
 		<text id="bunker_kitchen_blueprint">벙커 부엌 설계도</text>
 		<text id="bunker_depot_blueprint">벙커 창고 설계도</text>
@@ -467,13 +457,11 @@
 		<text id="bunker_farm_blueprint">벙커 농장 설계도</text>
 		<text id="earth_lab_blueprint">드론 공장 설계도</text>
 		<text id="vending_machine_blueprint">자판기 설계도</text>
-		
 		<text id="small_module_blueprint">소형 우주정거장 모듈 설계도</text>
 		<text id="large_module_blueprint">대형 우주정거장 모듈 설계도</text>
 		<text id="connector_module_blueprint">우주정거장 연결 모듈설계도</text>
 		<text id="station_dock_blueprint">우주선 선착장 설계도</text>
 		<text id="xlarge_module_blueprint">초대형 우주정거장 모듈 설계도</text>
-		
 		<text id="exotic_matter">외우주 물질</text>
 		<text id="magnegem">자성 덩어리</text>
 		<text id="chromium">크로뮴</text>
@@ -484,38 +472,31 @@
 		<text id="antimatter_missile">반물질 미사일</text>
 		<text id="o2_generator_blueprint">산소 생성기 설계도</text>
 		<text id="jumpship">소형 우주선</text>
-		
 		<text id="dragon_ship.cannon">헤비 파이어</text>
 		<text id="dragon_ship.gun">래피드 파이어</text>
 		<text id="dragon_ship.burst">버스트 파이어</text>
 		<text id="mini_synthesizer">소형 합성기</text>
-		
 		<text id="dragon_backpack">드래곤 우주선 심장</text>
-		
 		<text id="steel_fence">강철 울타리</text>
 		<text id="ai_core">AI 코어</text>
 		<text id="keycard">키카드</text>
 		<text id="keycard1">교수의 키카드</text>
 		<text id="disabled_keycard">망가진 키카드</text>
-		
 		<text id="spacefarer">자동화 수트</text>
 		<text id="drone.ship">드론 우주선</text>
 		<text id="drone.drill">드론 드릴</text>
 		<text id="drone.sub">드론 잠수함</text>
 		<text id="drone.scout">드론 정찰기</text>
 		<text id="drone_control">드론 컨트롤러</text>
-		
 		<text id="blueprint_paper">고분자 용지</text>
 		<text id="blueprint_printer_blueprint">설계도 제작기 설계도</text>
 		<text id="paper_maker_blueprint">고분자 중합기 설계도</text>
 		<text id="particle_accelerator_blueprint">입자가속기 설계도</text>
 		<text id="interstellar_teleportal_blueprint">성간 텔레포탈 설계도</text>
 		<text id="brilliant_potion">찬란한 포션</text>
-		
 		<text id="hq_library_seed">HQ 연구실 씨앗</text>
 		<text id="hq_factory_seed">HQ Dragon Chamber 씨앗</text>
 		<text id="hq_growth_seed">HQ Talon Copse 씨앗</text>
-		
 		<text id="cyborg_plate">사이보그 흉갑</text>
 		<text id="cyborg_visor">사이보그 바이저</text>
 		<text id="cyborg_railgun">사이보그 레일건</text>
@@ -527,9 +508,7 @@
 		<text id="exo_gun">외우주 총</text>
 		<text id="exo_sword">외우주 소드</text>
 		<text id="exo_pack">외우주 가방</text>
-		
 		<text id="alien_locator">외계인 탐색기</text>
-		
 		<text id="exo_fighter">외우주 전투기</text>
 		<text id="exo_mech">외우주 기계</text>
 		<text id="exo_mech.chainsaw">외우주 기계 전기톱</text>
@@ -537,24 +516,20 @@
 		<text id="exo_shields">외우주 애너지 방패</text>
 		<text id="exo_mech.light">광선 방출기</text>
 		<text id="dragomech">드래고메크</text>
-		
 		<text id="terraformer_blueprint">테라포머 설계도</text>
 		<text id="exo_factory_blueprint">외우주 공장 설계도</text>
-		
 		<text id="alien_heart">외계인 심장</text>
 		<text id="carapace">갑각류</text>
-		
 		<text id="hoarder_gun">Hoarder Magnum</text>
 		<text id="hoarder_shield">Hoarder Shield</text>
 		<text id="hoarder_armor">Hoarder Suit</text>
 		<text id="hoarder_hat">Hoarder Helm</text>
 		<text id="hoarder_backpack">Hoarder Backpack</text>
-		
 		<text id="translation_book">번역의 마법서</text>
 		<text id="magne_queen_drill">자수정 퀴 드릴</text>
 		<text id="coral_farm_seed">산호 농장 씨앗</text>
 		<text id="staff">마법 지팡이</text>
-		<text id="venatrix_seed">정령수 씨앗</text>
+		<text id="venatrix_seed">정령 나무 씨앗</text>
 		<text id="storehouse_seed">정령 창고 씨앗</text>
 		<text id="spirit_arrow">정령의 화살</text>
 		<text id="spirit_fox_helm">정령여우 투구</text>
@@ -574,24 +549,19 @@
 		<text id="carapace_armor">갑각류 갑옷</text>
 		<text id="ilaser_trap">레이저 함정</text>
 		<text id="ftl_broom">별빛 마법빗자루</text>
-		
 		<text id="house_upgrade">우주집 설계도</text>
 		<text id="sci_light_blueprint">가로등 설계도</text>
 		<text id="weap_market_blueprint">AI 무기상점 설계도</text>
 		<text id="mineral_market_blueprint">AI 광물점 설계도</text>
 		<text id="cafeteria_blueprint">AI 음식점 설계도</text>
-		
 		<text id="earth_key">골렘 키</text>
 		<text id="megolemech">메골레메크</text>
 		<text id="mega_earth_armor">대형 대지의 갑옷</text>
 		<text id="mega_earth_helm">대형 대지의 투구</text>
 		<text id="mega_earth_axe">대형 대지의 도끼</text>
-		
 		<text id="arcade1_blueprint">슈팅게임 게임기 설계도</text>
 		<text id="arcade2_blueprint">플랫포머 게임기 설계도</text>
-		
 		<text id="shovel2">크로뮴 삽</text>
-		
 		<text id="meat_tree_seed">고기나무 씨앗</text>
 		<text id="werewolf_paws">앞발</text>
 		<text id="werewolf_claws">예리한 손톱</text>
@@ -610,7 +580,6 @@
 		<text id="werewolf_cunning_head_dna">교활한 머리 DNA</text>
 		<text id="werewolf_ferocious_head_dna">사나운 머리 DNA</text>
 		<text id="acid_raptor">애시드 랩터</text>
-		
 		<text id="moissanite">모이사나이트</text>
 		<text id="bone_shard">뼛조각</text>
 		<text id="crystal_shard">수정 잎사귀</text>
@@ -622,9 +591,7 @@
 		<text id="water_torpedo2">대형 물의 어뢰</text>
 		<text id="sonar">소나</text>
 		<text id="dragon_armor2">드라코니언 아머</text>
-		
 		<text id="advanced_net">고급 덫</text>
-		
 		<text id="drone_factory_upgrade">드론 공장 업그레이드</text>
 		<text id="wood">나무</text>
 		<text id="coal">석탄</text>
@@ -884,29 +851,21 @@
 		<text id="jump">행성간 이동이 가능하다.</text>
 		<text id="fence_underground">적의 접근을 막는다.\n지하에 설치할 수 있다.</text>
 		<text id="drone_control">설치된 드론을 어느 항성계에서든 원격 조작할 수 있다.</text>
-		
 		<text id="meteor_book">자신 주변에 무작위로 떨어지는 강력한 운석 10개를 소환한다.</text>
 		<text id="flood_book">주변 적에게 지속 대미지를 입히는 폭풍우를 소환한다.</text>
 		<text id="growth_book">식물을 과대성장시켜 체력을 흡수하는 넝쿨과 치명적인 포자를 뿌리는 꽃을 소환한다.</text>
 		<text id="spikes_book">치명적인 대지의 송곳 6개로 근처의 적을 꿰뚫는다.</text>
 		<text id="tornado_book">적을 추적하는 빙결의 폭풍을 소환한다.</text>
-		
 		<text id="auto_fire">공격이 활성화되었을 때 1초마다 자동으로 적을 공격한다.</text>
-		
 		<text id="alien_locator">우주 지도에 외계인 기술을 확인하는 표식을 추가한다.</text>
-		
 		<text id="alien_heart">심장이 계속 뛰고 있다... 어떻게 그럴 수 있지?</text>
-		
 		<text id="use_item">사용: {item}</text>
-		
 		<text id="translation_book">서로 다른 언어의 대화를 번역한다.</text>
 		<text id="coral_farm_seed">같은 섬의 [color=770000]산호 우리[/color]와 [color=770000]웜 우리[/color]를 관리할 수 있는 농장을 심는다.</text>
 		<text id="staff">마법서를 장착해, 대신 시전할 수 있다.</text>
-		<text id="venatrix_seed">정령수를 심는다.</text>
+		<text id="venatrix_seed">정령 나무를 심는다.</text>
 		<text id="exo_shields">[item=exotic_matter]를 이용해 방어막을 전개한다.</text>
-		
 		<text id="storehouse_seed">정령의 공허에서 물건을 저장하고 가져올 수 있는 창고를 심는다.</text>
-		
 		<text id="earth_key">이걸로 무엇을 열 수 있을까?</text>
 		<text id="werewolf_ferocious_head">장착시 무서운 포효 능력을 추가한다.</text>
 		<text id="dexterous_paws_dna">웨어울프의 앞발을 섬세한 앞발로 진화시켜, 어떠한 장비도 다룰 수 있게 된다.</text>
@@ -939,7 +898,7 @@
 		<text id="cost_per_s_night">{value} per sec night.</text>
 		<text id="cost_per_s_injured">{value}/s (부상시)</text>
 		<text id="cost_per_s_damaged">{value}/s (연료가 가득차지 않은경우)</text>
-		<text id="cost_per_s_undamaged">{value} per sec when full.</text>
+		<text id="cost_per_s_undamaged">{value}/s (연료가 가득 찬 경우)</text>
 		<text id="hide">장착한 사람을 숨긴다.</text>
 		<text id="critical">반드시 치명상을 입힌다.</text>
 		<text id="max_weight">최대 무게</text>
@@ -966,7 +925,7 @@
 		<text id="swimming">수영</text>
 		<text id="hammer">건설 중인 건물을 빠르게 건축한다.</text>
 		<text id="change_element">속성을 번경할 수 있다.</text>
-		<text id="spirit_box">Can store and retrieve items (up to 5k weight) from the spirit void for 5 [color=770000][tile=spirit anim=spirit] Spirit[/color].</text>
+		<text id="spirit_box">다섯 [color=770000][tile=spirit anim=spirit] 정령[/color]의 공허에서 아이템(최대 5k)을 보관할 수 있다.</text>
 	</section>
 	<section id="achievement.names">
 		<text id="sub">해저탐험</text>
@@ -1092,7 +1051,7 @@
 		<text id="final_boss">[color=ff2222]외계인 본거지[/color]의 중핵을 쓰러뜨린다.</text>
 		<text id="free_ship">[color=ff2222]적 드래곤 우주선[/color]을 풀어준다.</text>
 		<text id="spirit_portal">[color=ff2222]정령의 문[/color]을 개방한다.</text>
-		<text id="spirit_tree">[color=ff2222]정령수[/color]를 심는다.</text>
+		<text id="spirit_tree">[color=ff2222]정령 나무[/color]를 심는다.</text>
 		<text id="hq_structures">[color=ff2222]외계인 본거지[/color]의 건물에게 공물을 바친다.</text>
 		<text id="master_spellcaster">[color=ff2222]마법서[/color]를 제작한다.</text>
 		<text id="magne_queen_drill">[color=ff2222]자수정 퀸 드릴[/color]을 제작한다.</text>
@@ -1159,7 +1118,7 @@
 		<text id="unlock">{item}으로 잠긴 문을 열으시겠습니까?</text>
 		<text id="missing_key">이 문을 여는데 {item}이(가) 필요합니다.</text>
 		<text id="cost">비용</text>
-		<text id="research_lab">Research Lab</text>
+		<text id="research_lab">연구실</text>
 		<text id="researchers">연구원:</text>
 		<text id="coral_pen">산호 우리</text>
 		<text id="coral_farm">산호 농장</text>
@@ -1396,8 +1355,8 @@
 		<text id="collect_progress">정말로 이 항목을 없애시겠습니까? 모든 진행 상황이 취소됩니다.</text>
 		<text id="inventory_full">아이템을 더 이상 보관할 수 없습니다!</text>
 		<text id="cooldown">지금은 사용할 수 없습니다. 잠시 후 다시 사용하십시오.</text>
-		<text id="spirit">Not enough [color=770000][tile=spirit anim=spirit] Spirit[/color]!</text>
-		<text id="lose_spirit">{amt} [color=770000][tile=spirit anim=spirit] Spirit[/color]</text>
+		<text id="spirit">[color=770000][tile=spirit anim=spirit] 영력[/color]이 부족합니다!</text>
+		<text id="lose_spirit">{amt} [color=770000][tile=spirit anim=spirit] 영력[/color]</text>
 	</section>
 	<section id="market">
 		<text id="closed">밤에는 열지 않습니다.</text>
@@ -1522,9 +1481,9 @@
 		<text id="research_lab">가 [color=770000]이동형 연구소[/color]를 만들고 싶어합니다.</text>
 		<text id="brilliant_potion">가 [item=brilliant_potion]을 만들고 싶어합니다.</text>
 		<text id="locate_hq">가[item=alien_locator]를 연구하고 싶어합니다.</text>
-		<text id="exo_fighter">이 조종할 [item=exo_fighter]를 원합니다.</text>
-		<text id="virus">가 적의 본진을 공격하기 위해 바이러스를 연구하려 합니다.</text>
-		<text id="exo_factory">가 [item=exo_drill]을 업그레이드 하려 합니다.</text>
+		<text id="exo_fighter">가 조종할 [item=exo_fighter]를 원합니다.</text>
+		<text id="virus">이 적의 본진을 공격하기 위해 바이러스를 연구하려 합니다.</text>
+		<text id="exo_factory">이 [item=exo_drill]을 업그레이드 하려 합니다.</text>
 		<text id="launch_virus">가 적의 본진에 바이러스를 퍼트리려 합니다.</text>
 		<text id="cyborg2">가 사이보그 업그레이드를 연구하려 합니다.</text>
 		<text id="exiled">가 화성에서 [color=770000]추장자[/color]를 찾으라 합니다.</text>
@@ -1564,7 +1523,7 @@
 		<text id="factory">이 [color=550000]공장[/color]을 건설하려 합니다.</text>
 		<text id="elevator">이 [color=550000]엘리베이터[/color]를 건설하려 합니다.</text>
 		<text id="mirrows">이 미로우 부부와 협상하길 원합니다.</text>
-		<text id="mirrows2">wants you to find something special to sway the Mirrows.</text>
+		<text id="mirrows2">이 미로우를 회유할만한 것을 찾아주길 원합니다.</text>
 		<text id="fisherman_cat">가 [item=toothfish]를 좋아하는 자신의 [item=cat]를 찾아주길 원합니다.</text>
 		<text id="bandits">상인들이 물건을 훔치는 강도들을 퇴치해주길 원합니다.</text>
 		<text id="wyrm_hive">가 [item=wyrm]의 비밀을 풀고싶어합니다.</text>
@@ -1634,7 +1593,7 @@
 		<text id="unnature.splicer">스플라이서</text>
 		<text id="depths.explorer">탐험가</text>
 		<text id="talk">대화</text>
-		<text id="grab">Grab</text>
+		<text id="grab">그랩</text>
 		<text id="builder">건축가</text>
 		<text id="miner">광부</text>
 		<text id="farmer">농부</text>
@@ -1649,11 +1608,11 @@
 		<text id="no_alchemist1">여긴 뭐지?</text>
 		<text id="no_alchemist2">잘 모르겠네요... 흔들리는 불꽃을 따라왔을 뿐이에요. 폭격에는 안전할 것 같지만 별로...</text>
 		<text id="bombardment">더이상 나빠질수 없다고 생각될때... 그냥 이 동굴에 들어오게 해줘... 아, 잠깐, 저 들어왔어요!</text>
-		<text id="win1">The war is over?! Then let’s get out of this cave! I can’t wait to see the sun again!</text>
-		<text id="win2">This calls for a celebration! Time to make some [item=pizza]!</text>
-		<text id="homeworld1">Will there be lots of food there?</text>
-		<text id="homeworld2">You bet!</text>
-		<text id="homeworld3">Then I’m off! See you there!</text>
+		<text id="win1">전쟁이 끝났다구요?! 그럼 이 동굴에서 어서 나가요! 빨리 태양을 다시 보고싶어요!</text>
+		<text id="win2">축제를 벌이죠! [item=pizza]를 만들 시간이에요!</text>
+		<text id="homeworld1">거기에 음식이 많을까요?</text>
+		<text id="homeworld2">물론이죠!</text>
+		<text id="homeworld3">저는 가볼게요! 거기서 뵈요!</text>
 		<text id="intro">당신 정말로 여기서 살아남을 수 있다고 생각해요? 가망이 없어요.</text>
 		<text id="introduce1">당신은 솜씨좋은 건축가 아니에요? 우리가 자원과 식량을 보관할 수있는 건축물을 짓는게 어떨까요?</text>
 		<text id="introduce2">에휴. [item=wood] [var=quest.storehouse.wood]개와 [item=berries] [var=quest.storehouse.berries]개가 있다면 [color=770000]창고[/color]를 제대로 만들 수 있을 것 같아요.</text>
@@ -1669,8 +1628,8 @@
 		<text id="storehouse3">자 다 지었어요! 만족 스럽지않나요?</text>
 		<text id="storehouse4">네... 확실히, 이건 쓸만하겠네요. 이제 우리는 무겁게 들고다니지 않아도 되겠어요.</text>
 		<text id="storehouse5">우리는 "전부 이동" 버튼을 이용해서 빠르게 옮길수 있어요, 그리고 [key=quest]키를 사용해서 아이템에 별표를 할수 있을거에요. 별표된 아이템은 "전부 이동" 시 이동되지 않아요.</text>
-		<text id="farmer">We should make a deal with the [object=farmer], I bet he could help us grow some tasty food.</text>
-		<text id="miner">Did you see that [object=miner] emerge from underground? You should see what she wants.</text>
+		<text id="farmer">우리는 [object=farmer]와 거래를 해야해요, 저는 그가 맛있는 음식을 만들 수 있을거라고 확신해요.</text>
+		<text id="miner">지하에서 [object=miner]가 나오는걸 봤나요? 그녀가 무엇을 원하는지 보죠.</text>
 		<text id="kitchen1">[color=770000]부엌[/color]을 짓는게 어때요? [item=meat]는 좋지만 요리를 하면 좀더 좋을 거에요.</text>
 		<text id="kitchen2">[var=quest.kitchen.wood] [item=wood]와 [var=quest.kitchen.coal] [item=coal]이 있다면 [color=770000]부엌[/color]을 지을수 있어요.</text>
 		<text id="kitchen3">필요한 건 전부 모은것 같네요. 이제 [color=770000]부엌[/color]을 지을수 있어요!</text>
@@ -1683,14 +1642,14 @@
 		<text id="farm">배가 고파요. [color=770000]농장[/color]을 곧 지을 수 있을 거에요!</text>
 	</section>
 	<section id="farmer">
-		<text id="bombardment">I really can't think of anything positive to say... if we're going to be attacked no matter where we go, we should've just stayed on Earth and died with our planet.</text>
+		<text id="bombardment">긍정적인 생각이라곤 할수가 없군요...어디에 있더라고 공격받을 거였다면 차라리 지구에서 행성과 함께 최후를 맞이하는게 나았어요.</text>
 		<text id="bombardment2">폭격기는 사라졌지만 우리가 여기있다는걸 알게되었으니, 더 많이 몰려올거에요. 저희는 새로운 지하기지를 최대한 활용하는게 좋겟군요!</text>
-		<text id="win1">See, I told you it wasn’t the end of the world! As long as there’s life, there’s hope!</text>
-		<text id="win2">I never would’ve guessed it when we crash landed here, but this planet has really started to feel like a home. Not just a place we can live, but a place we want to live.</text>
-		<text id="win3">It’ll take a lot of work to get this planet back to what it was in its glory days, but I’m up for the challenge!</text>
-		<text id="win4">We’ll need a [color=770000]Terraformer[/color] if we want to make this land fertile again.</text>
-		<text id="homeworld1">Excellent, with so few of us left, we have to stick together!</text>
-		<text id="homeworld2">I’ll head there now, I’ll bet they could use someone who knows a thing or two about plants!</text>
+		<text id="win1">봐요! 세상은 끝나지 않았어요! 살아있는 한 희망은 있다니까요?</text>
+		<text id="win2">처음 여기 추락 했을때는 상상도 못했지만, 이 행성은 정말 집처럼 느껴지기 시작했어요. 단지 살수 있는곳이 아니라 살고 싶은 곳이요.</text>
+		<text id="win3">이 행성을 전성기 시절로 되돌리려면 많은 시간이 필요할거에요. 하지만 저는 준비 됬어요!</text>
+		<text id="win4">이 땅을 비옥하게 하기 위해서는 [color=770000]테라포머[/color]가 필요할거에요.</text>
+		<text id="homeworld1">잘됫네요, 우리는 몇 남지 않았으니 뭉쳐야해요!</text>
+		<text id="homeworld2">제가 지금 거기로 할게요. 식물을 잘 아는 사람이 필요할거에요!</text>
 		<text id="introduce1">당신을 보니 기분이 좋군요. 아무도 없는 곳에 홀로남은 노인은 꽤나 비참하거든.</text>
 		<text id="introduce2">당신덕에 삶에대한 의지가 생겼어요. 저도 당신을 돕겟습니다. 우리는 식량을 확보하기 위해서 농사를 지어야해요.</text>
 		<text id="introduce3">헛간과 [color=770000]농장[/color]을 짓는게 어떨까요?</text>
@@ -1706,8 +1665,8 @@
 		<text id="pen4">돼지를 우리에 넣었어요, 이제 우리는 [item=meat]와 [item=milk]를 얻을 수 있어요!</text>
 		<text id="pen5">[color=770000]축사[/color]를 더 짓고싶다면, [item=pen_blueprint]를 사용하세요.</text>
 		<text id="pig">[item=pig]를 어떻게 얻냐구요? [item=net] 을 땅에 설치해서 [color=770000][tile=boar] 멧돼지[/color]를 유인해보세요. 운이 좋다면 길들일수 있을거에요!</text>
-		<text id="kitchen2">Milking a [item=pig]? Why not? This is a strange land. But what we could really use is some [item=cheese] - talk to the [object=builder] about improving the [color=770000]Kitchen[/color].</text>
-		<text id="halloween">I hope you don't mind, but I did a little decoratin' for the Harvest Festival! We could use a little celebrating around here. I also put some [item=jakolantern]s in the [color=770000]Storehouse[/color].</text>
+		<text id="kitchen2">[item=pig]한테 우유를? 당연히 되죠? 여기는 낯선 섬이에요. 하지만 우리가 [item=cheese]를 만들수 있게 [object=builder]에게 [color=770000]부엌[/color]을 개량하는 법을 상의해보세요.</text>
+		<text id="halloween">신경 안쓰길 바라지만, 추수감사절을 위해 몇몇 장식을 했어요! 이 근처에서 축하좀 하고싶어요. 그리고 [color=770000]창고[/color]에 [item=jakolantern] 몇개를 넣어뒀어요.</text>
 		<text id="add_sugar">농장이 꽤나 커졌어요! 축하기 위해서 [item=sugar_seed]을 찾아왔어요! 밭을 일구고 [item=sugar]을 얻어보죠!</text>
 		<text id="add_cotton">저는 [color=770000]부두[/color]옆에서 몇몇 상인을 만났고 [item=cotton_seed]을 얻었어요!</text>
 		<text id="orchard1">이 주변에는 [item=fruit]가 많아요. 씨앗이 충분히 모이면 [color=770000]과수원[/color]을 지을수 있겠어요!</text>
@@ -1715,18 +1674,18 @@
 		<text id="orchard3">[color=770000]과수원[/color]을 짓기위한 [item=fruit]가 충분히 모이면 알려주세요!</text>
 		<text id="orchard4">공간이 충분이 확보된 풀이 있는 곳이라면 씨앗을 심을 수 있어요. [item=orchard_seed]을 어디에 심을지 알려주세요!</text>
 		<text id="orchard5">[color=770000]곳간[/color] 에서 씨앗을 이용해 농장 종류를 바꿀수 있어요. 원하는 씨앗이 있다면 내가 만들어 줄게요!</text>
-		<text id="snowman">The first snowfall is here! That makes it as good a time as any to celebrate! I even made a magic [item=snowman] from [item=ice_berries], I hope you like it!</text>
+		<text id="snowman">첫눈이 왔어요! 이건 축하하기 좋은 시기에요! [item=ice_berries]를 이용해서 [item=snowman]을 만들었는데, 맘에 들었으면 좋겠어요!</text>
 		<text id="sign1">이곳이 고향처럼 느껴지기 시작했어요, 안 그래요? 이곳에 이름을 정하는게 어떨까요?</text>
 		<text id="sign2">여기 [item=area_name_sign]을 받으세요, 이 섬의 이름을 정해주세요!</text>
 	</section>
 	<section id="miner">
-		<text id="bombardment">This cave is weird... it's so large and empty, not a single thing to mine!</text>
-		<text id="win1">The threat is over? Then it’s time to leave this cave and return to the surface to celebrate! Not that I plan to spend much time actually on the surface...</text>
-		<text id="win2">Remember to mention that it was me who gave you your first [item=stone_pickaxe] when you get famous for saving the human race!</text>
-		<text id="win3">I think it’s time to upgrade this old pickaxe. If you build a [color=770000]Space House[/color] here, I can exchange this one for an [color=770000]Energy Pickaxe[/color]!</text>
-		<text id="homeworld1">Ooh, one of the colony worlds! I bet there are all kinds of strange new things to dig up there!</text>
-		<text id="homeworld2">You know, I actually miss Earth. I’m sure it will be tough to live on after being bombed, but think of all the underground ruins I will be able to uncover there!</text>
-		<text id="homeworld3">I’ll catch the next ship and meet you there!</text>
+		<text id="bombardment">이 동굴은 이상해...너무 큰데 텅 비어어...내 것은 하나도 없어!</text>
+		<text id="win1">더이상 위협이 없다고? 그러면 어서 이 동굴을 나가 지상에서 축하를 하자! 내가 지상에 오래 있을 계획은 아니지만...</text>
+		<text id="win2">너가 인류를 구한걸로 유명해지면 꼭 기억해야해. 너에게 처음 [item=stone_pickaxe]를 준건 나야!</text>
+		<text id="win3">난 이 오래된 곡괭이를 바꿔야 겠어. 만약 여기에 [color=770000]우주 주거지[/color]를 지어준다면, [color=770000]애너지 곡괭이[/color]와 바꿀 수 있어!</text>
+		<text id="homeworld1">와, 식민지 행성중 하나야! 나는 거기에 파야할 이상하고 신기한 것들이 많을거라고 확신해!</text>
+		<text id="homeworld2">사실, 난 지구가 그리워. 폭격당한 뒤론 먹고살기 힘들겟지만, 그럼에도 그곳에서 발굴 가능한 지하 유적을 생각해봐!</text>
+		<text id="homeworld3">다음배를 타고 갈게, 그곳에서 보자!</text>
 		<text id="introduce1">오, 안녕. 다른 생존자라니!</text>
 		<text id="introduce2">나는 지하에서 지냈어. 지상보다 지하에 더 많은 것들이 있거든.</text>
 		<text id="introduce3">너도 확인해볼래? 곡괭이를 하나 줄게.</text>
@@ -1756,11 +1715,11 @@
 		<text id="minecart3">자, [item=minecart]랑 [item=rail]을 설치했어! [item=rail]을 더 깔아서 움직일 수 있고 [item=crowbar]을 이용해 수거할수 있어!</text>
 	</section>
 	<section id="trader">
-		<text id="bombardment">What am I going to do with all this [tile=gold_bar.ico] [color=770000]Gold[/color] now?</text>
-		<text id="win1">They are finally gone? Then let’s get back to business!</text>
-		<text id="win2">I love that we’re using their planet as our homeworld. It’s like stealing from the dead!</text>
-		<text id="win3">I love having humanity congregate on one planet... more potential targets for me!</text>
-		<text id="homeworld1">The more people, the more business for me! I’m off!</text>
+		<text id="bombardment">이제 이 [tile=gold_bar.ico] [color=770000]금괴[/color]는 어쩌지?</text>
+		<text id="win1">그들이 사라졌다고? 그럼 다시 비즈니스의 시작이야!</text>
+		<text id="win2">난 우리가 그들의 행성을 고향으로 삼는게 좋아. 마치 죽은자에게서 뺏은것 같잖아?</text>
+		<text id="win3">나는 한 행성에 인간들이 모여 사는게 좋아. 잠재적 고객들이잖아.</text>
+		<text id="homeworld1">사람이 많으면, 난 더 많은 사업을 하지! 먼저 간다!</text>
 		<text id="steal">[color=770000]창고[/color]에서 [item={item}]을(를) 도난당했다!</text>
 		<text id="caught">도둑이 잡혔다!</text>
 		<text id="introduce1">우리 물건을 훔치면 우리가 살아남기 힘들어요!</text>
@@ -1789,26 +1748,26 @@
 		<text id="shipping1">이제 여러섬에 창고를 가지게 되었으니 창고에서 창고로 이동이 가능한게 좋지 않겟어? 내 새로운 서비스를 이용한다면 적은 비용으로 가능하게 해줄게.</text>
 		<text id="shipping2">어느섬에 물건을 전달할래?</text>
 		<text id="shipping3">[color=770000]{area}[/color]에 보내는데는 무게당 0.20 [color=770000][tile=coin_purse.ico]금화[/color]가 필요해. 어떤 물건을 보낼건지 알려줘:</text>
-		<text id="shipping4">What island would you like to ship the selected items to for {coins} [color=770000][tile=coin_purse.ico] Coins[/color]?</text>
-		<text id="shipping5">The items are on their way - you should see them there the next time you visit. Let me know if there are any other items you'd like to ship, and a pleasure doing business with you!</text>
+		<text id="shipping4">선택한 항목들을 {coins} [color=770000][tile=coin_purse.ico] 금화[/color]로 어느섬에 보낼거야?</text>
+		<text id="shipping5">물건들이 오고 있어. 다음에 방문할때 확인해봐. 배송하고 싶은 다른 아이템이 있으면 알려줘. 너와 거래해서 기뻐!</text>
 	</section>
 	<section id="alchemist">
 		<text id="east1">우리가 무슨짓을 한거죠? 그들은 곧 돌아올 것이고, 우리는 대비하지 않으면 모두 죽을거에요.</text>
 		<text id="east2">당장 우리가 할 수 있는건 그들을 물리칠 수 있을 만큼 강하거나 그들의 약점이 될만한 마법을 배우는 거에요.</text>
 		<text id="east3">지금 두가지 단서가 있어요. 첫번째는 옛것이 남기고간 진화실이에요. 진화실을 숨기고 있던건 이유가 있을거에요.</text>
 		<text id="east4">그리고 옛것의 강력한 마력이 사라졌으니, 동쪽으로 떨어진 또 다른 마력을 감지하는거에요. 이 섬보다 더 많은 비밀이 숨겨진 섬이 있을거에요!</text>
-		<text id="east5">I almost thought the Alchemist might just be here. But no. Of course not...</text>
-		<text id="east6">It looks like he left a note: “The secrets of magic must lie further east...”</text>
-		<text id="east7">He didn’t give me a lot to work with. But, it’s a start - I should go east, and try to learn more about that weird chamber that appeared when the Old One died.</text>
+		<text id="east5">연금술사가 여기 있을거라 생각했다... 하지만 아니지... 물론...</text>
+		<text id="east6">메모를 남긴것 같다: “마술의 비밀은 반드시 동쪽에 있다...”</text>
+		<text id="east7">그는 나에게 많은 일을 주지 않았다.하지만, 이제 시작이다- 동쪽으로 가야한다. 옛것이 죽었을때 나타난 이상한 방에 대해서 조사해야겠다.</text>
 		<text id="east8">저는 여기서 알아낼수 있는걸 전부 알아냈어요. 실험실로 돌아가서 그들이 돌아오기전에 다른것들을 알아낼 수 있는지 볼게요...</text>
-		<text id="return_lab">I think we've learned everything we can on this island. I will return to my laboratory and see if I can uncover anything else using what we learned here...</text>
+		<text id="return_lab">내 생각에 이 섬에서 알아낼 수 있는건 전부 알아낸 것 같다. 실험실로 돌아가 여기서 배운 것들을 이용해 다른걸 밝혀 낼 수 있는지 보자...</text>
 		<text id="spellbook1">어떤 물고기가 마법책을 만드는 법을 알려줬다구요? 대단해요! 한번 만들어 볼게요!</text>
 		<text id="spellbook2">해냈어요! 여기 [item=heal_book]를 받으세요! 도서관에서 만들수 있도록 제작법도 등록해놨어요!</text>
 		<text id="bombardment1">아, 어서오세요! 저는 이 동굴의 마력을 회복하고 다른 동굴을 불러오는데 성공했어요. 이제 이곳은 완벽한 은신처에요.</text>
 		<text id="bombardment2">지난번에 그들이 저를 사냥할때 저는 이 동굴에 숨었어요. 여기는 꽤 안전해요.</text>
 		<text id="bombardment3">하지만, 그들이 우리가 죽었거나 도망갓다고 생각하고 그만둘때까지 기다릴게 아니라면, 저희는 연구를 계속해서 그들을 파괴할 수 있는 충분한 마법의 힘을 얻어야해요!</text>
 		<text id="bombardment4">여기 [tile=blueprint.ico] [color=770000]설계도[/color]를 받으세요. 우리 연구에 도움이 될지도 몰라요!</text>
-		<text id="evo_chamber">Strange... this structure appeared when the [color=770000]Old One[/color] died... I wonder what it does?</text>
+		<text id="evo_chamber">이상한데... 이 구조물은 [color=770000]옛것[/color]이 죽을때 나왔어... 무슨 용도일까?</text>
 		<text id="brilliant_potion1">I have been studying the ancient carvings, looking for new potion recipes... and the strangest thing happened! A new recipe that wasn't there yesterday suddenly appeared on the stones!</text>
 		<text id="brilliant_potion2">It must be special, it's even called a [item=brilliant_potion]. We must make it at once!</text>
 		<text id="brilliant_potion3">I have made the potion - but I still have no idea what it does. You might as well drink it and find out!</text>
