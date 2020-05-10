@@ -1768,18 +1768,18 @@
 		<text id="bombardment3">하지만, 그들이 우리가 죽었거나 도망갓다고 생각하고 그만둘때까지 기다릴게 아니라면, 저희는 연구를 계속해서 그들을 파괴할 수 있는 충분한 마법의 힘을 얻어야해요!</text>
 		<text id="bombardment4">여기 [tile=blueprint.ico] [color=770000]설계도[/color]를 받으세요. 우리 연구에 도움이 될지도 몰라요!</text>
 		<text id="evo_chamber">이상한데... 이 구조물은 [color=770000]옛것[/color]이 죽을때 나왔어... 무슨 용도일까?</text>
-		<text id="brilliant_potion1">I have been studying the ancient carvings, looking for new potion recipes... and the strangest thing happened! A new recipe that wasn't there yesterday suddenly appeared on the stones!</text>
-		<text id="brilliant_potion2">It must be special, it's even called a [item=brilliant_potion]. We must make it at once!</text>
-		<text id="brilliant_potion3">I have made the potion - but I still have no idea what it does. You might as well drink it and find out!</text>
-		<text id="brilliant_potion4">I also added the recipe to the lab if you want to make more.</text>
-		<text id="brilliant_potion5">I feel strange... my entire body is tingling... the potion must have done something...</text>
-		<text id="carapace1">It is done! I have thoroughly studied the carapace armor protecting the enemy, and have designed a [item=carapace_armor] that can fit humans!</text>
-		<text id="carapace2">I think you will agree that it was well worth the wait! The recipe has been added to the [color=770000]Laboratory[/color]! If it gets damaged, you can repair it with [item=blood_gem]s.</text>
-		<text id="carapace3">What? You thought I'd just be here muttering about nested carapace forever?</text>
-		<text id="win1">They are defeated? Then I can continue my magic research on this planet unimpeded!</text>
-		<text id="win2">That is good to hear. But, I will stay here. There are still many secrets of magic to uncover, and after being here so long, I can’t imagine leaving this planet.</text>
-		<text id="win3">You have done it?! You have finally defeated them? I hope you made good use of the magic secrets we discovered!</text>
-		<text id="win4">They have caused such pain and death... my fellow scouts will never return... but, at least those magic-hoarding tentacle monsters will never again hurt anyone.</text>
+		<text id="brilliant_potion1">저는 새로운 물약 레시피를 찾기위해 고대 조각품들을 연구했어요... 그리고 이상한 일이 있어났어요! 어제는 없었던 새로운 레시피가 돌 위에 나타났어요!</text>
+		<text id="brilliant_potion2">이건 특별할 거에요, [item=brilliant_potion]이라고 불릴 정도로요. 우리는 이걸 꼭 성공해야해요!</text>
+		<text id="brilliant_potion3">포션을 만들었어요 - 하지만 이게 어떤 효과인지는 모르겠어요. 당신이 먹어보면 알아낼 수 있울거에요!</text>
+		<text id="brilliant_potion4">아 그리고 당신이 원할때 만들 수 있도록 실험실에 레시피를 추가해 두었어요.</text>
+		<text id="brilliant_potion5">기분이 이상해요... 온몸이 쑤셔요... 분명 포션이 무슨 작용을 한걸거에요...</text>
+		<text id="carapace1">다됬어요! 저는 적들의 각갑류 갑옷에 대해서 연구했어요. 그리고 드디어 인간이 착용할 수 있는 [item=carapace_armor]을 설계했어요!</text>
+		<text id="carapace2">분명 당신이 기다릴 가치가 있을거에요! [color=770000]실험실[/color]에 레시피를 추가했어요! 손상되면 [item=blood_gem]으로 수리할 수 있어요.</text>
+		<text id="carapace3">네? 제가 각갑류 에 대해 연구하면서 여기 있을줄 알았다구요?</text>
+		<text id="win1">그들을 물리쳤어요? 그렇다면 저는 이 행성에서 방해받지 않고 연구를 할 수 있어요!</text>
+		<text id="win2">듣던중 반가운 소리네요. 하지만, 저는 여기 있을거에요. 아직 밝혀야 할 마법이 많은데 이곳에 이렇게 오래있다가 갑자기 떠나는건 생각할 수 없어요.</text>
+		<text id="win3">해냈어요?! 드디어 당신이 그들을 물리쳤나요? 우리가 발견한 마법의 비밀을 잘 활용 하시길 바래요!</text>
+		<text id="win4">그들은 고통과 죽음을 불러왔어요... 제 동료인 정찰병은 영원히 돌아오지 않겠죠... 하지만, 적어도 그 마법에 걸린 촉수는 더이상 누구를 해치지 않겠죠.</text>
 		<text id="introduce1">이 행성은 보이는것 이상으로 가치가 있어요! 나는 여러 실험을 해봤고 드디어 마법을 발견한것 같아요!</text>
 		<text id="introduce2">저는 더 많은 재료가 필요해요. 만약 당신이 [item=wyrm]을 죽이고 나에게 [item=dragonblood]을 가져다 준다면 보상을 하겠어요.</text>
 		<text id="lab1">해낼줄 알았어요! 이게 바로 비결이에요! 당장 실험실을 세워야 해요!</text>
@@ -1806,10 +1806,10 @@
 		<text id="dragon14">하지만 동쪽 섬에는 답이 있을 수도 있네. 준비를 하고 나에게 말을 걸어준다면 내가 그곳으로 데려다 주겠네.</text>
 		<text id="dragon15">또다른 드래곤 둥지! 한때 얼마나 많은 마법과 용들이 살아있었는지 상상해보세요! 그들은 어째서.... 어쨋든 제가 이것을 다시 작동시키기 위해 도와주세요.</text>
 		<text id="dragon16">여기에도 [color=770000]웜 우리[/color]를 지을게요. 용을 더 키울때를 대비해서요! 하지만 이번에는 제가 [item=dragonblood]을 수확하는건 기대하지 마세요. 저는 연구가 더 중요하거든요.</text>
-		<text id="call_dragon">Where did you leave the dragon? I'll call it over here - try not to lose track of it.</text>
-		<text id="lair1">I knew it! This lair is artificial, made by magic! It looks like its purpose was to raise dragons!</text>
-		<text id="lair2">I bet I can activate it...</text>
-		<text id="lair3">Aha! Done! With this lair, we can raise our own dragons. The lair seems to point east, perhaps we could fly a dragon that direction and discover more...</text>
+		<text id="call_dragon">용을 어디에 두었나요? 제가 이리로 불러올게요 - 잃어버리지 않도록 해주세요.</text>
+		<text id="lair1">그럴줄 알았어요! 이 둥지는 마법으로 만들어 졌어요! 용을 기르기 위한 목적으로 지어진것 같아요!</text>
+		<text id="lair2">저는 이걸 작동시킬 수 있어요...</text>
+		<text id="lair3">아! 됬어요! 이 둥지에서 드래곤을 키울 수 있어요. 둥지가 동쪽을 가리키고 있어요. 드래곤이 동쪽으로 더 많이 날라기기 때문인가봐요...</text>
 		<text id="axe1">그 [item=rusty_axe]좀 봐봅시다... 녹이 슬어 보기 힘들지만 저는 이 문양이 뭔지 알아요!</text>
 		<text id="axe2">이것에는 고대의 마법이 깃들어 있어요. 지금은 거의 사라졌지만... 어떤 마법의 재료를 가져오면 제가 고칠 수 있겠어요.</text>
 		<text id="axe3">[item=fire_tusk]... 어떤 몬스터에게서 얻은건가요? 마치 [item=rusty_axe]랑 공명하고 있는것 같아요, 아마도 이거 우리가 찾던 마법 재료일 거에요!</text>
@@ -1829,17 +1829,17 @@
 		<text id="sleep">저는 이것을 연구하는데 시간이 더 필요해요. 보라색 건물에서 쉬는게 어때요?</text>
 		<text id="forest">동쪽의 숲은 매우 위험해 보여요. [item=fence]를 설치했으니 그 이상은 가지 않기를 바래요.</text>
 		<text id="elementals1">[item=spirit_gem]은 불이나 물의 정령을 이용해 [item=fire_gem] 또는 [item=water_gem]을 생성 한다는걸 발견했어요. 건물에 사용하면 작동시킬 수 있을 거에요.</text>
-		<text id="elementals2">Having trouble finding elemental spirits? They are invisible to the naked eye, but my [item=goggles] should reveal them!</text>
-		<text id="elementals3">You can place [item=spirit_gem]s like traps, then capture spirits by luring them onto them!</text>
+		<text id="elementals2">원소 정령을 찾기 어려운가요? 그것들은 눈으로 볼 수 없어요. 하지만 제가 드린 [item=goggles]으로 볼 수 있을거에요!</text>
+		<text id="elementals3">[item=spirit_gem]를 덫 처럼 사용할 수 있어요. 정령들을 유인해서 잡아보세요!</text>
 		<text id="spirit_gem">이제 모든 건물이 활성화 되었어요! 연구를 계속하기 전에 보라색 방에서 쉬었다가 시작하죠!</text>
-		<text id="magic_farm1">What are you waiting for? Use the [item=water_gem] at the blue structure to activate it!</text>
-		<text id="magic_farm2">The blue structure is a magical synthesizer! It can create items from magic!</text>
-		<text id="magic_farm3">Use [item=focus_gem]s to power the synthesizer.</text>
-		<text id="magic_farm4">We still need a [item=water_gem] to power the blue structure! Use a [item=spirit_gem] to capture a water elemental!</text>
-		<text id="magic_forge1">What are you waiting for? Use the [item=fire_gem] at the red structure to activate it!</text>
-		<text id="magic_forge2">The red structure is some sort of ancient magical forge. It can enchant items!</text>
-		<text id="magic_forge3">Try experimenting with different combinations of items and magical ingredients at the Forge - you may stumble upon something brilliant!</text>
-		<text id="magic_forge4">We still need a [item=fire_gem] to power the red structure! Use a [item=spirit_gem] to capture a fire elemental!</text>
+		<text id="magic_farm1">뭘 기다리는거죠? [item=water_gem]을 써서 파란 구조물을 활성화 시키세요!</text>
+		<text id="magic_farm2">파란 구조물은 마법 합성기에요! 마법 아이탬을 만들 수 있어요!</text>
+		<text id="magic_farm3">[item=focus_gem]을 사용해서 합성기에 연료를 채우세요.</text>
+		<text id="magic_farm4">파란 구조물은 [item=water_gem]의 힘을 사용해요! [item=spirit_gem]을 사용해서 물의 정령을 잡아보세요!</text>
+		<text id="magic_forge1">뭘 기다리는거죠? [item=fire_gem] 을 써서 빨간 건물을 활성화 시키세요!</text>
+		<text id="magic_forge2">이 붉은 구조물은 고대 마법 용광로에요. 아이템을 인챈트 할 수 있어요!</text>
+		<text id="magic_forge3">용광로에서 아이템과 마법 재료로 다양한 조합을 시도해보세요 - 우연히 무언가 발견할지도 몰라요!</text>
+		<text id="magic_forge4">붉은 구조물은 [item=fire_gem]의 힘을 사용해요! [item=spirit_gem]을 사용해서 불의 정령을 잡아보세요!</text>
 		<text id="alter_gem1">저는 [item=wyrm]의 비밀을 알아내기위해 깊이 연구해 보았어요.</text>
 		<text id="alter_gem2">만약 저에게 [item=wyrm] [var=quest.alter_gem.wyrm]마리, [item=fire_tusk] [var=quest.alter_gem.fire_tusk]개, [item=yeti_fur] [var=quest.alter_gem.yeti_fur]개 를 가져다 주신다면 연구를 마칠 수 있을것 같아요.</text>
 		<text id="alter_gem3">해냈어요! 제가 [item=alter_gem]을 만들었어요! 이건 우리가 [item=wyrm]이나 다른 생명체를 쓸만한 도구로 만들 수 있게 해줄거에요!</text>
@@ -1901,12 +1901,12 @@
 		<text id="abandoned">이 상점은 버려졌습니다. 회수 하시겠습니까?</text>
 		<text id="witch_hut">이상하게 생긴 오두막이다... 누군가...여기 누군가 살고있나?</text>
 		<text id="no_signal">[item=com_device]에 반응이 없습니다...</text>
-		<text id="storehouse_burned">A message was left behind... it looks like all the items were moved to a bunker before the structure was destroyed!</text>
-		<text id="inn_burned">The inn is destroyed... and a corpse is clutching a message: "Head to the [color=770000]Colony Ship[/color]'s cargo hold, in the desert to the west."</text>
-		<text id="use_translation_book">Would you like to use the [item=translation_book] to translate?</text>
-		<text id="no_translate">There is nothing here to translate.</text>
+		<text id="storehouse_burned">전언이 남아있다... 건물이 파괴되기 전에 벙커로 전부 옮겨진것 같다!</text>
+		<text id="inn_burned">여관이 파괴되었다... 시체가 메모를 쥐고있다: "서쪽 사막에 이있는 [color=770000]식민지 우주선[/color]의 화물칸으로 이동하세요."</text>
+		<text id="use_translation_book">번역에 [item=translation_book]을 사용할까요?</text>
+		<text id="no_translate">여기는 번역할게 없습니다.</text>
 		<text id="static">정적만이 있다...</text>
-		<text id="homeworld">We’re setting up a new colony for humanity on {area}!</text>
+		<text id="homeworld">{area}에 인류를 위한 새로운 식민지를 세우고 있다!</text>
 		<text id="storm1">너무 추워...[pause=1] 그리고 지쳤어...[pause=1] 쉴 곳이 필요해... 주변에 떨어진 나무들밖에 보이지 않아...</text>
 		<text id="storm3">[item=wood]를 간신히 짊어지고 있어! 이동하려면 [tile=stamina] [color=006600]기력[/color]이 많이 들지도 몰라. 하지만 난 여기서 멈출 수 없어! 난 쉴 곳을 찾아야해!</text>
 		<text id="hut1">이게 무슨 건물이지? 누군가 쉴 곳을 만들다가 그만둔 것 같아. [item=wood] [var=quest.hut.wood]개가 있으면 완성할 수 있겠는데?</text>
@@ -1916,13 +1916,13 @@
 		<text id="storehouse2">[item=wood] [var=quest.storehouse.wood]개와 [item=berries] [var=quest.storehouse.berries]개가 있으면 창고를 지을수 있을것 같다.</text>
 		<text id="storehouse3">좋아, 창고를 지으러 가자!</text>
 		<text id="storehouse4">완벽해. 이제 너무 많이 짊어져서 힘들이지 않아도 되겠어.</text>
-		<text id="dock1">I wonder if the thief was telling the truth about other survivors?</text>
-		<text id="dock2">Perhaps I should build a [color=770000]Dock[/color] to set out and find them. It'll take [var=quest.dock2.wood] [item=wood] and [var=quest.dock2.steel_bar] [item=steel_bar]s.</text>
-		<text id="dock3">Alright, let's get this [color=770000]Dock[/color] built!</text>
-		<text id="market1">Maybe if I built a [color=770000]Market[/color], I'd attract traders to this dock. I can build one for [var=quest.market2.gold_bar] [item=gold_bar]s.</text>
-		<text id="market2">That's everything I need for the [color=770000]Market[/color]!</text>
-		<text id="market3">It looks like there really were traders out there! They even gave me a [item=coin_purse] to store coins for buying and selling.</text>
-		<text id="market4">Now we just need to build a [tile=boat.ico] Boat at the [color=770000]Dockhouse[/color]!</text>
+		<text id="dock1">도둑이 다른 생존자에 대해서 진실을 이야기 했을까?</text>
+		<text id="dock2">[color=770000]부두집[/color]을 지어서 그들을 찾아봐야겠어. [item=wood] [var=quest.dock2.wood]개, [item=steel_bar] [var=quest.dock2.steel_bar]개 가 필요할거야.</text>
+		<text id="dock3">좋아, [color=770000]부두집[/color]을 지어봅시다!</text>
+		<text id="market1">[color=770000]상점[/color]을 지어야 할 것 같다. 부두집을 통해 상인을 들이겠어. [item=gold_bar] [var=quest.market2.gold_bar]개 가 필요할거야.</text>
+		<text id="market2">이게 내가 [color=770000]상점[/color]이 필요한 이유지!</text>
+		<text id="market3">섬 밖에는 정말로 상인들이 있었어! 그들이 나에게 금화를 보관하라며 [item=coin_purse]을 주었다.</text>
+		<text id="market4">이제 우리는 [color=770000]부두집[/color]에서 [tile=boat.ico] 보트를 만들어야해!</text>
 		<text id="farewell1">저밖에는 무엇이 있을지 모릅니다. 하지만 돌아오기 전에는 알아내서 올게요.</text>
 		<text id="farewell2">좋은 먹거리좀 가져와주세요!</text>
 		<text id="farewell3">해저를 탐사하는것도 잊지 마세요, 당신이 무엇을 찾을수 있을지 아무도 몰라요.</text>
@@ -1941,19 +1941,19 @@
 		<text id="lurker_empty">거래 고맙네, 미안하지만 환불은 안 돼.</text>
 	</section>
 	<section id="hunter">
-		<text id="bombardment">I hate to say it, but I think the only way we're getting out of this mess is by teaming up with the [object=mirrows]. They should be to the west where the main ship crashed.</text>
-		<text id="bombardment2">While I don't agree with their methods, perhaps the [object=mirrows] were right. Now that they know we're here, we're going to need to fight to survive.</text>
-		<text id="bombardment3">I can't believe the [object=mirrows] sacrificed themselves for us. That doesn't feel like them at all... Now who's going to continue the fight against them?</text>
-		<text id="research1">You have a [color=770000]Mobile Research Lab[/color]? I'll have you know that I was a highly respected researcher back on Earth. I think it's time to take out the old lab coat!</text>
-		<text id="research2">It feels like forever since I last wore this coat. I think I'll miss being a hunter...</text>
-		<text id="research3">But, [item=bow]s and [item=arrow]s will have no effect against them - if we are going to survive, we're going to need to work together to invent new weapons!</text>
-		<text id="win1">Sounds like you had quite the fight! I wish I could’ve been there to help!</text>
-		<text id="win2">It’s strange, even though I only became a hunter because we crash landed on their homeworld and I could go back to being a scientist now... I realized I prefer this life.</text>
-		<text id="win3">I guess in a way, I have them to thank for helping me find myself.</text>
-		<text id="win4">Excellent! I’ll take my bow and arrows and head over immediately!</text>
-		<text id="werewolf">Don’t scare me like that!! If I still had my [item=bow], I might’ve shot an arrow before I realized it was you!</text>
-		<text id="tent1">I shouldn't rest in some random person's tent!</text>
-		<text id="tent2">This must be the [object=hunter]'s tent. I should leave it alone.</text>
+		<text id="bombardment">말하기 싫지만, 이 난장판에서 벗어나는 방법은 [object=mirrows]와 협력하는거에요. 그들은 본선이 추락한 서쪽에 있을거에요.</text>
+		<text id="bombardment2">[object=mirrows]의 방법에 동의하지는 않지만 아마도 그들이 옳았을 거에요. 이제 그들이 우리가 여기에 있는걸 알테니 살아남기 위해 싸워야해요.</text>
+		<text id="bombardment3">저는 [object=mirrows]가 우리를 위해 희생했다는게 믿겨지지 않아요. 이런 기분은 전혀... 이제 누가 그들과 싸우죠?</text>
+		<text id="research1">[color=770000]이동식 연구실[/color]을 가지고 있어요? 제가 지구에서 매우 존경받는 연구원 이였다는걸 알려드리죠. 이제 낡은 실험실 가운을 벗을때가 되었어요!</text>
+		<text id="research2">이 가운을 영원히 못 입을줄 알았어요. 사냥꾼 시절이 그리울 거에요...</text>
+		<text id="research3">하지만, [item=bow]과 [item=arrow]은 그들에게 영향이 없어요 - 우리가 살아남기 위해선, 우리는 협력해서 새로운 무기를 만들어야해요!</text>
+		<text id="win1">한바탕 전쟁을 치룬것 같군요! 제가 거기가서 도왔으면 좋았을텐데요!</text>
+		<text id="win2">이상한점은, 우리가 그들의 고향에 추락했고 이제 과학자로 돌아갈수 있지만... 제가 사냥꾼이였던 이 삶을 더 좋아한다는걸 깨달았어요.</text>
+		<text id="win3">제 진짜 모습을 찾게 해준 주변 사람들에게 감사해야겠어요.</text>
+		<text id="win4">좋아요! 활과 화살을 가지고 즉시 갈게요!</text>
+		<text id="werewolf">그렇게 겁주지 마세요!! 제가 아직 [item=bow]을 가지고 있었다면 당신을 쏴버렸을지도 몰라요!!</text>
+		<text id="tent1">아무 탠트에서나 쉬면 안되요!</text>
+		<text id="tent2">여긴 [object=hunter]의 탠트에요. 그냥 둬야겠어요.</text>
 		<text id="intro1">거기, 당신! 제가 멧돼지를 잡는걸 봤나요?</text>
 		<text id="intro2">네, 어떻게... 어떻게 한건가요?</text>
 		<text id="intro3">간단해요! 약간의 기술만 있으면 되죠.</text>
@@ -1963,9 +1963,9 @@
 		<text id="accept3">저는 [item=bow]을 쏘는걸 선호해요. 그러면 적에게 가까이 가지 않아도 되거든요. 만약 근거리 무기를 사용하고 싶다면 [item=buckler]로 방어를 할 수 있어요!</text>
 		<text id="accept4">[key=equipment]키를 눌러서 무기를 장착하고, [key=attack]키를 눌러서 공격할 수 있어요. 그리고 [key=defend]키를 눌러 방어 할 수 있죠.</text>
 		<text id="accept5">[item=bow]을 만들어서 [color=770000][tile=boar] 멧돼지[/color]를 잡는게 어때요? 그리고 사냥하는 팁이 필요하면 저에게 말을 걸어주세요!</text>
-		<text id="reject1">You seem dangerous. Stay out of our area!</text>
-		<text id="reject2">Well, fine! I’ll just go back to the mountains then!</text>
-		<text id="reject3">Ready to learn some hunting techniques?</text>
+		<text id="reject1">당신은 위험해 보이는군요. 이 구역에 오지 마세요!</text>
+		<text id="reject2">하, 그래요! 그럼 그냥 산으로 돌아갈게요!</text>
+		<text id="reject3">사냥 기술을 배울 준비가 되었나요?</text>
 		<text id="hunt1">이제 우리는 이 지역의 위험한 동물들을 정리할수 있겠어요!</text>
 		<text id="hunt2">잘해주었어요, 오래된 [item=backpack]을 받으세요 - 밖에 돌아다닐때 유용할겁니다.</text>
 		<text id="tip1">터널을 파서 멧되지를 뒤에서 덮칠수도 있고 몰래 접근해서 뒤에서 덮칠수도 있어요.</text>
@@ -2001,10 +2001,10 @@
 		<text id="car_factory1">당신이 [item=ship_parts]을 찾는다는 소문을 들었어요... 만약 그것을 찾는다면 [color=550000]공장[/color]을 개선하는데 도움이 될거에요!</text>
 		<text id="car_factory2">여기, 제 [tile=blueprint.ico] [color=770000]설계도[/color]를 받으세요. 그리고 공장을 업그레이드 해주세요!</text>
 		<text id="car_factory3">공장은 전기를 필요로 한다는걸 명심하세요. [color=770000]발전소[/color]나 [item=generator] 인근에 건설하셔야 해요.</text>
-		<text id="sub_tip1">When riding the [object=sub], keep track of its [tile=power] [color=444400]Power[/color] and [tile=oxygen] [color=ffffff]Oxygen[/color] if you don't want to end up going for a swim!</text>
-		<text id="sub_tip2">You can bring some extra [item=battery default=Batteries] to recharge the [object=sub] while travelling by hitting [key=equipment].</text>
-		<text id="sub_tip3">The [object=sub] can carry more weight than you can, but it still has a limit. Check the [object=sub]'s inventory by hitting [key=inventory], as it can't move if overweight.</text>
-		<text id="sub_tip4">Did you know you can use hotkeys to repair the [object=sub]? Just set [item=titanium] to a hotkey and use it while riding the [object=sub]!</text>
+		<text id="sub_tip1">[object=sub]을 탈때는 [tile=power] [color=444400]전력[/color]과 [tile=oxygen] [color=ffffff]산소[/color]가 필요할거에요! 수영해서 돌아오고 싶지 않다면 말이죠.</text>
+		<text id="sub_tip2">잠수중 [key=equipment]키를 눌러 [object=sub]을 충전할 여분의 [item=battery default=Batteries]를 선택할 수 있어요.</text>
+		<text id="sub_tip3">[object=sub]은 당신보다 많은 물건을 실을 수 있지만, 한계가 있습니다. 과적으로 움직이지 못하게 되면 [key=inventory]키를 눌러 [object=sub]의 적제항목을 확인해 보세요.</text>
+		<text id="sub_tip4">단축키를 이용해 [object=sub]을 수리할 수 있다는걸 아시나요? 그냥 [item=titanium]을 단축키에 등록하고 [object=sub]에 탑승해 있으면 되요!</text>
 		<text id="make_ship_parts">더 많은 [item=ship_parts]을 원하실까봐, [color=770000]공장[/color]에서 [item=ship_parts]을 생산하도록 업그레이드했어요. 현재 기술로는 그렇게 효율적이진 않지만, 분명 도움이 될 거에요!</text>
 		<text id="build_com1">[item=ship_parts]을 이용해서 지구나 다른 식민지에 연락을 해 볼 수 있지 않을까요? 다른 생존자가 있는지 알아보는게 어떨까요?</text>
 		<text id="build_com2">좋아요! [item=ship_parts]을 가지고 있다면 저에게 연락해주세요. 제가 그것을 설치할 수 있어요!</text>
@@ -2026,23 +2026,23 @@
 		<text id="teleportal1">해적들의 부품을 조사해봤는데요. 그들은 연구실이 있는 섬에 추락했나 봐요.</text>
 		<text id="teleportal2">그들의 일지를 확인하고 나서 그들이 진행중이던 설계도를 완성할 수 있었어!</text>
 		<text id="teleportal3">이 [tile=teleportal.ico] [color=770000]텔레포탈[/color]은 돌아다니는데 꽤 유용할거에요!</text>
-		<text id="bombardment">Those [object=mirrows] think this bunker will last for years, but not without lots of maintenance! Of course they don't offer to help me keep everything up and running!</text>
-		<text id="bombardment2">I can't believe they bombed their own planet! We're all okay though, we're hiding in the [color=770000]Colony Ship[/color]'s cargo area.</text>
-		<text id="bombardment3">We never got along...[pause=1] and they were terrible parents...[pause=1] I never thought losing them would hurt so much...[pause=1]</text>
-		<text id="bombardment4">Those aliens are going to pay! I'll teach them not to mess with humanity!</text>
-		<text id="research1">So this ship is the last best hope for mankind? Not bad - we'll be going up against them in style!</text>
-		<text id="research2">I'm not sure how much help I'll be with research, but I'll definitely do my best to keep this ship running smoothly!</text>
-		<text id="research_lab">You built a [color=770000]Mobile Research Lab[/color]? I might not be a great researcher, but if you bring it closer I'll board it and make sure it's in tip top condition!</text>
-		<text id="win1">The war is won, but if humanity is to survive, we need to bring all the survivors together and hope there’s enough of us left that we won’t die out!</text>
-		<text id="win2">Try using the [color=770000]Com Station[/color] on The Heights to locate other colony worlds!</text>
-		<text id="win3">I think we’re going to thrive here! A few more years, and this will become the new capital of humanity as we spread out across the stars once more!</text>
-		<text id="win4">It’s been a lot of work, but this colony is starting to resemble a real human city with all of the modern amenities!</text>
-		<text id="win5">We’ve even set up a shuttle service to transport stranded survivors to this planet. If you meet anyone, make sure to tell them about it!</text>
-		<text id="win6">That is exactly what we need to survive! I just hope there are enough survivors left...</text>
-		<text id="win7">I’m sure they could use my help! I’ll head out right away!</text>
-		<text id="werewolf">Don’t expect me to be surprised every time you wander off and return looking completely different!</text>
-		<text id="colony_ship1">What do you think of repairing those crashed [color=770000]Colony Ship[/color]s? They would take a lot of resources to repair, but they could be useful.</text>
-		<text id="colony_ship2">Bring the resources to a [color=770000]Colony Ship[/color] to repair it!</text>
+		<text id="bombardment">[object=mirrows]는 이 벙커가 몇년동안 유지될거라 말하지만, 저는 그렇게 생각하지 않아요! 많은 유지보수가 필요하지만 그들은 도와주지 않겠다고 하더군요!</text>
+		<text id="bombardment2">자기네들 고향을 폭격하다니 믿을수 없어요! 우리는 모두 괜찮아요 [color=770000]식민지 우주선[/color]의 화물칸에 숨었어요.</text>
+		<text id="bombardment3">저희는 그다지 사이가 좋지 않았어요...[pause=1] 그들은 끔찍한 부모였죠...[pause=1] 그들을 잃는게 이렇게 힘들지 몰랐어요...[pause=1]</text>
+		<text id="bombardment4">저 외계인들은 대가를 치룰거에요! 인류를 함부로 대하지 말라고 가르칠 거에요!</text>
+		<text id="research1">그럼 이 함선이 인류가 만든 마지막 작품인가요? 나쁘지 않네요 - 그들의 스타일에 맞서 보죠!</text>
+		<text id="research2">제가 연구로 얼마나 도움을 줄지 모르겠지만, 이 함선이 원할하게 운영되도록 최선을 다할게요!</text>
+		<text id="research_lab">[color=770000]이동식 연구실[/color]이 있다구요? 저는 훌륭한 연구가는 아닐거에요. 그래도 가까이 가져온다면 꼭 최상의 상태인지 확인해 드릴게요.</text>
+		<text id="win1">전쟁은 승리했지만, 인류가 살아남기 위해서는 생존자를 모두 모아야해요! 우리가 죽기전에 찾았으면 좋겠어요!</text>
+		<text id="win2">[color=770000]통신기지[/color]를 사용해서 다른 식민지가 있는지 찾아보세요!</text>
+		<text id="win3">제 생각에 우린는 여기서 잘 살거에요! 몇년만 더 있으면, 이곳은 수도가 될거고 인류는 별을 가로질러 퍼저나가겠죠.</text>
+		<text id="win4">많은 일이 있었지만, 이 식민지는 모든 현재 편의시설을 갖춘 진짜 인간의 도시를 닮기 시작했어요.</text>
+		<text id="win5">우리는 고립된 생존자를 이 별로 수송하기 위해 셔틀 서비스를 시작했어요. 만약 여러분이 누군가를 만난다면, 이 서비스에 대해서 꼭 말하세요!</text>
+		<text id="win6">그것은 우리가 살아남기 위해 필요한거에요! 생존자가 많이 남아있기를 바랍니다...</text>
+		<text id="win7">그들은 분명 도움이 필요할거에요! 당장 갈게요!</text>
+		<text id="werewolf">당신이 여행을 하고 다른 모습으로 올때마다 제가 놀랄거라 생각했나요?</text>
+		<text id="colony_ship1">추락한 [color=770000]식민지 함선[/color]을 수리하는걸 어떻게 생각하나요? 수리비용은 많이 들겠지만 꽤 유용할거에요.</text>
+		<text id="colony_ship2">자재를 모아 [color=770000]식민지 함선[/color]을 수리하죠!</text>
 		<text id="introduce1">완전이 타버렸어! 망했어!</text>
 		<text id="introduce2">무슨일이에요?</text>
 		<text id="introduce3">미로우 부부가 전력을 다시 복구하려 했지만 실패했어요. 거의 모든게 날아갈 뻔 했다구요!</text>
@@ -2073,37 +2073,37 @@
 		<text id="intro4">틀림없이 저 밖에 있을거에요. 우리는 단지 그들과 연락할 수단이 필요하죠.</text>
 		<text id="intro5">만약 그들이 저희를 공격한다면요?</text>
 		<text id="intro6">그럼 적어도 시도는 한거잖아요! 저는 이 행성이 안전하다고해서 여기에 쳐박혀 있진 않을거에요.</text>
-		<text id="mirrows1">Hey, what’s wrong? You look down.</text>
-		<text id="mirrows2">I tried asking the Mirrows to stop harassing everyone, but they won’t listen and I don't want to fight them.</text>
-		<text id="mirrows3">Good of you to try. But they’re stubborn as mules, and don't listen to anything except strength.</text>
-		<text id="mirrows4">I’m not giving up yet. It’s not fair that they can abuse their power like this.</text>
-		<text id="mirrows5">Maybe try to learn as much as you can about the Mirrows. Have you checked out all the areas around their lab?</text>
-		<text id="mirrows6">Are you the “C” in the Mirrows’ lab notes? Were you working with them?</text>
-		<text id="mirrows7">No... not exactly. They’re - [pause=4]They’re my parents.</text>
-		<text id="mirrows8">Your parents!? If you’re their daughter, maybe they’d listen to you. Will you try negotiating with them?</text>
-		<text id="mirrows9">Believe me, I’ve tried. They won’t listen to reason. They’re too focused on their “enhancements” and won’t even consider other solutions to our problems.</text>
-		<text id="mirrows10">We’d need something really powerful to get them to change directions. Something that can't be explained with science.</text>
-		<text id="mirrows11">What do you think about this [item=dragon_armor]? It has the power of an [item=adult_dragon], but can be worn like armor!</text>
-		<text id="mirrows12">That's so weird, but I definitely think it's worth a shot. Let's show it to my parents.</text>
-		<text id="mirrows13">Back again? This time we'll turn you into a cyborg for sure!</text>
-		<text id="mirrows14">Wait! Don't attack, it's me.</text>
-		<text id="mirrows15">Cass? What are you doing here?</text>
-		<text id="mirrows16">I want you to take a look at this. Maybe you don’t have to turn people into cyborgs after all.</text>
-		<text id="mirrows17">What is this thing? Its power readings are off the charts, but it doesn’t appear man made at all!</text>
-		<text id="mirrows18">If I tell you, will you agree to stop your human experimentation and extortion?</text>
-		<text id="mirrows19">Of course, this could be a whole new line of research for us!</text>
-		<text id="mirrows20">It turns out the species who originally inhabited this planet created the dragons and magical equipment. And, that species may have been - them.</text>
-		<text id="mirrows21">We'll be using their own creations against them! What delicious irony!</text>
-		<text id="sleep">Don't you know what time it is? I'm sure whatever you need can wait until morning...</text>
+		<text id="mirrows1">저기요, 안좋은 일 있어요? 기운없어 보여요.</text>
+		<text id="mirrows2">저는 미로우 부부에게 모두를 괴롭히지 마라고 부탁했어요. 하지만 그들은 듣지 않았고 저와 싸우고 싶어했죠. 저는 그들과 싸우고 싶지 않아요. </text>
+		<text id="mirrows3">괜찮은 시도 였어요. 하지만 그들은 고집이 쌔고 힘 이외에는 아무것도 듣지 않을거에요.</text>
+		<text id="mirrows4">저는 아직 포기하지 않았어요. 그들이 하는 행동들은 불공평한 것들이에요.</text>
+		<text id="mirrows5">미로우 부부에 대해서 알아내기 위해 노력해보세요. 그들 연구실 주변은 전부 살펴 보았나요?</text>
+		<text id="mirrows6">미로우 부부의 노트에 있던 "C"이신가요? 그들과 함께 일하셨어요?</text>
+		<text id="mirrows7">아니요... 확실히 아니에요. 그들은 - [pause=4]그들은 제 부모님이에요.</text>
+		<text id="mirrows8">당신의 부모님!? 당신이 그들의 딸이라면 그들은 당신이 하는 말을 듣지 않을까요? 그들과 협상해보는게 어때요?</text>
+		<text id="mirrows9">이미 해봤어요. 그들은 이성을 잃었어요. 그들은 “신체강화”에 집착하고 있고 우리의 문제에는 관심이 없어요.</text>
+		<text id="mirrows10">그들의 관심을 끌기 위해서는 강한 무언가가 필요할거에요. 과학으로는 설명할 수 없는 것.</text>
+		<text id="mirrows11">[item=dragon_armor]는 어때요? [item=adult_dragon]의 힘을 가지고 있지만 갑옷으로 사용할 수 있어요!</text>
+		<text id="mirrows12">그건 굉장히 이상하군요. 하지만 시도할 가치는 있겠어요. 부모님께 이야기 드려 봅시다.</text>
+		<text id="mirrows13">다시왔네? 이번엔 꼭 사이보그로 만들어줄게.</text>
+		<text id="mirrows14">잠깐! 저에요 공격하지 마세요.</text>
+		<text id="mirrows15">캐스? 여기서 뭐하는거니?</text>
+		<text id="mirrows16">이것좀 봐주세요. 이 사람을 사이보그로 만들 필요는 없을거에요.</text>
+		<text id="mirrows17">이게 뭐지? 전력이 차트를 벗어났어, 하지만 인간이 만든것 같지는 않은데?!</text>
+		<text id="mirrows18">제가 이것에 대해서 이야기해준다면, 그들을 괴롭히고 약탈 하는걸 그만둘건가요?</text>
+		<text id="mirrows19">물론이지, 이건 우리 연구의 새로운 지표가 될수 있다구!</text>
+		<text id="mirrows20">이 행성에 원래 살았던 종족이 용으로 마법 장비를 만든것으로 밝혀졌어요. 그리고 그 종족은 그들일수도 있어요.</text>
+		<text id="mirrows21">우리는 그들만의 창조물을 그들에게 사용할거에요! 아이러니 하죠?</text>
+		<text id="sleep">지금이 몇시인줄 아세요? 필요한건 아침에 이야기 해주세요...</text>
 	</section>
 	<section id="innkeeper">
-		<text id="bombardment1">If I were you, I'd evacuate to the [color=770000]Colony Ship[/color]'s cargo hold, in the desert to the west.</text>
-		<text id="bombardment2">The [object=mirrows] say that they have returned, and that the surface is not safe anymore.</text>
-		<text id="bombardment3">Me? I'm staying here. This inn is my life and livelihood, if it goes down... well... I'm going down with it. But, you better get going - no sense dying here with me.</text>
-		<text id="bombardment4">The bombardment is over? Excellent! Now I just need everyone to return to the surface and I'll be back in business!</text>
-		<text id="win1">Welcome to the Golden Key! Finest inn and historic site on the planet where humanity’s resurgence began!</text>
-		<text id="win2">Ah, it’s the star who brought about our final victory! It would be my honor to let you stay here, at no charge of course!</text>
-		<text id="win3">Just keep the other guests entertained with war stories, and make sure to tell them of my generosity!</text>
+		<text id="bombardment1">제가 당신이라면, 동쪽 사막에 있는 [color=770000]식민지 함선[/color]으로 대피할거에요.</text>
+		<text id="bombardment2">[object=mirrows]가 말하길 그들이 돌아왓다고 하더군요. 더이상 지상은 안전하지 않아요.</text>
+		<text id="bombardment3">저요? 저는 여기 남을거에요. 이 여관은 제 목숨이자 생업이에요. 만약 피난한다면... 이걸 가지고 갈거에요. 하지만, 당신은 가야해요- 여기서 저와 죽는다는건 말도 안되요.</text>
+		<text id="bombardment4">폭격이 끝났나요? 좋아요! 이제 모두가 지상으로 돌아오면 저는 사업을 시작할거에요!</text>
+		<text id="win1">골든 키에 어서오세요! 인류의 부활이 시작된 행성에서 가장 훌륭한 여관이자 역사적인 장소에!</text>
+		<text id="win2">아, 우리에게 승리를 안겨준 영웅이군요! 무료로 제공해 드리겠습니다! 부담없이 머물러 주신다면 영광이죠!</text>
+		<text id="win3">다른 손님들과 전쟁이야기를 하며 즐겁게 지내시고, 제 관대함을 꼭 전해주세요!</text>
 		<text id="intro1">골든 키에 어서오세요! 이 사막에서 유일하게 질좋은 객실을 제공합니다!</text>
 		<text id="intro2">그럼 여기가 여관인가요? 사람들이 많이 이용하나요?</text>
 		<text id="intro3">많은 사람들이 노을빛 피난처를 통해서 이곳으로 오죠. 탐험하고, 거래하고, 집에 전화할 곳을 찾고있어요.</text>
@@ -2128,14 +2128,14 @@
 		<text id="mirrows5">왜요? 저는 자선단체를 운영하지 않아요.</text>
 	</section>
 	<section id="fisherman">
-		<text id="bombardment">I hate being stuck here, unable to see the open sky or sail the seas. At least we're all still alive, but I just feel so useless here!</text>
-		<text id="bombardment2">I can't believe you defeated an enemy bomber! I'm sure they will send another wave, but I almost believe we have a chance now!</text>
-		<text id="bombardment3">The [object=mirrows] are dead!? To be honest, I never thought highly of them, but after their sacrifice I can't help but believe they were only acting in our best interests.</text>
-		<text id="win1">The war is over?! Then it’s back to the open skies and seas for me! I’ll see you topside!</text>
-		<text id="win2">The war is won, the threat is over, and we have a whole planet to rebuild on! Exciting times are ahead, and I bet we’ll need good sailors in this world. Maybe I should get a spaceship license...</text>
-		<text id="win3">The clear skies, the smell of salt water... the fresh air... this is how life should be. And never again will we have to worry about an alien bomber darkening the skies!</text>
-		<text id="win4">I was wondering where everyone had gone! It was starting to feel pretty empty here. I’ll head over there now!</text>
-		<text id="win5">Just one thing before I go - can you take care of my [item=cat], Peri? She won’t come to me, and I’d feel a lot better if someone looked after her when I’m gone.</text>
+		<text id="bombardment">저는 하늘도 없고 바다를 항해할 수도 없는 이곳이 싫어요. 우리는 모두 살아있지만, 여기서 저는 쓸모없다고 느껴져서 최악이에요!</text>
+		<text id="bombardment2">적의 폭격기를 파괴하다니! 믿을수 없군요! 그들이 다른 부대를 보낼거라 생각하지만, 적어도 지금은 우리에게 기회에요!</text>
+		<text id="bombardment3">[object=mirrows]가 죽었어요!? 솔직히, 그들을 좋게 평하가진 않았지만, 그들의 희생한뒤에는 적어도 그들이 우리를 위한 최선의 선택을 하고있었다는걸 알게되었어요.</text>
+		<text id="win1">전쟁이 끝낫나요?! 그렇다면 저는 높은 하늘과 드넓은 바다로 돌아가겠어요! 위에서 봐요!</text>
+		<text id="win2">전쟁도 끝났고, 위협도 사라졌으니, 우리는 행성을 재건해야해요! 흥미진진한 시대가 오고 있어요. 이 세계는 좋은 선원이 필요하겠죠? 우주선 명허를 따야하나...</text>
+		<text id="win3">맑은 하늘, 바닷가 냄새... 신선한 공기... 이게 삶이죠. 이제 다시는 외계인 폭격기가 하늘을 어둡게 하지 않겠군요.</text>
+		<text id="win4">다들 어디로 갓는지 궁금했어요! 여기는 꽤 조용해지기 시작했어요. 거기로 갈게요!</text>
+		<text id="win5">제가 가기 전에 딱 한가지- 제 [item=cat] 페리를 봐줄 수 있나요? 그녀는 저를 따라오지 않을거고 제가 없을때 누군가가 그녀를 돌바줬으면 해요.</text>
 		<text id="intro1">드디어 육지로 돌아왔다! 당신도 방금 도착한것 같군요?</text>
 		<text id="intro1_alt">안녕하세요! 다른 생존자가 항해 중인걸 보니 기분이 좋네요!</text>
 		<text id="intro2">그녀는 신경쓰지 마세요, 그건 폴리의 인사 방식이에요. 부츠가 좀 젖어도 괜찮길 바래요!</text>
@@ -2182,17 +2182,17 @@
 		<text id="spaceship1">우주선을 수리하려면 더 많은 [item=ship_parts]이 필요해... 그리고 [item=power_core]도. [object=sub]으로 찾을 수 있는건 다 찾아봐.</text>
 		<text id="build_sub1">오, [object=sub]을 만들었구나! [object=sub]을 탄 상태로 [key=equipment]키를 눌러 수리하고, 정비할 수 있어!</text>
 		<text id="build_sub2">무방비 상태가 되고싶지 않다면, [item=torpedo_launcher]도 반드시 설치하는게 좋을거야. [key=attack]키를 눌러서 무기를 사용할 수 있어.</text>
-		<text id="sub_empty1">I got a signal that the [object=sub]의 연료가 다 떨어진 것 같구나! 다행히도 너는 [item=battery default=Batteries]로 연료를 채울 수 있어.</text>
-		<text id="sub_empty2">You can restore the [object=sub]'s power by hitting [key=equipment] and then selecting [tile=battery.ico] Charge from Batteries.</text>
-		<text id="sub1">You sound like you're lost. Try returning to the Water Cave, we can guide you to the [item=ship_parts] from there.</text>
-		<text id="sub2">Based on the water currents, the [item=ship_parts] should have traveled west. Keep heading west and see if you can find anything.</text>
-		<text id="sub3">You found another island? Then the [item=ship_parts] may have washed ashore there... or perhaps they entered a cave. Check around for any underwater cave entrances.</text>
-		<text id="sub4">You found an underwater cave? That sounds very promising, I bet the [item=ship_parts] ended up there!</text>
-		<text id="sub5">Be careful though, underwater caves like that can be dangerous and unpredictable. Keep an eye out for caverns where you can restore your [tile=oxygen] [color=ffffff]Oxygen[/color].</text>
-		<text id="mirrow_same_room">You realize we're right here... right?</text>
-		<text id="mirrow_power_core">You found [item=power_core_parts]? Keep track of those, we may be able to build a [item=power_core] which will let us power the spaceship.</text>
-		<text id="ship_parts1">You found the [item=ship_parts]? Excellent! Return to the Sunset Haven cave, we've already come up with something to make use of the [item=ship_parts]!</text>
-		<text id="ship_parts2">Or you could explore a bit more, perhaps there is more to find out west.</text>
+		<text id="sub_empty1">[object=sub]의 연료가 다 떨어진 것 같구나! 다행히도 너는 [item=battery default=Batteries]로 연료를 채울 수 있어.</text>
+		<text id="sub_empty2">[key=equipment]키를 누른뒤 [tile=battery.ico] 배터리에서 충전을 누르면 [object=sub]의 전력을 복구할수 있어.</text>
+		<text id="sub1">길을 잃은것 같구나. 수중 동굴로 돌아와봐, 거기서부터 [item=ship_parts]으로 안내해줄게.</text>
+		<text id="sub2">물길을 따라 [item=ship_parts]은 서쪽으로 이동했을거야. 계속 서쪽으로 가면서 주변을 탐색해봐.</text>
+		<text id="sub3">다른 섬을 찾았다고? 그럼 [item=ship_parts]가 그 섬으로 밀려갔을지도 몰라... 아니면 동굴이나. 주변에 해저 동굴 입구가 있는지 확인해봐.</text>
+		<text id="sub4">수중 동굴을 찾았어? 희소식인걸, [item=ship_parts]는 그곳에 몰려있을거야!</text>
+		<text id="sub5">조심해, 수중 동굴은 예측할 수 없어. 동굴을 주시하고 [tile=oxygen] [color=ffffff]산소[/color]를 보충할 수 있는곳을 찾아봐.</text>
+		<text id="mirrow_same_room">우리가 여기 있다는걸 알면서... 그러기야?</text>
+		<text id="mirrow_power_core">[item=power_core_parts]를 찾니? 이것들을 추척해, 우리는 우주선에 동력을 공급할 [item=power_core]를 만들 수 있을지도 몰라.</text>
+		<text id="ship_parts1">[item=ship_parts]을 찾았어? 좋아! 노을빛 피난처의 동굴로 돌아와, 우리는 이미 [item=ship_parts]를 이용 할만한걸 생각해뒀어!</text>
+		<text id="ship_parts2">아니면 좀더 탐험해봐도 좋아. 서쪽으로 더 알아낼게 있을지도 모르지.</text>
 		<text id="ship_parts3">우리는 네가 찾아준 [item=ship_parts]을 잘 활용하기 위해 연구소를 개선하고 있어. 너도 꾸준히 발전하면서 서쪽의 잔해들을 찾아봐.</text>
 		<text id="escort_ship1">호위 우주선을 찾았다고? 그건 [color=770000]식민지 함선[/color]보다 작고 수리하기 쉬울거야!</text>
 		<text id="escort_ship2">우리에게 [item=ship_parts]을 구해주면, 잔해를 살펴볼게!</text>
@@ -2203,31 +2203,31 @@
 		<text id="escort_ship7">내가 모든걸 모았을때 연락하라고 했지! 만약 수리할 재료를 잊어먹었다면 [key=quest]키를 눌러서 다시 확인해봐.</text>
 		<text id="escort_ship8">연구소 이사는 거의다 끝났어. 이제 우주선을 수리하기 위한 부품만 있으면 돼. 그리고 우리는 정말로 우주로 갈 수 있을거야.</text>
 		<text id="escort_ship9">우주선이 날기 위해서는 [item=power_core]가 필요해, 하지만 그전에 들어가서 모든걸 확인해봐! 특히 제어실!</text>
-		<text id="escort_power_core1">You could create a [item=power_core] from [item=power_core_parts] in an [color=770000]Advanced Laboratory[/color], but that section of the [color=770000]Colony Ship[/color] broke off.</text>
-		<text id="escort_power_core2">Perhaps enough of it is intact somewhere for the [object=mechanic] to repair it?</text>
+		<text id="escort_power_core1">[color=770000]전문 연구실[/color]에서 [item=power_core_parts]를 이용해 [item=power_core]를 제작할 수 있어. 하지만 [color=770000]식민지 함선[/color] 구역이 끊겼어.</text>
+		<text id="escort_power_core2">아마도 [object=mechanic]이 그걸 수리할 수 있지 않을까?</text>
 		<text id="escort_ship10">다 챙겼어? 완벽해, 이제 배를 수리할 수 있는지 보자! 추락 현장에서 만나!</text>
 		<text id="escort_ship11">이것좀 봐! 완전히 새것처럼 되었어! 이제 우주로 나갈 준비가 된거야!</text>
 		<text id="escort_ship12">이건 대단한 업적이야! 무기 없이는 그들을 이길 수 없겟지만 적어도 대항할 수는 있겟지!</text>
 		<text id="ride_back">우리는 동굴로 돌아갈건데, 태워줄까?</text>
-		<text id="ride_water_cave">Do you want us to pick you up and fly you to the water cave?</text>
+		<text id="ride_water_cave">수중 동굴로 태워줄까?</text>
 		<text id="jet_door">이 문은 [object=mirrows] 전용 [object=jet]로 이어져 있습니다.</text>
 		<text id="jet_door2">안돼, 그들의 [object=jet]를 훔치는건 좋지않아, 하지만 유혹적이긴 하네.</text>
-		<text id="jet_door3">Now that the [object=mirrows] are gone, I guess this [object=jet] belongs to Cass...</text>
-		<text id="jet_door4">There's no one left who can claim this [object=jet]... it was a long and hard journey, but the time has finally come to steal it!</text>
-		<text id="boring_machine">Why are you building boring machines? We have much more important things to do right now!</text>
+		<text id="jet_door3">[object=mirrows]가 없으니, 이제 [object=jet]는 캐스 것인가...</text>
+		<text id="jet_door4">이 [object=jet]의 소유권을 주장할 사람은 이제 없다... 길고도 힘든 여정이였지만, 드디에 훔칠 수 있어!</text>
+		<text id="boring_machine">왜 지루한 기계들을 만드는거야? 우리는 당장 해야할 훨씬 중요한 일들이 있다구!</text>
 		<text id="ship_bed">이 회복 포트를 이용할까? [color=770000][tile=coin_purse.ico]금화[/color] 50개로 이용할 수 있다.</text>
 		<text id="no_money">그런데 넌 [color=770000][tile=coin_purse.ico] 금화[/color] 50개 조차도 없네... 잡동사니를 [color=770000]상점[/color]에 팔아 봐! 우리도 돈이 궁할 때 그렇게 하거든.</text>
 		<text id="blueprints1">더 많은 연구 자금을 얻기 위해, 우리의 발명품과 [tile=blueprint.ico] [color=770000]설계도[/color]를 팔기로 결정했단다!</text>
 		<text id="blueprints2">너가 구매를 해줄 수록 좋아. 우리가 새로운 물건을 발명 할 때마다 추가해 놓을테니 반드시 돌아오렴!</text>
 		<text id="blueprints3">언제든지 {area}로 와서 우리가 가지고 있는것들을 확인해봐!</text>
-		<text id="bombardment1">They came too soon! We knew this was coming and tried to prepare, but we just didn't have enough time!</text>
-		<text id="bombardment2">I'm certain this is only their first wave - we'll need to act fast to destroy their bomber before the second wave arrives!</text>
-		<text id="bombardment3">To destroy the bomber, we'll first need a spaceship, and we'll also need some powerful weapons. It won't be easy, but perhaps with your help we can do something!</text>
-		<text id="bombardment4">We have strengthened the hull and this cargo hold has enough fresh food and water to hold out for years... but if we can't do something about that bombardment, it will all be for nothing.</text>
-		<text id="bombardment5">You have defeated the enemy bomber!? Then we have time until the next wave arrives, but we must act fast!</text>
-		<text id="bombardment6">We have finally completed our secret weapon! It is a spaceship we cobbled together using spare [item=ship_parts] with an experimental weapon that should be able to take down their shields!</text>
-		<text id="bombardment7">We haven't had time to test it, but we must end the bombardment soon or their reinforcements will arrive! Unless you have a better plan, we will launch now!</text>
-		<text id="bombardment8">Very well - but act fast! If you change your mind, simply talk to us again!</text>
+		<text id="bombardment1">그들이 너무 빨리 왔어! 우리는 그들이 오는걸 알고 준비했지만, 시간이 부족했어!</text>
+		<text id="bombardment2">이건 그들의 첫번째 침공일거야. 우리는 그들이 두번째 침공을 하기 전에 그들의 폭격기를 파괴하기 위해 바쁘게 움직여야 할거야.</text>
+		<text id="bombardment3">폭격기를 파괴하기 위해선느 우선 우주선이 필요해. 쉽지는 않겟지만 너의 도움으로 우리가 무언가 할 수 있을거야.</text>
+		<text id="bombardment4">선체를 강화 시켰고 이 화물칸은 몇년동안 먹을 신선한 음식과 물이 있어... 하지만 우리가 폭격기에 대해 저항할 수 없다면, 이건 헛수고가 될거야.</text>
+		<text id="bombardment5">적의 폭격기를 격파했어!? 그러 다음 침공까지 시간이 좀 생겼어, 하지만 서둘러야해!</text>
+		<text id="bombardment6">드디어 비밀 무기를 완성했어! 나음 [item=ship_parts]를 이용해 만든 실험적인 무기야, 그들의 방어막을 뚫을 수 있을거야.</text>
+		<text id="bombardment7">실험해볼 시간은 없었어! 하지만 폭격을 끝내야해. 곧 그들의 지원군이 올거야! 더 좋은 계획이 없다면, 발사할게!</text>
+		<text id="bombardment8">좋아- 대신 빨리 행동해! 생각이 바뀌면 우리에게 다시 말을 걸어!</text>
 		<text id="sacrifice1">This clunker actually made it into space! The enemy bomber is in our sights, now to test out this new weapon!</text>
 		<text id="sacrifice2">We'll only have one chance at this - I'll take down the enemy shields, and then hit it with everything we have!</text>
 		<text id="sacrifice3">If we miss...[pause=1] or don't make it back...[pause=1] it'll be up to you to protect everyone.[pause=1] And tell Cass...[pause=1] Nevermind...</text>
@@ -2235,8 +2235,8 @@
 		<text id="sacrifice5">That's enough chatting - we better attack it before it notices us! Mirrows, signing out!</text>
 		<text id="sacrifice6">Mirrows! Come in! Can you read me! What happened up there!?</text>
 		<text id="sacrifice7">The signal is lost. They didn't make it...</text>
-		<text id="send_mirrows">Use Mirrow's Plan</text>
-		<text id="have_plan">Defeat Bomber Yourself</text>
+		<text id="send_mirrows">미로우 부부의 계획대로 하기</text>
+		<text id="have_plan">스스로 폭격기 퇴치하기</text>
 		<text id="research1">Incredible! This is the perfect place to advance our research! I will have to thank this [object=professor] for designing this superb mobile laboratory.</text>
 		<text id="research2">The only thing it is missing is a [color=770000]Surgery Lab[/color]! But, there is room in here to build one (or even two)! I trust you'll make good use of the [item=operation_table_blueprint].</text>
 		<text id="research3">It even has a [color=770000]Surgery Lab[/color]! Everything we could want in one, compact, mobile package!</text>
@@ -3306,7 +3306,7 @@
 		<text id="no_host">호스트 연결 실패!</text>
 		<text id="error">연결 실패: {reason}.</text>
 		<text id="bad_ver">버전 불일치</text>
-		<text id="bad_player">Missing Campaign</text>
+		<text id="bad_player">캠패인 잃음</text>
 		<text id="not_ready">준비되지 않음</text>
 		<text id="missing_area">Bad Area ID</text>
 		<text id="exists">이름이 사용중입니다</text>
@@ -3320,32 +3320,32 @@
 		<text id="in_use">호스트 저장 불가: 사용중인 포트입니다!</text>
 		<text id="give_items">아이템 주기</text>
 		<text id="death">[color=ff2222]{user}[/color]이(가) 죽었습니다!</text>
-		<text id="join_title">You can only join a game from the title screen. Exit this game and try again.</text>
+		<text id="join_title">타이틀 화면에서만 게임 참가가 가능합니다. 이 게임을 종료하고 다시 시도하세요.</text>
 		<text id="other">다른곳 입장중...</text>
-		<text id="call_busy">The line is busy... someone else must be calling them.</text>
+		<text id="call_busy">통화중이빈다...다른 사람을 부르고 있습니다.</text>
 		<text id="give">[color=ff2222]{user}[/color]이(가) 당신에게 {item} {count}개를 줬습니다.</text>
 		<text id="public">전체 공개.</text>
 		<text id="invite">친구초대...</text>
 		<text id="search">게임 찾는중...</text>
 		<text id="unknown_game">{id}는(은) 알 수 없는 게임입니다.</text>
-		<text id="max_length">Unable to send: Maximum message length is {len} chars!</text>
+		<text id="max_length">보낼수 없음: 최대 {len}자 미만 만 가능합니다!</text>
 		<text id="joined">-- {name}이(가) 입장함</text>
 		<text id="left">-- {name}이(가) 떠남</text>
 		<text id="confirm_kick">정말로 {name}을(를) 강퇴 하실건가요?</text>
 		<text id="confirm_ban">정말로 {name}을(를) 벤 하실건가요?</text>
-		<text id="confirm_delete">Are you sure you wish to permanently delete {name} and all their items?</text>
-		<text id="missing_mods">You are missing the following mods that this host is using:\n[color=770000]{mods}[/color]\nWould you like to join anyways?</text>
+		<text id="confirm_delete">정말 {name}와 아이템으 전부 삭제 할건가요?</text>
+		<text id="missing_mods">호스트가 사용중인 모드가 누락되었습니다:\n[color=770000]{mods}[/color]\n그래도 참가 할까요?</text>
 		<text id="no_player">플레이어를 찾지 못함: "{name}"</text>
 		<text id="no_server">서버가 동작중이지 않습니다.</text>
 		<text id="chat">대화 열기</text>
-		<text id="whisper">{name} whispers</text>
-		<text id="no_unequip">Cannot use /unequip while player is logged in. /kick them first.</text>
-		<text id="unequip">Unequipped all items from {name}.</text>
+		<text id="whisper">{name} 귓속말</text>
+		<text id="no_unequip">사용할수 없음 /unequip 은 플레이어가 로그인되어 있는 동안 /kick 을 먼저 해야합니다.</text>
+		<text id="unequip">{name}의 모든 아이템 해제.</text>
 		<text id="list">플레이어:</text>
-		<text id="unbanned">{name} unbanned.</text>
-		<text id="pre">Prefix changed.</text>
-		<text id="post">Postfix changed.</text>
-		<text id="no_command">Unknown command: "{command}"!</text>
+		<text id="unbanned">{name} 차단 해제.</text>
+		<text id="pre">직함 변경.</text>
+		<text id="post">직함 변경됨.</text>
+		<text id="no_command">알수 없는 명령어: "{command}"!</text>
 		<text id="start">서버 시작됨</text>
 		<text id="running">서버가 이미 돌아가는 중입니다.</text>
 		<text id="stop">서버 중지됨</text>
@@ -3380,7 +3380,7 @@
 		<text id="fail_staircase">You need {points} [color=770000][tile=colosseum.points anim=colosseum.points] Spirit Points[/color] to unlock this staircase.</text>
 		<text id="focus_gem">This costs a [item=focus_gem] (you have [global=gems] total). Would you like use a [item=focus_gem]?</text>
 		<text id="fail_focus_gem">This costs a [item=focus_gem]. You do not have any [item=focus_gem]s to spend.</text>
-		<text id="points">Spirit Points</text>
+		<text id="points">영력 포인트</text>
 	</section>
 	<section id="elements">
 		<text id="change">속성 변경</text>
