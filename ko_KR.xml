@@ -2228,30 +2228,30 @@
 		<text id="bombardment6">드디어 비밀 무기를 완성했어! 나음 [item=ship_parts]를 이용해 만든 실험적인 무기야, 그들의 방어막을 뚫을 수 있을거야.</text>
 		<text id="bombardment7">실험해볼 시간은 없었어! 하지만 폭격을 끝내야해. 곧 그들의 지원군이 올거야! 더 좋은 계획이 없다면, 발사할게!</text>
 		<text id="bombardment8">좋아- 대신 빨리 행동해! 생각이 바뀌면 우리에게 다시 말을 걸어!</text>
-		<text id="sacrifice1">This clunker actually made it into space! The enemy bomber is in our sights, now to test out this new weapon!</text>
-		<text id="sacrifice2">We'll only have one chance at this - I'll take down the enemy shields, and then hit it with everything we have!</text>
-		<text id="sacrifice3">If we miss...[pause=1] or don't make it back...[pause=1] it'll be up to you to protect everyone.[pause=1] And tell Cass...[pause=1] Nevermind...</text>
-		<text id="sacrifice4">I know we didn't always see eye to eye, but I hope this attack shows you that the only way to survive is power!</text>
-		<text id="sacrifice5">That's enough chatting - we better attack it before it notices us! Mirrows, signing out!</text>
-		<text id="sacrifice6">Mirrows! Come in! Can you read me! What happened up there!?</text>
-		<text id="sacrifice7">The signal is lost. They didn't make it...</text>
+		<text id="sacrifice1">이 얼간이는 실제로 우주에 진출했어! 적 폭격기가 우리 시야에 들어왔어, 새로운 무기를 써보자고!</text>
+		<text id="sacrifice2">기회는 한번 뿐이야 - 내가 적의 방어막을 부수고, 모든걸 쏟아부어 부숴버리겠어!</text>
+		<text id="sacrifice3">혹시 우리가 실패하면...[pause=1] 혹은 돌아오지 못한다면...[pause=1] 이제 너가 모두를 보호해야해.[pause=1] 그리고 캐스에게...[pause=1] 마음에 두지 말라고 전해줘...</text>
+		<text id="sacrifice4">저희는 의견이 항상 맞지 않았죠. 이번 공격으로 우리가 생존하기 위해 필요한건 힘이라는 당신의 주장을 증명해주세요.</text>
+		<text id="sacrifice5">이제 그만 통화해 - 그들이 눈치채기 전에 공격하는게 좋겠어! 미로우 부부, 통신 종료!</text>
+		<text id="sacrifice6">미로우 부부! 돌아오세요! 제말 들리잖아요! 무슨 일이 일어난거에요!?</text>
+		<text id="sacrifice7">신호가 잡히지 않는다. 그들은 돌아오지 못했다...</text>
 		<text id="send_mirrows">미로우 부부의 계획대로 하기</text>
 		<text id="have_plan">스스로 폭격기 퇴치하기</text>
-		<text id="research1">Incredible! This is the perfect place to advance our research! I will have to thank this [object=professor] for designing this superb mobile laboratory.</text>
-		<text id="research2">The only thing it is missing is a [color=770000]Surgery Lab[/color]! But, there is room in here to build one (or even two)! I trust you'll make good use of the [item=operation_table_blueprint].</text>
-		<text id="research3">It even has a [color=770000]Surgery Lab[/color]! Everything we could want in one, compact, mobile package!</text>
-		<text id="on_bomber">... you should probably leave the enemy bomber before we try to destroy it! Let us know when you're safely away from it, and then call us again!</text>
-		<text id="research_lab">You built a [color=770000]Mobile Research Lab[/color]?! Well, what are you waiting for, bring it closer so we can board it!</text>
-		<text id="cyborg1">The colonists seem to think [item=exotic_matter] is the solution to everything... but don't underestimate the power of cybernetic enhancements!</text>
-		<text id="cyborg2">We've discovered a new kind of [item=carapace] on the colony world's surface, and with it and some research funds, we should be able to invent powerful cyborg upgrades!</text>
-		<text id="cyborg3">Excellent! We knew we could count on you! This [item=carapace] is perfect for binding man and machine without any rejection or loss!</text>
-		<text id="cyborg4">The research is finished, and you can find the new equipment in the [color=770000]Surgery Lab[/color]!</text>
-		<text id="com_device">Did Cass give you that [item=com_device]? We have one too, let me add us to your contacts in case you want to talk to us!</text>
-		<text id="win1">The war is won?! I hope our cyborg enhancements were useful in the final battle!</text>
-		<text id="win2">What should we do now? We can’t possibly give up on our cyborg research just because the war is over!</text>
-		<text id="win3">Very true. We’ll just have to prepare for the next war! Whether it’s with humans or aliens, you can be sure there will always be another!</text>
-		<text id="werewolf1">Fascinating - this [object=unnature.splicer] must be a master of manipulating genomes! You don’t even appear to be human anymore!</text>
-		<text id="werewolf2">If you were expecting help from us, you’ll be disappointed. We are not veterinarians, our expertise is with human cyborgification!</text>
+		<text id="research1">굉장해! 이곳은 우리 연구를 진전 시키기에 완벽한 장소야! 이 장소를 만든 [object=professor]에게 감사해야겠어.</text>
+		<text id="research2">하지만 이곳은 [color=770000]유전자 연구소[/color]가 빠졋군! 하지만 한두개 정도 설치할 공간이 있어보여! [item=operation_table_blueprint]를 사용해주리라 믿어.</text>
+		<text id="research3">심지어 [color=770000]유전자 여구소[/color]도 있다니! 우리가 원하는 모든게 이곳에 있어!</text>
+		<text id="on_bomber">... 우리가 폭격기를 파괴하기 전에 빠져나오는게 좋을거야! 안전해지면 다시 연락해!</text>
+		<text id="research_lab">[color=770000]이동형 연구소[/color]를 지었다고?! 뭐해? 탑승할 수 있게 이리로 가져오지않고?</text>
+		<text id="cyborg1">식민지 주민들은 [item=exotic_matter]이 모든것의 해결책이라고 생각하는것 같아... 그래도 사이보그 기술을 무시하지 말아줬으면 해!</text>
+		<text id="cyborg2">우리는 식민지 지상에서 새로운 종류의 [item=carapace]를 발견했어. 아마 이걸로 사이보그 기술을 업그레이드 할수 있을거야!</text>
+		<text id="cyborg3">완벽해! 넌 해낼줄 알았어! 이 [item=carapace]는 기계나 사람에게 융합하는데 거부 반응이 없어!</text>
+		<text id="cyborg4">연구가 끝났어, [color=770000]유전자 연구소[/color]에서 새 장비를 볼 수 있을거야!</text>
+		<text id="com_device">캐스가 [item=com_device]를 줬어? 우리도 가지고있어, 연락처를 추가해둘게 언제든지 연락해!</text>
+		<text id="win1">우리가 이겼어?! 우리의 사이보그 기술이 마지막에 유용하게 쓰였길 바래!</text>
+		<text id="win2">우리 이제 뭐하지? 아냐 전쟁이 끝나도 우리의 사이보그 연구는 끝나지 않아!</text>
+		<text id="win3">이건 분명한 사실이야. 우리는 다음 전쟁을 준비할거야! 우리가 외계인과 함께 있던 인간과 함께 있던 어딘가에 다른것들이 존재할거야!</text>
+		<text id="werewolf1">매혹적이군 - 이 [object=unnature.splicer]는 유전자를 조작하는데 숙달되어있어! 이젠 인간으로 보이지도 않는다구!</text>
+		<text id="werewolf2">우리에게 도움을 구하려 했다면 실망스러울거야. 우리는 수의사가 아니거든, 우리는 사이보그가 전문 분야야.</text>
 		<text id="intro1">당신들이 미로우 부부인가요? 왜 노을빛 피난처를 괴롭히고 이상한 돌연변이를 만드는거죠?</text>
 		<text id="intro2">당신은 이해하지 못할거야! 이건 모두를 위해서라고! 궁극의 무기가 없으면 우리는 살아남을수 없어!</text>
 		<text id="intro3">그들이 마지막으로 남겨진 우리를 죽이러 올때를 대비해야 했어! 대의를 위한 희생은 불가피하지.</text>
@@ -2612,13 +2612,13 @@
 		<text id="intro1">노을빛 피난처의 동쪽 해안은 최근 위험합니다 - 많은 배의 잔해를 발견했고 그중 몇몇은 동료 무역가들의 배였죠...</text>
 		<text id="intro2">분명 해적들의 짓일거에요, 하지만 저는 흔적을 찾지 못했어요. 그들은 분명 좋은 화력의 순양함을 가지고 있을거에요.</text>
 		<text id="intro3">만약 당신이 [object=patrol_boat]을 만들어서 해석을 퇴치해 준다면, 우리 선원들이 좋아할거에요!</text>
-		<text id="hint1">The pirates hunting grounds are definitely between here and the island you crashed on. But they must have a base somewhere, and I couldn't find any islands nearby...</text>
-		<text id="hint2">I'm certain the pirates are packing some serious firepower. Make certain you have some strong weapons yourself, maybe try building a [object=patrol_boat] at the [color=770000]Warehouse[/color].</text>
+		<text id="hint1">해적들이 활동하는 위치는 분명 이 섬과 당신이 추락한 그 섬의 사이일거에요. 그들이 기지로 삼은 섬이 있을텐데 이 근방에선 찾지 못했어요...</text>
+		<text id="hint2">해적들은 높은 화력을 보유하고 있을거에요. 강한 무기를 보유해야할 거에요. [color=770000]부두집[/color]에서 [object=patrol_boat]을 만들어보세요.</text>
 		<text id="structure_lock">잠겨있다... 해적을 물리치고 열쇠를 얻어야할것 같다.</text>
 		<text id="structure_unlock">해적이 가지고 있던 열쇠로 열었어!</text>
-		<text id="mechanic1">I'm detecting the signature of some advanced technology! Try scanning it with the [item=com_device]!</text>
-		<text id="mechanic2">I don't know how they built it, but that's an [color=770000]Advanced Laboratory[/color]! I should be able to design a blueprint for it using the scanned schematics...</text>
-		<text id="mechanic3">Perfect! I'm already drooling over all the new equipment we should be able to build with this!</text>
+		<text id="mechanic1">어떤 첨단 기능을 발견했어요! [item=com_device]로 스캔해보세요!</text>
+		<text id="mechanic2">그들이 어떻게 이걸 지었는지는 모르겟지만, 이건 [color=770000]전문 연구실[/color]이에요! 스캔한 도표를 이용해서 설계도를 만들 수 있으면 좋겟는데...</text>
+		<text id="mechanic3">완벽해요! 이걸로 우리는 새로운 장비를 만들 수 있어요. 기대 되는걸요?</text>
 		<text id="complete1">일처리가 완벽하군요! 이제 이 주변 바다는 안전해 졌어요! 이 일은 보상을 받아 마땅해요, 저를따라 여관까지 오시겠어요?</text>
 		<text id="complete2">이봐 모티머, 여기 있는 분이 해적을 소탕해줘서 인근 바다가 안전해졌어. 이 분에게 훈장을 수여하고 여관을 무료로 제공하는게 좋다고 생각해!</text>
 		<text id="complete3">무료로? 말도 안 돼! 버려진 이 행성에서의 숙식은 결코 싸지 않아!</text>
@@ -2820,7 +2820,7 @@
 		<text id="hq3">Excellent! As long as the [item=alien_locator] is in your inventory or your ship's inventory, an indicator will show up next to planets that have alien technology present.</text>
 		<text id="hq4">Hmm... something is strange here... The [item=alien_locator] is getting a strong signal from a star that has no planets. I added it to the star nav map, perhaps we should check it out?</text>
 		<text id="hq5">[object=president] has sent me all of its research and plans! It really feels like we're making progress here... if this plan succeeds, perhaps we can get rid of the enemy threat for good!</text>
-		<text id="invite">Should I invite the {npc} aboard the [color=770000]Mobile Research Lab[/color]?</text>
+		<text id="invite">[color=770000]이동식 연구소[/color]에 {npc}을(를) 탑승시킬까요?</text>
 		<text id="alien_hq1">Well, it looks like we found the enemy HQ! The place is swarming with ships! And what are we orbiting? Is that a planet, or a spaceship? I wonder if it's alive?</text>
 		<text id="alien_hq2">This looks like more than we can handle. Perhaps we should retreat and figure out a plan of action before we try to take on their HQ?</text>
 		<text id="win1">Now that they are gone, I don’t have to limit my research to warfare anymore! Think of all the possibilities! Maybe a point-of-view gun, or a self-flushing toilet!</text>
@@ -2961,27 +2961,27 @@
 		<text id="buy1">How about buying a past reward for 50K [color=770000][tile=coin_purse.ico] Coins[/color]!</text>
 	</section>
 	<section id="cafeteria">
-		<text id="order">What would you like to order? All meals are 500 [color=770000][tile=coin_purse.ico] Coins[/color].</text>
-		<text id="no_order">Do not be a glutton. Wait until the effects of your last meal wear off before you order more!</text>
-		<text id="no_money">You do not have 500 [color=770000][tile=coin_purse.ico] Coins[/color] to purchase that meal.</text>
+		<text id="order">주문 하시겠습니까? 모든 음식은 [color=770000][tile=coin_purse.ico] 금화[/color] 500개 입니다.</text>
+		<text id="no_order">폭식하지 마세요. 주문하시기 전에 마지막으로 드신 음식의 효과가 끝나기를 기다려주세요!</text>
+		<text id="no_money">주문을 하시기 위해선 [color=770000][tile=coin_purse.ico] 금화[/color] 500가 필요합니다.</text>
 	</section>
 	<section id="cafeteria.names">
-		<text id="regen_stamina">Insane Insomnia Shot</text>
-		<text id="regen_health">Ichorprotein Shake</text>
-		<text id="regen_power">Radioactive Chili Chowder</text>
-		<text id="attack">Strongarm Sliders</text>
-		<text id="defense">Iron Filing Fillet</text>
-		<text id="mine">Digger's Draught</text>
-		<text id="speed">Sugar Rush Soufflé</text>
-		<text id="farsight">Farsight Fritters</text>
-		<text id="porky">Pig Out Pork Chops</text>
-		<text id="endurance">Filling Plankton Paste</text>
-		<text id="bargaining">Compromised Cheesesteak</text>
-		<text id="light">Phosphorescent Potato Salad</text>
-		<text id="oxygen">Breathless Buffalo Wings</text>
-		<text id="reset">No Frills Fettuccine</text>
-		<text id="knock_out">Knock Out Nuggets</text>
-		<text id="toxic">Revoltingly Toxic Tonic</text>
+		<text id="regen_stamina">미친 불면증 커피</text>
+		<text id="regen_health">이코르 단백질 쉐이크</text>
+		<text id="regen_power">방사능 칠리 차우더</text>
+		<text id="attack">스트롱암 슬라이더</text>
+		<text id="defense">철 부스러기 고기</text>
+		<text id="mine">채굴기 한사발</text>
+		<text id="speed">설탕 폭탄 수플레</text>
+		<text id="farsight">원시 튀김</text>
+		<text id="porky">돼지 없는 돼지갈비</text>
+		<text id="endurance">꽉찬 플랑크톤 반죽</text>
+		<text id="bargaining">위험한 치즈케이크</text>
+		<text id="light">빛나는 감자 셀러드</text>
+		<text id="oxygen">숨막히는 물소 날개</text>
+		<text id="reset">장식없는 페투치네</text>
+		<text id="knock_out">KO 너겟</text>
+		<text id="toxic">역겨운 유독성 탄산수</text>
 	</section>
 	<section id="cafeteria.desc">
 		<text id="regen_stamina">You swallow the whole shot in one gulp. It tickles your throat but has no flavor. Within moments, you feel energy spreading to every pore, like you could stay awake for days without getting tired.</text>
@@ -3354,32 +3354,32 @@
 		<text id="rename">새로운 캐릭터 이름:</text>
 	</section>
 	<section id="multiplayer_help">
-		<text id="commands">Available commands:[color=ffffff] {list}.\n[color=aaaaaa]Type /help command for more details about a command.</text>
-		<text id="help">/help [[command] - [color=aaaaaa]shows a list of commands, or details about a single command.</text>
-		<text id="whisper">/whisper player message - [color=aaaaaa]sends message only to player. Player can be their name, or $player[[num].</text>
-		<text id="give">/give player - [color=aaaaaa]opens a transfer item window for that player. Only hosts can take items, but this works even for offline players.</text>
-		<text id="unequip">/unequip player - [color=aaaaaa]unequips all items from the player and places it in their inventory so you can take them using /give. Host only.</text>
-		<text id="delete">/delete player - [color=aaaaaa]permanently deletes player and all of their items. They can rejoin, but will restart as a new character. Host only.</text>
-		<text id="leave">/leave - [color=aaaaaa]removes your player without disconnecting and allowing you to continue hosting the game and chatting.</text>
-		<text id="join">/join - [color=aaaaaa]rejoins the game after using /leave.</text>
-		<text id="to">/to player - [color=aaaaaa]instantly teleports to the chosen player.</text>
-		<text id="list">/list - [color=aaaaaa]lists all players who have ever been on this server, along with their $player[[num] values.</text>
-		<text id="server">/server [[start|stop|private|public] - [color=aaaaaa]starts, stops or sets whether to show the server in the games list. Host only.</text>
-		<text id="clear">/clear - [color=aaaaaa]clears this chat window.</text>
-		<text id="kick">/kick player - [color=aaaaaa]kicks the player from the game. It will ask you if they want to join again. Host only.</text>
-		<text id="ban">/ban player - [color=aaaaaa]bans the player by name and IP address. You will not be asked if they want to join again. Host only.</text>
-		<text id="unban">/unban player - [color=aaaaaa]unbans a previously banned player. Host only.</text>
-		<text id="pre">/pre [[text] - [color=aaaaaa]prepends text to all messages. If text not set, removes prefix. Can be used to change text color by prepending [[color=value].</text>
-		<text id="post">/post [[text] - [color=aaaaaa]appends text to all messages. If text not set, removes postfix.</text>
-		<text id="smileys">/smileys - [color=aaaaaa]shows a list of all smileys.</text>
-		<text id="rename">/rename player - [color=aaaaaa]changes a player's name. This will kick them if they are logged in. Host only.</text>
+		<text id="commands">사용 가능 명령어:[color=ffffff] {list}.\n[color=aaaaaa]/help 명령어로 각 명령어의 세부 설명을 볼 수 있습니다.</text>
+		<text id="help">/help [[command] - [color=aaaaaa]명령의 목록과 각 명령어의 세부 정보 표시.</text>
+		<text id="whisper">/whisper player message - [color=aaaaaa]해당 유저에게만 메세지를 보낸다. 유저는 이름 혹은 $player[[num]으로 가능하다.</text>
+		<text id="give">/give player - [color=aaaaaa]아이템 창에서 유저에게 전달합니다. 호스트만 받을 수 있으며, 오프라인에서도 가능합니다.</text>
+		<text id="unequip">/unequip player - [color=aaaaaa]모든 유저의 장비를 장착 해제 시킵니다. 당신은 아이템을 /give 로 가져올수 있습니다. 호스트 전용.</text>
+		<text id="delete">/delete player - [color=aaaaaa]유저와 유저가 소유한 아이템까지 전부 삭제합니다. 해당 유저는 다시접속할 수 있지만 새로운 캐릭터를 사용해야합니다. 호스트 전용.</text>
+		<text id="leave">/leave - [color=aaaaaa]연결을 끊지 않고 게임을 나가며, 호스트와 채팅을 계속 할 수 있다.</text>
+		<text id="join">/join - [color=aaaaaa]/leave 명령어를 사용한후 다시 접속할때 사용한다.</text>
+		<text id="to">/to player - [color=aaaaaa]선택한 유저에게 순간이동한다.</text>
+		<text id="list">/list - [color=aaaaaa]현제 서버에 접속한 모든 유저의 $player[[num] 값과 정보를 나열한다.</text>
+		<text id="server">/server [[start|stop|private|public] - [color=aaaaaa]게임 목록에 서버를 표시할지 여부를 정한다. 호스트 전용.</text>
+		<text id="clear">/clear - [color=aaaaaa]채팅창 청소.</text>
+		<text id="kick">/kick player - [color=aaaaaa]유저를 강퇴한다. 해당 유저가 다시 접속 가능하게 할건지 물어봅니다. 호스트 전용.</text>
+		<text id="ban">/ban player - [color=aaaaaa]이름과 IP주소를 이용해 차단합니다. 해당 유저가 다시 접속 가능하게 할건지 물어보지 않습니다. 호스트 전용.</text>
+		<text id="unban">/unban player - [color=aaaaaa]차단된 유저를 차단 해제합니다. 호스트 전용.</text>
+		<text id="pre">/pre [[text] - [color=aaaaaa]모든 메세지에 접두사를 붙입니다. 만약 메세지에 설정되어 있지 않다면, 접두사를 지우세요. [[color=value]을 입력하여 텍스트 색상을 변경 할 수 있습니다.</text>
+		<text id="post">/post [[text] - [color=aaaaaa]모든 메세지에 접미사를 붙입니다. 만약 메세지에 설정이 되어있지 않다면, 접미사를 지우세요.</text>
+		<text id="smileys">/smileys - [color=aaaaaa]모든 스마일 리스트를 보여줍니다.</text>
+		<text id="rename">/rename player - [color=aaaaaa]유저 이름을 변경합니다. 그들이 접속해 있다면 퇴장 당합니다. 호스트 전용.</text>
 	</section>
 	<section id="colosseum">
-		<text id="victory">+[global=points] [color=770000][tile=colosseum.points anim=colosseum.points] Spirit Points[/color]!</text>
-		<text id="build_staircase">Do you want to build this staircase for {points} [color=770000][tile=colosseum.points anim=colosseum.points] Spirit Points[/color]?</text>
-		<text id="fail_staircase">You need {points} [color=770000][tile=colosseum.points anim=colosseum.points] Spirit Points[/color] to unlock this staircase.</text>
-		<text id="focus_gem">This costs a [item=focus_gem] (you have [global=gems] total). Would you like use a [item=focus_gem]?</text>
-		<text id="fail_focus_gem">This costs a [item=focus_gem]. You do not have any [item=focus_gem]s to spend.</text>
+		<text id="victory">+[global=points] [color=770000][tile=colosseum.points anim=colosseum.points] 영력 포인트[/color]!</text>
+		<text id="build_staircase">{points} [color=770000][tile=colosseum.points anim=colosseum.points] 영력 포인트[/color]으로 계단을 건설할까요?</text>
+		<text id="fail_staircase">이 건물을 활성화 하기 위해서는 {points} [color=770000][tile=colosseum.points anim=colosseum.points] 영력 포인트[/color]가 필요합니다.</text>
+		<text id="focus_gem">이것은 [item=focus_gem] ([global=gems]개 보유중)을 사용합니다. [item=focus_gem]을 사용할까요?</text>
+		<text id="fail_focus_gem">T이것은 [item=focus_gem]을 사용합니다. 사용할 [item=focus_gem]이 없습니다.</text>
 		<text id="points">영력 포인트</text>
 	</section>
 	<section id="elements">
