@@ -2762,44 +2762,44 @@
 		<text id="station4">[item=station_dock_blueprint]은 우주선을 궤도에 정거해둘수 있게 해줄거에요. 다음 침공을 위한 대비를 하는데 유용할거에요!</text>
 	</section>
 	<section id="scavenger">
-		<text id="distress_intro">The [item=com_device] is receiving a distress signal! It appears to be coming from [color=770000]Earth[/color] - perhaps there were survivors after all!</text>
-		<text id="distress_orbit">The signal is coming from the surface of the planet.</text>
-		<text id="distress_far">The signal is coming from the other side of the planet.</text>
-		<text id="distress_near">The signal is getting close - I can now track its location!</text>
-		<text id="distress_ruins">The signal is coming from somewhere inside these ruins!</text>
-		<text id="distress1">Distress... signal? I sent one? Perhaps... hoping for survivors... But no. Only me. And perhaps you?</text>
-		<text id="distress2">Our colony ship was able to get away from Earth during the bombardment. What happened here?</text>
-		<text id="distress3">Bad things. Much despair. And death. But not I. I'm alive. I find things.</text>
-		<text id="distress4">Ok then... I'm sure it was hard for you. Maybe you'd like to leave here with me?</text>
-		<text id="keycard1">No. I stay here... very important. You... can help? Recover [item=disabled_keycard]... deactivate drones.</text>
-		<text id="keycard2">The [item=disabled_keycard] owner... died in subways. Their card... will be there.</text>
-		<text id="keycard3">Ah! A [item=disabled_keycard]! I activate!</text>
-		<text id="keycard4">Drone control... nearby. Unlock door, deactivate drones... Build our own?</text>
-		<text id="drone1">The drone factory... is ours? Then we can build... some drones! Take this [item=drone_control].</text>
-		<text id="drone2">Drones... can be controlled from anywhere... makes it safe to fight... remotely. Going up against them... in person... means death...</text>
-		<text id="professor1">Now that... planet safe... we should look... for survivors?</text>
-		<text id="professor2">There was... a Professor... who modified us... helped us survive. She left... for research... on another island.</text>
-		<text id="professor3">Perhaps... she is still alive?</text>
-		<text id="professor4">If you find her... tell her I sent you... and use the [item=keycard1]...</text>
-		<text id="professor5">The Professor... is still alive? That is... good news! She will know... what to do next!</text>
-		<text id="scene1">You sleep here? Strange... no one here in so long... Except me. Not... used to company?</text>
-		<text id="scene2">You can stay... Perhaps together... we can defeat them...</text>
-		<text id="scene3">It is nice... to talk to someone again. I will try... to get used to it.</text>
-		<text id="call">Oh... someone is calling... I forgot I had this [item=com_device]...</text>
-		<text id="research1">Welcome aboard the [color=770000]Mobile Research Lab[/color]! Our secret weapon against them!</text>
-		<text id="research2">This... is amazing! I knew... the Professor would know... what to do!</text>
-		<text id="research3">We can... keep moving... always hiding... building drones... researching weapons... until we are ready to face them!</text>
-		<text id="no_distress">They came... they destroyed... everyone died... but I survived... and maybe you?</text>
-		<text id="research_lab">The Professor... built a lab? Bring it... closer... and I will board it!</text>
-		<text id="win1">I stay here... on lab... with Professor...</text>
-		<text id="locked">This terminal is locked and cannot be operated.</text>
-		<text id="stand_down">Accessing drone control... accessing security system... disabling... Success! The security system has been disabled and drones are now in idle patrol mode!</text>
-		<text id="log1">3/1 - The day started bright and clear, and everyone was full of hope because of the ongoing recovery efforts after the war. No one expected this day to be the end.</text>
-		<text id="log2">3/2 - The destruction caused in one day made us feel like it was World War 3 again. However, it didn't stop - the alien bombers kept at it endlessly. It didn't take long for us to realize this was far worse than the war.</text>
-		<text id="log3">3/15 - It took a small fleet to take down a single bomber, and there was no end to the number of enemy ships warping in. Some fled in colony ships. Most died. Few remained.</text>
-		<text id="log4">3/17 - They left behind a ruined planet, their work done. The surface was no longer suitable for life. Dust clogged the skies, and we who remained took shelter in underground ruins and subways.</text>
-		<text id="log5">4/1 - The situation went from bad to worse. Breaking pipes, cave-ins, dwindling food reserves. To top it off, our own military drones, having received no orders since the one to defend the planet, turned against us.</text>
-		<text id="log6">5/1 - I hope those who fled survived somewhere out there. Perhaps they are making a new Earth as we speak. It is the only hope we have left. This planet is doomed. We are doomed. These logs may be all that remain of us if anyone ever returns.</text>
+		<text id="distress_intro">[item=com_device]에 조난신호가 잡힌다! [color=770000]지구[/color]로 부터 수신중 인걸로 보인다 - 생존자가 있을지도 몰라!</text>
+		<text id="distress_orbit">신호가 행성의 지상에서 나오고 있습니다.</text>
+		<text id="distress_far">신호가 행성의 반대편에서 나오고 있습니다.</text>
+		<text id="distress_near">신호가 점점 가까워지고 있습니다. 이제 추적할 수 있습니다.</text>
+		<text id="distress_ruins">이 폐허 어딘가에서 신호가 오고 있습니다!</text>
+		<text id="distress1">조난... 신호? 내가? 아마도... 다른 생존자를 바라며... 하지만 아님. 나 뿐. 어쩌면 당신?</text>
+		<text id="distress2">우리의 식민지 우주선은 폭격에 살아남아 지구에서 벗어날 수 있었어요. 여기서 무슨 일이 있었던거죠?</text>
+		<text id="distress3">나쁜일. 절망. 죽음. 하지만 난 아님. 나는 살음. 물건 찾는다.</text>
+		<text id="distress4">그럼... 힘들었겠군요. 저와 함께 여길 떠나실래요?</text>
+		<text id="keycard1">아니. 나는 남는다... 매우 중요. 당신... 도와줄수 있음? [item=disabled_keycard]복구... 드론 비활성화.</text>
+		<text id="keycard2">[item=disabled_keycard] 소유자... 지하철에서 사망. 그들의 카드... 그곳에 있음.</text>
+		<text id="keycard3">아! [item=disabled_keycard]! 내가 활성화!</text>
+		<text id="keycard4">드론 조종... 근처. 문 열기, 드론 비활성화... 우리의 건축물?</text>
+		<text id="drone1">드론 공장... 우리 것? 그럼 우리도 건설 가능... 같은 드론! 여기 [item=drone_control].</text>
+		<text id="drone2">드론... 어디서든 조종 가능... 안전하게 전투... 원격. 그들과 맞서서... 직접은... 죽음...</text>
+		<text id="professor1">이제... 행성 안전... 우리가 찾아야... 생존자?</text>
+		<text id="professor2">어떤 교수... 우리 개조...우리가 살아남도록. 그녀 떠남... 연구를 위해... 다른 섬.</text>
+		<text id="professor3">아마도... 그녀 살아있다?</text>
+		<text id="professor4">만약 그녀를 찾는다면... 내가 보냈다고 말... 그리고 사용 [item=keycard1]...</text>
+		<text id="professor5">교수... 살아 있음? 그건... 좋은 소식! 그녀는 안다... 무엇을 해야하는지!</text>
+		<text id="scene1">여기서 수면? 이상함... 아무도 여기서 오래 안있음... 실례. 익숙하지 않음... 어울리는것?</text>
+		<text id="scene2">당신 머물러도 됨... 어쩌면 함깨... 그들 이길지도...</text>
+		<text id="scene3">멋지다... 누군가와 다시대화. 노력한다... 익숙해지기 위해.</text>
+		<text id="call">오... 누군가 연결... [item=com_device]소유 까먹음...</text>ㄴ
+		<text id="research1">[color=770000]이동형 연구실[/color]에 탑승한걸 환영합니다! 그들에게 대항할 우리의 비밀 무기!</text>
+		<text id="research2">이건... 대단해! 난 알고있었어... 교수님은... 무엇을 해야할지 알고 있다고!</text>
+		<text id="research3">우리는... 움직인다... 숨는다... 만든다 드론... 연구한다 무기... 그들을 상대할 수 있을때 까지!</text>
+		<text id="no_distress">그들이 왔다... 파괴하고... 죽였다... 하지만 난 살아남았다... 그리고 당신은?</text>
+		<text id="research_lab">교수님... 연구실 만들었다? 가져온다... 가까이... 탑승한다!</text>
+		<text id="win1">여기 있는다... 연구소... 교수님과...</text>
+		<text id="locked">이 단말기는 잠겨있어 작동하지 않습니다.</text>
+		<text id="stand_down">드론 조종기에 접속중... 보안 시스템 접속... 비활성화... 성공! 보안 시스템이 비활서화되었고 현재 드론은 유휴 순찰 모드입니다!</text>
+		<text id="log1">3/1 - 그날은 맑은 날이였다. 전쟁후 복구에 노력했기에 다들 희망에 차있었다. 아무도 그날이 끝일거라 생각하지 못했다.</text>
+		<text id="log2">3/2 - 하루아침에 모든게 파괴되었다. 마치 3차 세계대전 처럼... 하지만 그것들은 멈추지 않았다- 외계인 폭격기는 끊임없이 폭격했고, 이게 전쟁보다 훨씬 안좋다는걸 깨닿기엔 오랜시간이 걸리지 않았다.</text>
+		<text id="log3">3/15 - 적의 폭격기 한대를 격추 시키기 위해서는 작은 함대가 필요했다. 하지만 적의 함대는 끝이 보이지 않았다. 일부는 식민지 우주선을 타고 도망갔다. 대부분은 죽었다. 남아있는 사람은 거의 없다.</text>
+		<text id="log4">3/17 - 그들은 폐허가 된 행성을 떠났다. 지상은 더이상 생존하기에 적합하지 않다. 먼지에 하늘이 막혔고, 살아 남은 자들은 지하 폐허와 지하철로 피신했다.</text>
+		<text id="log5">4/1 - 상황은 점점 악화되었다. 파이프를 부수고, 동굴을 부숴가며 살아남았지만 식량은 점점 줄어들었다. 심지어 지구를 방어하기 위한 군 드론들은 명령을 받지 못한뒤로 우리는 적으로 인식하고 있다.</text>
+		<text id="log6">5/1 - 도망친 사람들이 어딘가에 살아남았으면 좋겠다. 그들은 아마도 새로운 지구를 만들고 있겠지. 그것이 우리에게 남은 유일한 희망이다. 이 행성은 이미 멸망했다. 우린 끝났다. 만약 누군가 돌아온다면 이 기록이 마지막 유산일것이다.</text>
 	</section>
 	<section id="professor">
 		<text id="cheater">What? How did you get in here? I should really do something about my security system - imagine if you were one of them! Well, I'd be dead in that case!</text>
