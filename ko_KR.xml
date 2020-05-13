@@ -2802,29 +2802,29 @@
 		<text id="log6">5/1 - 도망친 사람들이 어딘가에 살아남았으면 좋겠다. 그들은 아마도 새로운 지구를 만들고 있겠지. 그것이 우리에게 남은 유일한 희망이다. 이 행성은 이미 멸망했다. 우린 끝났다. 만약 누군가 돌아온다면 이 기록이 마지막 유산일것이다.</text>
 	</section>
 	<section id="professor">
-		<text id="cheater">What? How did you get in here? I should really do something about my security system - imagine if you were one of them! Well, I'd be dead in that case!</text>
-		<text id="intro1">What is this? The [object=scavenger] is still alive? Well I'll be! I didn't expect anyone to still be alive - myself included.</text>
-		<text id="intro2">I've been researching the enemy ships. They are nothing like our technology! At first, I thought they used advanced biotech, but the more I study, the more I believe they operate under completely different principles from what we know and understand.</text>
-		<text id="intro3">Just look at the mountain of ice above my lab, who could've guessed that fragments of the enemy ships would create such a thing? Completely boggles the mind. I'm almost tempted to call it magic! The scientific community would laugh if they heard me say that. Not that there's a community left to laugh at me!</text>
-		<text id="intro4">I'm sorry, am I rambling? This research is all I have, so you shouldn't be surprised that I can talk about it forever. Unfortunately, the more I understand about them, the more questions arise! I'm no closer to a breakthrough, and it seems like the human race is doomed already.</text>
-		<text id="intro5">I'm sorry again! That was very negative of me! And today I even confirmed that not one, but at least two other people survived! And you say there are more? Well! It's not all doom and gloom, is it? I have discovered some things. And, I was just thinking about building a better research lab!</text>
-		<text id="lab1">Of course I need a new research lab! This underground one was always meant to be temporary, and there's a limit to what I can do on this planet! Of course, I'm talking about a [color=770000]Mobile Research Lab[/color]! I have the blueprint designed, I just need the materials. You wouldn't mind helping me, would you?</text>
-		<text id="lab2">Ah, excellent! Sorry to keep asking you for help, but if you could give me a hand, we can get this lab built in a jiffy!</text>
-		<text id="lab3">This is exactly how I imagined it! A state of the art vehicle capable of land, sea and space travel, with factories and a research laboratory! It even has a kitchen and recreational area! I could live here - of course, I will be living here!</text>
-		<text id="lab4">As thanks, you can assign research jobs in the right-most room! Just let me know what you want me to research - I recommend a [color=770000]Particle Accelerator[/color], as we'll definitely need a stockpile of [item=exotic_matter]!</text>
-		<text id="lab5">The research will go faster with extra hands aboard - I recommend picking up the [object=scavenger] on the other side of Earth!</text>
-		<text id="lab6">Hopefully you don't have too much trouble gathering the ingredients for the research lab! Most of them can be found in the wreckage right here on Earth, but you'll need to search other planets for [item=magnegem]s. They are essential for a transforming, all purpose laboratory vehicle!</text>
-		<text id="hq1">It's time to put this research lab to use! I wasn't able to figure out much about their organic spaceship technology, but I bet I could invent a locator that could detect their presence anywhere in the galaxy. I'm sure that information will come in handy, especially when we're ready to take the fight to them!</text>
-		<text id="hq2">I added the [item=alien_locator] to the research lab - you can manage research projects by hitting Z to operate the lab. The more researchers we have, the faster research will go, so if there's anyone else you can think of who could help, invite them aboard the lab!</text>
-		<text id="hq3">Excellent! As long as the [item=alien_locator] is in your inventory or your ship's inventory, an indicator will show up next to planets that have alien technology present.</text>
-		<text id="hq4">Hmm... something is strange here... The [item=alien_locator] is getting a strong signal from a star that has no planets. I added it to the star nav map, perhaps we should check it out?</text>
-		<text id="hq5">[object=president] has sent me all of its research and plans! It really feels like we're making progress here... if this plan succeeds, perhaps we can get rid of the enemy threat for good!</text>
+		<text id="cheater">뭐야? 여기 어떻게 들어왓어요? 내 보안 스시템을 손보야겠군요 - 만약 당신이 그들중 한명 이였어봐요! 그럼, 저는 죽었을거에요!</text>
+		<text id="intro1">이게 뭐죠? [object=scavenger]가 살아있다구요? 그렇군요! 저는 저를 포함해서 아무도 살아있을거라 생각하지 못했어요.</text>
+		<text id="intro2">저는 적의 함선을 조사했어요. 그것들은 우리의 기술과는 전혀 달라요! 처음에는 최첨단 생명공학을 이용하는 줄 알았는데 조사할수록 우리가 이해하고 있는것과는 전혀 다른 원리로 작동하고 있어요.</text>
+		<text id="intro3">제 연구실 위에 산더미같은 얼음을 보세요. 적함의 파편이 그걸 만들어 낼거라고 누가 상상이나 했겠어요? 완전히 혼란스러워요. 제가 과학계에 그말을 했다면 완전 비웃음 거리일거에요. 그렇다고 과학계가 살아있다는 말은 아니에요!</text>
+		<text id="intro4">죄송해요, 제가 횡설수설 중이죠? 이 연구는 제가 가진 전부에요. 그러니 제가 평생 그 이야기를 한다고 해도 놀라지 마세요. 불행하게도, 그들을 이해할수록 의문점만 늘어나요! 저는 아직 그들의 기술을 해석하지 못했고, 인류는 명을 다했어요.</text>
+		<text id="intro5">아, 정말 죄송해요! 제가 너무 부정적이였죠! 그리고 오늘 한 명이 아니라 두 명의 다른 사람이 생존했다는걸 알게 됬어요! 심지어 더 있다구요? 좋아! 모든게 암울한건 아니잖아요? 저는 몇가지 발견을 했어요. 그리고, 저는 더 좋은 연구실을 만들려고 생각중 이였어요!</text>
+		<text id="lab1">물론 새로운 연구실이 필요해요! 이 지하에 있는것은 임시방편이고, 이 행성에서 할 수 있는 일은 한계가 있어요! 물론, [color=770000]이동식 연구실[/color]을 말하는거에요! 설계도는 만들어두었고 재료만 모으면 되요. 도와주실거죠?</text>
+		<text id="lab2">아, 완벽해요! 계속 도와달라고 해서 죄송한데, 조금만 도와주시면 이 연구실을 빨리 지을 수 있어요!</text>
+		<text id="lab3">제가 상상한 그대로에요! 육상, 해상, 우주 여행 을 할 수 있는 기체! 공장과 연구실도 있어요! 이곳엔 부엌과 휴식공간도 있어요! 저는 여기서 살 수 있어요- 물론 여기서 살거에요!</text>
+		<text id="lab4">고마워요, 당신은 오른쪽 방에서 연구할 항목을 할당할 수 있어요! 어떤걸 연구해야 할지 할당 해주세요- 저는 [color=770000]입자 가속기[/color]를 추천해요. [item=exotic_matter]을 비축해야 하거든요!</text>
+		<text id="lab5">연구는 인원이 많을 수록 빠르게 진행 될거에요. 지구 반대편에 있는 [object=scavenger]를 데려오는걸 추천할게요!</text>
+		<text id="lab6">연구실 재료를 모으는데 큰 어려움이 없길 바래요! 대부분은 지구의 잔해에서 구할 수 있겟지만 [item=magnegem]은 다른 행성에 있을거에요. 그것들은 이동식 연구실을 만드는데 꼭 필요해요!</text>
+		<text id="hq1">이제 이 연구소를 사용할 시간이에요! 저는 그들의 유기적인 우주선에 대해서 많은걸 알아낼 수는 없었지만, 우주에서 그들의 위치 추적기를 발명할 수 있을거라 확신해요. 특히 우리가 싸울 준비가 되었을때 그 정보는 유용할거에요!</text>
+		<text id="hq2">연구실에 [item=alien_locator]를 추가했어요 - 연구소에서 Z를 눌러 연구 항목을 관리할 수 있어요. 연구원이 많을 수록 연구가 빨리 진행되니까, 도움이 될만한 사람을 실험실에 초대하세요!</text>
+		<text id="hq3">좋아요! [item=alien_locator]가 당신의 가방이나 함선의 창고에 있는한 행성에 외계인이 표시될거에요.</text>
+		<text id="hq4">음... 여기 이상해요... [item=alien_locator]가 항계가 없는 곳에서 강한 신호를 받고 있어요. 네이게이션에 추가했는데 확인해야 할까요?</text>
+		<text id="hq5">[object=president]이 모든 연구 자료를 전송해줬어요! 정말로 우리가 발전하고 있는것 같아요... 만약 이 계획이 성공한다면, 우리는 외계인의 위협에서 영원히 벗어날 수 있을거에요!</text>
 		<text id="invite">[color=770000]이동식 연구소[/color]에 {npc}을(를) 탑승시킬까요?</text>
-		<text id="alien_hq1">Well, it looks like we found the enemy HQ! The place is swarming with ships! And what are we orbiting? Is that a planet, or a spaceship? I wonder if it's alive?</text>
-		<text id="alien_hq2">This looks like more than we can handle. Perhaps we should retreat and figure out a plan of action before we try to take on their HQ?</text>
-		<text id="win1">Now that they are gone, I don’t have to limit my research to warfare anymore! Think of all the possibilities! Maybe a point-of-view gun, or a self-flushing toilet!</text>
-		<text id="werewolf1">... and it just spliced your DNA? It sounds like it’s malfunctioning - I think everyone in this lab should remain here to be safe.</text>
-		<text id="werewolf2">You’ll have to find a way to stop the [object=unnature.splicer] on your own.</text>
+		<text id="alien_hq1">적의 본진을 찾은것 같아요! 그곳에 함선들이 우글거리고 있어요! 우리는 어디의 궤도를 순항중이죠? 행성? 우주선? 살아있는건가요?</text>
+		<text id="alien_hq2">우리가 감당할 수 없을 정도의 적의 수에요. 그들의 본진을 공격하기 전에 계획을 새우고 오는게 어떨까요?</text>
+		<text id="win1">이제 그들이 사라졌으니, 저는 제 연구를 전쟁에 국한할 필요가 없어요! 모든 가능성을 생각해보죠! 어쩌면 자동 조준 총이나 자동 화장실이 될지도 몰라요!</text>
+		<text id="werewolf1">... 그게 당신의 DNA를 연결했다고요? 마치 잘못된 것처럼 들리는군요- 저는 이 실험실의 모든 사람의 안전을 위해 여기 남아야한다고 생각해요.</text>
+		<text id="werewolf2">스스로 [object=unnature.splicer]를 막을 방법을 찾아야 할거에요.</text>
 	</section>
 	<section id="colony">
 		<text id="rescue1">Thank the stars, we got to you in time! When we heard the Professor was still alive and planning to raid the enemy HQ, we knew we had to come immediately!</text>
