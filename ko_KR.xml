@@ -2871,16 +2871,16 @@
 		<text id="exotic_matter1">많은 사람들이 [item=exotic_matter]이 성간이동기술을 가능하게 하고 이것을 삶의 일반적인 부분으로 받아들이고 있죠. 하지만 어떻게 작동하는지에 대해서 아는 사람이 있을까요?</text>
 		<text id="exotic_matter2">아무도 없어요! [item=exotic_matter]이 발견되었을때 물리학자들은 그것을 분석하지 못했고, AI에게 분석을 맡겻어요. AI가 내놓은 분석은 충격적이였고, 3차 세계대전을 불러왔죠!</text>
 		<text id="exotic_matter3">빛보다 빠른 여행! 영원히 움직이는 기계! 무한 애너지! 세상 모든 사람들이 원해던 마법같은 자원이죠. [item=exotic_matter]이 가지고 있는 다른 마법적 성질은 무었일까요?</text>
-		<text id="exotic_matter4">When I was installed as the leader of this colony and the war effort, I immediately put all remaining AIs to answering that question. And in doing so, the [color=770000]Exo Factory[/color], [item=exo_fighter] and [item=exo_mech] were invented!</text>
-		<text id="virus1">We have come to the conclusion that the best way to open the wings defending the enemy HQ is to develop a virus. No matter how strong they are, they are organic tissue and should be susceptible.</text>
-		<text id="virus2">We'll need some [item=alien_heart]s as samples to develop the virus. If you board their ships and kill their crew, you should be able to harvest plenty of them.</text>
-		<text id="virus3">We'll also need a new [item=exo_drill] to dig down to the enemy HQ's heart once the wings have been breached. Could you gather these materials while we continue our research?</text>
-		<text id="virus4">This is exactly what we need to complete the virus! We'll finish the virus and ready our fleet for the assault. Once you're prepared, head to to Enemy HQ and we'll meet you there!</text>
-		<text id="virus5">The virus is ready and installed into the missile you can see on the holoscreen. Once it hits the wings, it should infect them and cause the muscles to relax and open - allowing us to enter.</text>
-		<text id="virus6">However, we have a small problem. The [color=770000]Enemy Cruiser[/color] can shoot down our missiles, so as long as it is in orbit, we cannot complete the plan.</text>
-		<text id="virus7">Our fleet will assist you as best it can. Once the [color=770000]Enemy Cruiser[/color] is destroyed or disabled, we will launch the missile and begin the assault!</text>
-		<text id="virus8">The virus has been deployed! Our fleet will keep the enemy fleet distracted as long as it can - but it will be up to you to enter the HQ!</text>
-		<text id="virus9">When the wings open, descend to the HQ, use the [item=exo_drill] to dig all the way down to the HQ's heart, and defeat the enemy once and for all!</text>
+		<text id="exotic_matter4">저는 이 식민지 그리고 전쟁을 위해 설치되었을때, 그 질문을 해결하기 위해 남아있는 모든 AI를 투입했습니다. 그리고 [color=770000]외우주 공장[/color], [item=exo_fighter], [item=exo_mech] 등을 발명했죠!</text>
+		<text id="virus1">저희는 적의 본진을 방어하는 날개를 열기 위해서는 바이러스를 사용해야 한다는 결론을 내렸어요. 아무리 힘이 쌔더라도 유기생명체인 이상 반응할 수 밖에 없겠죠.</text>
+		<text id="virus2">바이러스를 개발하기 위해서는 [item=alien_heart]이 필요합니다. 적의 함선에 탑승해서 승무원으 죽이면 얻을 수 있을거에요.</text>
+		<text id="virus3">날개가 걷히면, 적의 심장까지 뚫고 갈 [item=exo_drill]도 필요할거에요. 저희가 연구를 진행할 동안 재료를 모아주시겠어요?</text>
+		<text id="virus4">이게 바로 바이러스를 완성하기 위해 필요한거에요! 바이러스가 준비되면 우리 함대는 공격을 준비할거에요! 준비되면 적의 본진에서 만나죠!</text>
+		<text id="virus5">홀로그램 스크린에서 볼 수 있듯이 바이러스를 발사할 준비가 되었어요. 일단 날개에 부딛히면 바이러스가 근육을 이완시킬거고 날개가 걷힐거에요.</text>
+		<text id="virus6">하지만, 한가지 문제가 있습니다. [color=770000]적의 순양함[/color]은 우리의 미사일을 격추 시킬수 있고 궤도에 있는 이상 계획을 실행 할 수는 없을거에요.</text>
+		<text id="virus7">저희의 전투함이 도와드릴거에요. 일단 [color=770000]적의 순양함[/color]이 파괴 되거나 무력화 되면 미사일을 발사할게요. 공격 개시 입니다!</text>
+		<text id="virus8">바이러스가 성공했어요! 우리 함대는 가능한한 적의 함대를 유인할게요. 적의 본진에 들어가는건 당신의 몫이에요!</text>
+		<text id="virus9">날개가 걷히면, 본진에 접근해서 [item=exo_drill]로 적의 심장까지 내려가세요! 그리고 적을 완전히 격퇴하는거에요!</text>
 		<text id="nursery_enter">This looks to be the enemy nursery! That crab creature appears to both protect and nurture their hatchlings - kill it, and they should all die out!</text>
 		<text id="nursery_defeat1">You've defeated the enemy nursery? Excellent. You did the right thing - this will ensure that they are extinguished as a threat not just now, but forever.</text>
 		<text id="nursery_defeat2">Now you just need to defeat the heart of the HQ, and the war is won! Dig all the way down, and you should find it!</text>
@@ -3391,23 +3391,23 @@
 		<text id="plant">[tile=plant.ico] 식물</text>
 	</section>
 	<section id="beastmaster">
-		<text id="intro1">Welcome! I am very excited to see a living creature in the flesh! We don't get many visitors to the spirit world anymore.</text>
-		<text id="intro2">You may call me the Beastmaster. I have been studying creatures like you for a long time.</text>
-		<text id="intro3">This game room is my favorite - I have created copies of many dangerous creatures in their native environment - you can fight any of them just by entering a door!</text>
-		<text id="intro4">Don't worry about dying - like most of the spirit world, nothing in those rooms is fully real. However, if you beat them, I'll award you [color=770000][tile=colosseum.points anim=colosseum.points] Spirit Points[/color] which I can help you exchange for special prizes!</text>
-		<text id="learn_boss">Would you like to learn about any of the creatures here?</text>
-		<text id="minotaur">Minotaur</text>
-		<text id="yeti">Yeti</text>
-		<text id="bandits">Bandits</text>
-		<text id="dragon">Dragon</text>
-		<text id="wyrm_queen">Wyrm Queen</text>
-		<text id="golemech">Golemech</text>
-		<text id="oldone">Old One</text>
-		<text id="mirrows">Mirrows</text>
-		<text id="pirates">Pirates</text>
-		<text id="kraken">Kraken</text>
-		<text id="plant_boss">Cultivator</text>
-		<text id="ice_boss">Storm</text>
+		<text id="intro1">안녕하세요! 살아있는 육체를 보게 되어서 매우 기쁘군요! 이 정령 세계에는 더이상 방문자가 없었거든요.</text>
+		<text id="intro2">저는 비트마스터 입니다. 저는 당신같은 생명체를 오랫동안 연구해왔어요.</text>
+		<text id="intro3">이 게임방은 제가 가장 좋아하는 곳이에요- 저는 그들의 본고장에서 위험한 생물들을 복제했죠 - 문을 열고 들어가면 그들중 원하는 것과 싸울 수 있어요!</text>
+		<text id="intro4">죽을 걱정은 하지 마세요 - 정령세계와 비슷하게 여기엔 진짜가 없어요. 어쨋든 문 뒤에 있는 것들을 잡는다면 특별한 상품과 교환이 가능한 [color=770000][tile=colosseum.points anim=colosseum.points] 영력 포인트[/color]를 드리지요!</text>
+		<text id="learn_boss">어떤 생명채에 대해서 알고 싶나요?</text>
+		<text id="minotaur">미노타우르스</text>
+		<text id="yeti">예티</text>
+		<text id="bandits">강도</text>
+		<text id="dragon">드래곤</text>
+		<text id="wyrm_queen">여왕 웜</text>
+		<text id="golemech">골레메크</text>
+		<text id="oldone">옛것</text>
+		<text id="mirrows">미로우 부부</text>
+		<text id="pirates">해적</text>
+		<text id="kraken">크라캔</text>
+		<text id="plant_boss">수호수</text>
+		<text id="ice_boss">스톰</text>
 		<text id="minotaur1">These beasts are fast and have dangerous [item=horn]s, but move endlessly back and forth and are easy to predict. Try keeping your distance and hitting them from behind.</text>
 		<text id="yeti1">Unlike many enemies, you can't hide under Yetis to attack them from behind. Try staying on the move and sneaking in hits while avoiding its icy breath and snowballs.</text>
 		<text id="bandits1">Like most groups, bandits aren't that dangerous one on one, but don't let them gang up on you! Pick them off one at a time, and pay special attention to the bandit with the heavy shield, he can only be hurt from behind!</text>
@@ -3420,7 +3420,7 @@
 		<text id="kraken1">This monster of the deep is very hazardous. Its arms are dangerous, and while they can be blasted off at the base, they regrow quickly. Destroy and get past the arms, then fire at the eyes to defeat it.</text>
 		<text id="plant_boss1">The Cultivator is weak to [color=770000][tile=fire.ico] Fire[/color] attacks. Burn it from the air where only its spores can hurt you. You will have to dodge the spores, as you don't have a lot of health for many hits.</text>
 		<text id="ice_boss1">The Storm can only be hurt by powerful [color=770000][tile=fire.ico] Fire[/color] attacks. Beware its tornado form, it is invulnerable and dangerous during that time. Climb the ruins to burn it when vulnerable, and run when it's in tornado form.</text>
-		<text id="points">How about spending those [color=770000][tile=colosseum.points anim=colosseum.points] Spirit Points[/color] for some nice rewards!</text>
-		<text id="buy">Spirit Rewards!</text>
+		<text id="points">좋은 보상을 위해 [color=770000][tile=colosseum.points anim=colosseum.points] 영력 포인트[/color]를 써보는건 어떤가요!</text>
+		<text id="buy">영력 보상!</text>
 	</section>
 </lang>
