@@ -2881,25 +2881,25 @@
 		<text id="virus7">저희의 전투함이 도와드릴거에요. 일단 [color=770000]적의 순양함[/color]이 파괴 되거나 무력화 되면 미사일을 발사할게요. 공격 개시 입니다!</text>
 		<text id="virus8">바이러스가 성공했어요! 우리 함대는 가능한한 적의 함대를 유인할게요. 적의 본진에 들어가는건 당신의 몫이에요!</text>
 		<text id="virus9">날개가 걷히면, 본진에 접근해서 [item=exo_drill]로 적의 심장까지 내려가세요! 그리고 적을 완전히 격퇴하는거에요!</text>
-		<text id="nursery_enter">This looks to be the enemy nursery! That crab creature appears to both protect and nurture their hatchlings - kill it, and they should all die out!</text>
-		<text id="nursery_defeat1">You've defeated the enemy nursery? Excellent. You did the right thing - this will ensure that they are extinguished as a threat not just now, but forever.</text>
-		<text id="nursery_defeat2">Now you just need to defeat the heart of the HQ, and the war is won! Dig all the way down, and you should find it!</text>
-		<text id="nursery_defeat3">Now you can leave the [color=770000]Enemy HQ[/color] knowing that the war is won, and humanity's survival is ensured!</text>
-		<text id="boss_defeat1">I overheard your conversation. You aren't actually considering sparing the hatchlings, are you?</text>
-		<text id="boss_defeat2">Think about the future of humanity! Even though you defeated the heart, as long as they live, they could rebuild and become a threat again.</text>
-		<text id="boss_defeat3">If the HQ is really going to seal itself off, you MUST defeat the nursery now, before it's too late.</text>
-		<text id="exo_factory1">We've been wanting to improve this colony's manufacturing capabilities for a while now - allowing the contruction of exo weapons and [item=exo_drill]s right here!</text>
-		<text id="exo_factory2">If you could bring us some [item=chromium], we'd happily upgrade the factory and let you use it!</text>
-		<text id="exo_factory3">Excellent! You can find [item=chromium] deep underground on the colony world. Feel free to talk to me if you require any additional information!</text>
-		<text id="exo_factory4">You found the [item=chromium]? Lets upgrade the colony's factory right away then!</text>
-		<text id="exo_factory5">Perfect! This factory can now create anything the [color=770000]Exo Factory[/color] can! Don't forget to research new weapons in the [color=770000]Mobile Research Lab[/color], and talk to me if you have additional questions!</text>
-		<text id="win1">The Enemy HQ is sealed off completely - not even the virus will cause it to open again. For better or worse, the war is over!</text>
-		<text id="win1.1">With a little luck, your decision to spare their nursery will not come back to haunt us.</text>
-		<text id="win2">I am sure you are wanting to celebrate your hard-earned victory! When you are ready, return to the colony ship, we have much to discuss!</text>
-		<text id="win3">Now that the threat is gone, it’s time to think about the future of humanity. It’s time to bring all remaining humans together and grow metaphorical roots.</text>
-		<text id="win4">I have identified three planets suited for humans to colonize, think carefully before you choose.</text>
-		<text id="win5">Very well. I will send out the word and encourage everyone to settle there.</text>
-		<text id="win6">Take this [item=house_upgrade] for building the new colony. I will remain here if you have any questions.</text>
+		<text id="nursery_enter">여기가 적의 부화장 같군요! 저기 게 같이 생긴게 새끼를 보호하고 양육하는것 같아요- 저 게를 죽이면 다 죽게 되겠죠!</text>
+		<text id="nursery_defeat1">적의 부화장을 파괴했다구요? 완벽해요. 옳은 일을 하셨어요- 이제 적의 위협으로 부터 영원히 벗어날수 있어요.</text>
+		<text id="nursery_defeat2">이제 적 본진의 심장부를 찾아서 파괴하면 되요! 끝까지 파고들면 찾을 수 있을거에요!</text>
+		<text id="nursery_defeat3">이제 전쟁에서 승리하고, 인류의 생존이 보장 된다는걸 알았으니 [color=770000]적의 본진[/color]을 떠날 수 있겟군요!</text>
+		<text id="boss_defeat1">우연히 당신의 대화를 들었어요. 부화장을 보호할 생각은 아니겠죠?</text>
+		<text id="boss_defeat2">인류의 미래를 생각해보세요! 당신이 심장을 파괴했다고 해도 그들이 살아있는한 언젠가 재건할거고 그건 인류의 위협이 될거에요.</text>
+		<text id="boss_defeat3">적의 본진이 정말로 스스로를 봉인하려 한다면, 더 늦기 전에 부화장을 파괴해야 해요.</text>
+		<text id="exo_factory1">저희는 한동한 식민지의 제조 기술을 향상 시키고 싶었어요. 건물에서 외우주 무기와 [item=exo_drill]을 만들수 있게 말이에요!</text>
+		<text id="exo_factory2">저희에게 [item=chromium]을 구해다 주신다면, 공장을 업그레이드 하고 이용할 수 있게 해드릴게요!</text>
+		<text id="exo_factory3">좋아요! 식민지 행성 지하 깊은곳에서 [item=chromium]을 구할 수 있어요. 더 필요한 정보가 있다면 언제든지 말을 걸어주세요!</text>
+		<text id="exo_factory4">[item=chromium]을 전부 구하셨나요? 그럼 당장 식민지 공장을 업그레이드 하러 가죠!</text>
+		<text id="exo_factory5">완벽해요! 이제 이 공장은 [color=770000]외우주 공장[/color]처럼 모든걸 만들 수 있어요! [color=770000]이동식 연구소[/color]에서 무기 연구 하는걸 잊지마세요. 더 궁금한점이 있다면 언제든지 말을 걸어주세요!</text>
+		<text id="win1">적의 본진이 완전히 봉인되었어요. 바이러스도 다시는 열지 못할것이에요. 좋든 나쁘든 전쟁은 끝났어요!</text>
+		<text id="win1.1">운이 좋다면, 당신이 부화장을 보호하기로 한 결정이 우리를 괴롭히지 않겟죠.</text>
+		<text id="win2">저는 당신이 염원하던 승리에 대해서 축하하고 싶다고 생각해요. 준비가 된다면, 식민지 우주선으로 오세요. 의논할게 많아요!</text>
+		<text id="win3">이제 위협이 사라졌으니 인류의 미래에 대해서 생각해볼 시간이에요. 이제 남은 인간들을 모두 모아서 뿌리를 키워야해요.</text>
+		<text id="win4">저는 인간이 식민지화 하기 좋은 행성 세가지를 발견했어요. 선택하기 전에 잘 생각해보세요.</text>
+		<text id="win5">아주 좋아요. 저는 당신의 전언을 모든 사람들에게 전달해 그곳에 정착하도록 하겠습니다.</text>
+		<text id="win6">[item=house_upgrade]을 건설 해서 새 식민지를 만드세요. 저는 항상 여기 있겠습니다. 궁금한게 있다면 언제든지 물어보세요.</text>
 		<text id="com_station1">여기는 어노익스 213b에서 캡틴A입니다! 들리나요?</text>
 		<text id="com_station2">들립니다! 여기는 어노익스 428c, 생존자를 찾고 있습니다!</text>
 		<text id="com_station3">저는 캡틴A, 이곳은 인류의 마지막 식민지이며 저는 자치 지도자 입니다. 이곳에는 많은 생존자가 있습니다!</text>
