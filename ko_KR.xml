@@ -3017,29 +3017,29 @@
 		<text id="ship1">말했다 싶이 내가 말할 수 있는건 제한되어있어. 하지만 그곳에 내 동족에게 충고를 할수 있는 종족이 있지.</text>
 		<text id="ship2">네가 만약 우리의 고향에서 동쪽으로 여행을 갈 수 있다면, 너를 도와줄 고대 용이 있을거야.</text>
 		<text id="evo_chamber">여기서 [color=770000]진화실[/color]을 만들어봐. 도움이 될진 모르겠네.</text>
-		<text id="spells1">So, you were able to create a dragon ship of your own! If only you could speak to it! Try to learn more secrets of magic from our homeworld, and you will go far.</text>
-		<text id="spells2">There are plenty of loopholes in the stigma that binds me. If you can learn enough on your own, I will be able to help you more!</text>
-		<text id="spells3">I don’t know who taught you how to create spellbooks - but since you know, I can tell you more about them!</text>
-		<text id="spells4">There is a spellbook that will allow you to communicate with dragon ships - including enemy ones. I can teach it to you so you can speak with them and learn more about magic.</text>
-		<text id="recipe">Recipe for [item=translation_book] added to the [color=770000]Library[/color].</text>
-		<text id="spells5">Try using the [item=translation_book] inside dragon ships to communicate with them! They will be able to give you something to further your knowledge of magic.</text>
-		<text id="spells6">The [item=translation_book] will also let you converse with enemy dragon ships. Perhaps a deal can be struck with them if you defeat their crew?</text>
+		<text id="spells1">그래서, 스스로 드래곤 우주선을 만들 수 있게 되었다고? 네가 그것에 대해서 말 할수만 있다면! 우리 고향에서 더 많은걸 배워봐, 그것보다 더 많은걸 알게 될거야.</text>
+		<text id="spells2">나를 제약하는 것에는 빈틈이 많지. 만약 네가 스스로 배울 수 있다면, 나는 너를 더 많이 도와줄 수 있어.</text>
+		<text id="spells3">나는 누가 너에게 마법책 만드는 법을 알려줬는지 몰라- 하지만 너도 알다시피, 나는 그들에 대해 더 말해줄 수 있어!</text>
+		<text id="spells4">적의 우주선을 포함해 드래곤 우주선과 의사소통을 할 수 있는 마법책이 있어. 그게 있어야 그들과 대화를 하고 마법에 대해서 더 배울 수 있을거야.</text>
+		<text id="recipe">[color=770000]도서관[/color]에 [item=translation_book]제작법을 추가했어.</text>
+		<text id="spells5">드래곤 우주선 안에서 [item=translation_book]을 사용하고 그들과 대화해봐! 그들은 너의 마법 지식을 넓혀줄 무언가를 알려줄거야.</text>
+		<text id="spells6">[item=translation_book]는 적의 드래곤 우주선 하고도 대화를 할 수 있게 해줄거야. 만약 너가 그들의 선원을 전부 죽인다면 거래가 성립하지 않을까?</text>
 		<text id="info">또 알고 싶은게 있어?</text>
 		<text id="exiled">왜 추방 당하셨죠?</text>
 		<text id="attack">지구를 공격한 이유가 뭐에요?</text>
 		<text id="dragons">왜 용들을 배신했나요?</text>
 		<text id="old_one">옛것에 대해서...</text>
-		<text id="exiled1">I was part of an expedition team - our goal was to find other sentient life. I was actually on the patrol ship that found Earth, although at the time it was questionable whether humans were “sentient.”</text>
-		<text id="exiled2">We kept an eye on many different alien species, and if ever they learned too much about magic or we thought they might pose a threat, we either slaughtered them or enslaved them, melding them with our ships and biological weapons.</text>
-		<text id="exiled3">I followed our leader blindly, as he sacrificed so much for us to remain in power and in control - permanently binding himself to the heart of our headquarters. But eventually I began to wonder.</text>
-		<text id="exiled4">Seeing all the different species, all the different possibilities for life, art, beauty, I began to question whether we were doing the right thing.</text>
-		<text id="exiled5">Perhaps there was a potential for cooperation... or even if there wasn’t, perhaps it was us who deserved to die out. What had we brought to this universe other than pain and selfishness?</text>
-		<text id="exiled6">Well, our leader could sense my disagreement, and such things are not allowed in our society, so I was exiled and the stigma placed on me.</text>
-		<text id="attack1">By the time you discovered [item=exotic_matter], you were already a threat worthy of destruction in our leader’s mind. The real question is why they didn’t attack you earlier.</text>
-		<text id="attack2">And the answer to that... is of course that I wasn’t doing my job. Despite our disagreements, our leader trusted that I would report if humans became dangerous for the sake of our race, and didn’t believe it possible that you could’ve grown so quickly without me warning anyone.</text>
-		<text id="attack3">But, when they discovered the hooded man and saw how quickly he learned their secrets, they knew that humans were far more dangerous than I had let them believe. Not to mention the outrage they felt at him stealing their secrets from their own homeworld.</text>
-		<text id="attack4">Perhaps if you had stayed on your planet, you could have remained a secret longer. But you were bound to be found eventually, and from what I saw, I’m not sure you would’ve survived much longer staying on your planet anyways.</text>
-		<text id="attack5">No, this conflict was inevitable. But at least my silence has given you the chance to fight back.</text>
+		<text id="exiled1">나는 탐험대의 일원이였어- 다른 지적 생명체를 찾는 일이였지. 나는 지구를 발겨난 순찰선에 타고 있었지만, 인간이 “지적”인지 의심스러웠어.</text>
+		<text id="exiled2">우리는 많은 외계 종족을 관찰했어. 만약 그들이 마법에 대해 너무 많이 알거나 그들이 위협을 가할수 있다고 판단되면, 그들을 생화학 무기로 학살하거나 노예로 만들어 우리의 우주선에 융합 시켰어.</text>
+		<text id="exiled3">나는 맹목적으로 지도자를 따랏어. 하지만 그는 우리의 권력을 유지하기 위해서 너무 많은 희생을 치뤘기 때문에 우리 본부의 심장부에 영원히 구속되었어. 그리고 나는 결국 궁금해지기 시작했지.</text>
+		<text id="exiled4">다양한 종, 생명, 예술, 아름다움에 대한 모든 다른 가능성들을 보면서 나는 우리가 옳은 일을 하고 있는지 의문이 생기기 시작했어.</text>
+		<text id="exiled5">아마도 협력할 수 있었겠지... 죽어야 했던건 우리였을거야. 고통과 이기심 이외에 우리가 이 우주에 가져온게 뭘까?</text>
+		<text id="exiled6">어쨋든, 우리의 지도자는 나의 고민을 감지할 수 있었어. 우리 사회에서 그런건 허용되지 않지. 나는 오명을 썻고 결국 추방당했어.</text>
+		<text id="attack1">너네가 [item=exotic_matter]을 발견했을때 쯤, 이미 우리 지도자는 너네를 파괴대상으로 생각할 정도로 위협적이였어. 진짜 문제는 왜 그때 너희를 공격하지 않았느냐야.</text>
+		<text id="attack2">그리고 그 이유는... 내가 일을 안해서야. 우리의 의견 불일치에도 불구하고, 우리의 지도자는 막약 인류가 우리의 종에게 위협이 된다면 내가 보고할거라 믿었어. 심지어 내가 경고하지 않아도 너네가 그렇게 빨리 성장할줄 몰랐지.</text>
+		<text id="attack3">하지만, 그들이 두건을 쓴 남자를 발견하고, 그들이 얼마나 빨리 그들의 비밀을 알아내는지 봤을때, 그들은 내가 믿게 했던것 보다 인간이 훨씬 위험하다는 것을 알았어. 그가 우리의 고향에서 그들의 비밀을 훔쳐간 것에 대해서 그들이 느꼇을 분노는 상상도 못하지.</text>
+		<text id="attack4">아마도 너가 너의 행성에 머물렀었다면, 당신은 더 오랬동안 발각되지 않았을거야. 하지만 너는 결국 발견될 수 밖에 없었고, 어쨋든 내가 지켜본 봐로는 너가 너의 행성에서 얼마나 오래 살수 있을지는 나도 몰라.</text>
+		<text id="attack5">아냐, 이 갈등은 불가피 했을거야. 적어도 내가 숨겨준 덕에 너가 대항할 기회을 얻게 됬지.</text>
 		<text id="dragons1">At first, we had no intention to betray them. We shared our knowledge freely, and both us and the dragons prospered greatly from it.</text>
 		<text id="dragons2">But, eventually it became clear that the dragons had so much more potential than us. You see, behind our magical armor and secrets, we are really quite weak.</text>
 		<text id="dragons3">It was then that we realized that we were hitting our limits, and that there were many other species, including dragons, that would one day surpass us.</text>
@@ -3061,7 +3061,7 @@
 		<text id="magnequeen7">Here is a [item=magnetrap] - if you need more, you can now craft them at the [color=770000]HQ Talon Copse[/color].</text>
 		<text id="magnequeen8">You have everything for a [item=magne_queen_drill]? Then let me craft one for you!</text>
 		<text id="magnequeen9">You can make more at the [color=770000]HQ Dragon Chamber[/color]. All that's left now is to defeat our leader. It won't be easy... but once you do, all of us will be free.</text>
-		<text id="leader">All that's left now is to defeat our leader, deep underground, at the heart of our headquarters. It won't be easy... but once you do, all of us will be free.</text>
+		<text id="leader">이제 남은건 너가 우리의 본부 지하 깊숙한 곳에 있는 우리의 지도자를 격퇴하는거야. 쉽지 않겟지만, 성공한다면 우리는 모두 자유료워 질거야.</text>
 		<text id="win1">Well, that’s disappointing. I was sure the stigma would be removed when our leader was defeated. Unfortunately, it looks like I’m stuck here.</text>
 		<text id="win2.1">But that was quite the battle! I was certain you were going to die at one point! I’m glad I got these TVs tuned in time, it was quite the spectacle.</text>
 		<text id="win2.2">And it seems I’ll be the last of my kind, since you killed the nursery. You should have spared them, they were only hatchlings. But they probably wouldn’t have survived long without our leader anyways.</text>
@@ -3121,33 +3121,33 @@
 		<text id="help3">Hopefully with this, you can forgive us for abandoning you after you spent all that time convincing us to be free.</text>
 	</section>
 	<section id="spirit">
-		<text id="intro1">You’re not dead!</text>
-		<text id="intro2">And you are?</text>
-		<text id="intro3">That’s immaterial. What’s important is that you’re material, and can help me.</text>
-		<text id="intro4">Help you... what?</text>
-		<text id="intro5">Gain more [color=770000][tile=spirit anim=spirit] Spirit[/color] of course! It’s the only thing of any value here, so of course it's tough to obtain.</text>
-		<text id="intro6">This [item=spirit_glaive] I carry? Completely useless to me. In my hands, it will only hurt the living. But in your hands? You could kill spirits and harvest their power!</text>
-		<text id="intro7">What’s in it for me?</text>
-		<text id="intro8">Certainly you came here for a reason... Knowledge? Power? I’m sure I can make it worth your while.</text>
-		<text id="intro9">Here - take a [item=spirit_glaive], no strings attached! You’ll need it to collect [color=770000][tile=spirit anim=spirit] Spirit[/color]. Let this be the beginning of many lucrative trades between us.</text>
-		<text id="deal">What is it you desire?</text>
-		<text id="knowledge">Knowledge</text>
-		<text id="knowledge_title">Knowledge, I can provide for 5 [color=770000][tile=spirit anim=spirit] Spirit[/color] a question.</text>
-		<text id="power">Power</text>
-		<text id="not_enough">You do not have much [color=770000][tile=spirit anim=spirit] Spirit[/color]. Kill some spirits to collect some, then come back and we can make a deal.</text>
-		<text id="buy">Pick your Power</text>
-		<text id="enemy">About [color=770000]Them</text>
+		<text id="intro1">당신은 죽지 않았어요!</text>
+		<text id="intro2">당신은요?</text>
+		<text id="intro3">그건 중요하지 않아요. 중요한건 당신은 실체가 있고 저를 도와줄 수 있다는 거에요.</text>
+		<text id="intro4">도와줄... 뭐라구요?</text>
+		<text id="intro5">더 많은 [color=770000][tile=spirit anim=spirit] 영력[/color]을 모아주세요! 여기선 아무 가치도 없으니 당연히 얻기 힘들거에요.</text>
+		<text id="intro6">[item=spirit_glaive]? 저에겐 필요하지 않습니다. 제 손은 살아있는 것들만 피해르 줄 수 있어요. 하지만 당신은? 정령을 죽이고 힘을 얻을 수 있어요!</text>
+		<text id="intro7">제게는 뭐가 남죠?</text>
+		<text id="intro8">확실히 당신은 이유가 있어서 이곳에 왔겠죠... 지식? 힘? 당신이 원하는걸 제가 줄 수 있어요.</text>
+		<text id="intro9">여기, [item=spirit_glaive]를 받으세요, 조건은 없어요! [color=770000][tile=spirit anim=spirit] 영력[/color]을 모으기 위해 필요할거에요. 이것으로 우리들 사이의 거래를 시작하는걸로 하죠.</text>
+		<text id="deal">무었을 원하나요?</text>
+		<text id="knowledge">지식</text>
+		<text id="knowledge_title">지식, [color=770000][tile=spirit anim=spirit] 영력[/color]을 대가로 5가지의 질문에 답해드리죠.</text>
+		<text id="power">힘</text>
+		<text id="not_enough">정령을 죽여서 [color=770000][tile=spirit anim=spirit] 영력[/color]을 모아오면 거래할 수 있어요.</text>
+		<text id="buy">원하는 힘 고르기</text>
+		<text id="enemy">[color=770000]그들[/color]에 대해서</text>
 		<text id="enemy1">Ah yes, I know of the creatures you speak. They sometimes travel to this world attempting to strengthen their magic, and have made their own deals with me.</text>
 		<text id="enemy2">I do not know anything about their magic secrets, but I do know that it connects their headquarters strongly to this world.</text>
 		<text id="enemy3">Their headquarters is an enormous dragonship with vast amounts of power and is impenetrable in the living world.</text>
 		<text id="enemy4">I could create a passage, allowing you to travel there if you wish, but it will not come cheap.</text>
 		<text id="enemypost1">Ah yes, I know of the creatures you speak. They used to travel to this world attempting to strengthen their magic.</text>
 		<text id="enemypost2">Lately, they have not returned here, and their headquarters have been sealed. My guess is they met with some misfortune.</text>
-		<text id="venatrix">About [item=venatrix_seed]s</text>
+		<text id="venatrix">[item=venatrix_seed]에 대해서</text>
 		<text id="venatrix1">When a spirit is trapped in a [item=spirit_gem], it creates an item that connects your world and the Spirit World in different ways.</text>
 		<text id="venatrix2">Different spirits create different items, and [item=venatrix_seed]s are created by trapping a Venatrix - the green spirits that use bows and [item=spirit_arrow.plant]s.</text>
 		<text id="venatrix3">It is easier to catch a spirit if its health is low or you use an [item=spirit_gem2]... but personally I wouldn’t bother trapping them - killing and harvesting their [color=770000][tile=spirit anim=spirit] Spirit[/color] is much more useful.</text>
-		<text id="spirits">About Spirits</text>
+		<text id="spirits">정령에 대해서</text>
 		<text id="spirits1">Spirits come in all shapes and sizes, and appear in Spirit World from all over the universe. Normal weapons cannot harm them, although they have no trouble harming the living.</text>
 		<text id="spirits2">To defeat spirits, you will need to use weapons like the [item=spirit_glaive] I gave you that deals [color=770000]Spirit[/color] damage.</text>
 		<text id="spirits3">Most spirits are elemental, so taking advantage of their strengths and weaknesses will make it much easier to defeat them.</text>
@@ -3155,14 +3155,14 @@
 		<text id="spirit1">[color=770000][tile=spirit anim=spirit] Spirit[/color] does not have many uses for the living, like you. But for a spirit, it makes them stronger and gives them new abilities and powers.</text>
 		<text id="spirit2">Some spirits use this power to return to the land of the living... but being a spirit in a living world is more frustrating than fun. Some, like me, craft their own section of Spirit World and become the ruler of a domain.</text>
 		<text id="spirit3">While there are many ways to gain [color=770000][tile=spirit anim=spirit] Spirit[/color], the easiest is to have a living, like you, defeat spirits and collect it for us.</text>
-		<text id="world">About this place</text>
+		<text id="world">이곳에 대해서</text>
 		<text id="world1">Spirit World is endless and unfathomable, but this part of Spirit World is my domain. Domains are sections of Spirit World carved out by using [color=770000][tile=spirit anim=spirit] Spirit[/color].</text>
 		<text id="world2">In one’s domain, a spirit can create or do pretty much anything, as long as they have enough [color=770000][tile=spirit anim=spirit] Spirit[/color] to maintain it. Think of it as my own personal paradise.</text>
 		<text id="world3">There are many other domains out there, but in general we avoid other domains and keep to ourselves. I only keep other spirits around as fodder for gaining [color=770000][tile=spirit anim=spirit] Spirit[/color].</text>
-		<text id="elements">About Elements</text>
+		<text id="elements">속성에 대해서</text>
 		<text id="elements1">There are five elements - [color=770000][tile=fire.ico] Fire[/color], [color=770000][tile=water.ico] Water[/color], [color=770000][tile=ice.ico] Ice[/color], [color=770000][tile=earth.ico] Earth[/color] and [color=770000][tile=plant.ico] Plant[/color], which each have two strengths and two weaknesses. This can be arranged in a pentagram like so:</text>
 		<text id="elements2">Some weapons, like the [item=spirit_glaive] I gave you, can change their element. Taking advantage of this can make difficult battles easy.</text>
-		<text id="spirit_fish">About [item=spirit_fish]</text>
+		<text id="spirit_fish">[item=spirit_fish]에 대해서</text>
 		<text id="spirit_fish1">There is something fishy about [item=spirit_fish]. They are the only spirit that becomes a familiar when caught, they can deal damage to other spirits, and they can even fly in this world where nothing else can.</text>
 		<text id="spirit_fish2">It is my belief that [item=spirit_fish] are not actually normal spirits from the living world, but are natives to this world.</text>
 		<text id="spirit_fish3">How such a thing is possible, I do not know, but, this world is very large and strange.</text>
