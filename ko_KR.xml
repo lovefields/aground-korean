@@ -3040,18 +3040,18 @@
 		<text id="attack3">하지만, 그들이 두건을 쓴 남자를 발견하고, 그들이 얼마나 빨리 그들의 비밀을 알아내는지 봤을때, 그들은 내가 믿게 했던것 보다 인간이 훨씬 위험하다는 것을 알았어. 그가 우리의 고향에서 그들의 비밀을 훔쳐간 것에 대해서 그들이 느꼇을 분노는 상상도 못하지.</text>
 		<text id="attack4">아마도 너가 너의 행성에 머물렀었다면, 당신은 더 오랬동안 발각되지 않았을거야. 하지만 너는 결국 발견될 수 밖에 없었고, 어쨋든 내가 지켜본 봐로는 너가 너의 행성에서 얼마나 오래 살수 있을지는 나도 몰라.</text>
 		<text id="attack5">아냐, 이 갈등은 불가피 했을거야. 적어도 내가 숨겨준 덕에 너가 대항할 기회을 얻게 됬지.</text>
-		<text id="dragons1">At first, we had no intention to betray them. We shared our knowledge freely, and both us and the dragons prospered greatly from it.</text>
-		<text id="dragons2">But, eventually it became clear that the dragons had so much more potential than us. You see, behind our magical armor and secrets, we are really quite weak.</text>
-		<text id="dragons3">It was then that we realized that we were hitting our limits, and that there were many other species, including dragons, that would one day surpass us.</text>
-		<text id="dragons4">But by taking control of the dragons, and forcing them into submission while we still could, we gained their power - a power that let us travel among the stars and eliminate other threats across the galaxy.</text>
-		<text id="old_one1">Yes... there was one who stayed behind on our homeworld, refusing to travel to space with the rest of us. We are naturally long lived, but she has remained there longer than even we can imagine.</text>
-		<text id="old_one2">She discovered the secret to immortality you see, she would never age. However, she would also never grow - she remained in the same form and power as our ancestors, before we even left for the stars.</text>
-		<text id="old_one3">Honestly, I don’t envy her. Even with her immortality, staying stagnant in one place for all eternity... I would’ve been bored out of my mind!</text>
-		<text id="dragon_seed1">So you learned about the Spirit World? It’s a strange place, but you’ll be able to learn much there. I can use the [item=dragon_seed] to create a portal to the Spirit World!</text>
-		<text id="dragon_seed2">Good luck, and make sure to stop by and visit, I’ll tell you whatever I can!</text>
-		<text id="dragon_seed3">So you learned about the Spirit World? You'll need to be able to [color=770000]see spirits[/color] for me to explain more...</text>
-		<text id="spirit_hq">A spirit is willing to open a path to our Headquarters? That is excellent news - you’ll be able to use the [item=translation_book] there to communicate with our structures and learn our magic!</text>
-		<text id="magnequeen1">You have stolen all our secrets of magic? Then you are ready to confront our leader at last.</text>
+		<text id="dragons1">원래는 우리도 그들을 배신할 생각이 없었어. 우리는 지식을 자유롭게 공유했고, 우리와 용들은 그로인해 크게 번창했지.</text>
+		<text id="dragons2">하지만, 결국 드래곤들이 우리보다 훨씬 더 많은 잠재력을 가지고 있다는게 분명해졌지. 알다시피, 우리는 마법의 갑옷과 비밀을 제외하면 정말 약해.</text>
+		<text id="dragons3">우리가 한계를 느낀건 그때였어. 언젠가 우리를 능가할 좋은 용, 그리고 다른 종이 있을거라 생각했지.</text>
+		<text id="dragons4">그래서 우리는 용을 제어할 수 있을때 강제로 굴복시키고 이용했지. 그렇게 우주를 여행할 힘과 우주로부터 다른 위협을 제거할 힘을 얻었어.</text>
+		<text id="old_one1">맞아... 다른무리와 달리 우주 여행을 거부한 이가 있었어. 우리는 선천적으로 오래 살지만 그녀는 우리가 상상하는 것 보다 더 오래 그곳에 있었어.</text>
+		<text id="old_one2">그녀는 당신도 보았다 싶이 불멸의 비밀을 풀었어. 그녀는 절때 늙지 않을거야. 하지만 그녀는 더이상 진화하지 않을거야. 우리가 별을 떠날때 조차 그녀는 우리 조상과 같은 형태의 힘을 유지했거든.</text>
+		<text id="old_one3">솔직히, 나는 그녀가 부럽지 않아. 죽지않지만... 영원히 한곳에 그대로... 지루해서 정신이 나갈거야!</text>
+		<text id="dragon_seed1">그래서 정령세계에 대해서 좀 배웠니? 낮선 곳 이지만 그곳에서 많은걸 배울 수 있을거야. 그리고 [item=dragon_seed]을 이용해서 정령세계로 가는 포탈을 만들 수 있어!</text>
+		<text id="dragon_seed2">행운을 빌어, 그리고 꼭 들리도록 해. 내가 알려줄 수 있는건 언제든지 알려줄게!</text>
+		<text id="dragon_seed3">그래서 정령세계에 대해서 좀 배웠니? 내 이야기를 알아 들으려면 [color=770000]정령을 볼 수[/color] 있어야해...</text>
+		<text id="spirit_hq">정령의 신이 우리의 본진까지의 길을 열어준다고? 그거 좋은 소식이네 - [item=translation_book]을 이용해서 우리의 구조물과 소통하고 우리의 마법을 배울 수 있을거야!</text>
+		<text id="magnequeen1">우리 마법의 비밀을 다 훔쳤다고? 그러면 넌 이제 우리의 지도자와 대적할 준비가 된거야.</text>
 		<text id="magnequeen2">However, it will not be easy to reach him. He is deep underground, at the heart of our headquarters. Only the most powerful drill can reach him.</text>
 		<text id="magnequeen3">I can help you craft a [item=magne_queen_drill] if you catch an [item=magic_wyrm] with a [item=magnetrap] on our homeworld... but unfortunately I have some bad news.</text>
 		<text id="magnequeen4.1">They’ve sent a fleet of ships to bombard our homeworld. There must have been some signal sent that alerted them to your presence.</text>
