@@ -494,9 +494,9 @@
 		<text id="particle_accelerator_blueprint">입자가속기 설계도</text>
 		<text id="interstellar_teleportal_blueprint">성간 텔레포탈 설계도</text>
 		<text id="brilliant_potion">찬란한 포션</text>
-		<text id="hq_library_seed">HQ 연구실 씨앗</text>
-		<text id="hq_factory_seed">HQ Dragon Chamber 씨앗</text>
-		<text id="hq_growth_seed">HQ Talon Copse 씨앗</text>
+		<text id="hq_library_seed">외계인 본진 연구소 씨앗</text>
+		<text id="hq_factory_seed">외계인 본진 드래곤 공장 씨앗</text>
+		<text id="hq_growth_seed">외계인 본진 갈퀴목 씨앗</text>
 		<text id="cyborg_plate">사이보그 흉갑</text>
 		<text id="cyborg_visor">사이보그 바이저</text>
 		<text id="cyborg_railgun">사이보그 레일건</text>
@@ -2906,20 +2906,20 @@
 		<text id="com_station4">우리는 적의 탐지를 피하기 위해 무전을 무시해왔습니다. 하지만이제 그들이 사라졌으니 저희는 다른 생존자를 찾기로 했습니다! 우주선이 있다면 이리로 오세요, 의논할게 많아요!</text>
 	</section>
 	<section id="alien">
-		<text id="cargo_locked">The cargo orifice is shut tight... I can't open it while they are around!</text>
-		<text id="final_boss1">It seems I have underestimated you and your kind. At first you were nothing more than annoying flies, buzzing around our secrets and universe. We thought we had exterminated you when we destroyed your homeworld.</text>
-		<text id="final_boss2">Yet, somehow you lived on - including that terrible hooded man, digging away at our homeworld and our secrets. But never would I have guessed that not only would you survive, but you would make it all the way here, to our very heart.</text>
-		<text id="final_boss3_a">You even destroyed our nursery! Slaughtering innocent hatchlings!</text>
-		<text id="final_boss3_b">And what about the innocent children of Earth?! You murdered them all!</text>
-		<text id="final_boss3_c">Yes... we tried to eliminate all your hatchlings. Yet, somehow, you were not wiped out. So it will be for us - the nursery may be gone, but as long as I live, our kind will continue.</text>
-		<text id="final_boss4">You have shown great tenacity, but that ends here. For this time, I will not underestimate you - I will deal with you myself!</text>
-		<text id="final_boss5">Such power in one so small! It is clear to me now that this fight was inevitable. Even had that fateful encounter never happened, and we had never tried to exterminate you, two races with this much power could never coexist.</text>
-		<text id="final_boss6">But do not celebrate yet, you have only cut away the cocoon that shackled me to this dragon's heart. I have absorbed enough magic to create even more powerful armor!</text>
-		<text id="final_boss7">Now you shall face my true might, and the power of magic we have studied so long!</text>
-		<text id="final_boss8">To think... that a mere human could defeat the accumulated power of centuries. What will become of my race now that I am defeated? How will they survive without my guidance and wisdom?</text>
-		<text id="final_boss9">I have but one favor to ask of you - consider it my dying request. Please do not kill the hatchlings and the nursery crab that guards them. I know not what will happen to them, but they are but babies and no threat to you.</text>
-		<text id="final_boss10">Without my power to fuel it, this dragon world will go into a deep slumber, sealed off from the outside indefinitely. If you do not wish to become trapped here, leave quickly.</text>
-		<text id="final_boss11">My time has come. I am no match for you, and my power is nearly gone, but I will not give you the glory of the final blow. My death, I take myself.</text>
+		<text id="cargo_locked">화물칸이 단단히 닫혀 있다. 그들이 존재하는 이상 열 수 없을것 같다.</text>
+		<text id="final_boss1">나는 너의 종을 과소평가 한것 같군. 처음에 너는 우리의 비밀을 파해치는 윙윙거리는 파리에 지나지 않았지. 나는 우리가 너의 고향을 파괴했을 때 너의 종이 멸종한줄 알았어.</text>
+		<text id="final_boss2">하지만, 어찌된 일인지- 너는 그 끔찍한 두건을 쓴 남자와 함께 우리 고향세계의 비밀을 파해치며 살아남았지. 그럼에도 난 결코 네가 살아남아 여기까지 올거라고 생각 못했어. 우리의 심장에 말이야.</text>
+		<text id="final_boss3_a">심지어 너는 부화장을 파괴했지! 새끼들을 도살했어!</text>
+		<text id="final_boss3_b">지구의 아이들은? 난 너와 똑같이 했을뿐이야!</text>
+		<text id="final_boss3_c">맞아... 우리는 너희 종을 멸종시키려고 했지. 하지만, 너희는 멸종하지 않았어. 그리고 그건 우리를 위한게 될거야- 부화장은 없어졌을지 몰라도, 내가 살아있는한 우리의 종족은 영원할거야.</text>
+		<text id="final_boss4">너는 대단한 끈기를 보이는군 하지만 그것도 이제 끝이야. 이번은 내가 상대하지 난 널 과소평가 하지 않을거야!</text>
+		<text id="final_boss5">약하군! 이 싸움은 피할 수 없겠지. 두 종의 운명적 만남은 이루어지지 않았고, 우리가 너의 종을 말살하려 하지 않았어도, 이 정도의 힘을 가진 두 종은 공존할수 없어!</text>
+		<text id="final_boss6">아직 기뻐하긴 이를거야, 너는 족쇠로 사용한 고치들을 부수고 나를 드래곤의 심장에서 때어냈을 뿐이야. 나는 더 강력한 갑옷을 만들만큼의 마력을 흡수했어!</text>
+		<text id="final_boss7">이제 너는 나의 진정한 힘과 우리가 오랫동안 연구해온 마법의 힘을 마주하게 될거야!</text>
+		<text id="final_boss8">생각하는 것... 오직 인간만이 수세기동안 쌓아온 힘을 이길 수 있단 말인가. 내가 패배한 지금 나의 종은 어떻게 되는거지? 그들은 나의 지도와 지혜없이 어떻게 살아남지?</text>
+		<text id="final_boss9">죽기전에 부탁하나 해도 되겟나? 부디 부화장과 그들의 보모를 죽이지 말아줘. 그들에게 무슨일이 일어날지 모르지만, 그들은 단지 새끼일 뿐이고 너에게 아무런 위협이 되지 않을거야.</text>
+		<text id="final_boss10">내가 힘을 나눠주지 않으면 이 용의 세계는 영원히 잠들거야. 여기에 같히고 싶지 않으면, 떠나.</text>
+		<text id="final_boss11">나의 시대가 있었다. 나는 너에게 패배했고, 나의 힘은 거의 사라졌다. 너에게 마지막을 남겨주진 않을테다. 나의 죽음, 스스로 받아들인다.</text>
 	</section>
 	<section id="scene.house">
 		<text id="first1">너무 좋네요! 따듯한 물과 각자의 방도 있어요! 그래서 말인데요 저는 피곤하니 먼저 자러가겠어요.</text>
@@ -3014,9 +3014,9 @@
 		<text id="intro8">말이 너무 많은가? 그들의 너의 행성을 불태운 이후 너무 지루했어. 그건 미안하게 생각해.</text>
 		<text id="intro9">이 행성을 떠나는 것과, 내가 말하거나 행동하지 못하는 것들은 많이 있어. 하지만 네 모험담을 들려준다면, 내가 할 수 있는 방법으로 너를 도와줄게.</text>
 		<text id="intro10">날 믿어, 난 여기 만년동안 유배되어 있었어. 다른 종족에 동정심따위 느끼지 않아.</text>
-		<text id="ship1">As I said, there are things I cannot say. But, there is one with no such restrictions, who is bitter towards my kind.</text>
-		<text id="ship2">If you travel east from where you crash landed on our homeworld, there is an ancient dragon who may help you.</text>
-		<text id="evo_chamber">Here, let me create an [color=770000]Evolution Chamber[/color]. It may help you.</text>
+		<text id="ship1">말했다 싶이 내가 말할 수 있는건 제한되어있어. 하지만 그곳에 내 동족에게 충고를 할수 있는 종족이 있지.</text>
+		<text id="ship2">네가 만약 우리의 고향에서 동쪽으로 여행을 갈 수 있다면, 너를 도와줄 고대 용이 있을거야.</text>
+		<text id="evo_chamber">여기서 [color=770000]진화실[/color]을 만들어봐. 도움이 될진 모르겠네.</text>
 		<text id="spells1">So, you were able to create a dragon ship of your own! If only you could speak to it! Try to learn more secrets of magic from our homeworld, and you will go far.</text>
 		<text id="spells2">There are plenty of loopholes in the stigma that binds me. If you can learn enough on your own, I will be able to help you more!</text>
 		<text id="spells3">I don’t know who taught you how to create spellbooks - but since you know, I can tell you more about them!</text>
@@ -3024,11 +3024,11 @@
 		<text id="recipe">Recipe for [item=translation_book] added to the [color=770000]Library[/color].</text>
 		<text id="spells5">Try using the [item=translation_book] inside dragon ships to communicate with them! They will be able to give you something to further your knowledge of magic.</text>
 		<text id="spells6">The [item=translation_book] will also let you converse with enemy dragon ships. Perhaps a deal can be struck with them if you defeat their crew?</text>
-		<text id="info">Was there something else you’d like to know about?</text>
-		<text id="exiled">Why were you exiled?</text>
-		<text id="attack">Why did you attack Earth?</text>
-		<text id="dragons">Why did you betray the dragons?</text>
-		<text id="old_one">About the Old One...</text>
+		<text id="info">또 알고 싶은게 있어?</text>
+		<text id="exiled">왜 추방 당하셨죠?</text>
+		<text id="attack">지구를 공격한 이유가 뭐에요?</text>
+		<text id="dragons">왜 용들을 배신했나요?</text>
+		<text id="old_one">옛것에 대해서...</text>
 		<text id="exiled1">I was part of an expedition team - our goal was to find other sentient life. I was actually on the patrol ship that found Earth, although at the time it was questionable whether humans were “sentient.”</text>
 		<text id="exiled2">We kept an eye on many different alien species, and if ever they learned too much about magic or we thought they might pose a threat, we either slaughtered them or enslaved them, melding them with our ships and biological weapons.</text>
 		<text id="exiled3">I followed our leader blindly, as he sacrificed so much for us to remain in power and in control - permanently binding himself to the heart of our headquarters. But eventually I began to wonder.</text>
@@ -3408,18 +3408,18 @@
 		<text id="kraken">크라캔</text>
 		<text id="plant_boss">수호수</text>
 		<text id="ice_boss">스톰</text>
-		<text id="minotaur1">These beasts are fast and have dangerous [item=horn]s, but move endlessly back and forth and are easy to predict. Try keeping your distance and hitting them from behind.</text>
-		<text id="yeti1">Unlike many enemies, you can't hide under Yetis to attack them from behind. Try staying on the move and sneaking in hits while avoiding its icy breath and snowballs.</text>
-		<text id="bandits1">Like most groups, bandits aren't that dangerous one on one, but don't let them gang up on you! Pick them off one at a time, and pay special attention to the bandit with the heavy shield, he can only be hurt from behind!</text>
-		<text id="dragon1">With no ranged weapon, the Dragon's a challenge. Hit [key=defend] to block flames with the shield or hide behind tiles until it flies back to its den, then hit it from behind as much as you can, and don't forget [item=attack_potion]s!</text>
-		<text id="wyrm_queen1">This beast won't attack you - but it can only be hurt by striking its open mouth! While its brood of [item=wyrm]s are dangerous, they are a good source of [item=dragonblood] if you need to heal.</text>
-		<text id="golemech1">Beware the Golemech's eye attack - it takes time to recharge, but it is incredibly powerful. [color=770000][tile=plant.ico] Plant[/color] and [color=770000][tile=water.ico] Water[/color] attacks are effective against it.</text>
-		<text id="oldone1">The Old One has powerful attacks and is only vulnerable when it overheats and opens up its armor. Dodge or block its attacks with the shield, then hit it when vulnerable.</text>
-		<text id="mirrows1">The [item=shadow_cape] will help you avoid being attacked by both Mirrows at once. It will make you invisible every 5 seconds, allowing you to sneakily defeat one of them. You can also use [item=landmine]s while hidden for extra damage!</text>
-		<text id="pirates1">The Pirates have powerful laser weapons, but their range and speed are less than yours. Keep moving and firing, taking as few hits as possible, destroy one at a time, and they aren't that challenging.</text>
-		<text id="kraken1">This monster of the deep is very hazardous. Its arms are dangerous, and while they can be blasted off at the base, they regrow quickly. Destroy and get past the arms, then fire at the eyes to defeat it.</text>
-		<text id="plant_boss1">The Cultivator is weak to [color=770000][tile=fire.ico] Fire[/color] attacks. Burn it from the air where only its spores can hurt you. You will have to dodge the spores, as you don't have a lot of health for many hits.</text>
-		<text id="ice_boss1">The Storm can only be hurt by powerful [color=770000][tile=fire.ico] Fire[/color] attacks. Beware its tornado form, it is invulnerable and dangerous during that time. Climb the ruins to burn it when vulnerable, and run when it's in tornado form.</text>
+		<text id="minotaur1">이 짐승은 빠르고 위험하지만, 앞 뒤로 끝도 없이 움직여서 예측하기 쉬워요. 거리를 두고 뒤에서 공격하세요.</text>
+		<text id="yeti1">다른 적들과 달리 예티는 숨어서 뒤로 공격 할 수 없어요. 얼음처럼 차가운 입김과 눈덩이를 피하면서 공격해보세요.</text>
+		<text id="bandits1">대부분의 무리와 마찬가지로, 개개인은 위협적이지 않지 않아요. 하지만 강도들이 당신에게 집단으로 달려드는 상황은 피하세요! 한명씩 공격하고 무거운 방패를 든 강도는 주의하세요. 그는 뒤에서만 공격할 수 있어요.</text>
+		<text id="dragon1">원거리 무기가 없다면 드래곤은 위험한 도전이에요. [key=defend]키를 눌러 블레스를 막거나 타일 뒤에 숨어서 소굴로 돌아갈때 공격하는 방법이 있어요. 아, [item=attack_potion] 잊지 마시구요!</text>
+		<text id="wyrm_queen1">이 짐승은 당신을 공격하지 않을거에요. 그리고 입을 벌릴때만 공격할 수 있죠! 태어난 [item=wyrm]들은 위험하지만, [item=dragonblood]을 얻기 좋죠.</text>
+		<text id="golemech1">골레매크의 눈 공격에 주의하세요- 공격하는 텀이 길지만 공격력은 믿을수 없을만큼 강해요. [color=770000][tile=plant.ico] 식물[/color]과 [color=770000][tile=water.ico] 물[/color]속성 이 효과적일 거에요.</text>
+		<text id="oldone1">옛것은 강합니다. 갑옷이 과열 되었을때만 피해를 줄 수 있어요. 방어막으로 공격을 피하거나 차단한다음, 갑옷이 과열됫을때 공격하세요.</text>
+		<text id="mirrows1">[item=shadow_cape]가 미로우 부부의 공격을 피하는데 도움이 될거에요. 5초에 한번씩 몰래 공격하기 편할거고, [item=landmine]를 이용해 추가적인 피해를 입힐수 있어요!</text>
+		<text id="pirates1">해적들은 강력한 레이저 무기를 가지고 있어요. 하지만 사정거리와 속도는 당신보다 못할거에요. 계속 움직이면서 공격하고, 하나씩 파괴하면 그렇게 어렵지 않을거에요.</text>
+		<text id="kraken1">바다 깊은 곳에 사는 이 괴물은 위험해요. 촉수는 강력하면서도 몸에 연결되어 있으며 빠르게 성장할거에요. 촉수를 파괴하여 몸의 중심에 있는 눈을 공격해서 퇴치하세요.</text>
+		<text id="plant_boss1">수호수는 [color=770000][tile=fire.ico] 불[/color] 공격에 약해요. 포자만이 당신을 해칠 수 있어요. 체력을 잃기 전에 포자를 피하고 공격하세요.</text>
+		<text id="ice_boss1">스톰은 강력한 [color=770000][tile=fire.ico] 불[/color] 공격으로만 피해를 줄 수 있어요. 토네이도 형태에 주의하세요, 그 형태 동안은 위험해요. 토네이도 형태일때는 피하고, 아닐때 공격하세요.</text>
 		<text id="points">좋은 보상을 위해 [color=770000][tile=colosseum.points anim=colosseum.points] 영력 포인트[/color]를 써보는건 어떤가요!</text>
 		<text id="buy">영력 보상!</text>
 	</section>
