@@ -520,11 +520,11 @@
 		<text id="exo_factory_blueprint">외우주 공장 설계도</text>
 		<text id="alien_heart">외계인 심장</text>
 		<text id="carapace">갑각류</text>
-		<text id="hoarder_gun">Hoarder Magnum</text>
-		<text id="hoarder_shield">Hoarder Shield</text>
-		<text id="hoarder_armor">Hoarder Suit</text>
-		<text id="hoarder_hat">Hoarder Helm</text>
-		<text id="hoarder_backpack">Hoarder Backpack</text>
+		<text id="hoarder_gun">호더 총</text>
+		<text id="hoarder_shield">호더 쉴드</text>
+		<text id="hoarder_armor">호더 슈트</text>
+		<text id="hoarder_hat">호더 헬멧</text>
+		<text id="hoarder_backpack">호더 백팩</text>
 		<text id="translation_book">번역의 마법서</text>
 		<text id="magne_queen_drill">자수정 퀴 드릴</text>
 		<text id="coral_farm_seed">산호 농장 씨앗</text>
@@ -542,7 +542,7 @@
 		<text id="dragon_seed">드래곤 씨앗</text>
 		<text id="magic_wyrm">자수정 웜</text>
 		<text id="magnewyrm">마그네웜</text>
-		<text id="magnetrap">Magnetrap</text>
+		<text id="magnetrap">마그네트랩</text>
 		<text id="element_table">원소 상성표</text>
 		<text id="magnestone">마그네스톤</text>
 		<text id="mars_fish">스티지언</text>
@@ -950,7 +950,7 @@
 		<text id="drones">통제권 탈취</text>
 		<text id="research">어디서나 연구</text>
 		<text id="alien_locator">적 추적기</text>
-		<text id="dragomech">드래곤 병기?</text>
+		<text id="dragomech">드래메크</text>
 		<text id="colony">또 다른 식민지</text>
 		<text id="alien_cruiser">큰 것이 좋지만은 않다</text>
 		<text id="exo_set">과학의 마법</text>
@@ -2929,35 +2929,35 @@
 		<text id="first5">우리는 여기서 잘 살아남고 있요. 시내랑 다른 건물도 업그레이드 되었구요! 집 생각이 날 정도네요...</text>
 	</section>
 	<section id="museum">
-		<text id="case">Would you like to complete the display for the following resources?</text>
-		<text id="case_complete">You admire your hard work gathering enough {item} to put on display.</text>
-		<text id="mined">Did you know that you have mined {count} tiles?</text>
-		<text id="killed">Did you know that you have defeated {count} enemies?</text>
-		<text id="crops">Did you know that you currently have {count} crops planted?</text>
-		<text id="caught">Did you know that you have caught {count} different types of enemies?</text>
-		<text id="read">Did you know that you have read {count} logs?</text>
-		<text id="history1">When [item=exotic_matter] was discovered and we could travel between stellar systems, humanity started the Unoiks project to locate potential colony worlds to offset Earth's heavy overpopulation.</text>
-		<text id="history2">The Unoiks project was a huge success, discovering hundreds of potential planets within jumping distance. It appeared the solution to Earth's limited resources was found, and advance teams were sent to investigate the planets.</text>
-		<text id="history3">Hundreds of worlds were found to be viable, and the press called it unlimited resources. Unfortunately, the "unlimited" resources relied on one of the most scarce resources in the universe, and it quickly became clear that not everyone would get to go.</text>
-		<text id="history4">A race to build colony ships and stockpile [item=exotic_matter] quickly turned into a war, one many would call the worst in human history. The worsening conditions on Earth only intensified the fighting for the few spots on the operational colony ships.</text>
-		<text id="history5">By the time the war ended, billions had died and the damage to the planet seemed permanent. There were no winners, only survivors, and they had no choice but to work together if any of them were to escape.</text>
-		<text id="history6">It was a time of recovery and cooperation, fixing the wrongs from the war. Unfortunately, it ended abruptly when they arrived with their bombers and unceasing violence.</text>
-		<text id="history7">Humanity was caught unprepared. Some fought. Some fled. Most died. Earth's story ends here, but Earth will never truly die as long as those who managed to escape continue to honor and remember it.</text>
-		<text id="curator1">Infinite Resources! That is what the people of Earth dreamed of when they first tried to colonize the stars! And that is the theme of my museum!</text>
-		<text id="curator2">You're running a museum?</text>
-		<text id="curator3">Of course! What meaning does survival have if we do not respect and remember the past? Here you will find history and showcases of many resources we have found since leaving our homeworld.</text>
-		<text id="curator4">If you wouldn't mind, I could use some help completing the showcases. If you could fill them up with resources, I'd greatly appreciate it. I even have a few rewards for completing them!</text>
-		<text id="curator_complete">You have completed {count} of {total} cases?</text>
-		<text id="curator_reward">You're making great progress! Here is a reward for completing the first {count} cases!</text>
-		<text id="curator_reward_complete">That's incredible! Here is your final reward for completing all the cases!</text>
-		<text id="curator_10">Our ancestors will never think "unlimited" with so few cases complete!</text>
-		<text id="curator_20">It's a start, but you have a long way to go if you want to complete them all!</text>
-		<text id="curator_30">You're making progress! I can tell you must be a collector like me!</text>
-		<text id="curator_40">You're over half way there! This museum is starting to feel full of life and resources!</text>
-		<text id="curator_50">You're almost there! You must be a completionist like me!</text>
-		<text id="curator_all">You completed them all! It's not "unlimited," but I bet our ancestors would be proud!</text>
-		<text id="buy">Buy Past Rewards</text>
-		<text id="buy1">How about buying a past reward for 50K [color=770000][tile=coin_purse.ico] Coins[/color]!</text>
+		<text id="case">다음 재료에 대한 디스플레이를 완료하시겠습니까?</text>
+		<text id="case_complete">{item}이(가) 전시할수 있을만큼 모으는 당신의 노고에 감탄합니다.</text>
+		<text id="mined">{count}개의 타일을 채굴했다는걸 알고 있습니까?</text>
+		<text id="killed">{count}명의 적을 퇴치했다는걸 알고 있습니까?</text>
+		<text id="crops">현재 당신이 {count}개의 식물을 심었다는걸 알고 있습니까?</text>
+		<text id="caught">{count}가지의 다른 적을 퇴치했다는걸 알고 있습니까?</text>
+		<text id="read">당신은 {count}개의 기록을 읽었다는걸 알고있습니까?</text>
+		<text id="history1">[item=exotic_matter]이 발견되고 우리가 항계를 여행할 수 있게 되었을때, 인류는 점점 늘어나느 인구수를 해결 하기 위해 식민지 세계를 찾기위한 어노익스 프로젝트가 시작되었다.</text>
+		<text id="history2">어노익스 프로젝트는 이동가능 거리 내에 있는 수백개의 잠재적 행성을 발견하면서 큰 성공을 이루었다. 지구의 한정된 자원에 대한 해결책이 나왔고, 행성을 조사하기 위한 선발대가 파견되었다.</text>
+		<text id="history3">수백개의 행성이 구현 가능한 것으로 밝혀졌고, 언론은 이를 무한한 자원이라고 보도했다. 불행이도, "무한한" 자원은 우주의 가장 희박한 자원중 하나에 의존했고, 모든 사람이 갈 수 없다는 사실이 분명해졌다.</text>
+		<text id="history4">식민지를 건설하고 [item=exotic_matter]을 비축하기 위한 경쟁은 결국 전쟁으로 이어졌다. 많은 사람들이 인류 역사상 가장 최악의 전쟁이라고 기억할 것이다. 지구의 상황이 안좋아지자 식민지 건설은 몇군대만 진행이 되었다.</text>
+		<text id="history5">전쟁이 끝날 무렵에는 수십억명이 죽었다. 지구는 회복 불가능할 정도의 피해를 입었다. 승자는 없었고 생존자만 있었다. 살아남기 위해서는 협력할 수 밖에 없었다.</text>
+		<text id="history6">전쟁으로 인할 잘못을 되돌리기 위해 협력과 회복이 이루어진 시기였다. 불행이도, 그건 적의 폭격기가 오면서 갑자기 끝나버렸다.</text>
+		<text id="history7">인류는 준비되어있지 않았다. 몇몇은 싸웠다. 일부는 도망쳤다. 대부분은 죽었다. 지구에서의 이야기는 여기서 끝나지만, 가까스로 탈출한 사람들이 지구를 기리면고 기억하는 이상 지구는 영원히 살아있을것이다.</text>
+		<text id="curator1">무한한 자원! 그건 지구인들이 처음으로 식민지를 만드려고 했을때 꿈꾸던 거에요! 그리고 그것이 제 박물관의 주제죠!</text>
+		<text id="curator2">박물관을 운영하고 있나요?</text>
+		<text id="curator3">그럼요! 과거를 기억하지 않는다면 생존에 무슨 가치가 있을까요? 여기서 당신은 역사를 발견할 것이고 우리가 고향을 떠난 이후 발견한 많은 진열장을 볼 수 있을거에요.</text>
+		<text id="curator4">괜찮다면 진열장을 채우는걸 도와주지 않을래요? 진열장을 채워주시면 고맙겠어요. 그리고 채우실때마다 보상을 드릴게요!</text>
+		<text id="curator_complete">{total}가지 중 {count}개를 완료하셨나요?</text>
+		<text id="curator_reward">잘하고 계시는군요! 여기 {count}건에 대한 보상이에요!</text>
+		<text id="curator_reward_complete">대단해요! 모든 사례를 완료한 보상이에요!</text>
+		<text id="curator_10">우리 조상들은 몇가지만 완료할 경우 "무한한" 이라고 생각하지 않을거에요!</text>
+		<text id="curator_20">이제 시작이에요, 갈길이 멀어요!</text>
+		<text id="curator_30">발전하고 있군요! 저같은 수집가의 자질이 보여요!</text>
+		<text id="curator_40">절반이상 완료했어요! 이 박물관은 생명과 자원으로 가득 차기 시작했어요!</text>
+		<text id="curator_50">거의 다 왔어요! 저같은 완성도가 높은 사람이군요?</text>
+		<text id="curator_all">전부 완성했군요! "무한한"은 아니지만 , 우리 조상들은 자랑스러워 할거에요!</text>
+		<text id="buy">과거 보상 구매</text>
+		<text id="buy1">[color=770000][tile=coin_purse.ico] 금화[/color] 50k로 과거의 보상을 구매하시겠습니까?</text>
 	</section>
 	<section id="cafeteria">
 		<text id="order">주문 하시겠습니까? 모든 음식은 [color=770000][tile=coin_purse.ico] 금화[/color] 500개 입니다.</text>
@@ -2975,7 +2975,7 @@
 		<text id="farsight">원시 튀김</text>
 		<text id="porky">돼지 없는 돼지갈비</text>
 		<text id="endurance">꽉찬 플랑크톤 반죽</text>
-		<text id="bargaining">위험한 치즈케이크</text>
+		<text id="bargaining">위험한 치즈스테이크</text>
 		<text id="light">빛나는 감자 셀러드</text>
 		<text id="oxygen">숨막히는 물소 날개</text>
 		<text id="reset">장식없는 페투치네</text>
@@ -2983,22 +2983,22 @@
 		<text id="toxic">역겨운 유독성 탄산수</text>
 	</section>
 	<section id="cafeteria.desc">
-		<text id="regen_stamina">You swallow the whole shot in one gulp. It tickles your throat but has no flavor. Within moments, you feel energy spreading to every pore, like you could stay awake for days without getting tired.</text>
-		<text id="regen_health">You can't help but think the red, viscous shake looks like blood. But, you plug your nose and down the whole thing, and you actually feel better - like you drank pure, concentrated health.</text>
-		<text id="regen_power">Spicy doesn't begin to describe this chowder! It feels like a nuclear meltdown in your mouth... and perhaps it is, as your batteries are now recharging from the fumes of your breath!</text>
-		<text id="attack">As each mini burger goes down, you feel stronger, like you could force anyone into submission. You feel a rush of power as you violently seize each bite-sized morsel and chow down on it before it has time to protest.</text>
-		<text id="defense">The slab of meat is tough, like you're chewing solid iron, yet tasty. The difficulty of chewing it seems to be strengthening your whole body. You just hope it doesn't really have iron in it...</text>
-		<text id="mine">The drink placed in front of you is so frothy that you can't see the liquid underneath. Believe in the barista that believes in yourself... bottoms up. As you stare down at the dregs of the glass, you feel satisfied knowing you can reach any depth.</text>
-		<text id="speed">The dessert looks absolutely scrumptious. You dig in with your spoon, and despite the overwhelming sweetness, it's not sickly. As the sugar rushes through your blood, you feel like you need to move. Fast. Faster than you ever have before!</text>
-		<text id="farsight">The fritters are crispy, golden brown and delicious. Yet you can't help wondering what kind of filling is inside. As you stare at the unidentifiable innards, you feel like you can see farther than ever before. The filling remains a mystery, however.</text>
-		<text id="porky">The plate is piled high - at first you think there's no way you could eat them all. Yet, one by one you keep plowing through them until they are all gone and you feel like you've expanded to twice your size.</text>
-		<text id="endurance">The green paste goes down smoothly and tastes better than you expected. It is also incredibly filling. You just hope it's really made from plankton.</text>
-		<text id="bargaining">The cheesesteak appears too large and messy to hold in your hands, but you are able to negotiate a satisfactory eating experience. The amount of meat and cheesy goodness strikes you as an excellent deal, and they certainly didn't compromise on flavor.</text>
-		<text id="light">The strong lights of the cafeteria cannot hide that the potato salad is glowing. With trepidation, you take a bite, but it tastes fine. Nothing seems to be wrong with it - except for the fact that you're now glowing too.</text>
-		<text id="oxygen">The wings are not breathtakingly good - in fact, they appear to have done the opposite and given you extra breath. It's a curious sensation, and after finishing your meal, you decide that it's not an unpleasant one.</text>
-		<text id="reset">The noodles are plain and nothing special. Yet somehow, they give a sense of endless possibilities. Skill points are reset, you can reassign them in the equipment window.</text>
-		<text id="knock_out">The greasy nuggets are out of this world delicious. You're certain it's unhealthy as poison, but you can't stop popping them into your mouth. As you wipe your oily fingers on your clothing, you begin to feel faint. They were just that good.</text>
-		<text id="toxic">You're not sure why you ordered something described as "revoltingly toxic," but this putrid drink certainly lived up to its name. You feel a wave of weakness and nausea come over you, and silently vow to never drink it again.</text>
+		<text id="regen_stamina">한입에 삼켰다, 목은 간지럽고 맛은 없다. 순간적으로 에너지가 모든 핏줄에 퍼져 몇일 정도는 깨어 있을 수 있을 것 같다.</text>
+		<text id="regen_health">붉고 점성이 있어 피같이 보인다. 포기하고 코를 막고 먹었다. 기분은 꽤 괜찮다- 순수한 건강식품을 먹은 기분이다.</text>
+		<text id="regen_power">매운맛으로는 이 차우더를 표현할수 없어! 입에서 핵이 녹아내리는 맛이다... 아마도 맞는것 같다, 내가 숨쉴때 마다 베터리가 충전되고 있다!</text>
+		<text id="attack">각각의 미니 버거가 식도를 타고 내려간다. 마치 다른 사람을 복종시킬 수 있을 것 같다. 힘이 넘친다!</text>
+		<text id="defense">고기덩어리가 질기다, 마치 단단한 철을 씹는듯 하다. 하지만 맛있다. 이 식감은 온몸을 튼튼하게 만드는것 같다. 철분이 들어있지 않았으면 좋겠는데...</text>
+		<text id="mine">거품이 너무 심해 액체가 보이지 않는다. 바리스타를 믿는다... 잔의 찌꺼기는 깊이가 어느정도인지 감이 잡히지 않는다. 만족 스럽다.</text>
+		<text id="speed">이 디져트는 매우 맛있어보인다! 숟가락으로 한입 퍼먹으면 엄청난 달콤함이 전해져 온다. 그럼에도 혀가 아리지 않다. 설탕이 피속에 침투해 온몸으로 전해지는것 같다. 빠르다... 이전보다 빠르다!</text>
+		<text id="farsight">튀김은 바삭바삭하고 노릇노릇하며 맛있다. 하지만 속에 무었이 들었는지 궁금하다. 정체불명의 내용물을 응시하니 더 멀리 볼 수 있을것 같다. 하지만 내용물은 여전히 미스테리이다.</text>
+		<text id="porky">접시가 가득 쌓여있다- 처음엔 다 먹을 수 없을것 같았다. 하지만, 접시를 하나씩 해치울 때마다 내 몸이 커지는 것 같다.</text>
+		<text id="endurance">초록색 풀은 목넘김이 부드럽고 생각보다 맛있다. 만족감은 믿을 수 없을 정도이다. 단지 이게 정말 플랑크톤으로 만들어졌길 빈다...</text>
+		<text id="bargaining">이 치크스테이크는 너무 크고 지저분 해서 한번에 먹기는 힘들 것 같다. 하지만 먹고나면 포만감은 만족스럽겠지. 고기와 치즈의 조합을 상상해보며 먹어보지만, 맛은 최악이였다.</text>
+		<text id="light">구내 식당은 불빛으로는 이 감자 셀러드의 빛을 숨길 수 없었다. 각오를 다지며 한입 먹어보지만 맛은 괜찮다. 크게 잘못된것 같진 않다. 지금 내가 빛나고 있는것만 빼면.</text>
+		<text id="oxygen">이 날개는 숨막힐 정도로 좋지 않다. 사실은 반대인것 같기도하고... 숨을 들이 마셨다. 기이한 느낌이지만 식사를 마치고 나니 별일 아닌것 같다.</text>
+		<text id="reset">이 국수는 특별하지 않아 보인다. 하지만 어쩐일인지 모든지 할 수 있을것 같다. 스킬 포인트가 초기화 되면 장비창에서 다시 올릴 수 있다.</text>
+		<text id="knock_out">기름진 너겟은 꽤나 맛있다. 건강에 좋지는 않겟지만 입은 멈추지 않는다. 기름진 손을 옷에 닦으면서 기절했다. 그만큼 좋았다.</text>
+		<text id="toxic">내가 왜 "역겨운 유독성 탄산수"를 주문 했을까. 역함과 매스꺼움이 나를 덮쳤고 다시는 주문하지 않겠다고 다짐한다.</text>
 	</section>
 	<section id="exiled">
 		<text id="intro1">마법을 아는 인간? 내가 가장 좋아하는 두가지를 같이?! 혹시 보라색 후드를 입은 사람은 아니겠지?</text>
@@ -3052,20 +3052,20 @@
 		<text id="dragon_seed3">그래서 정령세계에 대해서 좀 배웠니? 내 이야기를 알아 들으려면 [color=770000]정령을 볼 수[/color] 있어야해...</text>
 		<text id="spirit_hq">정령의 신이 우리의 본진까지의 길을 열어준다고? 그거 좋은 소식이네 - [item=translation_book]을 이용해서 우리의 구조물과 소통하고 우리의 마법을 배울 수 있을거야!</text>
 		<text id="magnequeen1">우리 마법의 비밀을 다 훔쳤다고? 그러면 넌 이제 우리의 지도자와 대적할 준비가 된거야.</text>
-		<text id="magnequeen2">However, it will not be easy to reach him. He is deep underground, at the heart of our headquarters. Only the most powerful drill can reach him.</text>
-		<text id="magnequeen3">I can help you craft a [item=magne_queen_drill] if you catch an [item=magic_wyrm] with a [item=magnetrap] on our homeworld... but unfortunately I have some bad news.</text>
-		<text id="magnequeen4.1">They’ve sent a fleet of ships to bombard our homeworld. There must have been some signal sent that alerted them to your presence.</text>
-		<text id="magnequeen4.2">A second bomber has arrived at our homeworld to attack you, and they’ve brought in cruisers this time.</text>
-		<text id="magnequeen5">It’s up to you whether you fight off this wave or sneak onto the planet to capture an [item=magic_wyrm] and strike at our leader directly.</text>
-		<text id="magnequeen6">Either way, I’ll be here once you have the materials to create a [item=magne_queen_drill].</text>
-		<text id="magnequeen7">Here is a [item=magnetrap] - if you need more, you can now craft them at the [color=770000]HQ Talon Copse[/color].</text>
-		<text id="magnequeen8">You have everything for a [item=magne_queen_drill]? Then let me craft one for you!</text>
-		<text id="magnequeen9">You can make more at the [color=770000]HQ Dragon Chamber[/color]. All that's left now is to defeat our leader. It won't be easy... but once you do, all of us will be free.</text>
+		<text id="magnequeen2">그러나 그와 만나긴 쉽지 않을거야. 그는 우리 본부의 지하 깊은곳에 있어. 가장 강력한 드릴만이 그곳으로 갈 수 있어.</text>
+		<text id="magnequeen3">만약 너가 우리 고향에서 [item=magnetrap]으로 [item=magic_wyrm]을 잡아오면 내가 [item=magne_queen_drill]을 만들 수 있도록 도와줄 수 있어. 하지만 안 좋은 소식이 있어...</text>
+		<text id="magnequeen4.1">그들이 우리의 고향에 폭격기를 보냈어. 분명 어떤 신호가 보내져서 너네가 있다는걸 그들에게 알렸을거야.</text>
+		<text id="magnequeen4.2">우리의 고향에 두번째 침공이 시작됬어. 이번에는 순양함까지 같이 간것 같아.</text>
+		<text id="magnequeen5">이번 침공을 물리치던지 피해서 몰래 [item=magic_wyrm]을 잡아와 우리의 지도자를 죽이던지 그건 너의 선택이야.</text>
+		<text id="magnequeen6">어느쪽이든, [item=magne_queen_drill]을 만들 재료를 모으면 내게로 와.</text>
+		<text id="magnequeen7">여기 [item=magnetrap]을 받아 - 아마 더 필요할거야, 이제 너는 [color=770000]외계인 본진 갈퀴목[/color]에서 더 만들수 있어.</text>
+		<text id="magnequeen8">[item=magne_queen_drill]을 만들기 위한 재료를 다 모았니? 그럼 내가 만들어 줄게!</text>
+		<text id="magnequeen9">더 만들고 싶으면 [color=770000]외계인 본진 드래곤 공장[/color]에서 만들 수 있어. 이제 우리의 지도자를 물리치러 갈 때야. 쉽지는 않겟지만... 너가 해낸다면 우리 모두가 자유료워 질거야.</text>
 		<text id="leader">이제 남은건 너가 우리의 본부 지하 깊숙한 곳에 있는 우리의 지도자를 격퇴하는거야. 쉽지 않겟지만, 성공한다면 우리는 모두 자유료워 질거야.</text>
-		<text id="win1">Well, that’s disappointing. I was sure the stigma would be removed when our leader was defeated. Unfortunately, it looks like I’m stuck here.</text>
-		<text id="win2.1">But that was quite the battle! I was certain you were going to die at one point! I’m glad I got these TVs tuned in time, it was quite the spectacle.</text>
-		<text id="win2.2">And it seems I’ll be the last of my kind, since you killed the nursery. You should have spared them, they were only hatchlings. But they probably wouldn’t have survived long without our leader anyways.</text>
-		<text id="win3">If I can make one more request, once you rebuild your civilization, can you start producing TV shows again? Especially “The Adventures of A. McStabby,” I was quite fond of that one.</text>
+		<text id="win1">음, 실망스럽군. 난 우리의 지도자가 제거되면 내 오명이 사라질거라 생각했어. 불행하게도, 난 여기 갇힌것 같아.</text>
+		<text id="win2.1">하지만, 멋진 전투였어! 나는 네가 죽을것 같았거든! 이 TV들을 제때 맞춰놔서 다행이야, 장관이였어!</text>
+		<text id="win2.2">네가 보육원을 파괴했으니 나도 마지막이겠구나. 그들은 살려줬어야지, 그들은 아무것도 모르는 부잣집 아이들일 뿐이야. 하지만 어쨋든 우리의 지도자가 없으면 그들도 오래 살지는 못했겠지.</text>
+		<text id="win3">내가 한번만 더 부탁해도 될까? 너가 문명을 재건설 한다면 TV쇼를 다시 볼수 있을까? 특히 “A. McStabby의 모험” 이게 제일 재미있었거든.</text>
 	</section>
 	<section id="dragon_ship">
 		<text id="enemy1">Are you trying to communicate? Foolish human, the masters will kill you soon - no words can save you!</text>
