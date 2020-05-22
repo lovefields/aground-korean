@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <mod>
     <name>Korean - beta</name>
-    <description>한국어를 지원합니다.\n게임이 지원하는 글씨 크기와 한글의 최소크기가 달라 UI가 커집니다.\n오타,오역의 경우 댓글이나 Lovefield@dico.me로 문의바랍니다.\n 현재 NPC 3명의 번역이 남았습니다.</description>
+    <description>한국어를 지원합니다.\n게임이 지원하는 글씨 크기와 한글의 최소크기가 달라 UI가 커집니다.\n오타,오역의 경우 댓글이나 Lovefield@dico.me로 문의바랍니다.\n 현재 NPC 2명의 번역이 남았습니다.</description>
     <author>Lovefield</author>
     <version>0.0.1</version>
     <init>

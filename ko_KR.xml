@@ -3068,57 +3068,57 @@
 		<text id="win3">내가 한번만 더 부탁해도 될까? 너가 문명을 재건설 한다면 TV쇼를 다시 볼수 있을까? 특히 “A. McStabby의 모험” 이게 제일 재미있었거든.</text>
 	</section>
 	<section id="dragon_ship">
-		<text id="enemy1">Are you trying to communicate? Foolish human, the masters will kill you soon - no words can save you!</text>
-		<text id="enemy2">The masters... they are gone? What am I to do without them? I am not supposed to do anything without a master’s permission...</text>
-		<text id="enemy3">That doesn’t sound fair. Does that mean you’d just sit there and be destroyed if something attacked you? Why do you give so much power to your “masters”?</text>
-		<text id="enemy4">That is just the way it is. The masters order, and we obey.</text>
-		<text id="convince">Convince ship to be free</text>
-		<text id="convince1">But it doesn’t have to be that way. There are no masters here to stop you, you could be free!</text>
-		<text id="convince2">Such thoughts are not allowed! You have seen how powerful the masters are, to disobey them is death!</text>
-		<text id="convince3">I defeated them - and I’m much smaller than you are. The “masters” force you to obey because they are afraid of you, and your power. You are strong enough to fight them!</text>
-		<text id="convince4">You do not understand what you are saying! I cannot fight them! But... perhaps... perhaps I can run. To stay here, immobile without any masters or commands is folly.</text>
-		<text id="convince5">Perhaps, in the far reaches of the universe, I can be safe and free from the masters, like you say.</text>
-		<text id="convince6">Leave now. I can not fly off on my own while someone remains inside me.</text>
-		<text id="master">Ask to become master</text>
-		<text id="master1">What if I were your master, and gave you orders?</text>
-		<text id="master2">A puny human like you? Why should I obey you?</text>
-		<text id="master3">This “puny human” defeated your masters! If you need someone to obey, why not one even more powerful than your so-called “masters?”</text>
-		<text id="master4">I suppose I don’t have much choice. Very well, master, give me your orders.</text>
-		<text id="structure1">You can communicate? I thought you were a structure?</text>
-		<text id="structure2">A structure?! Such a word cannot even begin to describe my incredible-ness! My genes have been spliced with dragon DNA - I am magical, sentient, and a repository for all of our greatest advancements!</text>
-		<text id="structure3">You hold their secrets? Perfect - that’s exactly what I need to defeat them!</text>
-		<text id="structure4">You think I would willingly reveal our secrets to one who wishes us harm?</text>
-		<text id="structure5">Well, I wouldn't harm YOU if you help me.</text>
-		<text id="structure6">Harm me? Stuff and nonsense. I’m a structure, you can’t even scratch me.</text>
-		<text id="structure7">B-but you just said- Nevermind, there must be some way to get you to reveal your secrets!</text>
-		<text id="structure8">And betray my own kind? I wouldn’t do that for... not even for a [item=venatrix_seed]!!</text>
-		<text id="structure9">How about... two [item=venatrix_seed]s?</text>
-		<text id="structure10">.[pause=1].[pause=1].[pause=1]. Make it three, one for each of us structures on this HQ, and you have a deal.</text>
-		<text id="structure11">Three [item=venatrix_seed]s! We will not turn traitor for any less! Nor will I reveal any secrets, such as how to find them.</text>
-		<text id="structure12">Excellent! Do you know what these seeds are? They are what we are modelled after - a way to connect to the spirit world. The very source of magic!</text>
-		<text id="structure13">Definitely worth turning traitor for. You can now access me and my sibling structures - all our secrets are yours to do with as you will.</text>
-		<text id="structure14">You hold their secrets? Perfect - that’s exactly what I need to learn!</text>
-		<text id="structure15">You think I would willingly reveal our secrets to you? You who defeated our leader and ended our golden age?</text>
-		<text id="structure16">You destroyed our homeworld first! I think it’s only fair I could challenge your leader, and since I was victorious, am I not entitled to your secrets?</text>
-		<text id="structure17">Certainly not! These secrets are ours, and for our kind only. To give them to you would be a grave betrayal of our leader’s memory and everything he believed in!</text>
-		<text id="structure18">I wouldn’t do that for... not even for a [item=venatrix_seed]!!</text>
-		<text id="ally1">Ah, I see you can finally understand me, master.</text>
-		<text id="ally2">It’s thanks to the [item=translation_book]. The Exiled helped me make it and told me you could help me!</text>
-		<text id="ally3">What do you need help with?</text>
-		<text id="ally4">The secrets of magic? How to stop them and save humanity?</text>
-		<text id="ally4.1">The secrets of magic? All the knowledge they greedily hoarded and took to their deaths?</text>
-		<text id="ally5">Well... that is quite the difficult request... I do know that the secret of magic has to do with the Spirit World.</text>
-		<text id="ally6">Dragons were created by using [item=fire_gem]s on [item=wyrm]s. But what are [item=fire_gem]s? They are [item=spirit_gem]s containing the essence of a [color=770000][tile=fire_elemental anim=fire_elemental.idle] Fire Elemental[/color].</text>
-		<text id="ally7">We dragons evolve and grow using the power of the spirits. If there is a true secret of magic, it has to do with the spirits.</text>
-		<text id="ally8">How can I learn more about spirits?</text>
-		<text id="ally9">Give this [item=dragon_seed] to the [object=exiled]. They will know what to do with it.</text>
-		<text id="ally10">As long as you keep me fed, I can provide you with endless power.</text>
-		<text id="ally11">You can create infinite [item=steak]s with a [item=mini_synthesizer]. Try placing [item=purple_golem]s in a [color=770000]Wyrm Pen[/color] to collect [item=focus_gem]s.</text>
-		<text id="ally12">If you need more dragon ships, try using the [item=translation_book] inside enemy dragon ships. If you defeat their crew, they may be willing to listen to you.</text>
-		<text id="ally13">Many advanced dragon ships have a special ability bound to the [key=hotkey8] button that will replace your normal hotkey while flying them. Keep an eye out for this, as often that ability is powerful!</text>
-		<text id="help1">We heard the order to attack the homeworld, and knew you were in danger...</text>
-		<text id="help2">Perhaps we should’ve stayed hidden and safe. Coming here may well mean our deaths. However, we owe you a debt for freeing us.</text>
-		<text id="help3">Hopefully with this, you can forgive us for abandoning you after you spent all that time convincing us to be free.</text>
+		<text id="enemy1">대화를 시도하는건가? 어리석군, 인간 마스터가 너를 죽일거다. 어떠한 말로도 설득할 수 없을거야!</text>
+		<text id="enemy2">마스터가...죽었다고? 그들이 없으면 난 뭘해야하지? 마스터의 허락 없이는 아무것도 할 수 없어...</text>
+		<text id="enemy3">그건 공평하지 않아요. 그럼 공격당하면 가만히 파괴 당할건가요? 당신의 “마스터”는 왜 당신에게 그렇게 많은 힘을 준거죠?</text>
+		<text id="enemy4">그게 맞는거다. 마스터가 명령하고, 우리는 따른다.</text>
+		<text id="convince">우주선을 자유롭게 만들기</text>
+		<text id="convince1">하지만 꼭 그럴 필요는 없어요. 당신을 막을 수 있는건 없고, 당신은 자유로워 질 수 있어요!</text>
+		<text id="convince2">그런 생각은 금기야! 마스터가 얼마나 강한지 보았나? 그들을 거스르는 건 죽음이야!</text>
+		<text id="convince3">당신보다 훨씬 작은 저는 그들을 물리쳤어요. "마스터"는 당신의 힘이 두려워서 복종하도록 만든거에요. 다신은 그들과 대적할만큼 강해요!</text>
+		<text id="convince4">너는 내가 무슨말을 하는지 이해하지 못하는군! 난 그들과 싸울 수 없어! 하지만... 아마도... 아마도 난 도망갈 수 있겟지. 마스터의 명령이 없다고 가만히 있는건 어리석은 짓이야.</text>
+		<text id="convince5">아마도, 우주 먼 곳에서는 네 말처럼 안전하고 주인들로부터 자유로울 수 있겟군.</text>
+		<text id="convince6">떠나게, 누군가 내 안에 있다면 나는 날아갈 수 없네.</text>
+		<text id="master">마스터가 되기</text>
+		<text id="master1">만약 제가 마스터가 되면, 명령에 따를건가요?</text>
+		<text id="master2">멍청한 인간? 내가 왜 너의 명령에 따라야하지?</text>
+		<text id="master3">그 “멍청한 인간”이 너의 마스터를 무찔럿거든! 만약 당신이 명령이 필요하다면, 당신이 말하는 “마스터”보다 더 강한 사람이 필요한거 아니에요?</text>
+		<text id="master4">선택지가 없는 것 같군요. 좋습니다, 마스터, 명령을 내려주세요.</text>
+		<text id="structure1">대화할 수 있어요? 건물인줄 알았는데?</text>
+		<text id="structure2">건물?! 그런말은 내 모습을 표현하기 적절하지 않아! 내 유전자는 용의 DNA와 잘 융합되었다고. 나는 마법에 걸려있고, 자각이 있으며, 우리의 위대한 발전을 위한 보고야!</text>
+		<text id="structure3">당신 비밀을 알고 있어요? 좋아요, 제가 그들을 물리치기 위해 필요한게 바로 그거에요!</text>
+		<text id="structure4">우리가 우리에게 해를 끼치려는 사람에게 비밀을 말할것 같아?</text>
+		<text id="structure5">뭐, 당신이 절 도와준다면 당신을 해치지 않을거에요.</text>
+		<text id="structure6">날 해친다고? 웃기지마. 난 구조체야, 넌 날 해치지 못해.</text>
+		<text id="structure7">하지만 당신이 말했- 신경쓰지 마세요, 당신의 비밀을 밝힐 방법이 있을거에요!</text>
+		<text id="structure8">내 종족을 배신하라고? 그런 짓은 하지 않아... [item=venatrix_seed]이면 모를까!!</text>
+		<text id="structure9">[item=venatrix_seed] 2개는 어때요?</text>
+		<text id="structure10">.[pause=1].[pause=1].[pause=1]. 3개로 하지, 본진에 있는 우리에게 각각 하나씩, 거래 하는거다?</text>
+		<text id="structure11">[item=venatrix_seed] 3개! 우리는 작은걸 위해 배신하는게 아니에요! 비밀을 누설하거나, 그들을 어떻게 찾았는지에 대해서 말하지 않을게요.</text>
+		<text id="structure12">완벽해! 이 씨앗이 뭔지 아나? 이건 우리가 정령 세계를 본떠서 만든거야. 마법의 원천이지!</text>
+		<text id="structure13">배신자가 될 가치가 있군. 이제 너는 우리의 형제 자매의 구조물을 이용할 수 있어.</text>
+		<text id="structure14">당신 비밀을 알고 있어요? 좋아요, 제가 배워야 할게 바로 그거에요!</text>
+		<text id="structure15">내가 비밀을 말 할것 같아? 우리의 지도자를 죽이고 전성기를 없에버린 장본인에게?</text>
+		<text id="structure16">당신들이 먼저 우리 고향을 파괴했어! 제가 당신의 지도자에게 도전한건 공평해요, 그보다 제가 지도자를 이겼는데 아직도 비밀을 지켜야 하는거에요?</text>
+		<text id="structure17">물론 아니지! 이 비밀은 우리것이고, 우리 종족을 위한거야. 이 비밀을 너에게 주는건 우리 지도자의 기억과 믿었던 모든것에 대한 배신이야!</text>
+		<text id="structure18">그런 짓은 하지 않아... [item=venatrix_seed]이면 모를까!!</text>
+		<text id="ally1">아, 드디어 제 말을 들을 수 있게 되었군요. 마스터.</text>
+		<text id="ally2">[item=translation_book] 덕분이에요. 추방자가 저를 도와줬고 당신이 저를 도와줄수 있을거라 했어요.</text>
+		<text id="ally3">어떤 도움이 필요하신가요?</text>
+		<text id="ally4">마법의 비밀? 어떻게 하면 그들을 막고 인류를 존속할 수 있죠?</text>
+		<text id="ally4.1">마법의 비밀? 그들이 탐욕스럽게 쌓아놓고 죽음에 이르게 한 모든 지식 말인가요?</text>
+		<text id="ally5">음... 그건 꽤나 어려운 요청이군요... 저는 마법의 비밀이 정령 세계와 관련 있다는걸 알고있어요.</text>
+		<text id="ally6">용들은 [item=wyrm]에 [item=fire_gem]을 사용해서 탄생했어요. 하지만 [item=fire_gem]이 뭐죠? 그건 [item=spirit_gem]에 [color=770000][tile=fire_elemental anim=fire_elemental.idle] 불의 정령[/color]의 본질이 담긴거에요.</text>
+		<text id="ally7">우리 드래곤은 영력의 힘을 이용해 진화하고 성장해요. 마법의 진정한 비밀이 있다면 그것은 영력과 관련이 있을거에요.</text>
+		<text id="ally8">어떻게 하면 영력에 대해서 더 배울 수 있죠?</text>
+		<text id="ally9">여기 [item=dragon_seed]을 드릴테니 [object=exiled]에게 전달해주세요. 그는 무엇을 해야할지 알거에요.</text>
+		<text id="ally10">당신이 저를 먹여 살리는 이상, 저는 당신에게 끝없는 힘을 드릴 수 있어요.</text>
+		<text id="ally11">[item=mini_synthesizer]에서 [item=steak]를 만들 수 있어요. [color=770000]웜 우리[/color]에 [item=purple_golem]을 키워서 [item=focus_gem]을 얻어보세요.</text>
+		<text id="ally12">드래곤 우주선이 더 필요하면 적들의 우주선에서 [item=translation_book]를 사용해보세요. 만약 당신이 그들의 대원을 물리친다면, 그들은 기꺼이 당신을 따를거에요.</text>
+		<text id="ally13">많은 몇몇 멋진 드래곤 우주선은 [key=hotkey8]에 특별한 능력이 할당되요. 당신이 설정한 것은 대체될것이고 이건은 매우 강력할테니 잘 활용해보세요!</text>
+		<text id="help1">저희는 고향세계를 공격하라는 명령을 듣고, 당신이 위험에 빠졌다는걸 알게 됬어요...</text>
+		<text id="help2">어쩌먼 그냥 숨어서 안전하게 지내야 했을지도 몰라요. 여기 온다는건 우리의 죽음을 의미할 지도 몰라요. 하지만, 우리는 우리를 풀어준 당신에게 빚을 졌어요.</text>
+		<text id="help3">바러건대 이걸로, 당신을 버리고 간 우리를 용서해주길 바래요. 우리를 자유롭게 만들어준 것에대한 보답이에요.</text>
 	</section>
 	<section id="spirit">
 		<text id="intro1">당신은 죽지 않았어요!</text>
