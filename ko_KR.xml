@@ -536,7 +536,7 @@
 		<text id="spirit_fish">정령 물고기</text>
 		<text id="spirit_robes">정령의 로브</text>
 		<text id="spirit_glaive">정령 언월도</text>
-		<text id="spirit_gem2">진화된 정령 덩어리</text>
+		<text id="spirit_gem2">진화된 영력 덩어리</text>
 		<text id="spirit_chest">정령상자</text>
 		<text id="spirit_orb">정령 구슬</text>
 		<text id="dragon_seed">드래곤 씨앗</text>
@@ -735,7 +735,7 @@
 		<text id="landmine">지뢰</text>
 		<text id="alter_gem">알터 젬</text>
 		<text id="focus_gem">포커스 젬</text>
-		<text id="spirit_gem">정령 덩어리</text>
+		<text id="spirit_gem">영력 덩어리</text>
 		<text id="blood_gem">혈석</text>
 		<text id="baby_cannon">아기용 대포</text>
 		<text id="dragonflame">드래곤플레임</text>
@@ -1092,7 +1092,7 @@
 		<text id="dragon_flight">[color=ff2222]드래곤[/color]을 타고 하늘을 난다.</text>
 		<text id="wyrm_queen">[color=ff2222]여왕 웜[/color]을 쓰러뜨린다.</text>
 		<text id="synthesizer">[color=ff2222]합성기[/color]를 활성화한다.</text>
-		<text id="forge">Activate the [color=ff2222]Forge[/color].</text>
+		<text id="forge">[color=ff2222]용광로[/color]를 활성화시킨다.</text>
 		<text id="enchanted_chainsaw">[color=ff2222]전기톱[/color]을 인챈트한다.</text>
 		<text id="elemental">모든 원소 정령을 포획한다.</text>
 		<text id="purple_tree">[color=ff2222]보라색 나무[/color]를 벌목한다.</text>
@@ -1496,7 +1496,7 @@
 		<text id="werewolf_body">가 [item=werewolf_body]에 익숙해지라 합니다.</text>
 		<text id="submersible">가 [object=submersible]을 지어 깊은 곳으로 탑사하려 합니다.</text>
 		<text id="monoliths">가 모든[color=770000]모노리스[/color]를 활성화 하라 합니다.</text>
-		<text id="colony_ship">wants to repair a [color=770000]Colony Ship[/color].</text>
+		<text id="colony_ship">이 [color=770000]식민지 우주선[/color]을 수리하려 합니다.</text>
 		<text id="hut">폭풍을 피할수 있도록 [color=550000]오두막[/color]을 수리하세요.</text>
 		<text id="storehouse">가 [color=550000]창고[/color]를 지으려 합니다.</text>
 		<text id="storehouse2">모든 아이템을 보관할 수 있는 [color=550000]창고[/color]를 지읍시다.</text>
