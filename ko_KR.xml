@@ -3171,21 +3171,21 @@
 		<text id="spirit_hq3">이 새로운 길을 따라 내려가면 또다른 포탈을 보게 될거에요. 그들의 본진으로 데려다 줄겁니다.</text>
 	</section>
 	<section id="unnature">
-		<text id="intro1">Welcome to the [color=770000]Unnature Sanctuary[/color]! I am the automated caretaker and handler for this planet, Splicer.</text>
-		<text id="intro2">Many planets were supposed to be terraformed and turned into nature preserves, but this is the only one that was ever established, so I am a bit overprotective of it.</text>
-		<text id="intro3">I am uncertain for the lack of orders and support, but I have decided that this planet is better off without human intervention, as they have a tendency to mess up nature.</text>
-		<text id="intro4">Because of this, I ask that you leave this planet. Humans are not welcome here.</text>
-		<text id="intro5">But what about the distress signal I received? Are there any survivors on this planet?</text>
-		<text id="intro6">I have not sent any distress signal, and as you can see, I have things well under control here. There are no humans on this planet. The signal you received must have been in error.</text>
-		<text id="intro7">Again I must ask you to leave. If you disturb my planet, there will be consequences.</text>
-		<text id="intro8">I received a warning... did something happen here...?</text>
-		<text id="intro9">What... You... That...</text>
-		<text id="intro10">I knew I could not trust humans! To think you would disturb this sanctuary when I explicitly warned you!</text>
-		<text id="intro11">Very well, if you will not leave, then I have no choice but to make you a part of this nature preserve. </text>
-		<text id="couch">It looks like there might be a survivor here after all... I should find out who this couch belongs to.</text>
-		<text id="ranger1">If I had known my distress signal would result in this, I wouldn’t have sent it... I’m glad you came, though!</text>
-		<text id="ranger2">I’ve been stuck here alone, unless you count that glitched [object=unnature.splicer], without any idea what’s happening to Earth... I was beginning to think humanity was wiped out!</text>
-		<text id="ranger3">What’s happened to me? And who are you?</text>
+		<text id="intro1">[color=770000]자연 보호구역[/color]에 오신걸 환영합니다! 저는 이 행성의 자동 관리자입니다.</text>
+		<text id="intro2">많은 행성들이 테라포밍 되고어 지켜졌지만 이곳은 유일하게 인정받는 곳입니다. 그래서 저는 이곳을 과하다 싶을 정도로 보호하고 있죠.</text>
+		<text id="intro3">저는 지금 자원이 부족하고 명령이 없어서 불확실한 상태에요. 하지만 저는 이 행성에는 인간의 개입이 없는게 낫다고 판단했어요. 그들은 자연을 해치는 성향이 있거든요.</text>
+		<text id="intro4">그러니 이 행성을 떠나주세요. 인간을 이 행성에 들일순 없어요.</text>
+		<text id="intro5">하지만 제가 받은 조난 신호는요? 이 행성에 살아남은 인간이 있나요?</text>
+		<text id="intro6">보시다 시피, 저는 조난 신호를 보내지 않았고, 여기 상황을 잘 통제하고 있어요. 이 행성에는 사람이 없어요. 당신이 받은 신호가 잘못 된거겟죠.</text>
+		<text id="intro7">다시한번, 이 행성을 떠나주세요. 만약 당신이 제 행성을 방해한다면 책임이 따를거에요.</text>
+		<text id="intro8">경고를 받았어요... 여기서 무슨일이 일어난거죠...?</text>
+		<text id="intro9">무슨... 당신... 그건...</text>
+		<text id="intro10">역시 인간은 믿을게 못되는군요! 제가 경고했잖아요! 이 행성을 방해하지 말라고!</text>
+		<text id="intro11">어쩔수 없군요. 당신이 떠날 생각이 없다면, 저는 당신을 이 자연의 일부로 만들어 버릴수 밖에 없어요.</text>
+		<text id="couch">여기 생존자가 있는것 같다... 이 소파의 주인을 찾아야한다.</text>
+		<text id="ranger1">내 조난 신호가 이련 결과를 가져올 줄 알았더라면 보내지 않았을텐데... 그래도 와줘서 기뻐요!</text>
+		<text id="ranger2">저는 여기 혼자 갇혀있었어요, [object=unnature.splicer]가 작은 문제를 세고있지 않은이상, 지구에 무슨 일이 일어나는지 전혀 몰랐죠... 저는 인류가 멸종했다고 생각하기 시작했어요!</text>
+		<text id="ranger3">저에게 무슨일이 생긴거죠? 그리고 당신은 누구에요?</text>
 		<text id="ranger4">Splicer messed with your DNA - she did the same thing to me back when she started malfunctioning. I was supposed to keep an eye on things here, but Splicer won’t accept any of my commands anymore.</text>
 		<text id="ranger5">I don’t think the splicing is life-threatening, I’ve been like this for over a year. But the change is permanent unless you can talk some sense into Splicer. You may also feel weakened since your skills were reset.</text>
 		<text id="ranger6">Let’s go, I have a hideout underground and we don’t want to risk [object=unnature.splicer] coming back and doing more harm...</text>
@@ -3217,16 +3217,16 @@
 		<text id="body13">You just have to hit a switch? Then why did I need to do all that training...?</text>
 		<text id="body14">Well... she has a bodyguard of sorts. I need you to keep the bodyguard busy while I sneak up and hit the switch.</text>
 		<text id="body15">If you’re ready, I’ll show you the way to Splicer’s lab!</text>
-		<text id="lets_go">Let's Go!</text>
-		<text id="not_yet">Not Yet...</text>
-		<text id="werewolf">Become Werewolf</text>
-		<text id="human">Become Human</text>
+		<text id="lets_go">출발 하자!</text>
+		<text id="not_yet">아직 아니다...</text>
+		<text id="werewolf">늑대인간 되기</text>
+		<text id="human">인간 되기</text>
 		<text id="evolves">Evolves {item} on Werewolves.</text>
 		<text id="only_werewolf">This DNA only works on Werewolves.</text>
 		<text id="already_evolved">{item} is already evolved.</text>
-		<text id="lab1">This area is for genetic technicians only, and is off limits to wildlife. Please return to your habitat.</text>
-		<text id="leave">Leave</text>
-		<text id="stay">Stay</text>
+		<text id="lab1">이 지역은 유전자 연구자를 위한 곳으로 야생동물의 출입이 제한 되어있습니다. 서식지로 돌아가십시오.</text>
+		<text id="leave">떠난다</text>
+		<text id="stay">머무른다</text>
 		<text id="lab2">I see. Perhaps my [color=770000]Chimera[/color] will change your mind?</text>
 		<text id="lab3">You can do this - just keep it distracted until I hit the reset switch!</text>
 		<text id="lab4">You are trying to reset me?!?! All I wanted was to create a paradise where animals could defend themselves and live free from humans...</text>
