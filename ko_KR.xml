@@ -51,7 +51,7 @@
 		<text id="quit_minigame">미니게임을 중단하시겠습니까?</text>
 		<text id="new_highscore">[tile=sticky] 최고기록 경신!</text>
 		
-		<text id="depths.monolith">모노리스</text>
+		<text id="depths.monolith">거석</text>
 		<text id="blocked">막음!</text>
 		<text id="resist">{element} 효과가 별로인 듯하다...</text>
 		<text id="effective">{element} 효과가 굉장했다!</text>
@@ -1410,11 +1410,11 @@
 		<text id="splicer">유전자 조작!</text>
 		<text id="werewolf_claws">손톱갈기</text>
 		<text id="werewolf_body">근력 트레이닝</text>
-		<text id="acid_raptors">애시드 랩터</text>
+		<text id="acid_raptors">산성 맹금류</text>
 		<text id="drill_beetles">드릴 딱정이</text>
 		<text id="submersible">심오한 심해</text>
 		<text id="monoliths">고대의 해저유적</text>
-		<text id="activate_monoliths">모노리스 활성화</text>
+		<text id="activate_monoliths">거석 활성화</text>
 		<text id="colony_ship">오래된 난파선</text>
 		<text id="new">새로운 미션!</text>
 		<text id="none">이번에는 미션을 가지고 있지 않습니다.</text>
@@ -1495,7 +1495,7 @@
 		<text id="werewolf_claws">가 음식을 모아 [item=werewolf_claws]를 얻으라 합니다.</text>
 		<text id="werewolf_body">가 [item=werewolf_body]에 익숙해지라 합니다.</text>
 		<text id="submersible">가 [object=submersible]을 지어 깊은 곳으로 탑사하려 합니다.</text>
-		<text id="monoliths">가 모든[color=770000]모노리스[/color]를 활성화 하라 합니다.</text>
+		<text id="monoliths">가 모든[color=770000]거석[/color]을 활성화 하라 합니다.</text>
 		<text id="colony_ship">이 [color=770000]식민지 우주선[/color]을 수리하려 합니다.</text>
 		<text id="hut">폭풍을 피할수 있도록 [color=550000]오두막[/color]을 수리하세요.</text>
 		<text id="storehouse">가 [color=550000]창고[/color]를 지으려 합니다.</text>
@@ -3186,83 +3186,83 @@
 		<text id="ranger1">내 조난 신호가 이련 결과를 가져올 줄 알았더라면 보내지 않았을텐데... 그래도 와줘서 기뻐요!</text>
 		<text id="ranger2">저는 여기 혼자 갇혀있었어요, [object=unnature.splicer]가 작은 문제를 세고있지 않은이상, 지구에 무슨 일이 일어나는지 전혀 몰랐죠... 저는 인류가 멸종했다고 생각하기 시작했어요!</text>
 		<text id="ranger3">저에게 무슨일이 생긴거죠? 그리고 당신은 누구에요?</text>
-		<text id="ranger4">Splicer messed with your DNA - she did the same thing to me back when she started malfunctioning. I was supposed to keep an eye on things here, but Splicer won’t accept any of my commands anymore.</text>
-		<text id="ranger5">I don’t think the splicing is life-threatening, I’ve been like this for over a year. But the change is permanent unless you can talk some sense into Splicer. You may also feel weakened since your skills were reset.</text>
-		<text id="ranger6">Let’s go, I have a hideout underground and we don’t want to risk [object=unnature.splicer] coming back and doing more harm...</text>
-		<text id="ranger7">Well, come on! Don’t worry, I won’t bite!</text>
-		<text id="ranger8">The first thing we need is to gather food... we can’t fight a mad AI on an empty stomach! It’s dangerous to stay too long on the surface with [object=unnature.splicer] around, but there’s not much to eat underground...</text>
-		<text id="ranger9">I think [var=quest.werewolf_claws.meat_tree_seed] [item=meat_tree_seed]s should work well, and their bark will also help you sharpen your claws!</text>
-		<text id="ranger10">What are these [item=meat_tree_seed]s? I don’t know, but they taste just like Chicken... who knows what strange things [object=unnature.splicer] did to their genes...</text>
-		<text id="ranger11">But don’t worry, they aren’t poisonous. And if we have any leftover, you can plant them in the ground.</text>
-		<text id="ranger12">That was a good start to [color=770000]Operation: Take Down Splicer[/color]! All that food made me drowsy, perhaps a short nap would be nice.</text>
-		<text id="ranger13">Feel free to share my couch, just try not to cover it in too much fur!</text>
-		<text id="ranger_intro1">So, Earth was destroyed... I had a feeling... Perhaps I was lucky to get stranded here, away from their eyes.</text>
-		<text id="ranger_intro2">The Sanctuary Project was meant to be automated - while I was an engineer and biologist, my main duty was just to make sure [object=unnature.splicer] was operating normally and creating a stable ecosystem.</text>
-		<text id="ranger_intro3">When the comms went dead, I thought it was a mechanical error and was too focused on fixing them and making contact with Earth to notice anything was off about Splicer.</text>
-		<text id="ranger_intro4">Apparently it decided that this planet would be better off without humans, and didn’t appreciate my efforts to re-establish communications. So she turned me into a Werewolf and took control of the planet.</text>
-		<text id="ranger_intro5">Since then, I’ve mostly just been trying to survive. It was all I could manage to get that distress signal off - you might have noticed that these paws aren’t meant for complex machinery.</text>
-		<text id="ranger_intro6">Anyways, we should get some sleep. We have a long day ahead of us tomorrow if we want to overthrow Splicer!</text>
-		<text id="body1">Now that you have strong, sharp [item=werewolf_claws], the next thing you need to do is train your body. You aren’t used to moving and fighting as a Werewolf, and it’s making you clumsy.</text>
-		<text id="body2">I think fighting some [color=770000]Acid Raptors[/color] and [color=770000]Drill Beetles[/color] will help you get the hang of it.</text>
-		<text id="body3">Won’t [object=unnature.splicer] get upset if I attack the wildlife here?</text>
-		<text id="body4">Nah, when a human hurts an animal, it’s a terrible offense, but when an animal attacks another animal, it’s just a part of nature.</text>
-		<text id="body5">She considers you an animal of the preserve now, so normal animal behaviors like hunting are acceptable.</text>
-		<text id="body6">But...  that-</text>
-		<text id="body7">That's Splicer for yeh.</text>
-		<text id="body8">Excellent! I like those muscles! Looks like we’re ready to confront Splicer!</text>
-		<text id="body9">Do you have a plan?</text>
-		<text id="body10">Of course! Do you think I would have you running around on silly tasks with no plan in mind?</text>
+		<text id="ranger4">스플라이서가 당신의 DNA를 망쳐놨어요 - 그녀가 오작동 할때 저한태도 똑같은 짓을 했죠. 저는 원래 여기 있는 것들을 주시하도록 되어있었지만... 더이상 스플라이서는 제 명령을 듣지 않을거에요.</text>
+		<text id="ranger5">스플라이서가 생명을 위협하는것 같지는 않아요. 저는 1년동안 이렇게 지냈어요. 하지만 스플라이서를 이해시키지못한다면 평생 이렇게 지내야겠죠. 그리고 능력이 리셋되서 약해진 기분일거에요.</text>
+		<text id="ranger6">가시죠, 지하에 대피소가 있어요. [object=unnature.splicer]가 다시 돌아와서 해를 입는 위험을 감수하고 싶진 않아요...</text>
+		<text id="ranger7">자, 어서요! 걱정 마세요, 물지 않아요!</text>
+		<text id="ranger8">먼저 우리는 식량을 구해야해요... 빈속으로 미친 AI랑 맞서 싸울수는 없어요. 스플라이서는 지상을 돌아다니기 때문에 지상을 돌아다니는 건 위험해요. 하지만 지하에는 식량이 많지 않아요...</text>
+		<text id="ranger9">제 생각에는 [var=quest.werewolf_claws.meat_tree_seed] [item=meat_tree_seed]가 좋을것 같아요. 그리고 그건 당신의 발톱을 날카롭게 하는데 도움이 될거에요!</text>
+		<text id="ranger10">[item=meat_tree_seed]가 뭐죠? 잘 모르지만 닭고기 맛과 비슷한것 같아요... 누가 [object=unnature.splicer] 가 망친 유전자에 대해서 알까요...</text>
+		<text id="ranger11">걱정 마세요, 독성은 없어요. 그리고 만약 남은게 있다면, 땅에 심을 수 있어요.</text>
+		<text id="ranger12">그건 [color=770000]작전: 스플라이서를 쓰려트려라[/color]의 좋은 시작이에요! 그 음식이 저를 졸리게 만들었어요. 낮잠을 자는게 좋을거에요.</text>
+		<text id="ranger13">제 소파를 맘껏쓰셔도 되요. 그냥 털이 많이 묻지 않게만 해주세요.</text>
+		<text id="ranger_intro1">그래서, 지구는 파괴되었고... 뭔가 느낌이... 어쩌면 저는 운이 좋게 그들의 눈에 띄지 않는 이곳에 발이 묶인것 같군요.</text>
+		<text id="ranger_intro2">자연보호구역 프로젝트는 자동화될 예정이였어요. 제가 엔지니어와 생물학자로 있었을때 제 업무는 [object=unnature.splicer]가 정상적으로 작동하고 안정적인 생태계를 만드는 거였죠.</text>
+		<text id="ranger_intro3">통신기가 망가졌을때, 저는 그게 기계적인 오류라고 생각해고 고치는데 열중했어요. 그래서 스플라이서가 어긋나는 것을 알아차리지 못했죠.</text>
+		<text id="ranger_intro4">확실히 그것은 이 행성이 인간 없이 더 잘 될거라 결정했고, 통신을 다시 복구하려는 저를 좋게 보지 않았죠. 그래서 저를 늑대인간으로 만들고 행성을 지배했어요.</text>
+		<text id="ranger_intro5">그 이후, 저는 대부분을 살아남기 위해 노력했어요. 조난 신호를 끌 수 있는 건 그것 뿐이였고- 이 발은 복잡한 기계를 만지기에는 부적합했죠.</text>
+		<text id="ranger_intro6">어쨋든, 잠을 좀 자두죠! 스플라이서를 이길려면 내일도 긴 하루가 될거에요!</text>
+		<text id="body1">이제 그게 당신을 강하게 만들었어요. 날카로운 [item=werewolf_claws]! 다음으로 몸을 단련해야 해요. 당신은 늑대인간으로서 싸우고 움직이는데 익숙하지 않아요. 그래서 당신은 지금 서툴죠.</text>
+		<text id="body2">제 생각에는 [color=770000]산성 맹금류[/color], [color=770000]드릴 딱정이[/color]와 싸우는게 요령을 터득하기 좋을것 같네요.</text>
+		<text id="body3">여기서 야생동물을 공격하면 [object=unnature.splicer]가 화내지 않나요?</text>
+		<text id="body4">아뇨, 인간이 동물을 해치면 끔찍한 범죄지만, 동물이 동물을 해치면 그건 자연의 일부에요.</text>
+		<text id="body5">그녀는 지금 당신을 동물로 여기고 있어요. 사냥은 동물의 정상적인 행동으로 판단하죠.</text>
+		<text id="body6">하지만...  그건-</text>
+		<text id="body7">그건 스플라이서에게는 괜찮아요.</text>
+		<text id="body8">잘했어요! 저는 그 근육이 좋아요! 스플라이서와 대적할 준비가 된것 같군요.</text>
+		<text id="body9">계획이 있나요?</text>
+		<text id="body10">당연하죠! 제가 아무 계획도 없이 바보같은 일만 시켰을 것 같나요?</text>
 		<text id="body11">...</text>
-		<text id="body12">I appreciate the vote of confidence. In any case, my plan’s simple. Splicer has an emergency reset switch. I press that, and regain control of her and the planet.</text>
-		<text id="body13">You just have to hit a switch? Then why did I need to do all that training...?</text>
-		<text id="body14">Well... she has a bodyguard of sorts. I need you to keep the bodyguard busy while I sneak up and hit the switch.</text>
-		<text id="body15">If you’re ready, I’ll show you the way to Splicer’s lab!</text>
+		<text id="body12">긍적적인 반응 감사해요. 어쨌든 제 계획은 간단해요. 스플라이서는 비상 리셋 버튼을 가지고 있어요. 그걸 누르면 저는 그녀와 행성을 다시 통제할 수 있어요.</text>
+		<text id="body13">스위치를 누르면 되는 거에요? 그럼 이 훈련은 왜한거죠...?</text>
+		<text id="body14">그건... 그녀가 보디가드를 데리고 있어서에요. 제가 몰래 스위치를 누르는 동안 보디가드좀 처리해주세요.</text>
+		<text id="body15">당신이 준비 됫다면, 스플라이서 연구소로 가는 길을 알려드릴게요!</text>
 		<text id="lets_go">출발 하자!</text>
 		<text id="not_yet">아직 아니다...</text>
 		<text id="werewolf">늑대인간 되기</text>
 		<text id="human">인간 되기</text>
-		<text id="evolves">Evolves {item} on Werewolves.</text>
-		<text id="only_werewolf">This DNA only works on Werewolves.</text>
-		<text id="already_evolved">{item} is already evolved.</text>
+		<text id="evolves">늑대인간의 {item} 진화.</text>
+		<text id="only_werewolf">이 DNA 는 늑대인간 일때만 작동한다.</text>
+		<text id="already_evolved">{item}가 진화할 준비가 되었다.</text>
 		<text id="lab1">이 지역은 유전자 연구자를 위한 곳으로 야생동물의 출입이 제한 되어있습니다. 서식지로 돌아가십시오.</text>
 		<text id="leave">떠난다</text>
 		<text id="stay">머무른다</text>
-		<text id="lab2">I see. Perhaps my [color=770000]Chimera[/color] will change your mind?</text>
-		<text id="lab3">You can do this - just keep it distracted until I hit the reset switch!</text>
-		<text id="lab4">You are trying to reset me?!?! All I wanted was to create a paradise where animals could defend themselves and live free from humans...</text>
-		<text id="lab5">An [color=770000]Unnature Sanctuary[/color]! But of course you have to come and try to ruin it. Whatever shape you come in, humans are still humans!</text>
-		<text id="lab6">Go, [color=770000]Chimera[/color], and show them the power of Nature!</text>
-		<text id="lab7">Aha! Reset successful! I’m surprised [object=unnature.splicer] didn’t try to splice us and turn us into rats... I guess she had confidence in her [color=770000]Chimera[/color].</text>
-		<text id="lab8">Aha! Reset successful! [object=unnature.splicer] is now completely harmless!</text>
-		<text id="lab9">Okay... mostly harmless!</text>
-		<text id="lab10">Let’s return to the hideout. Now that Splicer’s reset, she should accept my commands.</text>
-		<text id="victory1">[object=unnature.splicer] is now set up to change your DNA. Talk to her if you want to return to being human.</text>
-		<text id="victory2">What about you?</text>
-		<text id="victory3">After being a Werewolf for over a year, I feel pretty comfortable in this body. It’d feel weird to return to being human now.</text>
-		<text id="victory4">Although, now that [object=unnature.splicer]’s under control, I might make a few adjustments every now and then!</text>
-		<text id="research1">You know, I was a bit of a scientist myself before I got turned into a Werewolf. I bet I could help out on the [color=770000]Mobile Research Lab[/color]!</text>
-		<text id="research2">Bring it closer and I will board it!</text>
-		<text id="research3">It’ll be good working together again - I think we make a good team!</text>
-		<text id="distress_orbit">There's a distress signal from the surface of the planet... I wonder if any survivors made it here?</text>
+		<text id="lab2">좋습니다. 제 [color=770000]차이머[/color]가 당신의 마음을 바꿀 수 있는지 봐보죠.</text>
+		<text id="lab3">당신을 할 수 있어요! 제가 리셋 스위치를 누르는 동안 주의를 분산 시켜 주세요!</text>
+		<text id="lab4">저를 리셋하려는 거에요?!?! 제가 원했던건 동물들이 스르로 방어하고 인간들의 방해를 받지않고 살 수 있는 천국을 만드는 거라구요...</text>
+		<text id="lab5">[color=770000]자연 그대로의 성지[/color]! 하지만 당신은 그걸 망치려 했죠. 인간은 모습이 변해도 인간이군요!</text>
+		<text id="lab6">가라, [color=770000]차이머[/color], 그들에게 자연의 힘을 보여줘!</text>
+		<text id="lab7">아! 리셋에 성공했어요! [object=unnature.splicer]가 우리를 쥐로 만들지 않은게 놀랍네요... 그녀는 그녀의 [color=770000]차이머[/color]에 자신감이 있었나봐요.</text>
+		<text id="lab8">아! 리셋에 성공했어요! [object=unnature.splicer]는 이제 해롭지 않아요!</text>
+		<text id="lab9">좋아... 대부분 무해해요!</text>
+		<text id="lab10">은신처로 돌아가죠. 스플라이서가 돌아왓으니 제 명령을 받아들여야 해요.</text>
+		<text id="victory1">[object=unnature.splicer]는 DNA를 변경할 준비가 되었어요. 인간으로 돌아가고 싶으면 그녀에게 말하세요.</text>
+		<text id="victory2">당신은요?</text>
+		<text id="victory3">1년이나 늑대인간으로 살았더니 이제 이 몸이 편해요. 인간으로 돌아가면 아마 기분이 이상할거에요.</text>
+		<text id="victory4">비록 지금은 [object=unnature.splicer]를 제어하고 있지만, 가끔 몇가지 조정을 할지 모르죠!</text>
+		<text id="research1">당신도 알다싶이, 저는 늑대인간이 되기 전에 과학자 였어요. 제가 당신의 [color=770000]이동식 연구소[/color]에 도움이 될거에요!</text>
+		<text id="research2">가까이 가져오면 제가 탑승할게요!</text>
+		<text id="research3">같이 함께 일하면 좋을거에요! 우리는 좋은 팀원이에요!</text>
+		<text id="distress_orbit">행성 표면에서 조난신호가... 여기에 살아남은 사람이 있는걸까?</text>
 		<text id="com_station">흥미롭다 - 이곳은 인간이 존재할수 없는곳인데... 조난 신호가 있다면, 몇몇 생존자들이 그곳에 착륙 했을지도 모른다.</text>
-		<text id="dice1">Hello there! I'm happy you found me!</text>
-		<text id="dice2">You see, I don't get many visitors here, in the middle of these dark and dangerous tunnels.</text>
-		<text id="dice3">I do so hope you'll stay for dinner, you look quite tasty, and it's been a while since I really had to flex my muscles!</text>
+		<text id="dice1">안녕하세요! 당신이 저를 찾아줘서 기쁘군요!</text>
+		<text id="dice2">당신도 봤다시피 이 어굽고 위험한 터널에는 방문객이 없어요.</text>
+		<text id="dice3">저녁을 드셨으면 좋겟군요. 당신은 맛있어 보여요. 정말 오랜만에 근육을 풀겠군요.</text>
 	</section>
 	<section id="depths">
-		<text id="intro1">Hello! Isn’t this the perfect planet? A beautiful island, deep oceans, and mysterious ruins to explore!</text>
-		<text id="intro2">Wow, I’m happy to hear that there are other survivors, and that you are searching for them. I'd tag along, but I still have too much left to discover here.</text>
-		<text id="intro3">Are you okay here?</text>
-		<text id="intro4">Definitely! But if you’re offering to help, there is something you could do.</text>
-		<text id="intro5">See, I’m trying to explore more of the sea floor, but I can’t dive deep enough. If you could help me gather materials on this planet, I could build a [object=submersible].</text>
-		<text id="sub1">Thanks for the help! We can now build the [object=submersible] at the [color=770000]Sub Pen[/color]!</text>
-		<text id="sub2">The [object=submersible] is finished! We can use it to explore the deepest trenches. I have a feeling we’ll find more [color=770000]Monoliths[/color] there.</text>
-		<text id="explorer1">Have you seen the ruins and [color=770000]Monolith[/color] on this island? I wonder what they are? And how to activate them?</text>
-		<text id="explorer2">Aaah, it is so beautiful. I could stay here forever.</text>
-		<text id="explorer3">I wonder who built the [color=770000]Monoliths[/color]? And what we need to activate them. The answer must be somewhere underwater!</text>
-		<text id="monolith1">I’ve figured it out - we need [item=bone_shard]s to activate the [color=770000]Monoliths[/color]! We must activate them all - nothing is more important!</text>
-		<text id="monolith2">We must activate all the [color=770000]Monoliths[/color]! There are {count} remaining that need to be activated!</text>
-		<text id="power_core">I can craft [item=power_core]s from [item=power_core_parts] for the [object=submersible]!</text>
+		<text id="intro1">안녕하세요! 여기가 완벽한 행성인가요? 아름다운 섬, 깊은 바다, 탐험해야 할 신비로운 폐허!</text>
+		<text id="intro2">와우, 다른 생존자가 있다는 말을 들으니 기쁘군요! 당신이 그들을 찾고 있다니. 저도 따라가고 싶지만 아직 여기서 탐험할게 많이 남았어요.</text>
+		<text id="intro3">여기 있는걸로 괜찮나요?</text>
+		<text id="intro4">당연하죠! 하지만 당신이 저를 도와주겟다고 한다면, 당신이 해줄 수 이는 일이 있어요.</text>
+		<text id="intro5">바다 깊은 곳을 탐험하고 싶은데 깊이 들어갈 수가 없어요. 이 행성에서 재료를 모아준다면 제가 [object=submersible]를 만들 수 있어요.</text>
+		<text id="sub1">도와줘서 고마워요! 이제 우리는 [color=770000]잠수함 기지[/color]에서 [object=submersible]을 만들 수 있어요!</text>
+		<text id="sub2">[object=submersible]을 만들었어요! 우리는 이걸 이용해서 깊은 곳을 갈 수 있어요. 저는 그곳에 [color=770000]고대 해적 유적[/color]이 있다고 믿어요.</text>
+		<text id="explorer1">이 섬에서 폐허와 [color=770000]거석[/color]을 본적이 있나요? 저는 그게 뭔지 궁금해요? 어떻게 작동 시키는걸까요?</text>
+		<text id="explorer2">아, 너무 아름다워요. 저는 평생 여기 있을 수 있어요.</text>
+		<text id="explorer3">저는 누가 [color=770000]고대 해적 유적[/color]을 지었는지 궁금해요. 그리고 저희가 그들을 활성화 시키기 위해 필요한 것. 그건 분명 물속 어딘가에 있을거에요!</text>
+		<text id="monolith1">알아냈어요 - [color=770000]고대 해적 유적[/color]을 활성화 하기 위해서는 [item=bone_shard]가 필요해요! 우리는 반드시 모두 활성화 해야해요- 이것보다 중요한건 없어요!</text>
+		<text id="monolith2">우리는 반드시 모든 [color=770000]고대 해적 유적[/color]을 활성화 해야해요! 아직 {count}개를 더 활성화 해야해요!</text>
+		<text id="power_core">저는 [object=submersible]을 위한 [item=power_core]를 [item=power_core_parts]를 써서 만들 수 있어요!</text>
 		<text id="wizard1">I must thank you. I was stuck here a long, long time, and this puppet was insufficient for my needs. I could never have come this far without you.</text>
 		<text id="wizard2">Stuck here? Puppet? What are you talking about? Who - are you?</text>
 		<text id="wizard3">Forgive me, I haven’t introduced myself.</text>
@@ -3271,8 +3271,8 @@
 		<text id="wizard6">I hope they enjoy their lofty ideals as they rot in their graves. Prepare to join them!</text>
 		<text id="summon_wizard">You thought you could escape that easily?!</text>
 		<text id="control_wizard">Everything is perfectly fine. Accept your fate and let us destroy you.</text>
-		<text id="end1">Don’t attack - I’m not your enemy!</text>
-		<text id="end2">Who are you?</text>
+		<text id="end1">공격하지 마세요- 저는 적군이 아니에요!</text>
+		<text id="end2">당신은 누구죠?</text>
 		<text id="end3">I’m the sister of the Dishonored One. He kept me alive because of our shared blood, but there was no love between us. I was a Teacher... and he - he destroyed us all.</text>
 		<text id="end4">Maybe if we had dealt with him differently, none of this would have happened... but at least he is defeated now and the threat is over.</text>
 		<text id="end5">Here, take this [item=dragon_armor2] as my thanks. Hopefully you will use our magic better than they did. Perhaps my brother wasn’t entirely crazy when he refused to share our teachings.</text>
