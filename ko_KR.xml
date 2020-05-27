@@ -3263,36 +3263,36 @@
 		<text id="monolith1">알아냈어요 - [color=770000]고대 해적 유적[/color]을 활성화 하기 위해서는 [item=bone_shard]가 필요해요! 우리는 반드시 모두 활성화 해야해요- 이것보다 중요한건 없어요!</text>
 		<text id="monolith2">우리는 반드시 모든 [color=770000]고대 해적 유적[/color]을 활성화 해야해요! 아직 {count}개를 더 활성화 해야해요!</text>
 		<text id="power_core">저는 [object=submersible]을 위한 [item=power_core]를 [item=power_core_parts]를 써서 만들 수 있어요!</text>
-		<text id="wizard1">I must thank you. I was stuck here a long, long time, and this puppet was insufficient for my needs. I could never have come this far without you.</text>
-		<text id="wizard2">Stuck here? Puppet? What are you talking about? Who - are you?</text>
-		<text id="wizard3">Forgive me, I haven’t introduced myself.</text>
-		<text id="wizard4">They called me the Dishonored One.</text>
-		<text id="wizard5">They thought they knew everything. But in the end, who prevailed? I have survived, and thus, I have won!</text>
-		<text id="wizard6">I hope they enjoy their lofty ideals as they rot in their graves. Prepare to join them!</text>
-		<text id="summon_wizard">You thought you could escape that easily?!</text>
-		<text id="control_wizard">Everything is perfectly fine. Accept your fate and let us destroy you.</text>
+		<text id="wizard1">정말 감사해요. 저는 여기에 오래, 정말 오래 같혀 있었고, 이 꼭두각시는 제 요건을 충족되지 않았어요. 당신이 없었다면 여기까지 올 수 없었을 거에요.</text>
+		<text id="wizard2">여기 같혔다구요? 꼭두각시? 무슨 이야기에요? 누구세요?</text>
+		<text id="wizard3">죄송해요, 아직 제 소개르 안했네요.</text>
+		<text id="wizard4">사람들은 저를 불명예자 라고 불러요.</text>
+		<text id="wizard5">그들은 자신들이 모든걸 알고 있다고 생각했죠. 하지만 결국 누가 우세했을까요? 저는 살아남았어요, 그러니 제가 이긴거에요!</text>
+		<text id="wizard6">저는 그들이 고상함을 즐겼으면 좋겠어요. 그들의 무덤에서 썩어가면서 말이죠. 그들과 합류할 준비를 하세요!</text>
+		<text id="summon_wizard">그렇게 쉽게 탈출 할 수 있을거라 생각했어요?!</text>
+		<text id="control_wizard">모든게 완벽해요. 운명을 받아들이고 우릭 당신을 파괴하게 해주세요.</text>
 		<text id="end1">공격하지 마세요- 저는 적군이 아니에요!</text>
 		<text id="end2">당신은 누구죠?</text>
-		<text id="end3">I’m the sister of the Dishonored One. He kept me alive because of our shared blood, but there was no love between us. I was a Teacher... and he - he destroyed us all.</text>
-		<text id="end4">Maybe if we had dealt with him differently, none of this would have happened... but at least he is defeated now and the threat is over.</text>
-		<text id="end5">Here, take this [item=dragon_armor2] as my thanks. Hopefully you will use our magic better than they did. Perhaps my brother wasn’t entirely crazy when he refused to share our teachings.</text>
-		<text id="end6">The stasis spell my brother used to keep us alive was complex, but it is not impossible that others were able to cast it as well. Perhaps I’m not the last of my kind after all.</text>
-		<text id="end7">Thank you for all your help. I am off to search for any survivors - even if it takes my whole life, I would rather believe others still live than stay here in despair.</text>
-		<text id="end8">Huh? What was I doing here...? I remember coming here and that there was something important I had to do here. But it’s all so fuzzy.</text>
-		<text id="unnature">After being possessed by an insane alien, you can't expect me to go out there and get mutated by an insane robot.</text>
-		<text id="research1">How about leaving this planet behind? You’re welcome to join me in the [color=770000]Mobile Research Lab[/color]!</text>
-		<text id="research2">Yeah... perhaps that’s for the best. Maybe I can get my life back in order and even help you with your research!</text>
-		<text id="research3">It’s hard to believe that humanity was almost wiped out - the last year still feels like a dream to me. But, I’ll do everything I can to help!</text>
-		<text id="tablet1">No profession was more honored than the Teachers. The Teachers used their skills to travel the universe in an instant, spreading their knowledge to the distant stars.</text>
-		<text id="tablet2">It was the way of the Teachers to share their discoveries to the benefit of all. But, one Teacher refused, instead hoarding all of their secrets and looking down on the rest.</text>
-		<text id="tablet3">Ever tolerant, it took a long time for the other Teachers to act. But eventually, they cast him out of their ranks and named him the Dishonored One.</text>
-		<text id="tablet4">The Dishonored One sneered at the other Teachers, calling them fools and assuring them that he would have the last laugh. After this, he disappeared. Only his sister knew where he had hidden himself.</text>
-		<text id="tablet5">With many years of peace, none expected the flood. The waters rose and rose, flooding villages and killing many. Even the teachers couldn't handle the unrelenting waters.</text>
-		<text id="tablet6">When the Dishonored One announced that he had conjured the flood, he did not seem the least bit remorseful, even as the death toll rose and rose.</text>
-		<text id="tablet7">The Teachers knew they had to stop the Dishonored One. They banded together and fought him at the summit of the tallest mountain, where the waters had not yet reached.</text>
-		<text id="tablet8">The battle raged for weeks, and drained even this planet’s vast amount of magic. With the supply of magic running thin, survival became a challenge.</text>
-		<text id="tablet9">The Dishonored One survived by going into a deep slumber, and the Teachers deactivated the Mana Conveyors so that even when magic returned to this world, the Dishonored One would be unable to awaken.</text>
-		<text id="tablet10">This is the final warning of those who lived on this planet: do not awaken the Dishonored One. Let him rest for all eternity.</text>
+		<text id="end3">저는 불명예자의 누나에요. 그는 제가 같은 피를 가지고 있다고 살려주었지만 저희 사이에는 가족애가 없었죠. 저는 선생님이 였어요... 그리고 그는 우리 모두를 파괴했죠.</text>
+		<text id="end4">어쩌면 우리가 그를 다르게 대했다면 이런 일이 일어나지 않았을지도 몰라요... 하지만 지금 우리는 패배했고 위협은 사라졌죠.</text>
+		<text id="end5">여기, 감사의 뜻의 [item=dragon_armor2]을 받으세요. 우리의 마법을 우리보다 잘 사용하길 바래요. 아마도 제 남동생 우리의 가르침을 행하기 거절했을때 완전히 미친건 아니였을거에요.</text>
+		<text id="end6">제 남동생이 저를 살리기 위해 사용한 마법은 복잡했지만, 다른 사람이 그걸 사용하는것도 불가능하지는 않아요. 아마도 저같은 사람이 제가 마지막은 아닐거에요.</text>
+		<text id="end7">당신이 도와주신 모든것에 대해서 감사를 표할게요. 저는 생존자를 찾기 위해 떠나야해요- 그게 제 인생을 전부 쓴다고 해도 말이죠. 저는 절망속에 있는 것 보다 다같이 살고 있다고 믿는게 나아요.</text>
+		<text id="end8">음? 제가 여기서 뭐하고 있는거죠...? 여기에 와서 제가 해야할 중요한 일이 있었던것 같아요. 하지만 기억이 흐릿하네요.</text>
+		<text id="unnature">미친 외계인에게 홀린후, 제가 미친 로봇때문에 돌연변이가 될줄은 상상도 못할거에요.</text>
+		<text id="research1">이 행성을 떠나는게 어떨까요? [color=770000]이동식 연구소[/color]에 저와 함께 해도 좋아요!</text>
+		<text id="research2">그래... 그게 최선일지도 몰라요. 어쩌면 제 삶을 정상으로 되돌릴수 있을지도 모르고, 제가 당신의 연구를 도와줄 수 있어요!</text>
+		<text id="research3">인류가 거의 전멸했다는 것을 믿기 힘드네요- 지난 1년이 꿈처럼 느껴져요. 하지만, 제가 도울 수 있는 모든걸 할게요!</text>
+		<text id="tablet1">교사만큼 명예로운 직업이 있을까요? 스승님들은 기술을 이용해 순식간에 별들 사이를 여행하며 지식을 전파했어요.</text>
+		<text id="tablet2">그들의 발견을 모두에게 공유하는게 스승님들의 방식이였어요. 하지만 그들중 한 교사는 그 방식을 거절하고 모든 지식을 사재기 하거나 나머지 사람들을 깔보았어요.</text>
+		<text id="tablet3">관대하긴 했지만, 다른 선생님들이 조치를 취하는데는 시간이 걸렸어요. 하지만 결국 스승님들은 그를 그들의 계급에서 쫒아내고 불명예스러운 사람으로 명했어요.</text>
+		<text id="tablet4">불명예스러운 사람은 다른 교사들을 보며 바보라고 말했고 자기가 마지막 성공이라며 비웃었어요. 그 일이 일어난 후 그는 사라졌고, 오직 그의 누나만이 그가 어디에 숨어있는지 알고있어요.</text>
+		<text id="tablet5">오랜 평화에 아무도 홍수를 예상하지 못했어요. 물이 마을을 휩쓸었고 많은 사람이 죽었어요. 선생님들 조차 흐르는 물을 감당하지 못했어요.</text>
+		<text id="tablet6">불명예자가 홍수를 이르켰다고 말했을때, 사망자는 늘고 있었는데도 그는 뇌우치는 기색이 없었어요.</text>
+		<text id="tablet7">선생님들으 불명예자와 싸워야 한다는걸 알고 있었어요. 그들은 아직 물이 차지 않은 산 정상에서 함께 모여 그와 싸웠어요.</text>
+		<text id="tablet8">그 싸움은 몇 주 동안 격렬하게 진행되었고, 이 행성의 엄청난 마력을 소모시켰어요. 마력의 공급이 부족해지자 생존은 힘들어졌어요.</text>
+		<text id="tablet9">불명예자는 깊은 잠에 빠져 살아남았어요. 스승님들은 이 세상이 정상을 돌아와도 그가 깨어나지 못하도록 마력 공급장치를 무력화 시켰어요.</text>
+		<text id="tablet10">이것이 이 행성에 사는 사람들의 마지막 경고에요: 절때 불명예자를 깨우지 마세요. 그를 영원한 수면상태로 내버려 두세요.</text>
 	</section>
 	<section id="multiplayer">
 		<text id="multiplayer">멀티플레이</text>
