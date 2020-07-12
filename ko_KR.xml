@@ -1457,6 +1457,7 @@
 		<text id="alter_gem">웜 연구</text>
 		<text id="oldone">마법의 힘</text>
 		<text id="minecart">레일 설치</text>
+		<text id="tindle.monolith">갇힌 상인</text>
 	</section>
 	<section id="quest.description">
 		<text id="water_cave">가 동굴을 찾아 [object=sub]을 설치하려 합니다.</text>
@@ -1531,6 +1532,7 @@
 		<text id="alter_gem">가 [item=wyrm] 연구를 끝낼 무언가를 원합니다!</text>
 		<text id="oldone">가 큰 마력이 느껴지는 곳을 찾아달라고 합니다.</text>
 		<text id="minecart">가 [item=minecart]를 설치해 채광을 쉽게 하고 싶어 합니다.</text>
+		<text id="tindle.monolith">이 어노익스-428c 에 있는 [color=770000]거석[/color]을 재가동 시키려 합니다.</text>
 	</section>
 	<section id="vehicle">
 		<text id="submarine">잠수함</text>
@@ -1603,6 +1605,7 @@
 		<text id="mechanic">기계공</text>
 		<text id="innkeeper">여관 주인</text>
 		<text id="fisherman">어부</text>
+		<text id="tindle">틴들</text>
 	</section>
 	<section id="builder">
 		<text id="no_alchemist1">여긴 뭐지?</text>
@@ -2371,7 +2374,7 @@
 		<text id="colony">캡틴A의 식민지</text>
 		<text id="colony_orbit">캡틴A의 식민지 궤도</text>
 		<text id="unnature">비자연의 성역</text>
-		<text id="depths">The Depths</text>
+		<text id="depths">심연</text>
 	</section>
 	<section id="system.planet.desc">
 		<text id="start">지구와 비슷하게 생명체가 살 수 있는 행성, 식민지 번호 #21.\n\n[color=ff2222]적의 고향[/color]으로 의심중.</text>
@@ -3293,6 +3296,18 @@
 		<text id="tablet8">그 싸움은 몇 주 동안 격렬하게 진행되었고, 이 행성의 엄청난 마력을 소모시켰어요. 마력의 공급이 부족해지자 생존은 힘들어졌어요.</text>
 		<text id="tablet9">불명예자는 깊은 잠에 빠져 살아남았어요. 스승님들은 이 세상이 정상을 돌아와도 그가 깨어나지 못하도록 마력 공급장치를 무력화 시켰어요.</text>
 		<text id="tablet10">이것이 이 행성에 사는 사람들의 마지막 경고에요: 절때 불명예자를 깨우지 마세요. 그를 영원한 수면상태로 내버려 두세요.</text>
+		<text id="tindle1">저기요- 작은친구- 이곳에 갇힌 제가 보이지 않는건가요? 저좀 도와주지 않을래요?</text>
+		<text id="tindle2">설마 저처럼 유명한 사람을 여기에 오도 가도 못하게 내버려둘 생각은 아니겟죠!</text>
+		<text id="tindle3">이 [color=770000]거석[/color]이 보이나요? 이것은 우주 전역을 자유롭게 여행할 수 있게 해줬죠. 그 시절은 저같은 늙은 상인에게 좋은 시절이였어요. 제가 벌어들인 수익은 상상할 수 없을겁니다...</text>
+		<text id="tindle4">하지만 어느날, [color=770000]거석[/color]이 멈춰버렸고, 저는 그 이후 여기에 갇혀버렸어요! 이 행성의 주민들은 제일 도움이 안되었어요- 그들은 처음엔 기꺼이 무역을 하려고 해놓고는 아무말도 하지 않고 떠났죠.</text>
+		<text id="tindle5">만약 당신이 [color=770000]심연[/color]이라고 불리는 행성에 가서 그곳에 있는 선생과 이야기를 할 수 있다면, 저는 그들이 이 모든 난장판을 해결할 수 있을거라고 확신합니다!</text>
+		<text id="tindle6">그들은 [color=770000]거석[/color]을 만들었고 모두가 자유롭게 이용하게 해주었죠. 꽤 유쾌한 선생님들이에요.</text>
+		<text id="tindle7">왜이렇게 늦죠? 제발, 당신도 이 행성에 갇혀서 선생님들의 메세지를 못받는거라고 하지 말아주세요.</text>
+		<text id="tindle8">아, 훌륭해요! 마침ㄴ애 저는 별을 여행하고 마법책을 거래하는 곳으로 돌아갈 수 있어요!</text>
+		<text id="tindle9">마법에 관심이 있나요? 만약 그렇다면, 저는 팔거나 구매할거에요 - 단지 제 이름을 기억하세요, 틴들, 제가 여기 있었다고!</text>
+		<text id="tindle10">거기 있나요 작은친구? 이 [color=770000]거석[/color]을 활성화 시켜줘서 고맙다고 전해주겠어요?</text>
+		<text id="tindle11">저는 여기 너무 오래 갇혀있었어요. 모든 사람들이 저에대해서 잊은건 아닐가 걱정되기 시작했죠. 물론, 그건 불가능해요! 그리고 당신이 여기 있잖아요!</text>
+		<text id="tindle12">자 이제, 아, 부끄러워 하지마세요! 당신은 제가 뽑은 마법책에 대해서 물어보러 온거죠? 이제 [color=770000]거석[/color]이 다시 가동되었으니, 전 다시 사업을 시작하겠어요!</text>
 	</section>
 	<section id="multiplayer">
 		<text id="multiplayer">멀티플레이</text>
