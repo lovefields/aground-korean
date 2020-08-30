@@ -251,7 +251,7 @@
 		<text id="endurance">이동하는 기력 소모량 감소.</text>
 		<text id="attack">근접 공격의 공격량 증가.</text>
 		<text id="range">원거리 공격의 사거리 증가.</text>
-		<text id="defense">받는 데미지의 감소량.</text>
+		<text id="defense">받는 대미지의 감소량.</text>
 		<text id="cut">벌목 숙련도.</text>
 		<text id="mine">채굴 숙련도.</text>
 		<text id="weight">운반(가방) 용량 증가.</text>
@@ -411,8 +411,8 @@
 		<text id="coral_bow">산호 활</text>
 		<text id="coral_sword">산호 검</text>
 		<text id="helium_pack">헬륨 가방</text>
-		<text id="evo_shard">진화의 조각</text>
-		<text id="evo_gem">진화의 돌</text>
+		<text id="evo_shard">진화석 파편</text>
+		<text id="evo_gem">진화석</text>
 		<text id="blue_claw">파란 집게발</text>
 		<text id="clam_gun">조개총</text>
 		<text id="fish_scale">비늘</text> 
@@ -439,7 +439,7 @@
 		<text id="minotaur">미노타우르스</text>
 		<text id="queen_drill">퀸 드릴</text>
 		<text id="revitalize_potion">활력의 포션</text>
-		<text id="wand">마법 막대기</text>
+		<text id="wand">원드</text>
 		<text id="flying_broom">마법 빗자루</text>
 		<text id="robes">로브</text>
 		<text id="witch_hat">마법사 모자</text>
@@ -463,7 +463,7 @@
 		<text id="station_dock_blueprint">우주선 선착장 설계도</text>
 		<text id="xlarge_module_blueprint">초대형 우주정거장 모듈 설계도</text>
 		<text id="exotic_matter">외우주 물질</text>
-		<text id="magnegem">자성 덩어리</text>
+		<text id="magnegem">자성석</text>
 		<text id="chromium">크로뮴</text>
 		<text id="o2_canister">산소통</text>
 		<text id="fighter.cannon">플라즈마 캐논</text>
@@ -519,14 +519,14 @@
 		<text id="terraformer_blueprint">테라포머 설계도</text>
 		<text id="exo_factory_blueprint">외우주 공장 설계도</text>
 		<text id="alien_heart">외계인 심장</text>
-		<text id="carapace">갑각류</text>
-		<text id="hoarder_gun">호더 총</text>
-		<text id="hoarder_shield">호더 쉴드</text>
-		<text id="hoarder_armor">호더 슈트</text>
-		<text id="hoarder_hat">호더 헬멧</text>
-		<text id="hoarder_backpack">호더 백팩</text>
+		<text id="carapace">갑각</text>
+		<text id="hoarder_gun">비축가의 총</text>
+		<text id="hoarder_shield">비축가의 쉴드</text>
+		<text id="hoarder_armor">비축가의 슈트</text>
+		<text id="hoarder_hat">비축가의 헬멧</text>
+		<text id="hoarder_backpack">비축가의 백팩</text>
 		<text id="translation_book">번역의 마법서</text>
-		<text id="magne_queen_drill">자수정 퀴 드릴</text>
+		<text id="magne_queen_drill">자수정 퀸 드릴</text>
 		<text id="coral_farm_seed">산호 농장 씨앗</text>
 		<text id="staff">마법 지팡이</text>
 		<text id="venatrix_seed">정령 나무 씨앗</text>
@@ -536,7 +536,7 @@
 		<text id="spirit_fish">정령 물고기</text>
 		<text id="spirit_robes">정령의 로브</text>
 		<text id="spirit_glaive">정령 언월도</text>
-		<text id="spirit_gem2">진화된 영력 덩어리</text>
+		<text id="spirit_gem2">진화된 정령석</text>
 		<text id="spirit_chest">정령상자</text>
 		<text id="spirit_orb">정령 구슬</text>
 		<text id="dragon_seed">드래곤 씨앗</text>
@@ -546,7 +546,7 @@
 		<text id="element_table">원소 상성표</text>
 		<text id="magnestone">마그네스톤</text>
 		<text id="mars_fish">스티지언</text>
-		<text id="carapace_armor">갑각류 갑옷</text>
+		<text id="carapace_armor">갑각 갑옷</text>
 		<text id="ilaser_trap">레이저 함정</text>
 		<text id="ftl_broom">별빛 마법빗자루</text>
 		<text id="house_upgrade">우주집 설계도</text>
@@ -579,11 +579,11 @@
 		<text id="werewolf_stealth_body_dna">은신의 몸통 DNA</text>
 		<text id="werewolf_cunning_head_dna">교활한 머리 DNA</text>
 		<text id="werewolf_ferocious_head_dna">사나운 머리 DNA</text>
-		<text id="acid_raptor">애시드 랩터</text>
+		<text id="acid_raptor">산성 랩터</text>
 		<text id="moissanite">모이사나이트</text>
 		<text id="bone_shard">뼛조각</text>
 		<text id="crystal_shard">수정 잎사귀</text>
-		<text id="monolith_seed">모노리스 씨앗</text>
+		<text id="monolith_seed">거석 씨앗</text>
 		<text id="beacon_book">신호기의 마법서</text>
 		<text id="torpedo2">대형 어뢰</text>
 		<text id="ice_torpedo2">대형 얼음 어뢰</text>
@@ -695,7 +695,7 @@
 		<text id="dark_fur">그림자 모피</text>
 		<text id="fire_gem">불의 돌</text>
 		<text id="water_gem">물의 돌</text>
-		<text id="earth_gem">흙의 돌</text>
+		<text id="earth_gem">대지의 돌</text>
 		<text id="ice_gem">얼음의 돌</text>
 		<text id="plant_gem">식물의 돌</text>
 		<text id="buckler">둥근 방패</text>
@@ -715,12 +715,12 @@
 		<text id="fire_bullet">화염탄</text>
 		<text id="water_bullet">수중탄</text>
 		<text id="drain_bullet">흡수탄</text>
-		<text id="shell">포탄</text>
-		<text id="tank_shell">탱크 포탄</text>
-		<text id="ice_shell">얼음 포탄</text>
-		<text id="fire_shell">화염 포탄</text>
-		<text id="water_shell">물 포탄</text>
-		<text id="drain_shell">흡수 포탄</text>
+		<text id="shell">산탄</text>
+		<text id="tank_shell">탱크 산탄</text>
+		<text id="ice_shell">얼음 산탄</text>
+		<text id="fire_shell">화염 산탄</text>
+		<text id="water_shell">물 산탄</text>
+		<text id="drain_shell">흡수 산탄</text>
 		<text id="chainsaw">전기톱</text>
 		<text id="fire_chainsaw">화염 전기톱</text>
 		<text id="ice_chainsaw">얼음 전기톱</text>
@@ -733,9 +733,9 @@
 		<text id="shovel">삽</text>
 		<text id="crowbar">쇠지레</text>
 		<text id="landmine">지뢰</text>
-		<text id="alter_gem">알터 젬</text>
-		<text id="focus_gem">포커스 젬</text>
-		<text id="spirit_gem">영력 덩어리</text>
+		<text id="alter_gem">변형석</text>
+		<text id="focus_gem">집중석</text>
+		<text id="spirit_gem">정령석</text>
 		<text id="blood_gem">혈석</text>
 		<text id="baby_cannon">아기용 대포</text>
 		<text id="dragonflame">드래곤플레임</text>
@@ -850,7 +850,7 @@
 		<text id="dragon_ship.burst">한 번에 5개의 투사체를 발사한다.</text>
 		<text id="jump">행성간 이동이 가능하다.</text>
 		<text id="fence_underground">적의 접근을 막는다.\n지하에 설치할 수 있다.</text>
-		<text id="drone_control">설치된 드론을 어느 항성계에서든 원격 조작할 수 있다.</text>
+		<text id="drone_control">설치된 드론을 어느 행성계에서든 원격 조작할 수 있다.</text>
 		<text id="meteor_book">자신 주변에 무작위로 떨어지는 강력한 운석 10개를 소환한다.</text>
 		<text id="flood_book">주변 적에게 지속 대미지를 입히는 폭풍우를 소환한다.</text>
 		<text id="growth_book">식물을 과대성장시켜 체력을 흡수하는 넝쿨과 치명적인 포자를 뿌리는 꽃을 소환한다.</text>
@@ -925,7 +925,7 @@
 		<text id="swimming">수영</text>
 		<text id="hammer">건설 중인 건물을 빠르게 건축한다.</text>
 		<text id="change_element">속성을 번경할 수 있다.</text>
-		<text id="spirit_box">다섯 [color=770000][tile=spirit anim=spirit] 정령[/color]의 공허에서 아이템(최대 5k)을 보관할 수 있다.</text>
+		<text id="spirit_box">정령의 공허에서 아템을 무게 5000까지 맡길수 있다. 작동시 [color=770000][tile=spirit anim=spirit] 영력[/color]5 소모.</text>
 	</section>
 	<section id="achievement.names">
 		<text id="sub">해저탐험</text>
@@ -1082,7 +1082,7 @@
 		<text id="powerplant">[color=ff2222]발전소[/color]를 건설한다.</text>
 		<text id="factory">[color=ff2222]공장[/color]을 건설한다.</text>
 		<text id="elevator">[color=ff2222]엘리베이터[/color]를 건설한다.</text>
-		<text id="bandits">[color=ff2222]강도단[/color]을 격퇴한다.</text>
+		<text id="bandits">[color=ff2222]도적단단[/color]을 격퇴한다.</text>
 		<text id="diode_wolf">[color=ff2222]전기 늑대[/color]를 쓰러뜨린다.</text>
 		<text id="mirrows">미로우 부부를 쓰러뜨린다.</text>
 		<text id="medicom">모든 기록물을 읽는다.</text>
@@ -1374,14 +1374,14 @@
 		<text id="go_east">마법 공부</text>
 		<text id="find_magic2">동쪽으로</text>
 		<text id="plant_boss">수호수 처치</text>
-		<text id="ice_boss">스톰 퇴치</text>
+		<text id="ice_boss">천둥번개 퇴치</text>
 		<text id="cultivator">수호수</text>
 		<text id="dragon_ship">드래곤 우주선 진화</text>
 		<text id="floating_island">용의 부유섬 찾기</text>
 		<text id="coral_pen">우리 관리</text>
 		<text id="revitalize_dragon">드래곤 돕기</text>
 		<text id="witch_potion">바다의 마녀</text>
-		<text id="wand">당신의 첫번째 지팡이</text>
+		<text id="wand">당신의 첫번째 원드</text>
 		<text id="sushi">해산물</text>
 		<text id="power_core">우주로!</text>
 		<text id="bombardment">공습을 저지하라</text>
@@ -1400,7 +1400,7 @@
 		<text id="launch_virus">바이러스 발사</text>
 		<text id="alien_hq">외계인 본거지로 귀환</text>
 		<text id="defeat_cruisers">외계인 순양함 파괴 또는 무력화</text>
-		<text id="cyborg2">사이보그 갑갑류</text>
+		<text id="cyborg2">사이보그 갑각</text>
 		<text id="exiled">그들의 비밀</text>
 		<text id="find_exiled">추방자 발견</text>
 		<text id="activate_hq_structures">마법의 거래</text>
@@ -1410,7 +1410,7 @@
 		<text id="splicer">유전자 조작!</text>
 		<text id="werewolf_claws">손톱갈기</text>
 		<text id="werewolf_body">근력 트레이닝</text>
-		<text id="acid_raptors">산성 맹금류</text>
+		<text id="acid_raptors">산성 랩터</text>
 		<text id="drill_beetles">드릴 딱정이</text>
 		<text id="submersible">심오한 심해</text>
 		<text id="monoliths">고대의 해저유적</text>
@@ -1449,7 +1449,7 @@
 		<text id="mirrows">미로우 부부와 대결</text>
 		<text id="mirrows2">미로우 부부 설득</text>
 		<text id="fisherman_cat">페리을 찾아서</text>
-		<text id="bandits">강도 퇴치</text>
+		<text id="bandits">도적단 퇴치</text>
 		<text id="boars">멧돼지 사냥</text>
 		<text id="wyrm_hive">웜 둥지</text>
 		<text id="find_wyrm_hive">웜 둥지 찾기</text>
@@ -1526,7 +1526,7 @@
 		<text id="mirrows">이 미로우 부부와 협상하길 원합니다.</text>
 		<text id="mirrows2">이 미로우를 회유할만한 것을 찾아주길 원합니다.</text>
 		<text id="fisherman_cat">가 [item=toothfish]를 좋아하는 자신의 [item=cat]를 찾아주길 원합니다.</text>
-		<text id="bandits">상인들이 물건을 훔치는 강도들을 퇴치해주길 원합니다.</text>
+		<text id="bandits">상인들이 물건을 훔치는 도적단들을 퇴치해주길 원합니다.</text>
 		<text id="wyrm_hive">가 [item=wyrm]의 비밀을 풀고싶어합니다.</text>
 		<text id="spirit_gem">가 [item=spirit_gem]으로 정령을 잡아보라 합니다.</text>
 		<text id="alter_gem">가 [item=wyrm] 연구를 끝낼 무언가를 원합니다!</text>
@@ -1933,9 +1933,9 @@
 		<text id="farewell5">너무 위험한 일에는 말려들지 마세요.</text>
 		<text id="farewell6">이 섬 밖은 불확실한 것 투성이에요.</text>
 		<text id="farewell7">제 생각에는 그쪽길이 아닌것 같은데요, 비밀은 동쪽에 있어요!</text>
-		<text id="bandits1">다시 장사를 할 수 있게 되서 기뻐요! 이제 저 망할 강도들만 없다면 말이죠!</text>
-		<text id="bandits2">당신은 강해보이는군요. 우리를 위해 강도를 퇴치해 주실수 있나요?</text>
-		<text id="bandits3">정말로 강도를 퇴치해 주셨군요! 저희의 사례를 받아주세요.</text>
+		<text id="bandits1">다시 장사를 할 수 있게 되서 기뻐요! 이제 저 망할 도적단들만 없다면 말이죠!</text>
+		<text id="bandits2">당신은 강해보이는군요. 우리를 위해 도적단를 퇴치해 주실수 있나요?</text>
+		<text id="bandits3">정말로 도적단를 퇴치해 주셨군요! 저희의 사례를 받아주세요.</text>
 		<text id="bandits4">오늘은 운이 좋군- 먹이감이 제발로 들어왔잖아? 우리가 미로우 부부의 끔찍한 실험에서 도망친 이후 모든게 잘되고 있어!</text>
 		<text id="ore_cave">이곳의 느낌은 이상하다. 마치 내가 다른 곳에 있는것 같다. 이곳을 방문할 때마다 다른 곳일 것 같다.</text>
 		<text id="no_coin_purse">우리와 거래하고 싶다면 [item=coin_purse]이 필요할 거야. [item=sulfur] [var=recipe.sci1_coin_purse.sulfur]개를 가져다 준다면 지갑 하나를 줄게.</text>
@@ -2386,7 +2386,7 @@
 		<text id="mars">마지막 지구형 행성. 대기가 적고 극지에 만년설이 있다.</text>
 		<text id="jupiter">태양계에서 가장 큰 행성, 가스로 이루어져 있다.</text>
 		<text id="alien_hq">그들의 본거지. 그들의 고향은 더 이상 존재하지 않지만, 그들은 행성 크기의 거대한 드래곤 전함으로 우주를 떠다녔다!</text>
-		<text id="colony">지구와 비슷하게 생명체가 살 수 있는 행성. 식민지 함선이 정박해 있지만, 모든 교류는 단전되어 있다.</text>
+		<text id="colony">지구와 비슷하게 생명체가 살 수 있는 행성. 식민지 함선이 정박해 있지만, 모든 교류는 단절되어 있다.</text>
 		<text id="unnature">지구와 비슷하게 생명체가 살 수 있는 행성. 전쟁이 시작되기 전까지 많은 자연 보호 구역 중 하나로 설정되었다.</text>
 		<text id="depths">어노익스 프로젝트에서 생명체가 살 수 있는 행성으로 고려되었지만, 대륙이 거의 없고 지구와 너무 멀리 떨어져 있어서 거부되었다.</text>
 	</section>
@@ -2648,7 +2648,7 @@
 		<text id="betrayal2">오래전 [item=wyrm]만이 있었을적, 그들은 우리를 도와주겟다고 말했소. 그들은 우리의 잠재력을 개방시켜 주었고 용으로 진화 시켯다오.</text>
 		<text id="betrayal3">하지만 그들은 결국 변했소. 그들은 우리를 진화시키는 것을 멈추고 그들의 목적을 위해 우리를 노예로 부리기 시작했소.</text>
 		<text id="betrayal4">우리가 더이상 쓸모 없어지자, 그들은 우리를 버리고 마법의 비밀을 빼앗아 갓소. 더이상 진화할 수 없었고 용들은 죽어갔지.</text>
-		<text id="betrayal5">나는 그들의 이름중 하나인 밀레니아를 저주하면서 스스로 마법을 익히고 [item=wyrm]을 도와주기 위해 노력하면서 보냈소.</text>
+		<text id="betrayal5">나는 수천년 동안 그들을 저주하면서, 우리 [item=wyrm]을 도와주기 위해 스스로 마법을 깨우치려 노력했소.</text>
 		<text id="betrayal6">이 늙은 용이 그들을 몰살시키는데 도움이 된다면, 기꺼이 그렇게 하겠소!</text>
 		<text id="betrayal7">나는 그들을 몰살하는것에 대해서 아무말도 하지 않았소, 살아남는게 가장 중요해!</text>
 		<text id="betrayal8">아.[pause=1] 그래, 기회가 온다면 명심하시게!</text>
@@ -2657,7 +2657,7 @@
 		<text id="ship1">자네 [item=evo_gem]을 만들줄 아는가? 그게바로 우리같은 [object=fly_ancient_dragon]을 만든거라네! 간단하게 [item=adult_dragon]에게 사용해보게!</text>
 		<text id="ship2">[object=fly_ancient_dragon]을 부화하면, 다음으로 [color=770000]드래곤 섬[/color]이라고 불리는 동쪽의 떠다니는 섬의 꼭대기에서 [color=770000]드래곤 우주선[/color]을 만드는 걸세.</text>
 		<text id="ship2.1">불행하게도, [color=770000]드래곤 섬[/color]은 얼음 괴물이 지키고 있다네. 그것은 강한 [color=770000][tile=fire.ico] 불[/color] 마법 만이 피해를 줄 수 있지.</text>
-		<text id="ship3">그들이 [color=770000]드래곤 우주선[/color] 밀레나를 처음 만들었고 지금은 더 강력한 무언가를 가지고 있을것이오. 하지만 이건 그들을 물리치기 위한 첫걸음이 될 수 있소!</text>
+		<text id="ship3">그들은 수천년 전에 [color=770000]드래곤 우주선[/color]을 처음 만들었고, 그금은 더 강력한 무언가를 가지고 있을것이오. 하지만 이건 그들을 물리치기 위한 첫걸음이 될 수 있소.</text>
 		<text id="ship4">그들은 우리가 우주선이 될수 있다는걸 알게 되자, 더이상 우리를 지적 존재로 취급하지 않고 그들의 함대로 변하는 기계로 취급했다오.</text>
 		<text id="ship5">그들은 권력에 심취했고. 더이상 우리를 도우는데 신경쓰지 않게 되었다오.</text>
 		<text id="ship6">내가 [color=770000]드래곤 우주선[/color]의 비밀을 알려드렸소... 그러니 제발 그들처럼 우리 종족을 학대하지 말아주시게.</text>
@@ -2669,7 +2669,7 @@
 		<text id="ship12">아마도 이 비밀이 당신에게 도움이 될걸세. 나는 단지 당신이 그들처럼 우리를 학대하지 않길 바랄뿐일세.</text>
 		<text id="win1">그들을 물리쳤다고 하였소?! 복수가 이루어졌소! 그런데 왜이렇게 허전한걸까? 그냥 늙어서 그런걸세...</text>
 		<text id="win2">그들을 물리쳤다고 하였소? 그들이 우리를 배신한 이후로 우리는 당신에게 큰 은혜를 입었소!</text>
-		<text id="dragon_backpack">하지만 [color=770000]드래곤 우주선[/color]을 제작할줄 알게 되었으니, 자네는 [item=alter_gem] 을 [item=ancient_dragon]에 사용해서 [item=dragon_backpack]을 만들어야하네.</text>
+		<text id="dragon_backpack">하지만 [color=770000]드래곤 우주선[/color]을 지을 수 있게 되었으니, 자네는 [item=alter_gem] 을 써서 [item=ancient_dragon]을 [item=dragon_backpack]로 변형시킬 수 있을 걸세.</text>
 	</section>
 	<section id="fish">
 		<text id="welcome1">안녕하세요!</text>
@@ -2716,7 +2716,7 @@
 		<text id="revitalize7">이 포션은 뭔가? 뭐든지 할수 있을것 같네! 드디어 내가 [color=770000]드래곤 우주선[/color]이 될 수 있을 것 같소!</text>
 		<text id="revitalize8">내 변신은 그리 오래가지 못했소. 난 늙고 허약하오. 하지만 난 그 얼음 괴물을 불태워 버렸소! 근 몇백년 만에 가장 즐거울 일이였소!</text>
 		<text id="potion1">아, 당신 [object=sea_witch]를 만낫군요? 그녀는 우리와 함께 여기에 살았었지만, 불멸의 비밀을 알아내기 위해 지상으로 올라갔어요.</text>
-		<text id="potion2">용감해! 저는 그녀를 갈켰고 그들의 발자취를 따라갓죠! 그리고... 그들의 지식은 대단했요. 연구실에 포션을 마드는 제조법을 추가해드렸어요!</text>
+		<text id="potion2">용감해! 저는 그녀를 가르쳤고 그들의 발자취를 따라갔죠! 그리고... 그들의 지식은 대단했어요. 연구실에 포션을 만드는 제조법을 추가해드렸어요!</text>
 		<text id="potion3">아, 우리는 모두 늙기 마련이죠. 하지만, 제가 [object=sea_witch]를 위해 알려준 [item=revitalize_potion]이 당신의 드래곤 친구에게 도움이 될거에요! 레시피는 실험실에 있을거에요.</text>
 		<text id="sea_witch1">이상한 일이에요... 그들의 힘이 돌아왔고. [object=sea_witch]도 바다로 돌아왔어요</text>
 		<text id="sea_witch2">물론, 저는 그녀를 두팔벌려 환영했어요. 그녀는 지상에서 배운것 들을 알려주었고, 저는 몇몇 새로운 마법책을 만들었어요! 도서관을 확인해보세요!</text>
@@ -2736,7 +2736,7 @@
 		<text id="potion5">아! 바로 그거에요! 이제 불멸의 비밀만 알아낼수 있다면...</text>
 		<text id="potion6">보상을 기대했나요? 저는 늙은이를 도와주는 선량한 사마리아인 인줄 알았는데... 어쨋든, [item=robes]를 만들어 드릴게요, 그... 당신이 입고 있는건 흉측해요!</text>
 		<text id="robes">[item=robes]가 더필요해요? 제가 항상 올바른 옷을 입게 도와드릴게요.</text>
-		<text id="wand1">[item=robes]를 입으니 멋지네요! 이제 당신은 당신의 첫 [item=wand]를 만들어야해요! 제가 처음 [item=wand]을 만들었을때가 생각나는군요...</text>
+		<text id="wand1">[item=robes]를 입으니 멋지네요! 이제 당신은 당신의 첫 [item=wand]를 만들어야 해요! 제가 처음 [item=wand]을 만들었을 때가 생각나는군요...</text>
 		<text id="wand2">그것은 굉장히 간단해요! 그냥 [item=wood] 한조각만 진화 시키세요! 무슨 나무에서 채집한건지, 또는 속성에 대해서는 걱정하지 마세요.</text>
 		<text id="wand3">그럼 끝이에요! [item=wand]는 마법책 없이도 빠르고 편하게 마법을 사용하게 해줘요.</text>
 		<text id="halloween">케 케 케! 해피 할로윈! 여기, [item=pumpkin_helm]를 써봐요. 당신 머리가 우스꽝스럽게 보일거에요!</text>
@@ -2749,18 +2749,18 @@
 		<text id="sea5">본부를 파괴했다구요? 당신 혼자 힘으로? 그들의 "마법의 비밀" 제가 생각한 것 보다 대단하지 않나보군요.</text>
 		<text id="sea6">그렇다면 그들의 비밀을 파해치기 위해 건조한 지상에서 지내는건 의미가 없어요! 저는 바다로 돌아가겠어요. 어쨋든 거기선 등이 안아프니까요.</text>
 		<text id="ftl_broom1">[item=spirit_robes]를 찾았다니 믿을수 없군요! 심지어 그들도 입지 않은거에요!</text>
-		<text id="ftl_broom2">그 [item=spirit_robes]는 품격있어요! 오래된 [item=robes]은 창피함과 같이 저기 두세요! 그정도 스타일이라면, 그들과 함게 갈수 있는 빗자루가 필요할거에요!</text>
+		<text id="ftl_broom2">그 [item=spirit_robes]는 품격있어요! 오래된 [item=robes]는 창피함과 같이 저기 두세요! 그 정도 스타일이라면, 그들과 함게 갈 수 있는 빗자루가 필요할 거에요!</text>
 		<text id="ftl_broom3">자, [item=flying_broom]에는 아무 문제가 없어요. 하지만 그 세상으로 가고싶으면 [item=ftl_broom]가 필요할거에요!</text>
 	</section>
 	<section id="merchants">
 		<text id="intro1">저는 당신이 로봇인줄 알았어요!</text>
 		<text id="intro2">하! 저는 광물 상인이에요 - 이건 3차 세계 대전의 제 오랜 유산이에요. 현재 상황으로 볼때, 저는 지금 이거에 익숙해지는게 좋을거라 생각했어요.</text>
-		<text id="intro3">이 전투에서 외우주갑옷이 도움이 될거라 생각하진 않지만... 여기 머물면서 광물을 팔기엔 유용할거에요.</text>
+		<text id="intro3">이 전투에서 강화복이 도움이 될거라 생각하진 않지만... 여기 머물면서 광물을 팔기엔 유용할거에요.</text>
 		<text id="bunker1">만약 지금이라도 다음 침공이 온다면, 우리는 여기에 있어야해요. 이 벙커를 탐험하고 개선하기엔 좋은 시간이네요.</text>
-		<text id="bunker2">이 항계의 가장 안쪽에 있는 행성에는 희귀한 광물이 있을거에요. 만약 당신이 그것을 찾아서 가져온다면, 제가 이 벙커를 개선하는데 도움을 드릴수 있어요.</text>
+		<text id="bunker2">이 행성계의 가장 안쪽에 있는 행성에는 희귀한 광물이 있을거에요. 만약 당신이 그것을 찾아서 가져온다면, 제가 이 벙커를 개선하는데 도움을 드릴수 있어요.</text>
 		<text id="bunker3">이 [item=magnegem]은 확실히 흥미롭군요! 제가 연구할동안 이 [tile=blueprint.ico] [color=770000]설계도[/color]를 벙커를 개선하는데 사용하세요!</text>
-		<text id="station1">이 항계의 가장 안쪽에 있는 행성에서 가져온 것을 볼때, 거기에는 [item=exotic_matter]이 있을 가능성이 높아요!</text>
-		<text id="station2">[item=exotic_matter]은 항계를 이동하는데 필수적으로 필요해요. 만약 남는것들을 가져다 준다면 우주 정거장을 지을수 있게 도와드릴게요!</text>
+		<text id="station1">이 행성계의 가장 안쪽에 있는 행성에서 가져온 것을 볼때, 거기에는 [item=exotic_matter]이 있을 가능성이 높아요!</text>
+		<text id="station2">[item=exotic_matter]은 행성계를 이동하는데 필수적으로 필요해요. 만약 남는것들을 가져다 준다면 우주 정거장을 지을수 있게 도와드릴게요!</text>
 		<text id="station3">좋아요! 저는 이제 이 광물을 연구할거에요. 여기 약속한 우주 정거장 [tile=blueprint.ico] [color=770000]설계도[/color]에요!</text>
 		<text id="station4">[item=station_dock_blueprint]은 우주선을 궤도에 정거해둘수 있게 해줄거에요. 다음 침공을 위한 대비를 하는데 유용할거에요!</text>
 	</section>
@@ -2820,7 +2820,7 @@
 		<text id="hq1">이제 이 연구소를 사용할 시간이에요! 저는 그들의 유기적인 우주선에 대해서 많은걸 알아낼 수는 없었지만, 우주에서 그들의 위치 추적기를 발명할 수 있을거라 확신해요. 특히 우리가 싸울 준비가 되었을때 그 정보는 유용할거에요!</text>
 		<text id="hq2">연구실에 [item=alien_locator]를 추가했어요 - 연구소에서 Z를 눌러 연구 항목을 관리할 수 있어요. 연구원이 많을 수록 연구가 빨리 진행되니까, 도움이 될만한 사람을 실험실에 초대하세요!</text>
 		<text id="hq3">좋아요! [item=alien_locator]가 당신의 가방이나 함선의 창고에 있는한 행성에 외계인이 표시될거에요.</text>
-		<text id="hq4">음... 여기 이상해요... [item=alien_locator]가 항계가 없는 곳에서 강한 신호를 받고 있어요. 네이게이션에 추가했는데 확인해야 할까요?</text>
+		<text id="hq4">음... 여기 이상해요... [item=alien_locator]가 행성계가 없는 곳에서 강한 신호를 받고 있어요. 네이게이션에 추가했는데 확인해야 할까요?</text>
 		<text id="hq5">[object=president]이 모든 연구 자료를 전송해줬어요! 정말로 우리가 발전하고 있는것 같아요... 만약 이 계획이 성공한다면, 우리는 외계인의 위협에서 영원히 벗어날 수 있을거에요!</text>
 		<text id="invite">[color=770000]이동식 연구소[/color]에 {npc}을(를) 탑승시킬까요?</text>
 		<text id="alien_hq1">적의 본진을 찾은것 같아요! 그곳에 함선들이 우글거리고 있어요! 우리는 어디의 궤도를 순항중이죠? 행성? 우주선? 살아있는건가요?</text>
@@ -2939,7 +2939,7 @@
 		<text id="crops">현재 당신이 {count}개의 식물을 심었다는걸 알고 있습니까?</text>
 		<text id="caught">{count}가지의 다른 적을 퇴치했다는걸 알고 있습니까?</text>
 		<text id="read">당신은 {count}개의 기록을 읽었다는걸 알고있습니까?</text>
-		<text id="history1">[item=exotic_matter]이 발견되고 우리가 항계를 여행할 수 있게 되었을때, 인류는 점점 늘어나느 인구수를 해결 하기 위해 식민지 세계를 찾기위한 어노익스 프로젝트가 시작되었다.</text>
+		<text id="history1">[item=exotic_matter]이 발견되고 우리가 행성계를 여행할 수 있게 되었을때, 인류는 점점 늘어나느 인구수를 해결 하기 위해 식민지 세계를 찾기위한 어노익스 프로젝트가 시작되었다.</text>
 		<text id="history2">어노익스 프로젝트는 이동가능 거리 내에 있는 수백개의 잠재적 행성을 발견하면서 큰 성공을 이루었다. 지구의 한정된 자원에 대한 해결책이 나왔고, 행성을 조사하기 위한 선발대가 파견되었다.</text>
 		<text id="history3">수백개의 행성이 구현 가능한 것으로 밝혀졌고, 언론은 이를 무한한 자원이라고 보도했다. 불행이도, "무한한" 자원은 우주의 가장 희박한 자원중 하나에 의존했고, 모든 사람이 갈 수 없다는 사실이 분명해졌다.</text>
 		<text id="history4">식민지를 건설하고 [item=exotic_matter]을 비축하기 위한 경쟁은 결국 전쟁으로 이어졌다. 많은 사람들이 인류 역사상 가장 최악의 전쟁이라고 기억할 것이다. 지구의 상황이 안좋아지자 식민지 건설은 몇군대만 진행이 되었다.</text>
@@ -3413,28 +3413,28 @@
 		<text id="learn_boss">어떤 생명채에 대해서 알고 싶나요?</text>
 		<text id="minotaur">미노타우르스</text>
 		<text id="yeti">예티</text>
-		<text id="bandits">강도</text>
+		<text id="bandits">도적단</text>
 		<text id="dragon">드래곤</text>
 		<text id="wyrm_queen">여왕 웜</text>
 		<text id="golemech">골레메크</text>
 		<text id="oldone">옛것</text>
 		<text id="mirrows">미로우 부부</text>
 		<text id="pirates">해적</text>
-		<text id="kraken">크라캔</text>
+		<text id="kraken">크라켄</text>
 		<text id="plant_boss">수호수</text>
-		<text id="ice_boss">스톰</text>
+		<text id="ice_boss">천둥번개</text>
 		<text id="minotaur1">이 짐승은 빠르고 위험하지만, 앞 뒤로 끝도 없이 움직여서 예측하기 쉬워요. 거리를 두고 뒤에서 공격하세요.</text>
 		<text id="yeti1">다른 적들과 달리 예티는 숨어서 뒤로 공격 할 수 없어요. 얼음처럼 차가운 입김과 눈덩이를 피하면서 공격해보세요.</text>
-		<text id="bandits1">대부분의 무리와 마찬가지로, 개개인은 위협적이지 않지 않아요. 하지만 강도들이 당신에게 집단으로 달려드는 상황은 피하세요! 한명씩 공격하고 무거운 방패를 든 강도는 주의하세요. 그는 뒤에서만 공격할 수 있어요.</text>
+		<text id="bandits1">대부분의 무리와 마찬가지로, 개개인은 위협적이지 않지 않아요. 하지만 도적단들이 당신에게 집단으로 달려드는 상황은 피하세요! 한명씩 공격하고 무거운 방패를 든 도적단는 주의하세요. 그는 뒤에서만 공격할 수 있어요.</text>
 		<text id="dragon1">원거리 무기가 없다면 드래곤은 위험한 도전이에요. [key=defend]키를 눌러 블레스를 막거나 타일 뒤에 숨어서 소굴로 돌아갈때 공격하는 방법이 있어요. 아, [item=attack_potion] 잊지 마시구요!</text>
 		<text id="wyrm_queen1">이 짐승은 당신을 공격하지 않을거에요. 그리고 입을 벌릴때만 공격할 수 있죠! 태어난 [item=wyrm]들은 위험하지만, [item=dragonblood]을 얻기 좋죠.</text>
-		<text id="golemech1">골레매크의 눈 공격에 주의하세요- 공격하는 텀이 길지만 공격력은 믿을수 없을만큼 강해요. [color=770000][tile=plant.ico] 식물[/color]과 [color=770000][tile=water.ico] 물[/color]속성 이 효과적일 거에요.</text>
+		<text id="golemech1">골레메크의 눈 공격에 주의하세요- 공격하는 텀이 길지만 공격력은 믿을수 없을만큼 강해요. [color=770000][tile=plant.ico] 식물[/color]과 [color=770000][tile=water.ico] 물[/color]속성 이 효과적일 거에요.</text>
 		<text id="oldone1">옛것은 강합니다. 갑옷이 과열 되었을때만 피해를 줄 수 있어요. 방어막으로 공격을 피하거나 차단한다음, 갑옷이 과열됫을때 공격하세요.</text>
 		<text id="mirrows1">[item=shadow_cape]가 미로우 부부의 공격을 피하는데 도움이 될거에요. 5초에 한번씩 몰래 공격하기 편할거고, [item=landmine]를 이용해 추가적인 피해를 입힐수 있어요!</text>
 		<text id="pirates1">해적들은 강력한 레이저 무기를 가지고 있어요. 하지만 사정거리와 속도는 당신보다 못할거에요. 계속 움직이면서 공격하고, 하나씩 파괴하면 그렇게 어렵지 않을거에요.</text>
 		<text id="kraken1">바다 깊은 곳에 사는 이 괴물은 위험해요. 촉수는 강력하면서도 몸에 연결되어 있으며 빠르게 성장할거에요. 촉수를 파괴하여 몸의 중심에 있는 눈을 공격해서 퇴치하세요.</text>
 		<text id="plant_boss1">수호수는 [color=770000][tile=fire.ico] 불[/color] 공격에 약해요. 포자만이 당신을 해칠 수 있어요. 체력을 잃기 전에 포자를 피하고 공격하세요.</text>
-		<text id="ice_boss1">스톰은 강력한 [color=770000][tile=fire.ico] 불[/color] 공격으로만 피해를 줄 수 있어요. 토네이도 형태에 주의하세요, 그 형태 동안은 위험해요. 토네이도 형태일때는 피하고, 아닐때 공격하세요.</text>
+		<text id="ice_boss1">천둥번개는 강력한 [color=770000][tile=fire.ico] 불[/color] 공격으로만 피해를 줄 수 있어요. 토네이도 형태에 주의하세요, 그 형태 동안은 위험해요. 토네이도 형태일때는 피하고, 아닐때 공격하세요.</text>
 		<text id="points">좋은 보상을 위해 [color=770000][tile=colosseum.points anim=colosseum.points] 영력 포인트[/color]를 써보는건 어떤가요!</text>
 		<text id="buy">영력 보상!</text>
 	</section>
