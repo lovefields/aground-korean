@@ -1844,11 +1844,11 @@
 		<text id="shipping5">물건들이 오고 있어. 다음에 방문할때 확인해봐. 배송하고 싶은 다른 아이템이 있으면 알려줘. 너와 거래해서 기뻐!</text>
 	</section>
 	<section id="alchemist">
-		<text id="introduce1">이 행성은 보이는것 이상으로 가치가 있어! 나는 여러 실험을 해봤고 드디어 마법을 발견한것 같아!</text>
+		<text id="introduce1">이 행성은 보이는 것 이상으로 가치가 있어! 나는 여러 실험을 해봤고 드디어 마법을 발견한것 같아!</text>
 		<text id="introduce2">나는 더 많은 재료가 필요해. 만약 네가 [item=wyrm]을 죽이고 나에게 [item=dragonblood]을 가져다 준다면 보상을 할게.</text>
 		<text id="lab1">해낼줄 알았어! 이게 바로 비결이지! 당장 실험실을 세워야 해!</text>
 		<text id="lab2">보상으로 내 실험실에 오면 물약을 만들수 있게 해줄게.</text>
-		<text id="lab3">서둘러! [item=dragonblood]을 얻기 전까진 실험을 할 수 없어!</text>
+		<text id="lab3">서둘러! [item=dragonblood]을 얻기 느까진 실험을 할 수 없어!</text>
 		<text id="pen1">[item=dragonblood]이 더 필요해 저에게 살아있는 [item=wyrm] [var=quest.wyrm_pen.wyrm]를 가져와 주세요. [item=dragonblood]을 계속 생산해서 실험을 해야겠어!</text>
 		<text id="pen2">잘했어! 제가 마법을 사용하는 동안 물러서!</text>
 		<text id="pen3">내 발명품을 봐. 바로 [color=770000]웜 우리[/color]! 단순한 우리가 아니야. [item=dragonblood]을 무한히 얻을 수 있거든!</text>
@@ -1913,8 +1913,8 @@
 		<text id="alter_gem7">[item=alter_gem]이 부족하다고? 지하 깊은 곳에서 캐거나 합성기에서 만들어 봐.</text>
 		<text id="alter_gem8">[item=alter_gem]을 생물에게 써 봐. 허기진 생물은 오랫동안 바뀌지 않을 거야!</text>
 		<text id="first1">당신은 저희 우주선과 충돌한 건가요?</text>
-		<text id="first2">아니, 난 식민지 지배를 위한 정찰 임무 중이었어.</text>
-		<text id="first3">우리는 총 4명이였고, 3명은 죽었어. 그들이 이 행성에 왔을때, 저는 이 행성이 저주받았다는 걸 알았지.</text>
+		<text id="first2">아니, 난 식민지화를 위한 정찰 임무 중이었어.</text>
+		<text id="first3">우리는 총 4명이였고, 3명은 죽었어. 그들이 이 행성에 왔을때, 난 이 행성이 저주받았다는 걸 알았지.</text>
 		<text id="first4">나는 마법에 대해 배운 지식으로 겨우 살아 남았어. 아마도 그 때 내가 [item=goggles]을 가지고 있었다면 상황은 달라졌을 거야.</text>
 		<text id="first5">그들이 왔다구요?! 당신 이후에?</text>
 		<text id="first6">그래, 확실하진 않지만 내 마법에 질투를 느낀 걸거야. 겁 먹은 걸까?</text>
@@ -2031,7 +2031,7 @@
 		<text id="market1">[color=770000]상점[/color]을 지어야 할 것 같다. 부두집을 통해 상인을 들이겠어. [item=gold_bar] [var=quest.market2.gold_bar]개 가 필요할거야.</text>
 		<text id="market2">이게 내가 [color=770000]상점[/color]이 필요한 이유지!</text>
 		<text id="market3">섬 밖에는 정말로 상인들이 있었어! 그들이 나에게 금화를 보관하라며 [item=coin_purse]을 주었다.</text>
-		<text id="market4">이제 우리는 [color=770000]부두집[/color]에서 [tile=boat.ico] 보트를 만들어야해!</text>
+		<text id="market4">이제 우리는 [color=770000]부두집[/color]에서 [tile=boat.ico] 보트를 만들어야 해!</text>
 		<text id="farewell1">저밖에는 무엇이 있을지 모릅니다. 하지만 돌아오기 전에는 알아내서 올게요.</text>
 		<text id="farewell2">좋은 먹거리좀 가져와 주세요!</text>
 		<text id="farewell3">해저를 탐사하는 것도 잊지 마세요, 당신이 무엇을 찾을수 있을지 아무도 몰라요.</text>
@@ -2053,7 +2053,7 @@
 		<text id="bombardment">말하기 싫지만, 이 난장판에서 벗어나는 방법은 [object=mirrows]와 협력하는거에요. 그들은 본선이 추락한 서쪽에 있을거에요.</text>
 		<text id="bombardment2">[object=mirrows]의 방법에 동의하지는 않지만 아마도 그들이 옳았을 거에요. 이제 그들이 우리가 여기에 있는걸 알테니 살아남기 위해 싸워야해요.</text>
 		<text id="bombardment3">저는 [object=mirrows]가 우리를 위해 희생했다는게 믿겨지지 않아요. 이런 기분은 전혀... 이제 누가 그들과 싸우죠?</text>
-		<text id="research1">[color=770000]이동식 연구실[/color]을 가지고 있어요? 제가 지구에서 매우 존경받는 연구원 이였다는걸 알려드리죠. 이제 낡은 실험실 가운을 벗을때가 되었어요!</text>
+		<text id="research1">[color=770000]이동식 연구소[/color]를 가지고 있어요? 제가 지구에서 매우 존경받는 연구원 이였다는걸 알려드리죠. 이제 낡은 실험실 가운을 벗을때가 되었어요!</text>
 		<text id="research2">이 가운을 영원히 못 입을줄 알았어요. 사냥꾼 시절이 그리울 거에요...</text>
 		<text id="research3">하지만, [item=bow]과 [item=arrow]은 그들에게 영향이 없어요 - 우리가 살아남기 위해선, 우리는 협력해서 새로운 무기를 만들어야해요!</text>
 		<text id="win1">한바탕 전쟁을 치룬것 같군요! 제가 거기가서 도왔으면 좋았을텐데요!</text>
@@ -2091,7 +2091,7 @@
 		<text id="tent10">모르죠, 이 섬의 해안은 거칠어요. 게다가, 그 섬은 많이 낯설어 보였어요. 위험할 수도 있어요.</text>
 		<text id="tent11">그럼 그냥 지금 상황에 만족해야 한다는 말인가요?</text>
 		<text id="tent12">제말은 굳이 위험을 감수할 이유가 없다는 말이에요.</text>
-		<text id="fence1">저는 이지역의 야생동물을 계속 감시하고 싶어요.</text>
+		<text id="fence1">저는 이 지역의 야생동물을 계속 감시하고 싶어요.</text>
 		<text id="fence2">혹시 [item=workbench]를 이용해서 [item=fence] [var=quest.fence.fence]개를 만들어 주시겠어요? 그러면 우리는 경계를 만들수 있어요.</text>
 		<text id="fence3">완벽해. [color=770000][tile=boar] 멧되지[/color]들은 [item=fence]를 넘어오지 못해요. 이제 우리는 안전해요.</text>
 		<text id="fence4">제가 여기에 하나 설치하겠어요. 다른 [item=fence]를 주변에 설치해서 숙소를 지켜보죠!</text>
@@ -2119,18 +2119,18 @@
 		<text id="tip2">장비에 전력을 공급하고 싶다면, 간단해요. [item=battery]를 가방에 넣어두세요.</text>
 		<text id="tip3">당신이 가진 [tile=power] [color=444400]전력[/color]은 [tile=health] [color=770000]체력[/color]과 [tile=stamina] [color=006600]기력[/color] 아래에 표시될 거에요.</text>
 		<text id="factory1">드디어 우리는 전력을 되찾았어요. 이제 우리가 사용할 새로운 기계가 필요해요.</text>
-		<text id="factory2">만약 단신이 [color=770000]공장[/color] 건설을 도와준다면 우리는 모든 종류의 기계를 만들 수 있을 거에요!</text>
+		<text id="factory2">만약 당신이 [color=770000]공장[/color] 건설을 도와준다면 우리는 모든 종류의 기계를 만들 수 있을 거에요!</text>
 		<text id="factory3">이건 정말 멋져요! 새로운 프로젝트라니!</text>
 		<text id="factory4">이제 우리는 [item=drill], [item=chainsaw], [item=shotgun], 그리고 다른 멋진 것들을 만들 수 있어요.</text>
 		<text id="elevator1">광물을 많이 캐셨더군요.</text>
 		<text id="elevator2">물건들을 땅위로 가져올수 있는 기구를 설치하는 게 편하지 않을까요?</text>
 		<text id="elevator3">좋아요! 해봅시다!</text>
-		<text id="elevator4">올라가요? 아니면 제가 내려가라고 해야했을까요?</text>
+		<text id="elevator4">올라가요? 아니면 제가 내려가라고 해야 했을까요?</text>
 		<text id="repair">뭔가 수리하고싶나요? 제가 고쳐드릴게요!</text>
 		<text id="dragon">이 전력을 공급하는 불 쏘는 생명체는 뭐죠? 그게 아무것도 고장내지 않았으면 좋겠는데.</text>
 		<text id="intro1">이곳은 생각보다 생존자가 많네요!</text>
 		<text id="intro2">그래요? 하지만 생존하기에 충분하지 않아요. 우리가 생존하기 위해서는 다른 식민지 협력해야해요.</text>
-		<text id="intro3">가능할것 같나요?</text>
+		<text id="intro3">가능할 것 같나요?</text>
 		<text id="intro4">틀림없이 저 밖에 있을거에요. 우리는 단지 그들과 연락할 수단이 필요하죠.</text>
 		<text id="intro5">만약 그들이 저희를 공격한다면요?</text>
 		<text id="intro6">그럼 적어도 시도는 한 거잖아요! 저는 이 행성이 안전하다고 해서 여기에 쳐박혀 있진 않을거에요.</text>
@@ -2145,15 +2145,15 @@
 		<text id="mirrows9">이미 해봤어요. 그들은 이성을 잃었어요. 그들은 “신체강화”에 집착하고 있고 우리의 문제에는 관심이 없어요.</text>
 		<text id="mirrows10">그들의 관심을 끌기 위해서는 강한 무언가가 필요할거에요. 과학으로는 설명할 수 없는 것.</text>
 		<text id="mirrows11">[item=dragon_armor]는 어때요? [item=adult_dragon]의 힘을 가지고 있지만 갑옷으로 사용할 수 있어요!</text>
-		<text id="mirrows12">그건 굉장히 이상하군요. 하지만 시도할 가치는 있겠어요. 부모님께 이야기 드려 봅시다.</text>
-		<text id="mirrows13">다시왔네? 이번엔 꼭 사이보그로 만들어줄게.</text>
-		<text id="mirrows14">잠깐! 저에요 공격하지 마세요.</text>
+		<text id="mirrows12">그건 굉장히 이상하군요. 하지만 시도할 가치는 있겠어요. 부모님께 이야기드려 봅시다.</text>
+		<text id="mirrows13">다시 왔네? 이번엔 꼭 사이보그로 만들어줄게.</text>
+		<text id="mirrows14">잠깐! 저에요! 공격하지 마세요.</text>
 		<text id="mirrows15">캐스? 여기서 뭐하는거니?</text>
 		<text id="mirrows16">이것좀 봐주세요. 이 사람을 사이보그로 만들 필요는 없을거에요.</text>
-		<text id="mirrows17">이게 뭐지? 전력이 차트를 벗어났어, 하지만 인간이 만든것 같지는 않은데?!</text>
-		<text id="mirrows18">제가 이것에 대해서 이야기해준다면, 그들을 괴롭히고 약탈하는걸 그만둘건가요?</text>
+		<text id="mirrows17">이게 뭐지? 전력이 차트를 벗어났어, 하지만 인간이 만든 것 같지는 않은데?!</text>
+		<text id="mirrows18">제가 이것에 대해서 이야기해준다면, 그들을 괴롭히고 약탈하는 걸 그만둘 건가요?</text>
 		<text id="mirrows19">물론이지, 이건 우리 연구의 새로운 지표가 될수 있다구!</text>
-		<text id="mirrows20">이 행성에 원래 살았던 종족인 용으로 마법 장비를 만든것으로 밝혀졌어요. 그리고 그 종족은 그들일수도 있어요.</text>
+		<text id="mirrows20">이 행성에 원래 살았던 종족인 용으로 마법 장비를 만든 것으로 밝혀졌어요. 그리고 그 종족은 그들일수도 있어요.</text>
 		<text id="mirrows21">우리는 그들만의 창조물을 그들에게 사용할거에요! 아이러니하죠?</text>
 		<text id="sleep">지금이 몇시인줄 아세요? 필요한건 아침에 이야기 해주세요...</text>
 
@@ -2172,16 +2172,16 @@
 		<text id="build_com2">좋아요! [item=ship_parts]을 가지고 있다면 저에게 연락해주세요. 제가 그것을 설치할 수 있어요!</text>
 		<text id="build_com2.1">저에게 연락할 수단이 필요해요? 여기, [item=com_device]를 받으세요!</text>
 		<text id="build_com3">정상에 있다구요? 금방 갈게요- [object=jet]를 빌릴 수 있는 곳을 알것 같아요!</text>
-		<text id="build_com4">... 그렇게 하죠! 미안하지만 나는 가봐야해, 다른 생존자가 연결되는지 봐봐!</text>
-		<text id="build_com5">그곳은 [color=770000]통신 기지[/color]를 건설하기 좋은 곳이네요! [item=ship_parts]만 있으면 설정할 수 있겠어요!</text>
-		<text id="build_com6">흠... [color=770000]통신 기지를[/color] 그곳에... 그곳 보다는 행성에서 가장 높은 곳을 찾는게 좋을것 같아요.</text>
-		<text id="build_com7">행성에서 가장 높은 곳에 있는것 같아요! [item=ship_parts]이 있다면 [color=770000]통신 기지[/color]를 건설하러 갈게요!</text>
+		<text id="build_com4">... 그렇게 하죠! 미안하지만 가 봐야 해요. 다른 생존자가 연결되는지 봐 보세요!</text>
+		<text id="build_com5">그곳은 [color=770000]통신 기지[/color]를 건설하기 딱 좋은 곳이네요! [item=ship_parts]만 있으면 시작할 수 있겠어요!</text>
+		<text id="build_com6">흠... [color=770000]통신 기지[/color]를 그곳에... 그곳보다는 행성에서 가장 높은 곳을 찾는게 좋을 것 같아요.</text>
+		<text id="build_com7">이 행성에서 가장 높은 곳에 있는것 같아요! [item=ship_parts]이 있다면 [color=770000]통신 기지[/color]를 건설하러 갈게요!</text>
 		<text id="com_station1">{planet}.[pause=1].[pause=1].[pause=1]에 대한 데이터 입력중... 교정중...[pause=1].[pause=1].[pause=1]에서 신호 찾는 중...[pause=1].[pause=1].[pause=1].[pause=1].[pause=1].[pause=1]</text>
 		<text id="com_station_incoming">{planet}에서 신호 받는 중.[pause=1].[pause=1].[pause=1] 보정.[pause=1].[pause=1].[pause=1]</text>
 		<text id="com_station2">[color=770000]오류:[/color] 신호를 찾지 못했습니다!</text>
 		<text id="com_station2.5">조난 신호 발견. 다른 신호가 없어 FTL통신이 불가능합니다.</text>
 		<text id="com_station3">어때요? 작동하나요? 뭔가 찾았어요?</text>
-		<text id="com_station4">조난 신호만이 잡히고 있어... 공격 받을때 파괴된것 같아... 지구에서는 아무런 신호가 없어...</text>
+		<text id="com_station4">조난 신호만이 잡히고 있어... 공격받을 때 파괴된 것 같아... 지구에서는 아무런 신호가 없어...</text>
 		<text id="com_station5">정말... 지구는 전멸했군요... 그들이 살아 있다고 해도 FTL 통신 장치에 오래 머물수 없겟죠.</text>
 		<text id="com_station6">하지만 몇몇 식민지는 살아남았을 거에요! 만약 [color=770000]통신 기지[/color]에 그곳의 좌표를 입력할 수 있다면, 그곳의 신호를 찾을 수 있을거에요!</text>
 		<text id="com_station_self">신호를 받았다! 자기 자신의 신호를 받았다. 그닥 도움이 될 것 같진 않아 보인다...</text>
@@ -2192,9 +2192,9 @@
 		<text id="bombardment2">자기네들 고향을 폭격하다니 믿을수 없어요! 우리는 모두 괜찮아요 [color=770000]식민지 우주선[/color]의 화물칸에 숨었어요.</text>
 		<text id="bombardment3">저희는 그다지 사이가 좋지 않았어요...[pause=1] 그들은 끔찍한 부모였죠...[pause=1] 그들을 잃는게 이렇게 힘들지 몰랐어요...[pause=1]</text>
 		<text id="bombardment4">저 외계인들은 대가를 치룰거에요! 인류를 함부로 대하지 말라고 가르칠 거에요!</text>
-		<text id="research1">그럼 이 함선이 인류가 만든 마지막 작품인가요? 나쁘지 않네요 - 그들의 스타일에 맞서 보죠!</text>
-		<text id="research2">제가 연구로 얼마나 도움을 줄지 모르겠지만, 이 함선이 원할하게 운영되도록 최선을 다할게요!</text>
-		<text id="research_lab">[color=770000]이동식 연구실[/color]이 있다구요? 저는 훌륭한 연구가는 아닐거에요. 그래도 가까이 가져온다면 꼭 최상의 상태인지 확인해 드릴게요.</text>
+		<text id="research1">그럼 이 우주선이 인류가 만든 마지막 작품인가요? 나쁘지 않네요! 스타일리시하게 그들에 맞서 보죠!</text>
+		<text id="research2">제가 연구에 얼마나 많은 도움이 될 지는 모르겠지만, 이 우주선이 원할하게 운영되도록 최선을 다할게요!</text>
+		<text id="research_lab">[color=770000]이동식 연구소[/color]가 있다구요? 저는 훌륭한 연구가는 아닐거에요. 그래도 가까이 가져온다면 꼭 최상의 상태인지 확인해 드릴게요.</text>
 		<text id="win1">전쟁은 승리했지만, 인류가 살아남기 위해서는 생존자를 모두 모아야해요! 우리가 죽기 전에 찾았으면 좋겠어요!</text>
 		<text id="win2">[color=770000]통신기지[/color]를 사용해서 다른 식민지가 있는지 찾아보세요!</text>
 		<text id="win3">제 생각에 우린는 여기서 잘 살거에요! 몇년만 더 있으면, 이곳은 수도가 될거고 인류는 별을 가로질러 퍼저나가겠죠.</text>
@@ -2320,10 +2320,10 @@
 		<text id="build_sub2">무방비 상태가 되고싶지 않다면, [item=torpedo_launcher]도 반드시 설치하는게 좋을거야. [key=attack]키를 눌러서 무기를 사용할 수 있어.</text>
 		<text id="sub_empty1">[object=sub]의 연료가 다 떨어진 것 같구나! 다행히도 너는 [item=battery default=Batteries]로 연료를 채울 수 있어.</text>
 		<text id="sub_empty2">[key=equipment]키를 누른뒤 [tile=battery.ico] 배터리에서 충전을 누르면 [object=sub]의 전력을 복구할수 있어.</text>
-		<text id="sub1">길을 잃은것 같구나. 수중 동굴로 돌아와봐, 거기서부터 [item=ship_parts]으로 안내해줄게.</text>
+		<text id="sub1">길을 잃은 것 같구나. 수중 동굴로 돌아와 봐. 거기서 [item=ship_parts]이 있는 곳을 안내해줄게.</text>
 		<text id="sub2">물길을 따라 [item=ship_parts]은 서쪽으로 이동했을거야. 계속 서쪽으로 가면서 주변을 탐색해봐.</text>
-		<text id="sub3">다른 섬을 찾았다고? 그럼 [item=ship_parts]가 그 섬으로 밀려갔을지도 몰라... 아니면 동굴이나. 주변에 해저 동굴 입구가 있는지 확인해봐.</text>
-		<text id="sub4">수중 동굴을 찾았어? 희소식인걸? [item=ship_parts]는 그곳에 몰려있을거야!</text>
+		<text id="sub3">다른 섬을 찾았다고? 그럼 [item=ship_parts]이 그 섬으로 밀려갔을지도 몰라... 아니면 동굴이나. 주변에 해저 동굴 입구가 있는지 확인해봐.</text>
+		<text id="sub4">수중 동굴을 찾았어? 희소식인걸? [item=ship_parts]은 그 곳에 몰려있을 거야!</text>
 		<text id="sub5">조심해, 수중 동굴은 예측할 수 없어. 동굴을 주시하고 [tile=oxygen] [color=ffffff]산소[/color]를 보충할 수 있는곳을 찾아봐.</text>
 		<text id="mirrow_same_room">우리가 여기 있다는걸 알면서... 그러기야?</text>
 		<text id="mirrow_power_core">[item=power_core_parts]를 찾니? 이것들을 추척해, 우리는 우주선에 동력을 공급할 [item=power_core]를 만들 수 있을지도 몰라.</text>
@@ -2334,7 +2334,7 @@
 		<text id="escort_ship2">우리에게 [item=ship_parts]을 구해주면, 잔해를 살펴볼게!</text>
 		<text id="escort_ship3">그곳을 조사하러 가는 중이야, 거기서 보자. 이건 우리에게 큰 희망일 거야!</text>
 		<text id="escort_ship4">뭐? 뭘 기다리는거야? 바로 그곳으로 가야해! [object=jet]를 준비해!</text>
-		<text id="escort_ship5">꽤 상태가 안 좋지만, 수리할 수 있어. 수리하는데 많은 [item=ship_parts]가 필요할거야!</text>
+		<text id="escort_ship5">꽤 상태가 안 좋지만, 수리할 수 있어. 수리하는데 많은 [item=ship_parts]이 필요할거야!</text>
 		<text id="escort_ship6">좋아! 모든 재료를 모으면 우리에게 연락해!</text>
 		<text id="escort_ship7">내가 모든걸 모았을때 연락하라고 했지! 만약 수리할 재료를 잊어먹었다면 [key=quest]키를 눌러서 다시 확인해봐.</text>
 		<text id="escort_ship8">연구소 이사는 거의다 끝났어. 이제 우주선을 수리하기 위한 부품만 있으면 돼. 그리고 우리는 정말로 우주로 갈 수 있을거야.</text>
@@ -2359,11 +2359,11 @@
 		<text id="bombardment1">그들이 너무 빨리 왔어! 우리는 그들이 오는 걸 알고 준비했지만, 시간이 부족했어!</text>
 		<text id="bombardment2">이건 그들의 첫번째 침공일거야. 우리는 그들이 두번째 침공을 하기 전에 그들의 폭격기를 파괴하기 위해 바쁘게 움직여야 할거야.</text>
 		<text id="bombardment3">폭격기를 파괴하기 위해선느 우선 우주선이 필요해. 쉽지는 않겟지만 너의 도움으로 우리가 무언가 할 수 있을거야.</text>
-		<text id="bombardment4">선체를 강화 시켰고 이 화물칸은 몇년동안 먹을 신선한 음식과 물이 있어... 하지만 우리가 폭격기에 대해 저항할 수 없다면, 이건 헛수고가 될거야.</text>
-		<text id="bombardment5">적의 폭격기를 격파했어!? 그러 다음 침공까지 시간이 좀 생겼어, 하지만 서둘러야해!</text>
-		<text id="bombardment6">드디어 비밀 무기를 완성했어! 나음 [item=ship_parts]를 이용해 만든 실험적인 무기야, 그들의 방어막을 뚫을 수 있을거야.</text>
+		<text id="bombardment4">선체를 강화시켰고 이 화물칸은 몇 년동안 먹을 신선한 음식과 물이 있어... 하지만 우리가 폭격기에 대해 저항할 수 없다면, 이건 헛수고가 될거야.</text>
+		<text id="bombardment5">적의 폭격기를 격파했다고!? 그러 다음 침공까지 시간이 좀 생겼어. 하지만 서둘러야해!</text>
+		<text id="bombardment6">드디어 비밀 무기를 완성했어! 나름 [item=ship_parts]을 이용해 만든 실험적인 무기야. 그들의 방어막을 뚫을 수 있을거야.</text>
 		<text id="bombardment7">실험해볼 시간은 없었어! 하지만 폭격을 끝내야해. 곧 그들의 지원군이 올거야! 더 좋은 계획이 없다면, 발사할게!</text>
-		<text id="bombardment8">좋아- 대신 빨리 행동해! 생각이 바뀌면 우리에게 다시 말을 걸어!</text>
+		<text id="bombardment8">좋아, 대신 빨리 행동해! 생각이 바뀌면 우리에게 다시 말을 걸어!</text>
 		<text id="sacrifice1">이 얼간이는 실제로 우주에 진출했어! 적 폭격기가 우리 시야에 들어왔어, 새로운 무기를 써보자고!</text>
 		<text id="sacrifice2">기회는 한번 뿐이야 - 내가 적의 방어막을 부수고, 모든걸 쏟아부어 부숴버리겠어!</text>
 		<text id="sacrifice3">혹시 우리가 실패하면...[pause=1] 혹은 돌아오지 못한다면...[pause=1] 이제 네가 모두를 보호해야 해.[pause=1] 그리고 캐스에게...[pause=1] 마음에 두지 말라고 전해줘...</text>
@@ -2839,53 +2839,53 @@
 	</section>
 	<section id="fish">
 		<text id="welcome1">안녕하세요!</text>
-		<text id="welcome2">안ㄷ...[pause=1] 잠깐. 임이 움직이지 않았어요! 어떻게 말한거에요?!</text>
+		<text id="welcome2">안ㄴ...[pause=1] 잠깐. 입이 움직이지 않았어요! 어떻게 말한 거에요?!</text>
 		<text id="welcome3">물론 텔레파시로 의사소통을 하고 있습니다. 이외에도 의사소통을 할 수 있는 방법이 있나요?</text>
 		<text id="welcome4">아...네... 그래서 제 마음을 읽고 있는건가요?</text>
 		<text id="welcome5">표면적인 것만요! 마음 깊은 곳까지 읽는건 예의에 어긋나요!</text>
 		<text id="citizen1">놀랍지만 기분이 좋네요. 저희는 여기서 외부인을 볼 기회가 거의 없어요!</text>
 		<text id="citizen2">저희는 태곳적부터, 옛것이 있기 전부터, 다른 사람들이 태어나기 전부터 여기 살았어요.</text>
-		<text id="citizen3">아무도 우리를 대수롭게 여기지 않아요. 그건 괜찮아요. 여기는 안전하고 저희는 안전한게 좋아요.</text>
+		<text id="citizen3">아무도 우리를 대수롭게 여기지 않아요. 그건 괜찮아요. 여기는 안전하고 저희는 안전한 게 좋아요.</text>
 		<text id="citizen4">제가 잘못 생각하고 있다면 죄송하지만, 당신은 공기를 마시고 있군요. 그렇죠?</text>
 		<text id="citizen5">여기서 오래 돌아다니고 싶으면 [item=water_helm]을 만들어야 할거에요. 제가 제작법을 알려드릴게요!</text>
-		<text id="citizen6">서쪽에는 마법으로 막아둔 동굴이 있어요. 공기가 필요할 경우 거기로 가보세요!</text>
+		<text id="citizen6">서쪽에는 마법으로 막아둔 동굴이 있어요. 공기가 필요하다면 거기로 가보세요!</text>
 		<text id="recipe">당신은 텔레파시로 다음 레시피를 배웠습니다:\n{enchant} + {items} = {creates}.</text>
 		<text id="merchant1">안녕하세요 여행자님. 제 잡화점에 오신걸 환영해요.</text>
-		<text id="merchant2">당신은 이쪽의 화폐를 가지고 있지 않은것 같군요- 하지만 괜찮아요. 화폐의 가치가 있다면 다른 화폐도 받을 의양이 있습니다.</text>
-		<text id="merchant3">지하에서 채굴한 금속조각을 사용한다구요? 이상하군요, 하지만 [color=770000][tile=coin_purse.ico] 금화[/color] 는 확실히 가치가 있군요. 당신은 육지 생물이니 그게 당연하겠군요.</text>
-		<text id="coin_purse">여기 널부러져있던 지갑이에요. [color=770000][tile=coin_purse.ico] 금화[/color]를 보관하는데 쓸수 있어요!</text>
-		<text id="merchant4">저는 바다 생물과 산호의 마법적 성질을 연구해왔어요. 만약 당신이 살아있는 [item=scale_fish]을 잡아주신다면 값진걸 만들어 드릴 수 있어요.</text>
-		<text id="merchant5">제가 해냈어요! 제가 [color=770000]산호 우리[/color]를 발명 했어요! 우리에서는 [item=scale_fish]같은 생명체에서 마법 재료를 수확할 수 있을거에요!!</text>
-		<text id="merchant6">제 가게에 [item=coral_pen_seed]를 추가했어요. 몇개 사서 이용해 보세요!</text>
+		<text id="merchant2">당신은 이쪽의 화폐를 가지고 있지 않은것 같군요. 하지만 괜찮아요. 화폐의 가치가 있다면 다른 화폐도 받을 의양이 있습니다.</text>
+		<text id="merchant3">지하에서 채굴한 금속조각을 사용한다구요? 이상하군요. 하지만 [color=770000][tile=coin_purse.ico] 금화[/color]는 확실히 가치가 있군요. 당신은 육지 생물이니 그게 당연하겠군요.</text>
+		<text id="coin_purse">여기 널부러져 있던 지갑이에요. [color=770000][tile=coin_purse.ico] 금화[/color]를 보관하는데 쓸 수 있어요!</text>
+		<text id="merchant4">저는 바다 생물과 산호의 마법적 성질을 연구해왔어요. 만약 당신이 살아있는 [item=scale_fish]를 잡아주신다면 값진걸 만들어 드릴 수 있어요.</text>
+		<text id="merchant5">제가 해냈어요! 제가 [color=770000]산호 우리[/color]를 발명 했어요! 우리에서는 [item=scale_fish] 같은 생명체에서 마법 재료를 수확할 수 있을거에요!!</text>
+		<text id="merchant6">제 가게에 [item=coral_pen_seed]를 추가했어요. 몇 개 사서 이용해 보세요!</text>
 		<text id="merchant7">[item=scale_fish]는 잡기 어렵지만 만약 [item=water_trap]을 사용한다면 잡을 수 있을거에요.</text>
 		<text id="merchant8">한때 저희의 수중 교역로는 보석과 포션 그리고 마법재료들을 운반했었어요. 하지만, 이제 우리는 소수만이 남았어요. 그리고 모두 이렇게 조용한 곳에 숨어있기 때문에 사용할 수 있는 교역로가 거의 없어요.</text>
 		<text id="merchant9">그럼에도 불구하고! 저희는 번창합니다. 해저에는 자원이 풍부하거든요!</text>
 		<text id="merchant10">[color=770000]산호 우리[/color]를 가지고 계신가요? 그것을더 효율적으로 운용하기 위해 여러 연구를 한 끝에 [color=770000]산호 농장[/color]을 개발했어요!</text>
 		<text id="merchant11">제 잡화점에서 [item=coral_farm_seed]을 구매하실수 있어요. 설치하시면 같은 섬에 있는 [color=770000]산호 우리[/color]와 [color=770000]웜 우리[/color]를 관리하실수 있어요!</text>
-		<text id="librarian1">저는 이 마을의 사서에요, 마법책을 관리하죠!</text>
+		<text id="librarian1">저는 이 마을의 사서에요, 마법서를 관리하죠!</text>
 		<text id="librarian2">다른...종족과는 달리... 우리는 지식을 공유하는걸 좋아해요!</text>
-		<text id="librarian3">저희 도서관을 이용해서 마법책을 어떻게 만드는지 배우셔도 되요!</text>
-		<text id="librarian4">다른 형태의 마법과는 달리 마법책은 당신 안의 마력을 사용해요.</text>
+		<text id="librarian3">저희 도서관을 이용해서 마법서를 어떻게 만드는지 배우셔도 되요!</text>
+		<text id="librarian4">다른 형태의 마법과는 달리 마법서는 당신 안의 마력을 사용해요.</text>
 		<text id="librarian5">처음에는, 빠르게 지칠거에요, 하지만 [color=770000][tile=stat.spellcast] 마법 시전[/color] 스킬을 올린다면, 당신은 더 많은 마법을 사용할 수 있을거에요.</text>
 		<text id="librarian6">주문은 매우 강력한 것들도 있어요. 하지만 강력할수록 시전하는 시간은 오래 걸려요. 적에게 공격을 받으면 시전이 취소되니 사용할 상황을 잘 고려하세요.</text>
 		<text id="librarian7">마법은 도구일 뿐이에요. 마법에 대한 가치는 어떻게 사용하느냐에 따라 달라요. 그들이 마법으로 저지른 일 때문에 마법을 싫어하진 말아주세요.</text>
-		<text id="librarian8">마법은 변화하는 기술이에요. 마법은 간단한 아이템을 강력하게 만들 수 있죠. 마법을 많이 사용할수록 변하는건 당신이에요.</text>
-		<text id="librarian9">원래는, 우리 마을은 광활한 바다를 가로질러 있었어요. 지금은 이 조용한 해저 구석에서 조용히 숨어서, 우리를 지키고 우주에 적대관계를 만들지 않는것에 만족해요.</text>
+		<text id="librarian8">마법은 변화하는 기술이에요. 마법은 간단한 아이템을 강력하게 만들 수 있죠. 마법을 많이 사용할수록 변하는 건 당신이에요.</text>
+		<text id="librarian9">원래는, 우리 마을은 광활한 바다를 가로질러 있었어요. 지금은 이 조용한 해저 구석에서 조용히 숨어서, 우리를 지키고 우주에 적대관계를 만들지 않는 것에 만족해요.</text>
 		<text id="librarian10">우리 조상들중 몇몇은 위험을 무릅쓰고 스스로 육지로 올라가 진화했어요. 고대 마법을 이용해 하늘까지 진출했죠. 지금, 그들은 많은 이들의 적이에요.</text>
-		<text id="librarian11">우리는 그들으 두려워하지 않아요. 하지만 그들이 걸어간 길은 후회해요. 그건 질투와 비밀의 결정채에요.</text>
+		<text id="librarian11">우리는 그들으 두려워하지 않아요. 하지만 그들이 걸어간 길은 후회해요. 그건 질투와 비밀의 결정체에요.</text>
 		<text id="revitalize1">[object=ancient_dragon_npc]이 당신에게 [color=770000]드래곤 우주선[/color]을 만드는법을 알려줬다구요? 그걸 알려줄지는 꿈에도 몰랐어요! 한편, 우리는 여기서 들을 기회가 많지 않아요.</text>
 		<text id="revitalize2">하지만 [color=770000]드래곤 우주선 공장[/color]은 강력한 몬스터가 지키고 있어요! 제가 이길수 있도록 도와주실 수 있나요?</text>
 		<text id="revitalize3">음, 만약 그것이 [color=770000][tile=ice.ico] 얼음[/color]으로 이루어져 있다면, [item=fire_book]이 먹힐거에요. 당신의 친구인 [object=ancient_dragon_npc]에게 [item=horn]의 힘이 깃들어 있다면 역시 물리칠 수 있을거에요.</text>
-		<text id="revitalize4">하지만 [object=ancient_dragon_npc]은 겨우 날수 있어요!</text>
+		<text id="revitalize4">하지만 [object=ancient_dragon_npc]은 겨우 날 수 있어요!</text>
 		<text id="revitalize5">아, 우리 모두는 늙기 마련이죠. 하지만, 노인들에게 짧은 시간동안 활력을 불어넣을 수있는 물약이 있어요. 재료를 모아오면 제가 만들어 드릴게요.</text>
-		<text id="revitalize6">다 가져왔나요? 여기 포션이에요 - [object=ancient_dragon_npc]에게 줘서 효과를 확인해보세요! 다시 필요해 질 때를 대비해서 실험실에 추가해 드렸어요.</text>
+		<text id="revitalize6">다 가져왔나요? 여기 포션이에요. [object=ancient_dragon_npc]에게 줘서 효과를 확인해보세요! 다시 필요해 질 때를 대비해서 실험실에 추가해 드렸어요.</text>
 		<text id="revitalize7">이 포션은 뭔가? 뭐든지 할수 있을것 같네! 드디어 내가 [color=770000]드래곤 우주선[/color]이 될 수 있을 것 같소!</text>
 		<text id="revitalize8">내 변신은 그리 오래가지 못했소. 난 늙고 허약하오. 하지만 난 그 얼음 괴물을 불태워 버렸소! 근 몇백년 만에 가장 즐거울 일이였소!</text>
 		<text id="potion1">아, 당신 [object=sea_witch]를 만낫군요? 그녀는 우리와 함께 여기에 살았었지만, 불멸의 비밀을 알아내기 위해 지상으로 올라갔어요.</text>
 		<text id="potion2">용감해! 저는 그녀를 가르쳤고 그들의 발자취를 따라갔죠! 그리고... 그들의 지식은 대단했어요. 연구실에 포션을 만드는 제조법을 추가해드렸어요!</text>
 		<text id="potion3">아, 우리는 모두 늙기 마련이죠. 하지만, 제가 [object=sea_witch]를 위해 알려준 [item=revitalize_potion]이 당신의 드래곤 친구에게 도움이 될거에요! 레시피는 실험실에 있을거에요.</text>
 		<text id="sea_witch1">이상한 일이에요... 그들의 힘이 돌아왔고. [object=sea_witch]도 바다로 돌아왔어요</text>
-		<text id="sea_witch2">물론, 저는 그녀를 두팔벌려 환영했어요. 그녀는 지상에서 배운것 들을 알려주었고, 저는 몇몇 새로운 마법책을 만들었어요! 도서관을 확인해보세요!</text>
+		<text id="sea_witch2">물론, 저는 그녀를 두 팔 벌려 환영했어요. 그녀는 지상에서 배운것 들을 알려주었고, 저는 몇몇 새로운 마법서를 만들었어요! 도서관을 확인해보세요!</text>
 		<text id="sea_witch3">이상한 일이에요... 그들의 힘이 돌아왔고. [object=sea_witch]도 바다로 돌아왔어요</text>
 		<text id="sushi1">배고파 보이는군요... 당신도 [item=sushi]은 먹을줄 알겠죠. 그냥 줄수도 있지만, 당신도 알다싶이... 고식지계...</text>
 		<text id="sushi2">재료를 가저오면, 만드는 법을 알려드릴게요!</text>
@@ -2904,8 +2904,8 @@
 		<text id="robes">[item=robes]가 더 필요해요? 제가 항상 올바른 옷을 입게 도와드릴게요.</text>
 		<text id="wand1">[item=robes]를 입으니 멋지네요! 이제 당신은 당신의 첫 [item=wand]를 만들어야 해요! 제가 처음 [item=wand]을 만들었을 때가 생각나는군요...</text>
 		<text id="wand2">그것은 굉장히 간단해요! 그냥 [item=wood] 한조각만 진화시키세요! 무슨 나무에서 채집한건지, 또는 속성에 대해서는 걱정하지 마세요.</text>
-		<text id="wand3">그럼 끝이에요! [item=wand]는 마법책 없이도 빠르고 편하게 마법을 사용하게 해줘요.</text>
-		<text id="halloween">케 케 케! 해피 할로윈! 여기, [item=pumpkin_helm]를 써봐요. 당신 머리가 우스꽝스럽게 보일거에요!</text>
+		<text id="wand3">그럼 끝이에요! [item=wand]는 마법서 없이도 빠르고 편하게 마법을 사용하게 해줘요.</text>
+		<text id="halloween">깔 깔 깔! 해피 할로윈! 여기, [item=pumpkin_helm]를 써봐요. 당신 머리가 우스꽝스럽게 보일거에요!</text>
 		<text id="cat1">아, 드디어 제 말을 이해할 수 있게 되었군요! 저는 할로윈이 좋아요!</text>
 		<text id="cat2">[item=black_cat]은 최고에요! 동의한다면, [item=black_cat]은 [item=dark_fur]와 평범한 [item=cat]를 [color=770000]수호수[/color]에서 합성해서 얻을 수 있어요!</text>
 		<text id="sea1">당신만의 [color=770000]드래곤 우주선[/color]을 진화시켰다구요? 좋지 않아요.</text>
@@ -2977,12 +2977,12 @@
 		<text id="intro3">제 연구실 위에 산더미같은 얼음을 보세요. 적함의 파편이 그걸 만들어 낼거라고 누가 상상이나 했겠어요? 완전히 혼란스러워요. 제가 과학계에 그말을 했다면 완전 비웃음거리일 거에요. 그렇다고 과학계가 살아있다는 말은 아니에요!</text>
 		<text id="intro4">죄송해요, 제가 횡설수설 중이죠? 이 연구는 제가 가진 전부에요. 그러니 제가 평생 그 이야기를 한다고 해도 놀라지 마세요. 불행하게도, 그들을 이해할수록 의문점만 늘어나요! 저는 아직 그들의 기술을 해석하지 못했고, 인류는 명을 다했어요.</text>
 		<text id="intro5">아, 정말 죄송해요! 제가 너무 부정적이였죠! 그리고 오늘 한 명이 아니라 두 명의 다른 사람이 생존했다는걸 알게 됬어요! 심지어 더 있다구요? 좋아! 모든게 암울한건 아니잖아요? 저는 몇가지 발견을 했어요. 그리고, 저는 더 좋은 연구실을 만들려고 생각중 이였어요!</text>
-		<text id="lab1">물론 새로운 연구실이 필요해요! 이 지하에 있는것은 임시방편이고, 이 행성에서 할 수 있는 일은 한계가 있어요! 물론, [color=770000]이동식 연구실[/color]을 말하는거에요! 설계도는 만들어두었고 재료만 모으면 되요. 도와주실거죠?</text>
-		<text id="lab2">아, 완벽해요! 계속 도와달라고 해서 죄송한데, 조금만 도와주시면 이 연구실을 빨리 지을 수 있어요!</text>
-		<text id="lab3">제가 상상한 그대로에요! 육상, 해상, 우주 여행 을 할 수 있는 기체! 공장과 연구실도 있어요! 이곳엔 부엌과 휴식공간도 있어요! 저는 여기서 살 수 있어요- 물론 여기서 살거에요!</text>
-		<text id="lab4">고마워요, 당신은 오른쪽 방에서 연구할 항목을 할당할 수 있어요! 어떤걸 연구해야 할지 할당 해주세요- 저는 [color=770000]입자 가속기[/color]를 추천해요. [item=exotic_matter]을 비축해야 하거든요!</text>
-		<text id="lab5">연구는 인원이 많을 수록 빠르게 진행 될거에요. 지구 반대편에 있는 [object=scavenger]를 데려오는걸 추천할게요!</text>
-		<text id="lab6">연구실 재료를 모으는데 큰 어려움이 없길 바래요! 대부분은 지구의 잔해에서 구할 수 있겟지만 [item=magnegem]은 다른 행성에 있을거에요. 그것들은 이동식 연구실을 만드는데 꼭 필요해요!</text>
+		<text id="lab1">물론 새로운 연구소가 필요해요! 이 지하에 있는것은 임시방편이고, 이 행성에서 할 수 있는 일은 한계가 있어요! 물론, [color=770000]이동식 연구소[/color]를 말하는거에요! 설계도는 만들어두었고 재료만 모으면 되요. 도와주실거죠?</text>
+		<text id="lab2">아, 완벽해요! 계속 도와달라고 해서 죄송한데, 조금만 도와주시면 이 연구소를 빨리 지을 수 있어요!</text>
+		<text id="lab3">제가 상상한 그대로에요! 육상, 해상, 우주 여행을 할 수 있는 탈것! 공장과 연구실도 있어요! 이곳엔 부엌과 휴식공간도 있어요! 저는 여기서 살 수 있어요. 물론 여기서 살거에요!</text>
+		<text id="lab4">고마워요, 당신은 오른쪽 방에서 연구할 항목을 할당할 수 있어요! 어떤걸 연구해야 할지 할당 해주세요- 저는 [color=770000]입자가속기[/color]를 추천해요. [item=exotic_matter]을 비축해야 하거든요!</text>
+		<text id="lab5">연구는 인원이 많을수록 빠르게 진행될 거에요. 지구 반대편에 있는 [object=scavenger]를 데려오는걸 추천할게요!</text>
+		<text id="lab6">연구소 재료를 모으는데 큰 어려움이 없길 바래요! 대부분은 지구의 잔해에서 구할 수 있겠지만 [item=magnegem]은 다른 행성에 있을거에요. 그것들은 이동식 연구소를 만드는데 꼭 필요해요!</text>
 		<text id="hq1">이제 이 연구소를 사용할 시간이에요! 저는 그들의 유기적인 우주선에 대해서 많은걸 알아낼 수는 없었지만, 우주에서 그들의 위치 추적기를 발명할 수 있을거라 확신해요. 특히 우리가 싸울 준비가 되었을때 그 정보는 유용할거에요!</text>
 		<text id="hq2">연구실에 [item=alien_locator]를 추가했어요 - 연구소에서 Z를 눌러 연구 항목을 관리할 수 있어요. 연구원이 많을 수록 연구가 빨리 진행되니까, 도움이 될만한 사람을 실험실에 초대하세요!</text>
 		<text id="hq3">좋아요! [item=alien_locator]가 당신의 가방이나 함선의 창고에 있는한 행성에 외계인이 표시될거에요.</text>
@@ -3013,7 +3013,7 @@
 		<text id="rescue4">식민지 전체가 살아있다구요?! 그거 잘됬네요! 적을 물리치기 위해 저를 도와주러 온건가요?</text>
 		<text id="rescue5">아뇨! 당신을 구하러 왓어요! 그들의 본진은 봉인되어 있어요. 이전에 그들을 공격했다가 처참하게 당했죠!</text>
 		<text id="rescue6">지금 저희가 할 수 있는건 아무것도 없어요! 하지만, 우리가 자원을 공유하고 교수님이 도와주신다면! 적의 보호막을 깨는 건 식은죽 먹기에요!</text>
-		<text id="rescue6.2">나쁜 소식을 전하고 싶지는 않지만, 교수님은 [color=770000]이동식 연구실[/color]과 함께 추락해 버렸어요.</text>
+		<text id="rescue6.2">나쁜 소식을 전하고 싶지는 않지만, 교수님은 [color=770000]이동식 연구소[/color]와 함께 추락해 버렸어요.</text>
 		<text id="rescue6.3">유감스럽지만, 우리는 그걸 성공시켜야 해요.</text>
 		<text id="rescue7">어서, 따라오세요, 저희 식민지로 안내할게요!</text>
 		<text id="exo_fighter1">배터리만 먹는 [object=president]같으니라고! 새로운 [item=exo_fighter]를 만들어 주지 않는다니, 믿을 수 없어요!</text>
@@ -3037,8 +3037,8 @@
 		<text id="exotic_matter">외우주 물질에 대해서</text>
 		<text id="weapons1">우리가 이 전쟁에서 이기기 위해서는 강력한 무기가 필요합니다. 강력한 무기는 [item=exotic_matter]을 사용해야 하죠. [text=colony.weapons1_alt]</text>
 		<text id="weapons1_alt">저는 이미 [item=exo_fighter], [item=exo_mech], [item=exo_drill]을 만들 수 있는 [color=770000]외우주 공장[/color]을 지었어요.</text>
-		<text id="weapons2">[color=770000]설계도 프린터[/color]에서 언제든지 [item=exo_factory_blueprint]를 프린트 할 수 있어요. 필요하시면 하나 드릴게요. 그리고 [color=770000]이동식 연구실[/color]에 모든 [item=exotic_matter] 자료를 전송했어요.</text>
-		<text id="weapons3">[color=770000]이동식 연구실[/color]에서 무기를 연구해보세요. 연구가 끝나면 [color=770000]외우주 공장[/color]의 제작 항목에 자동으로 추가 될거에요!</text>
+		<text id="weapons2">[color=770000]설계도 프린터[/color]에서 언제든지 [item=exo_factory_blueprint]를 프린트 할 수 있어요. 필요하시면 하나 드릴게요. 그리고 [color=770000]이동식 연구소[/color]에 모든 [item=exotic_matter] 자료를 전송했어요.</text>
+		<text id="weapons3">[color=770000]이동식 연구소[/color]에서 무기를 연구해보세요. 연구가 끝나면 [color=770000]외우주 공장[/color]의 제작 항목에 자동으로 추가 될거에요!</text>
 		<text id="weapons4">일단 무기와 [item=exotic_matter]을 비축한다음, 적의 본진을 돌파할 방법을 찾으면, 우리는 마침내 그들을 물리치고, 인류를 구하게 될거에요!</text>
 		<text id="colony1">이 식민지 우주선은 몇 년 전에 새로운 새계를 개척하는 임무를 가지고 이 행성에 도착했습니다. 이 행성은 숨쉴수 있는 공기가 있었지만, 땅이 비옥하지 않고 혹독한 기우를 가지고 있었어요.</text>
 		<text id="colony2">식민지 주민들은 테라포머를 만들기 위해서 배의 자제를 뒤지기 시작했고, 나머지는 테라포밍을 감독하기 위해 정거장으로 새롭게 단장했어요. 덕분에 행성은 천천히 쾌적해지기 시작했죠.</text>
@@ -3123,13 +3123,13 @@
 		<text id="first5">우리는 여기서 잘 살아남고 있어요. 시내랑 다른 건물도 업그레이드 되었구요! 집 생각이 날 정도네요...</text>
 	</section>
 	<section id="museum">
-		<text id="case">다음 재료에 대한 전시를 완료하시겠습니까?</text>
+		<text id="case">다음 재료의 전시를 완료하시겠습니까?</text>
 		<text id="case_complete">{item}을(를) 전시할 수 있을만큼 모으는 당신의 노고에 경의를 표합니다.</text>
 		<text id="mined">당신은 지금까지 {count}개의 타일을 채굴했다는 것을 알고 계셨습니까?</text>
 		<text id="killed">당신은 지금까지 {count}마리의 적을 퇴치했다는 것을 알고 계셨습니까?</text>
 		<text id="crops">당신은 지금까지 {count}개의 작물을 심었다는 걸 알고 계셨습니까?</text>
 		<text id="caught">당신은 지금까지 {count}가지의 다른 적을 포획했다는 것을 알고 계셨습니까?</text>
-		<text id="read">당신은 {count}개의 기록을 읽었다는걸 알고 계셨습니까?</text>
+		<text id="read">당신은 {count}개의 기록을 읽었다는 걸 알고 계셨습니까?</text>
 		<text id="history1">[item=exotic_matter]이 발견되고 우리가 행성계를 여행할 수 있게 되었을때, 인류는 점점 늘어나는 인구수를 해결 하기 위해 식민지 세계를 찾기위한 어노익스 프로젝트가 시작되었다.</text>
 		<text id="history2">어노익스 프로젝트는 이동가능 거리 내에 있는 수백개의 잠재적 행성을 발견하면서 큰 성공을 이루었다. 지구의 한정된 자원에 대한 해결책이 나왔고, 행성을 조사하기 위한 선발대가 파견되었다.</text>
 		<text id="history3">수백개의 행성이 식민지화 가능한 것으로 밝혀졌고, 언론은 이를 무한한 자원이라고 보도했다. 불행이도, "무한한" 자원은 우주의 가장 희박한 자원중 하나에 의존했고, 모든 사람이 갈 수 없다는 사실이 분명해졌다.</text>
@@ -3177,22 +3177,22 @@
 		<text id="toxic">역겨운 유독성 탄산수</text>
 	</section>
 	<section id="cafeteria.desc">
-		<text id="regen_stamina">한입에 삼켰다, 목은 간지럽고 맛은 없다. 순간적으로 에너지가 모든 핏줄에 퍼져 몇일 정도는 깨어 있을 수 있을 것 같다.</text>
-		<text id="regen_health">붉고 점성이 있어 피같이 보인다. 포기하고 코를 막고 먹었다. 기분은 꽤 괜찮다- 순수한 건강식품을 먹은 기분이다.</text>
-		<text id="regen_power">매운맛으로는 이 차우더를 표현할수 없어! 입에서 핵이 녹아내리는 맛이다... 아마도 맞는것 같다, 내가 숨쉴때 마다 베터리가 충전되고 있다!</text>
+		<text id="regen_stamina">한입에 삼켰다. 목은 간지럽고 맛은 없다. 순간적으로 에너지가 모든 핏줄에 퍼져 며칠 정도는 깨어 있을 수 있을 것 같다.</text>
+		<text id="regen_health">붉고 점성이 있어 피같이 보인다. 포기하고 코를 막고 먹었다. 기분은 꽤 괜찮다. 순수한 건강식품을 먹은 기분이다.</text>
+		<text id="regen_power">매운맛으로는 이 차우더를 표현할수 없어! 입에서 핵이 녹아내리는 맛이다... 아마도 맞는것 같다, 내가 숨 쉴 때 마다 전력이 충전되고 있다!</text>
 		<text id="attack">각각의 미니 버거가 식도를 타고 내려간다. 마치 다른 사람을 복종시킬 수 있을 것 같다. 힘이 넘친다!</text>
-		<text id="defense">고기덩어리가 질기다, 마치 단단한 철을 씹는듯 하다. 하지만 맛있다. 이 식감은 온몸을 튼튼하게 만드는것 같다. 철분이 들어있지 않았으면 좋겠는데...</text>
+		<text id="defense">고기덩어리가 질기다. 마치 단단한 철을 씹는듯 하다. 하지만 맛있다. 이 식감은 온몸을 튼튼하게 만드는것 같다. 철분이 들어있지 않았으면 좋겠는데...</text>
 		<text id="mine">거품이 너무 심해 액체가 보이지 않는다. 바리스타를 믿는다... 잔의 찌꺼기는 깊이가 어느정도인지 감이 잡히지 않는다. 만족 스럽다.</text>
 		<text id="speed">이 디저트는 매우 맛있어보인다! 숟가락으로 한입 퍼먹으면 엄청난 달콤함이 전해져 온다. 그럼에도 혀가 아리지 않다. 설탕이 피속에 침투해 온몸으로 전해지는것 같다. 빠르다... 이전보다 빠르다!</text>
 		<text id="farsight">튀김은 바삭바삭하고 노릇노릇하며 맛있다. 하지만 속에 무었이 들었는지 궁금하다. 정체불명의 내용물을 응시하니 더 멀리 볼 수 있을것 같다. 하지만 내용물은 여전히 미스테리이다.</text>
 		<text id="porky">접시가 가득 쌓여있다- 처음엔 다 먹을 수 없을것 같았다. 하지만, 접시를 하나씩 해치울 때마다 내 몸이 커지는 것 같다.</text>
 		<text id="endurance">초록색 풀은 목넘김이 부드럽고 생각보다 맛있다. 만족감은 믿을 수 없을 정도이다. 단지 이게 정말 플랑크톤으로 만들어졌길 빈다...</text>
-		<text id="bargaining">이 치크스테이크는 너무 크고 지저분 해서 한번에 먹기는 힘들 것 같다. 하지만 먹고나면 포만감은 만족스럽겠지. 고기와 치즈의 조합을 상상해보며 먹어보지만, 맛은 최악이였다.</text>
-		<text id="light">구내 식당은 불빛으로는 이 감자 셀러드의 빛을 숨길 수 없었다. 각오를 다지며 한입 먹어보지만 맛은 괜찮다. 크게 잘못된것 같진 않다. 지금 내가 빛나고 있는것만 빼면.</text>
+		<text id="bargaining">이 치즈스테이크는 너무 크고 지저분 해서 한번에 먹기는 힘들 것 같다. 하지만 먹고나면 포만감은 만족스럽겠지. 고기와 치즈의 조합을 상상해보며 먹어보지만, 맛은 최악이였다.</text>
+		<text id="light">구내 식당은 불빛으로는 이 감자 샐러드의 빛을 숨길 수 없었다. 각오를 다지며 한입 먹어보지만 맛은 괜찮다. 크게 잘못된것 같진 않다. 지금 내가 빛나고 있는것만 빼면.</text>
 		<text id="oxygen">이 날개는 숨막힐 정도로 좋지 않다. 사실은 반대인것 같기도하고... 숨을 들이 마셨다. 기이한 느낌이지만 식사를 마치고 나니 별일 아닌것 같다.</text>
 		<text id="reset">이 국수는 특별하지 않아 보인다. 하지만 어쩐일인지 모든지 할 수 있을것 같다. 스킬 포인트가 초기화 되면 장비창에서 다시 올릴 수 있다.</text>
 		<text id="knock_out">기름진 너겟은 꽤나 맛있다. 건강에 좋지는 않겟지만 입은 멈추지 않는다. 기름진 손을 옷에 닦으면서 기절했다. 그만큼 좋았다.</text>
-		<text id="toxic">내가 왜 "역겨운 유독성 탄산수"를 주문 했을까. 역함과 매스꺼움이 나를 덮쳤고 다시는 주문하지 않겠다고 다짐한다.</text>
+		<text id="toxic">내가 왜 "역겨운 유독성 탄산수"를 주문했을까? 역함과 매스꺼움이 나를 덮쳤고 다시는 주문하지 않겠다고 다짐한다.</text>
 	</section>
 	<section id="exiled">
 		<text id="intro1">마법을 아는 인간? 내가 가장 좋아하는 두가지를 같이?! 혹시 보라색 후드를 입은 사람은 아니겠지?</text>
@@ -3213,8 +3213,8 @@
 		<text id="evo_chamber">여기서 [color=770000]진화실[/color]을 만들어 봐. 도움이 될진 모르겠네.</text>
 		<text id="spells1">그래서, 스스로 드래곤 우주선을 만들 수 있게 되었다고? 네가 그것에 대해서 말할 수만 있다면! 우리 고향에서 더 많은걸 배워봐. 그것보다 더 많은 걸 알게 될거야.</text>
 		<text id="spells2">나를 제약하는 것에는 빈틈이 많지. 만약 네가 스스로 배울 수 있다면, 나는 너를 더 많이 도와줄 수 있어.</text>
-		<text id="spells3">나는 누가 너에게 마법책 만드는 법을 알려줬는지 몰라- 하지만 너도 알다시피, 나는 그들에 대해 더 말해줄 수 있어!</text>
-		<text id="spells4">적의 우주선을 포함해 드래곤 우주선과 의사소통을 할 수 있는 마법책이 있어. 그게 있어야 그들과 대화를 하고 마법에 대해서 더 배울 수 있을거야.</text>
+		<text id="spells3">나는 누가 너에게 마법서 만드는 법을 알려줬는지 몰라. 하지만 너도 알다시피, 나는 그들에 대해 더 말해줄 수 있어!</text>
+		<text id="spells4">적의 우주선을 포함해 드래곤 우주선과 의사소통을 할 수 있는 마법서가 있어. 그게 있어야 그들과 대화를 하고 마법에 대해서 더 배울 수 있을거야.</text>
 		<text id="recipe">[color=770000]도서관[/color]에 [item=translation_book] 제작법을 추가했어.</text>
 		<text id="spells5">드래곤 우주선 안에서 [item=translation_book]을 사용하고 그들과 대화해봐! 그들은 너의 마법 지식을 넓혀줄 무언가를 알려줄거야.</text>
 		<text id="spells6">[item=translation_book]는 적의 드래곤 우주선과도 대화를 할 수 있게 해줄거야. 만약 네가 그들의 선원을 전부 죽인다면 거래가 성립하지 않을까?</text>
@@ -3225,7 +3225,7 @@
 		<text id="old_one">옛것에 대해서...</text>
 		<text id="exiled1">나는 탐험대의 일원이였어. 다른 지적 생명체를 찾는 일이였지. 나는 지구를 발견한 순찰선에 타고 있었지만, 인간이 “지적”인지 의심스러웠어.</text>
 		<text id="exiled2">우리는 많은 외계 종족을 관찰했어. 만약 그들이 마법에 대해 너무 많이 알거나 그들이 위협을 가할수 있다고 판단되면, 그들을 생화학 무기로 학살하거나 노예로 만들어 우리의 우주선에 융합시켰어.</text>
-		<text id="exiled3">나는 맹목적으로 지도자를 따랏어. 하지만 그는 우리의 권력을 유지하기 위해서 너무 많은 희생을 치뤘기 때문에 우리 본부의 심장부에 영원히 구속되었어. 그리고 나는 결국 궁금해지기 시작했지.</text>
+		<text id="exiled3">나는 맹목적으로 지도자를 따랐어. 하지만 그는 우리의 권력을 유지하기 위해서 너무 많은 희생을 치뤘기 때문에 우리 본진의 심장부에 영원히 구속되었어. 그리고 나는 결국 궁금해지기 시작했지.</text>
 		<text id="exiled4">다양한 종, 생명, 예술, 아름다움에 대한 모든 다른 가능성들을 보면서 나는 우리가 옳은 일을 하고 있는지 의문이 생기기 시작했어.</text>
 		<text id="exiled5">아마도 협력할 수 있었겠지... 죽어야 했던건 우리였을거야. 고통과 이기심 이외에 우리가 이 우주에 가져온게 뭘까?</text>
 		<text id="exiled6">어쨋든, 우리의 지도자는 나의 고민을 감지할 수 있었어. 우리 사회에서 그런건 허용되지 않지. 나는 오명을 썻고 결국 추방당했어.</text>
@@ -3246,19 +3246,19 @@
 		<text id="dragon_seed3">그래서 정령세계에 대해서 좀 배웠니? 내 이야기를 알아 들으려면 [color=770000]정령을 볼 수[/color] 있어야해...</text>
 		<text id="spirit_hq">정령 인도자가 우리의 본진까지의 길을 열어준다고? 그거 좋은 소식이네. [item=translation_book]을 이용해서 우리의 구조물과 소통하고 우리의 마법을 배울 수 있을거야!</text>
 		<text id="magnequeen1">우리 마법의 비밀을 다 훔쳤다고? 그러면 넌 이제 우리의 지도자와 대적할 준비가 된거야.</text>
-		<text id="magnequeen2">그러나 그와 만나긴 쉽지 않을거야. 그는 우리 본부의 지하 깊은곳에 있어. 가장 강력한 드릴만이 그곳으로 갈 수 있어.</text>
+		<text id="magnequeen2">그러나 그와 만나긴 쉽지 않을거야. 그는 우리 본진의 지하 깊은곳에 있어. 가장 강력한 드릴만이 그곳으로 갈 수 있어.</text>
 		<text id="magnequeen3">만약 네가 우리 고향에서 [item=magnetrap]으로 [item=magic_wyrm]을 잡아오면 내가 [item=magne_queen_drill]을 만들 수 있도록 도와줄 수 있어. 하지만 안 좋은 소식이 있어...</text>
 		<text id="magnequeen4.1">그들이 우리의 고향에 폭격기를 보냈어. 분명 어떤 신호가 보내져서 너네가 있다는걸 그들에게 알렸을거야.</text>
 		<text id="magnequeen4.2">우리의 고향에 두번째 침공이 시작됬어. 이번에는 순양함까지 같이 간것 같아.</text>
-		<text id="magnequeen5">이번 침공을 물리치던지 피해서 몰래 [item=magic_wyrm]을 잡아와 우리의 지도자를 죽이던지 그건 가의 선택이야.</text>
-		<text id="magnequeen6">어느쪽이든, [item=magne_queen_drill]을 만들 재료를 모으면 내게로 와.</text>
-		<text id="magnequeen7">여기 [item=magnetrap]을 받아 - 아마 더 필요할거야, 이제 너는 [color=770000]외계인 본진 갈퀴목[/color]에서 더 만들수 있어.</text>
+		<text id="magnequeen5">이번 침공을 물리치던지 피해서 몰래 [item=magic_wyrm]을 잡아와 우리의 지도자를 죽이던지 그건 너의 선택이야.</text>
+		<text id="magnequeen6">어느 쪽이든, [item=magne_queen_drill]을 만들 재료를 모으면 내게로 와.</text>
+		<text id="magnequeen7">여기 [item=magnetrap]을 받아. 만약 더 필요하다면, [color=770000]외계인 본진 갈퀴목[/color]에서 만들 수 있어.</text>
 		<text id="magnequeen8">[item=magne_queen_drill]을 만들기 위한 재료를 다 모았니? 그럼 내가 만들어 줄게!</text>
 		<text id="magnequeen9">더 만들고 싶으면 [color=770000]외계인 본진 드래곤 공장[/color]에서 만들 수 있어. 이제 우리의 지도자를 물리치러 갈 때야. 쉽지는 않겟지만... 네가 해낸다면 우리 모두가 자유료워 질거야.</text>
-		<text id="leader">이제 남은건 네가 우리의 본부 지하 깊숙한 곳에 있는 우리의 지도자를 격퇴하는거야. 쉽지 않겟지만, 성공한다면 우리는 모두 자유료워 질거야.</text>
-		<text id="win1">음, 실망스럽군. 난 우리의 지도자가 제거되면 내 오명이 사라질거라 생각했어. 불행하게도, 난 여기 갇힌것 같아.</text>
-		<text id="win2.1">하지만, 멋진 전투였어! 나는 네가 죽을것 같았거든! 이 TV들을 제때 맞춰놔서 다행이야, 장관이였어!</text>
-		<text id="win2.2">네가 보육원을 파괴했으니 나도 마지막이겠구나. 그들은 살려줬어야지, 그들은 아무것도 모르는 부잣집 아이들일 뿐이야. 하지만 어쨋든 우리의 지도자가 없으면 그들도 오래 살지는 못했겠지.</text>
+		<text id="leader">이제 남은건 네가 우리의 본진 지하 깊숙한 곳에 있는 우리의 지도자를 격퇴하는거야. 쉽지 않겟지만, 성공한다면 우리는 모두 자유로워질거야.</text>
+		<text id="win1">음, 실망스럽군. 난 우리의 지도자가 제거되면 내 오명이 사라질거라 생각했어. 불행하게도, 난 여기 갇힌 것 같아.</text>
+		<text id="win2.1">하지만, 멋진 전투였어! 나는 네가 죽을 줄만 알았거든! 이 TV들을 제 때 맞춰놔서 다행이야. 장관이였어!</text>
+		<text id="win2.2">네가 보육원을 파괴했으니 나도 마지막이겠구나. 그들은 살려줬어야지, 그들은 아무것도 모르는 부잣집 아이들일 뿐이야. 하지만 어쨌든 우리의 지도자가 없으면 그들도 오래 살지는 못했겠지.</text>
 		<text id="win3">내가 한번만 더 부탁해도 될까? 가가 문명을 재건한다면 TV쇼를 다시 볼수 있을까? 특히 “A. McStabby의 모험” 이게 제일 재미있었거든.</text>
 	</section>
 	<section id="dragon_ship">
@@ -3444,28 +3444,28 @@
 		<text id="dice3">네가 내 저녁 식사가 되어줬으면 좋겠어. 정말 맛있어 보이는군. 정말 오랜만에 근육을 풀겠어.</text>
 	</section>
 	<section id="depths">
-		<text id="intro1">안녕하세요! 여기가 완벽한 행성인가요? 아름다운 섬, 깊은 바다, 탐험해야 할 신비로운 폐허!</text>
+		<text id="intro1">안녕하세요! 여긴 정말 완벽한 행성이지 않나요? 아름다운 섬, 깊은 바다, 탐험해야 할 신비로운 폐허!</text>
 		<text id="intro2">와우, 다른 생존자가 있다는 말을 들으니 기쁘군요! 당신이 그들을 찾고 있다니. 저도 따라가고 싶지만 아직 여기서 탐험할게 많이 남았어요.</text>
 		<text id="intro3">여기 있는걸로 괜찮나요?</text>
-		<text id="intro4">당연하죠! 하지만 당신이 저를 도와주겠다고 한다면, 당신이 해줄 수 이는 일이 있어요.</text>
+		<text id="intro4">당연하죠! 하지만 당신이 저를 도와주겠다고 한다면, 당신이 해줄 수 있는 일이 있어요.</text>
 		<text id="intro5">바다 깊은 곳을 탐험하고 싶은데 깊이 들어갈 수가 없어요. 이 행성에서 재료를 모아준다면 제가 [object=submersible]를 만들 수 있어요.</text>
 		<text id="sub1">도와줘서 고마워요! 이제 우리는 [color=770000]잠수함 기지[/color]에서 [object=submersible]을 만들 수 있어요!</text>
-		<text id="sub2">[object=submersible]을 만들었어요! 우리는 이걸 이용해서 깊은 곳을 갈 수 있어요. 저는 그곳에 [color=770000]고대 해적 유적[/color]이 있다고 믿어요.</text>
+		<text id="sub2">[object=submersible]을 만들었어요! 우리는 이걸 이용해서 깊은 곳을 갈 수 있어요. 그곳에 더 많은 [color=770000]거석[/color]이 있을 거라는 기분이 들어요.</text>
 		<text id="explorer1">이 섬에서 폐허와 [color=770000]거석[/color]을 본적이 있나요? 저는 그게 뭔지 궁금해요? 어떻게 작동 시키는걸까요?</text>
 		<text id="explorer2">아, 너무 아름다워요. 저는 평생 여기 있을 수 있어요.</text>
-		<text id="explorer3">저는 누가 [color=770000]고대 해저 유적[/color]을 지었는지 궁금해요. 그리고 저희가 그들을 활성화 시키기 위해 필요한 것. 그건 분명 물속 어딘가에 있을거에요!</text>
-		<text id="monolith1">알아냈어요 - [color=770000]고대 해저 유적[/color]을 활성화 하기 위해서는 [item=bone_shard]가 필요해요! 우리는 반드시 모두 활성화 해야해요- 이것보다 중요한건 없어요!</text>
-		<text id="monolith2">우리는 반드시 모든 [color=770000]고대 해저 유적[/color]을 활성화 해야해요! 아직 {count}개를 더 활성화 해야해요!</text>
+		<text id="explorer3">저는 누가 [color=770000]거석[/color]을 지었는지 궁금해요. 그리고 저희가 그들을 활성화시키기 위해 필요한 것. 그건 분명 물 속 어딘가에 있을 거에요!</text>
+		<text id="monolith1">알아냈어요! [color=770000]거석[/color]을 활성화하기 위해서는 [item=bone_shard]가 필요해요! 우리는 반드시 모두 활성화해야 해요. 이것보다 중요한 건 없어요!</text>
+		<text id="monolith2">우리는 반드시 모든 [color=770000]거석[/color]을 활성화해야 해요! 아직 {count}개를 더 활성화 해야 해요!</text>
 		<text id="power_core">저는 [object=submersible]을 위한 [item=power_core]를 [item=power_core_parts]를 써서 만들 수 있어요!</text>
 		<text id="wizard1">정말 감사해요. 저는 여기에 오래, 정말 오래 갇혀 있었고, 이 꼭두각시는 제 요건을 충족되지 않았어요. 당신이 없었다면 여기까지 올 수 없었을 거에요.</text>
 		<text id="wizard2">여기 갇혔다구요? 꼭두각시? 무슨 이야기에요? 누구세요?</text>
-		<text id="wizard3">죄송해요, 아직 제... 내 소개를 안 했지.</text>
-		<text id="wizard4">사람들은 날 불명예스러운 자라고 부른다.</text>
-		<text id="wizard5">그들은 자신들이 모든걸 알고 있다고 생각했지. 하지만 결국 누가 이겼지? 내가 살아남았다. 그러니까 나의 승리다!</text>
-		<text id="wizard6">나는 그들이 무덤에서 썩어가면서 그늘의 퍽이나 숭고한 이상을 즐겼으면 하는군. 너도 그렇게 될 것이다!</text>
-		<text id="summon_wizard">그렇게 쉽게 탈출 할 수 있을거라 생각했나?!</text>
-		<text id="control_wizard">모든게 완벽해. 운명을 받아들이고 죽을 준비나 해라!</text>
-		<text id="end1">공격하지 마세요- 저는 적군이 아니에요!</text>
+		<text id="wizard3">죄송해요, 아직 제... 내 소개를 안 했군.</text>
+		<text id="wizard4">사람들은 날 불명예스러운 자라고 부르지.</text>
+		<text id="wizard5">그들은 자신들이 모든걸 알고 있다고 생각했지. 하지만 결국 누가 이겼지? 내가 살아남았다. 그러니까 나의 승리인 것이다!</text>
+		<text id="wizard6">나는 그들이 무덤에서 썩어가면서 그들의 퍽이나 숭고한 이상을 즐겼으면 하는군. 너도 그렇게 될 것이다!</text>
+		<text id="summon_wizard">그렇게 쉽게 탈출할 수 있을거라 생각했나?!</text>
+		<text id="control_wizard">모든게 완벽하구나. 운명을 받아들이고 죽을 준비나 해라!</text>
+		<text id="end1">공격하지 마세요, 저는 적이 아니에요!</text>
 		<text id="end2">당신은 누구죠?</text>
 		<text id="end3">저는 불명예스러운 자의 누나에요. 그는 제가 같은 피를 가지고 있다고 살려주었지만 저희 사이에는 가족애가 없었죠. 저는 스승이었어요... 그리고 그는 우리 모두를 파괴했죠.</text>
 		<text id="end4">어쩌면 우리가 그를 다르게 대했다면 이런 일이 일어나지 않았을지도 몰라요... 하지만 지금 우리는 패배했고 위협은 사라졌죠.</text>
@@ -3487,17 +3487,17 @@
 		<text id="tablet8">그 싸움은 몇 주 동안 격렬하게 진행되었고, 이 행성의 엄청난 마력을 소모시켰다. 마력의 공급이 부족해지자 생존이 힘들어졌다.</text>
 		<text id="tablet9">불명예스러운 자는 깊은 잠에 빠져 살아남았다. 스승들은 이 세계에 마력이 돌아오더라도 그가 깨어나지 못하도록 마력 공급장치를 무력화시켰다.</text>
 		<text id="tablet10">이것이 이 행성에 살았던 사람들의 마지막 경고이다. 절대 불명예스러운 자를 깨우지 말리라. 그가 영면을 취하도록 두리라.</text>
-		<text id="tindle1">저기요- 작은친구- 이곳에 갇힌 제가 보이지 않는건가요? 저좀 도와주지 않을래요?</text>
+		<text id="tindle1">저기요, 작은 친구? 이곳에 갇힌 제가 보이지 않는건가요? 저 좀 도와주지 않을래요?</text>
 		<text id="tindle2">설마 저처럼 유명한 사람을 여기에 오도 가도 못하게 내버려둘 생각은 아니겠죠!</text>
 		<text id="tindle3">이 [color=770000]거석[/color]이 보이나요? 이것은 우주 전역을 자유롭게 여행할 수 있게 해줬죠. 그 시절은 저같은 늙은 상인에게 좋은 시절이였어요. 제가 벌어들인 수익은 상상할 수 없을겁니다...</text>
 		<text id="tindle4">하지만 어느날, [color=770000]거석[/color]이 멈춰버렸고, 저는 그 이후 여기에 갇혀버렸어요! 이 행성의 주민들은 제일 도움이 안되었어요- 그들은 처음엔 기꺼이 무역을 하려고 해놓고는 아무말도 하지 않고 떠났죠.</text>
 		<text id="tindle5">만약 당신이 [color=770000]심연[/color]이라고 불리는 행성에 가서 그곳에 있는 선생과 이야기를 할 수 있다면, 저는 그들이 이 모든 난장판을 해결할 수 있을거라고 확신합니다!</text>
 		<text id="tindle6">그들은 [color=770000]거석[/color]을 만들었고 모두가 자유롭게 이용하게 해주었죠. 꽤 유쾌한 선생님들이에요.</text>
 		<text id="tindle7">왜이렇게 늦죠? 제발, 당신도 이 행성에 갇혀서 선생님들의 메세지를 못받는거라고 하지 말아주세요.</text>
-		<text id="tindle8">아, 훌륭해요! 마침내 저는 별을 여행하고 마법책을 거래하는 곳으로 돌아갈 수 있어요!</text>
+		<text id="tindle8">아, 훌륭해요! 마침내 저는 별을 여행하고 마법서를 거래하는 곳으로 돌아갈 수 있어요!</text>
 		<text id="tindle9">마법에 관심이 있나요? 만약 그렇다면, 저는 팔거나 구매할거에요 - 단지 제 이름을 기억하세요, 틴들, 제가 여기 있었다고!</text>
-		<text id="tindle10">거기 있나요 작은친구? 이 [color=770000]거석[/color]을 활성화시켜줘서 고맙다고 전해주겠어요?</text>
-		<text id="tindle11">저는 여기 너무 오래 갇혀 있었어요. 모든 사람들이 저에 대해서 잊은건 아닐까 걱정되기 시작했죠. 물론, 그건 불가능해요! 그리고 당신이 여기 있잖아요!</text>
+		<text id="tindle10">거기 있나요 작은 친구? 이 [color=770000]거석[/color]을 활성화시켜줘서 고맙다고 전해주겠어요?</text>
+		<text id="tindle11">저는 여기 너무 오래 갇혀 있었어요. 모든 사람들이 저에 대해서 잊은 건 아닐까 걱정되기 시작했죠. 물론, 그건 불가능해요! 그리고 당신이 여기 있잖아요!</text>
 		<text id="tindle12">자 이제, 아, 부끄러워 하지마세요! 당신은 제가 뽑은 마법서에 대해서 물어보러 온거죠? 이제 [color=770000]거석[/color]이 다시 가동되었으니, 전 다시 사업을 시작하겠어요!</text>
 	</section>
     <section id="draconian">
@@ -3592,7 +3592,7 @@
 		<text id="confirm_kick">정말로 {name}을(를) 강퇴 하실건가요?</text>
 		<text id="confirm_ban">정말로 {name}을(를) 벤 하실건가요?</text>
 		<text id="confirm_delete">정말 {name}와 아이템으 전부 삭제 할건가요?</text>
-		<text id="missing_mods">호스트가 사용중인 모드가 누락되었습니다:\n[color=770000]{mods}[/color]\n그래도 참가 할까요?</text>
+		<text id="missing_mods">호스트가 사용중인 모드가 누락되었습니다:\n[color=770000]{mods}[/color]\n그래도 참가할까요?</text>
 		<text id="no_player">플레이어를 찾지 못함: "{name}"</text>
 		<text id="no_server">서버가 동작중이지 않습니다.</text>
 		<text id="chat">대화 열기</text>
@@ -3653,9 +3653,9 @@
 	<section id="beastmaster">
 		<text id="intro1">안녕하세요! 살아있는 육체를 보게 되어서 매우 기쁘군요! 이 정령 세계에는 더이상 방문자가 없었거든요.</text>
 		<text id="intro2">저는 비스트마스터입니다. 저는 당신같은 생명체를 오랫동안 연구해왔어요.</text>
-		<text id="intro3">이 게임방은 제가 가장 좋아하는 곳이에요- 저는 그들의 본고장에서 위험한 생물들을 복제했죠 - 문을 열고 들어가면 그들중 원하는 것과 싸울 수 있어요!</text>
-		<text id="intro4">죽을 걱정은 하지 마세요 - 정령세계와 비슷하게 여기엔 진짜가 없어요. 어쨋든 문 뒤에 있는 것들을 잡는다면 특별한 상품과 교환이 가능한 [color=770000][tile=colosseum.points anim=colosseum.points] 콜로세움 포인트[/color]를 드리지요!</text>
-		<text id="learn_boss">어떤 생명채에 대해서 알고 싶나요?</text>
+		<text id="intro3">이 게임방은 제가 가장 좋아하는 곳이에요. 저는 그들의 본고장에서 위험한 생물들을 복제했죠. 문을 열고 들어가면 그들 중 원하는 것과 싸울 수 있어요!</text>
+		<text id="intro4">죽을 걱정은 하지 마세요. 정령세계와 비슷하게 여기엔 진짜가 없어요. 어쨋든 문 뒤에 있는 것들을 잡는다면 특별한 상품과 교환이 가능한 [color=770000][tile=colosseum.points anim=colosseum.points] 콜로세움 포인트[/color]를 드리지요!</text>
+		<text id="learn_boss">어떤 생명체에 대해서 알고 싶나요?</text>
 		<text id="minotaur">미노타우르스</text>
 		<text id="yeti">예티</text>
 		<text id="bandits">도적단</text>
